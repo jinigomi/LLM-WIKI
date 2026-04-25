@@ -11,14 +11,10 @@
             "id": "b8859e330470fa9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCHEMA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SCHEMA"
+              "title": "새 탭"
             }
           }
         ]
@@ -205,10 +201,10 @@
   },
   "active": "b8859e330470fa9e",
   "lastOpenFiles": [
+    "SCHEMA.md",
     "README.md",
     "log.md",
     "index.md",
-    "SCHEMA.md",
     "Project/Engineering Mindset/세션-로그/2026-04-25-个工作日志.md",
     "Project/Engineering Mindset/세션-로그",
     "Project/Engineering Mindset/프로젝트-개요.md",
