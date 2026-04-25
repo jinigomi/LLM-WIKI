@@ -11,10 +11,14 @@
             "id": "b8859e330470fa9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SCHEMA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "SCHEMA"
             }
           }
         ]
@@ -201,41 +205,41 @@
   },
   "active": "b8859e330470fa9e",
   "lastOpenFiles": [
-    "Project/Engineering Mindset/Session Log Template.md",
+    "README.md",
+    "log.md",
+    "index.md",
+    "SCHEMA.md",
+    "Project/Engineering Mindset/세션-로그/2026-04-25-个工作日志.md",
+    "Project/Engineering Mindset/세션-로그",
+    "Project/Engineering Mindset/프로젝트-개요.md",
+    "Project/Engineering Mindset/Home.md",
+    "Project/Engineering Mindset/Engineering Thinking for Beginners.md",
+    "Project/Engineering Mindset/세션로그/세션-로그-템플릿.md",
+    "에러 에스컬레이션.md",
     "Project/Engineering Mindset/아키텍처.md",
     "Project/Engineering Mindset/체크리스트.md",
     "Project/Engineering Mindset/의사결정.md",
-    "Project/Engineering Mindset/세션로그/세션-로그-템플릿.md",
-    "Project/Engineering Mindset/프로젝트-개요.md",
-    "Project/Engineering Mindset/에러로그.md",
     "Project/Engineering Mindset/제약조건.md",
+    "Project/Engineering Mindset/에러로그.md",
+    "Project/Engineering Mindset/Session Log Template.md",
     "Project/Engineering Mindset/세션로그",
     "Project/Engineering Mindset/Prompt Patterns.md",
-    "Project/Engineering Mindset/Home.md",
     "Project/Engineering Mindset/Error Escalation.md",
-    "Project/Engineering Mindset/Engineering Thinking for Beginners.md",
     "Project/Engineering Mindset/ADR Templates.md",
-    "에러 에스컬레이션.md",
     "프로젝트 개요.md",
-    "README.md",
-    "SCHEMA.md",
     "Project/Engineering Mindset",
     "Project",
-    "index.md",
-    "log.md",
     "comparisons/solo-vs-harness.md",
     "concepts/decomposition.md",
     "concepts/context-rot.md",
     "context/context_index.md",
     "raw/articles/superpowers-readme.md",
     "raw/articles/superpowers-claude.md",
-    "raw/articles/ralph-wiggum-pattern.md",
     "raw/transcripts",
     "raw/papers",
     "raw/assets",
     "raw/articles",
     "raw",
-    "queries",
-    "entities"
+    "queries"
   ]
 }
