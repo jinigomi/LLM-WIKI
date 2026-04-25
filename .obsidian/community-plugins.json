@@ -1,5 +1,6 @@
 [
   "obsidian-git",
   "githobs",
-  "mcp-tools"
+  "mcp-tools",
+  "obsidian-local-rest-api"
 ]
