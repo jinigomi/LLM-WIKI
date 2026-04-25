@@ -11,10 +11,10 @@
             "id": "b8859e330470fa9e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 243.5
   },
   "right": {
     "id": "77b6492654a44288",
@@ -157,8 +157,29 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "d2f263157b2d4168",
+            "type": "leaf",
+            "state": {
+              "type": "github-issue-controls-view",
+              "state": {},
+              "icon": "github",
+              "title": "Github Issue Controls"
+            }
+          },
+          {
+            "id": "e31ce92fa897cf4f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -180,10 +201,28 @@
   },
   "active": "b8859e330470fa9e",
   "lastOpenFiles": [
-    "index.md",
-    "log.md",
+    "Project/Engineering Mindset/Session Log Template.md",
+    "Project/Engineering Mindset/아키텍처.md",
+    "Project/Engineering Mindset/체크리스트.md",
+    "Project/Engineering Mindset/의사결정.md",
+    "Project/Engineering Mindset/세션로그/세션-로그-템플릿.md",
+    "Project/Engineering Mindset/프로젝트-개요.md",
+    "Project/Engineering Mindset/에러로그.md",
+    "Project/Engineering Mindset/제약조건.md",
+    "Project/Engineering Mindset/세션로그",
+    "Project/Engineering Mindset/Prompt Patterns.md",
+    "Project/Engineering Mindset/Home.md",
+    "Project/Engineering Mindset/Error Escalation.md",
+    "Project/Engineering Mindset/Engineering Thinking for Beginners.md",
+    "Project/Engineering Mindset/ADR Templates.md",
+    "에러 에스컬레이션.md",
+    "프로젝트 개요.md",
     "README.md",
     "SCHEMA.md",
+    "Project/Engineering Mindset",
+    "Project",
+    "index.md",
+    "log.md",
     "comparisons/solo-vs-harness.md",
     "concepts/decomposition.md",
     "concepts/context-rot.md",
@@ -191,30 +230,12 @@
     "raw/articles/superpowers-readme.md",
     "raw/articles/superpowers-claude.md",
     "raw/articles/ralph-wiggum-pattern.md",
-    "raw/articles/ralph-readme.md",
-    "raw/articles/ralph-prompt.md",
-    "raw/articles/ralph-claude.md",
-    "raw/articles/gstack-skill.md",
-    "raw/articles/gstack-readme.md",
-    "raw/articles/gstack-agents.md",
-    "raw/articles/anthropic-harness-design.md",
-    "raw/articles/gsd2-readme.md",
     "raw/transcripts",
     "raw/papers",
     "raw/assets",
     "raw/articles",
     "raw",
     "queries",
-    "entities/anthropic.md",
-    "entities",
-    "context",
-    "concepts/superpowers.md",
-    "concepts/skill-routing.md",
-    "concepts/ralph-wiggum-pattern.md",
-    "concepts/self-evaluation.md",
-    "concepts/ralph.md",
-    "concepts/harness-pattern.md",
-    "concepts",
-    "comparisons"
+    "entities"
   ]
 }
