@@ -6,7 +6,7 @@ author: Hermes Agent
 license: MIT
 metadata:
   hermes:
-    tags: [ai-collaboration, vibe-coding, memory-driven, mcp, orchestration]
+    tags: [ai-collaboration, vibe-coding, memory-driven, mcp, orchestration, engineering-thinking]
     category: engineering
 ---
 
@@ -40,9 +40,10 @@ contradictions: [other-page-slug]
 ```
 
 ## Tag Taxonomy
-- **Core Concepts**: 기억하는-개발, 오케스트레이션, 바이브코딩, fresh-context, context-rot
+- **Core Concepts**: 기억하는-개발, 엔지니어링-사고, 오케스트레이션, 바이브코딩, fresh-context, context-rot
 - **Roles/Tools**: claude-desktop, claude-code, obsidian, mcp
 - **Patterns**: 역할-분배, decomposition, 에러-에스컬레이션, 설계-우선, 기록-습관
+- **Skills**: 초보자-스킬, gstack, gsd, superpowers, ralph
 - **Meta**: comparison, limitation, workflow, best-practice
 
 ## Page Thresholds

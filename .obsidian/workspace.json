@@ -201,14 +201,17 @@
   },
   "active": "b8859e330470fa9e",
   "lastOpenFiles": [
+    "raw/papers/engineering-thinking-agent.md",
+    "raw/papers",
+    "concepts/엔지니어링-사고-초보자.md",
+    "SCHEMA.md",
+    "log.md",
+    "index.md",
     "concepts/기획-노트와-세션-로그.md",
     "concepts/에러-에스컬레이션.md",
     "concepts/mcp-프로토콜.md",
     "concepts/오케스트레이션.md",
     "concepts/기억하는-개발.md",
-    "log.md",
-    "index.md",
-    "SCHEMA.md",
     "queries",
     "comparisons",
     "entities",
@@ -218,7 +221,6 @@
     "raw/articles/Ch.9_프로젝트를_시작하기_전에_노트부터_쓴다.txt",
     "raw/articles/Ch.7_MCP로_세_도구_연결하기.txt",
     "raw/articles/Ch.19_완성_그리고_회고.txt",
-    "raw/articles/Ch.18_에러가_터졌을_때_돌아갈_곳.txt",
     "README.md",
     "Project/Engineering Mindset/세션-로그/2026-04-25-个工作日志.md",
     "Project/Engineering Mindset/프로젝트-개요.md",
@@ -234,8 +236,6 @@
     "Project/Engineering Mindset/Session Log Template.md",
     "Project/Engineering Mindset/Prompt Patterns.md",
     "Project/Engineering Mindset/Error Escalation.md",
-    "Project/Engineering Mindset/ADR Templates.md",
-    "프로젝트 개요.md",
-    "comparisons/solo-vs-harness.md"
+    "Project/Engineering Mindset/ADR Templates.md"
   ]
 }

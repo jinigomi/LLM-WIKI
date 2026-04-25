@@ -18,3 +18,9 @@
 - [[mcp-프로토콜.md]] — USB 비유, Obsidian 연동, Auto Memory의 한계
 - [[에러-에스컬레이션.md]] — 3단계 레벨링, 두 번 시켜서 안 되면 지휘자에게
 - [[기획-노트와-세션-로그.md]] — Obsidian 폴더 구조, 3분 세션 로그 습관
+
+## [2026-04-25] create | 초보자 엔지니어링 사고 스킬 문서화
+- [[엔지니어링-사고-초보자.md]] — 5-phase 프레임워크 (Framing/Discovery/Architecture/Roadmap/Spec)
+- [[raw/papers/engineering-thinking-agent.md]] — PDF 소스 저장
+- 분석 대기 GitHub 레포: gstack, gsd-2, superpowers, ralph
+- Obsidian 프로젝트 구조: Ch.9 "프로젝트 먼저 노트에 저장" 구조 적용
