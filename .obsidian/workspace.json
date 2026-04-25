@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abfe153178655196",
+        "id": "b9e126cc7c08b3c0",
         "type": "tabs",
         "children": [
           {
-            "id": "a80da4cf34775b04",
+            "id": "b8859e330470fa9e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -178,8 +178,16 @@
       "githobs:Manage a github issue": false
     }
   },
-  "active": "a80da4cf34775b04",
+  "active": "b8859e330470fa9e",
   "lastOpenFiles": [
+    "index.md",
+    "log.md",
+    "README.md",
+    "SCHEMA.md",
+    "comparisons/solo-vs-harness.md",
+    "concepts/decomposition.md",
+    "concepts/context-rot.md",
+    "context/context_index.md",
     "raw/articles/superpowers-readme.md",
     "raw/articles/superpowers-claude.md",
     "raw/articles/ralph-wiggum-pattern.md",
@@ -197,11 +205,8 @@
     "raw/articles",
     "raw",
     "queries",
-    "log.md",
-    "index.md",
     "entities/anthropic.md",
     "entities",
-    "context/context_index.md",
     "context",
     "concepts/superpowers.md",
     "concepts/skill-routing.md",
@@ -209,11 +214,6 @@
     "concepts/self-evaluation.md",
     "concepts/ralph.md",
     "concepts/harness-pattern.md",
-    "concepts/harness-design.md",
-    "concepts/gstack.md",
-    "concepts/gsd-2.md",
-    "concepts/fresh-context.md",
-    "concepts/engineering-thinking-skill.md",
     "concepts",
     "comparisons"
   ]
