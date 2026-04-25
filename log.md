@@ -24,3 +24,14 @@
 - [[raw/papers/engineering-thinking-agent.md]] — PDF 소스 저장
 - 분석 대기 GitHub 레포: gstack, gsd-2, superpowers, ralph
 - Obsidian 프로젝트 구조: Ch.9 "프로젝트 먼저 노트에 저장" 구조 적용
+
+## [2026-04-26] ingest | 세션 백업 (5 sessions)
+- Discord 4 sessions + Telegram 1 session 저장
+- `raw/transcripts/sessions/`에 저장
+- 세션: RSS 브리핑(2), Wiki 백업 cron 설정, Discord gateway debug, Briefing test
+
+## [2026-04-26] create | RSS 브리핑 + 세션 백업 관련 pages
+- [[rss-브리핑-파이프라인.md]] — RSS 자동 수집/배송 시스템 (Telegram 고장, Discord 작동)
+- [[세션-백업-cron.md]] — 매일 3:50AM 세션 wiki 보존 cron (ID: 7dc837f040a1)
+- [[Discord-채널-1497196158248947842.md]] — Hermes 주요 Discord 채널
+- [[Telegram-Bot-TechBriefingHermes-bot.md]] — 고장난 Telegram 브리핑 봇
