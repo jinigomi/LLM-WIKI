@@ -1,0 +1,128 @@
+---
+source_url: "https://wikidocs.net/... (book 19307, Ch.7_MCP로_세_도구_연결하기)"
+ingested: 2026-04-25
+---
+
+지금까지 세 가지 도구를 설치했다:
+
+그런데 지금 이 셋은 서로 모르는 사이다. Obsidian에 아무리 좋은 기획문서를 작성해도, Claude Desktop은 그 문서가 있는지조차 모른다. Claude Code는 파일을 직접 읽을 수 있지만, Obsidian의 검색이나 링크 같은 기능은 쓸 수 없다.
+
+이 셋을 하나로 연결하는 것이 MCP다.
+
+이 장을 끝내면, Claude Desktop에서 "내 기획문서 읽어봐"라고 말하는 것이 가능해진다. Claude Code에서 Obsidian의 노트를 검색하는 것도 가능해진다. "기억하는 개발" 시스템이 비로소 완성되는 순간이다.
+
+MCP는 Model Context Protocol의 약자다. Anthropic이 만든 오픈 프로토콜로, AI가 외부 도구와 통신할 수 있게 해주는 표준 규격이다.
+
+이름이 어렵다. 쉽게 비유하자.
+
+USB가 나오기 전에는, 프린터마다 다른 케이블을 썼다. 키보드도 다른 포트, 마우스도 다른 포트. 새 기기를 사려면 "이 포트에 맞는 건가?" 를 확인해야 했다.
+
+USB가 등장하면서 이 문제가 사라졌다. 프린터든, 키보드든, 외장 하드든 USB 포트에 꽂으면 된다. 하나의 표준으로 모든 기기가 연결된다.
+
+MCP는 AI 세계의 USB다. MCP가 없던 시절에는 AI에게 외부 데이터를 전달하려면 복사-붙여넣기를 하거나, 각 도구마다 다른 방식으로 연동해야 했다. MCP가 나오면서, 하나의 표준 프로토콜로 다양한 도구를 AI에 연결할 수 있게 됐다.
+
+Obsidian, Google Drive, Slack, GitHub, 데이터베이스 — 어떤 도구든 MCP를 지원하면 Claude에 연결할 수 있다. 우리는 그중에서 Obsidian을 연결한다.
+
+Ch.3에서 이미 소개한 비유를 다시 쓰자. Obsidian이 뇌이고, Claude Desktop과 Claude Code가 손과 입이라면, MCP는 이것들을 연결하는 신경이다.
+
+신경이 없으면 뇌에 아무리 좋은 기억이 있어도 손이 쓸 수 없다. 눈이 보고 있어도 입이 말할 수 없다. MCP가 연결되면, 뇌(Obsidian)의 기억을 손(Claude Code)이 바로 활용하고, 입(Claude Desktop)이 바로 참조할 수 있다.
+
+MCP에는 두 가지 역할이 있다:
+
+이 구조가 이해됐다면, 이제 실제로 연결해보자.
+
+Obsidian과 Claude를 MCP로 연결하는 방법은 여러 가지가 있다. (부록 "Obsidian MCP 연결 가이드"에서 세 가지 방법을 상세히 비교했다.)
+
+이 책에서는 가장 간편한 방법인 Obsidian 플러그인 방식을 사용한다.
+
+이 방식의 핵심은 이렇다: Obsidian에 플러그인 하나를 설치하면, 그 플러그인이 MCP 서버 역할을 한다. Claude Code는 자동으로 이 서버를 발견하고, Claude Desktop은 설정 한 줄만 추가하면 된다.
+
+별도의 서버를 설치하거나, 터미널에서 프로그램을 실행하거나, 복잡한 설정을 할 필요가 없다. Obsidian을 켜면 MCP 서버도 켜지고, Obsidian을 끄면 같이 꺼진다.
+
+Ch.4에서 이미 Obsidian Claude Code MCP 플러그인을 설치했다면 이 단계는 건너뛴다.
+
+아직 설치하지 않았다면:
+
+설정 확인:
+
+설정 → Community plugins 목록에서 "Obsidian Claude Code MCP"를 클릭한다.
+
+이 화면이 보이면 정상이다: 플러그인 설정 화면에서 포트 번호가 보이고, 서버가 실행 중인 상태가 표시된다.
+
+이 플러그인은 Obsidian이 실행 중일 때만 MCP 서버가 활성화된다. Obsidian을 끄면 서버도 꺼진다. Claude Desktop이나 Claude Code에서 Obsidian에 접근하려면, Obsidian이 반드시 실행 중이어야 한다. 백그라운드에서 실행되고 있어도 괜찮다.
+
+이 플러그인의 가장 편리한 점이 바로 여기 있다. 설정할 게 없다.
+
+Claude Code는 WebSocket을 통해 로컬에서 실행 중인 MCP 서버를 자동으로 발견(Auto-Discovery)한다.
+
+확인하는 방법:
+
+MCP 서버 목록에 obsidian이 표시되면 연결 성공이다.
+
+이 화면이 보이면 정상이다: /mcp 결과에 obsidian이 ✓ 또는 Connected 상태로 표시된다.
+
+obsidian이 목록에 없다면?
+
+Claude Desktop은 자동 발견을 지원하지 않는다. 설정 파일을 직접 편집해야 한다. 하지만 걱정하지 말자. 딱 한 번만 하면 된다.
+
+Ch.5에서 확인해둔 Developer 메뉴를 사용한다.
+
+텍스트 에디터에 claude_desktop_config.json 파일이 열린다.
+
+이 파일의 위치는 운영체제에 따라 다르다: - macOS: ~/Library/Application Support/Claude/claude_desktop_config.json - Windows: %APPDATA%\Claude\claude_desktop_config.json
+
+Edit Config 버튼이 자동으로 올바른 파일을 열어주므로, 경로를 외울 필요는 없다.
+
+파일 내용을 다음과 같이 작성한다:
+
+이미 내용이 있는 경우:
+
+파일이 완전히 비어있다면 위 내용 전체를 붙여넣는다.
+
+이미 { } 또는 다른 설정이 있다면, "mcpServers" 안에 "obsidian": { ... } 부분만 추가한다. JSON에서 항목 사이에 쉼표(,)를 넣는 것을 잊지 말자.
+
+예를 들어 기존에 다른 MCP 서버가 있다면:
+
+json { "mcpServers": { "기존서버": { ... }, "obsidian": { "command": "npx", "args": ["mcp-remote", "http://localhost:22360/sse"], "env": {} } } }
+
+한 줄씩 해석해보자:
+
+mcp-remote는 Claude Desktop과 Obsidian 플러그인 사이의 통역사 역할이다. Claude Desktop은 특정 방식(stdio)으로만 통신하고, Obsidian 플러그인은 다른 방식(HTTP/SSE)으로 통신하기 때문에, 이 둘 사이에서 번역해주는 프로그램이 필요하다. npx가 이 프로그램을 자동으로 다운로드하고 실행한다.
+
+mcp-remote를 사용하려면 Node.js가 설치되어 있어야 한다. Ch.6에서 네이티브 방식으로 Claude Code를 설치했다면 Node.js가 없을 수 있다. 그 경우 nodejs.org에서 LTS 버전을 설치한다.
+
+"재시작"의 함정: 창을 닫는 것만으로는 부족할 수 있다. 특히 macOS에서는 창을 닫아도 앱이 백그라운드에서 계속 실행된다. 반드시 Quit(종료)를 해야 한다. 확실하지 않으면 컴퓨터를 재부팅하는 것이 가장 확실하다.
+
+Claude Desktop을 다시 열면, 대화 입력창 근처에 도구 아이콘(망치 모양)이 나타날 수 있다. 이 아이콘을 클릭하면 연결된 MCP 도구 목록이 표시된다.
+
+obsidian 관련 도구들이 보이면 연결 성공이다.
+
+Claude Code를 실행하고 /mcp를 입력했을 때 obsidian: ✓ Connected가 표시되면 성공이다.
+
+체크리스트:
+
+JSON 문법 확인 팁: 설정 파일의 내용을 jsonlint.com에 붙여넣으면 문법 오류를 자동으로 찾아준다.
+
+Node.js가 설치되어 있지 않거나, npx의 경로가 등록되지 않은 경우다.
+
+macOS에서 Claude Desktop이 npx를 찾지 못하는 경우가 있다. 이때는 npx를 전체 경로로 바꿔준다:
+
+출력된 경로(예: /usr/local/bin/npx)를 설정 파일의 "command" 값으로 사용한다:
+
+기본 포트 22360을 다른 프로그램이 사용하고 있을 수 있다. Obsidian 플러그인 설정에서 포트 번호를 변경한다 (예: 22361). 변경했다면 Claude Desktop 설정 파일의 URL도 같이 바꿔야 한다:
+
+세 단계를 거쳤다:
+
+신경이 연결됐다. 뇌(Obsidian)의 기억을 이제 손(Claude Code)과 입(Claude Desktop)이 활용할 수 있다.
+
+다음 장에서는 이 연결이 정말로 동작하는지 직접 테스트한다. Obsidian에 노트를 쓰고, Claude에게 "그 노트 읽어봐"라고 말해볼 것이다.
+
+다른 연결 방법(REST API 방식, 파일시스템 방식)에 관심이 있다면, 부록 "Obsidian MCP 연결 가이드"를 참고한다. 각 방법의 장단점과 상세 설정 과정을 비교해두었다.
+
+이 장의 핵심
+
+※ 피드백은 저자에게 e-메일로 전달됩니다.
+
+
+                        ※ 신고하신 내용은 관리자에게 전달되며, 확인 후 적절한 조치가 이루어집니다. 신고는 익명으로 처리되며, 신고자의 정보는 공개되지 않습니다.
+                    
