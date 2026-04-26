@@ -2,5 +2,10 @@
   "obsidian-git",
   "githobs",
   "mcp-tools",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
+  "obsidian-minimal-settings",
+  "terminal"
 ]
