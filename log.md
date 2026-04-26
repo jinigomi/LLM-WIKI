@@ -8,17 +8,23 @@
 
 ### Errors fixed
 - **Broken wikilinks**: 34개 수정 (한국어 스페이스, concepts/ prefix, .txt 파일 링크)
-- **Missing frontmatter**: 5개 entity 파일에 frontmatter 추가 (설계, 2026-04-26, 프로젝트-개요, 챕터-요약, 체크리스트)
+- **Missing frontmatter**: 5개 entity 파일에 frontmatter 추가
 - **Tag taxonomy**: 40+ 개 태그를 유효한 택소노미로 매핑
 - **context-rot page**: [[context-rot]] 링크 대상이었던 entities/context-rot.md 생성
+- **Concept dead-ends**: 2개 concept에 wikilink 추가 (anthropic-claude-think-tool, anthropic-contextual-retrieval)
 
 ### Remaining warnings (acceptable)
-- 7개 orphan pages (프로젝트 개요 문서들, 자연스러운 상황)
-- 4개 pages with 0 outbound wikilinks (체크리스트, 세션 로그 등 — content 제한)
-- 설계 234줄 (project page, splitting deferred)
+- entities/2026-04-26.md (세션 로그, 자연스러운 진입점)
+- entities/체크리스트.md (체크리스트, 자연스러운 진입점)
+- SCHEMA.md (스키마 문서, 자연스러운 진입점)
 
-### Added to taxonomy
-- `evaluation`, `platform` (telegram, discord, delivery, bot), `rag`, `embedding`
+## [2026-04-26] integrate | Obsidian CLI + Wiki 통합 스킬 생성
+
+- **New skill**: `obsidian-wiki-integration` (note-taking/)
+- Obsidian CLI 분석 결과: 68 files, 49 orphans, 2 unresolved links
+- 2개 concept dead-end 수정 (wikilink 추가)
+- Obsidian vault `HermesBrain` 경로: `/Volumes/BackUp/Zettelkasten/HermesBrain`
+- Obsidian 앱 실행 중, vault 인식 정상
 
 ## [2026-04-26] restructure | Wiki reorganized to Karpathy LLM Wiki pattern
 

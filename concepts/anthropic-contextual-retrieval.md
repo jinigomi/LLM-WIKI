@@ -88,6 +88,12 @@ search retrieval of the chunk.
 
 Prompt caching으로 100만 토큰당 $1.02 (800토큰 chunk, 8k 토큰 문서 기준)
 
+## 관련 개념
+
+- [[mcp-프로토콜]] — retrieval 단계에서 컨텍스트 보존의 중요성
+- [[rss-브리핑-파이프라인]] — 실제 RAG 파이프라인 운영 사례
+- [[context-rot]] — 컨텍스트 관리와 관련된 근본적 문제
+
 ## 출처
 
 [Introducing Contextual Retrieval](https://www.anthropic.com/engineering/contextual-retrieval) - Anthropic Engineering, 2024.09.19

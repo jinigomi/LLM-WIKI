@@ -83,6 +83,12 @@ use the think tool as a scratchpad to:
 - 비순차적 도구 호출 (단일 또는 병렬 호출만 필요)
 - 단순 지시 준수 (很多 제약이 없을 때)
 
+## 관련 개념
+
+- [[mcp-프로토콜]] — 도구 호출 체인의 기반 프로토콜
+- [[에러-에스컬레이션]] — 복잡한 도구 체인에서의 오류 처리 패턴
+- [[rss-브리핑-파이프라인]] — 순차적 도구 체인의 실제 사례
+
 ## 출처
 
 [The "think" tool: Enabling Claude to stop and think](https://www.anthropic.com/engineering/claude-think-tool) - Anthropic Engineering, 2025.03.20
