@@ -11,10 +11,14 @@
             "id": "b8859e330470fa9e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Project/Engineering Mindset/프로젝트-개요.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "프로젝트-개요"
             }
           }
         ]
@@ -201,23 +205,30 @@
   },
   "active": "b8859e330470fa9e",
   "lastOpenFiles": [
+    "Project/Engineering Mindset/체크리스트.md",
+    "Project/Engineering Mindset/세션로그/2026-04-26.md",
+    "raw/papers/engineering-thinking-agent.md",
+    "Project/Engineering Mindset/프로젝트-개요.md",
     "entities/telegram-bot-techbriefinghermes-bot.md",
+    "Project/Engineering Mindset/세션로그",
+    "Project/Engineering Mindset/설계",
+    "Project/Engineering Mindset",
+    "Project",
     "entities/discord-채널-1497196158248947842.md",
-    "concepts/세션-백업-cron.md",
-    "concepts/rss-브리핑-파이프라인.md",
+    "SCHEMA.md",
+    "log.md",
+    "index.md",
+    "raw/transcripts/sessions/20260425_discord_20260425_201750_33d57b45.md",
     "raw/transcripts/sessions/20260424_telegram_20260424_165508_f56b2f52.md",
     "raw/transcripts/sessions/20260424_discord_20260424_202303_1811c094.md",
-    "raw/transcripts/sessions/20260425_discord_20260425_201750_33d57b45.md",
+    "concepts/엔지니어링-사고-초보자.md",
+    "concepts/세션-백업-cron.md",
+    "concepts/rss-브리핑-파이프라인.md",
     "raw/transcripts/sessions/20260425_discord_cron_eb1c45bdbe55_20260425_180059.md",
     "raw/transcripts/sessions/20260425_discord_cron_88296c037dfa_20260425_060003.md",
     "raw/transcripts/sessions",
     "raw/transcripts",
-    "raw/papers/engineering-thinking-agent.md",
     "raw/papers",
-    "concepts/엔지니어링-사고-초보자.md",
-    "SCHEMA.md",
-    "log.md",
-    "index.md",
     "concepts/기획-노트와-세션-로그.md",
     "concepts/에러-에스컬레이션.md",
     "concepts/mcp-프로토콜.md",
@@ -226,16 +237,9 @@
     "queries",
     "comparisons",
     "entities",
-    "concepts",
-    "raw/articles/에필로그_이제_터미널이_두렵지_않다.txt",
-    "raw/articles/보론_Claude_Code의_Auto_Memory가_등장했다.txt",
-    "raw/articles/Ch.9_프로젝트를_시작하기_전에_노트부터_쓴다.txt",
     "README.md",
     "Project/Engineering Mindset/세션-로그/2026-04-25-个工作日志.md",
-    "Project/Engineering Mindset/프로젝트-개요.md",
     "Project/Engineering Mindset/Home.md",
-    "Project/Engineering Mindset/Engineering Thinking for Beginners.md",
-    "Project/Engineering Mindset/세션로그/세션-로그-템플릿.md",
-    "에러 에스컬레이션.md"
+    "Project/Engineering Mindset/Engineering Thinking for Beginners.md"
   ]
 }
