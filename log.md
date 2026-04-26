@@ -47,3 +47,13 @@
 - [[오케스트레이션]] 패턴: Hermes(지휘자) + execute_code+terminal(현장책임자)
 - Framing 완료: Q1~Q5 모두 답변 수집
 - Discovery 완료: YouTube 라이브 감지 5가지 방법, 버퍼링 감지, playbackRate 오버라이드 패턴, 라이브 속도 전환 메커니즘 정리
+
+## [2026-04-26] 구현-완료 | 1단계: LiveSync.ts + MediaTower.ts 수정
+- **GlobalSpeed 포크 기반** — GhostMode 패턴 유지
+- **LiveSync.ts 신규 생성** — 라이브 감지 + 자동 속도 전환
+  - currentTime < 0 → 사용자 속도 적용
+  - currentTime >= 0 → playbackRate 1.0 강제
+  - waiting → 即時 1x切替, playing → 사용자 속도 복귀
+- **MediaTower.ts 수정** — LiveSync 통합, gsLiveMode 플래그 추가
+- **SpeedSync.ts** — applySpeedToAll에서 gsLiveMode 비디오 건너뛰기
+- **[[Project/smart-video-speed/설계.md]]** 갱신 완료
