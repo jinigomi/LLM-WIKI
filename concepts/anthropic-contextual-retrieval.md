@@ -1,15 +1,17 @@
 ---
-title: "Introducing Contextual Retrieval"
+title: Introducing Contextual Retrieval
 source: Anthropic Engineering
 date: 2024-09-19
 url: https://www.anthropic.com/engineering/contextual-retrieval
 tags:
-  - llm
-  - rag
-  - retrieval
-  - embedding
-  - engineering
-  - anthropic
+- rag
+- inference
+- model
+- lab
+created: '2026-04-25'
+type: concept
+updated: '2026-04-25'
+confidence: high
 ---
 
 # Introducing Contextual Retrieval

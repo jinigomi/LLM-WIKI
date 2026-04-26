@@ -3,8 +3,14 @@ title: Telegram Bot @TechBriefingHermes_bot
 created: 2026-04-26
 updated: 2026-04-26
 type: entity
-tags: [telegram, delivery, bot, broken]
-sources: [raw/transcripts/sessions/20260425_discord_cron_88296c037dfa_20260425_060003.md, raw/transcripts/sessions/20260425_discord_cron_eb1c45bdbe55_20260425_180059.md]
+tags:
+- telegram
+- limitation
+- bot
+- delivery
+sources:
+- raw/transcripts/sessions/20260425_discord_cron_88296c037dfa_20260425_060003.md
+- raw/transcripts/sessions/20260425_discord_cron_eb1c45bdbe55_20260425_180059.md
 confidence: high
 contested: false
 ---
@@ -35,7 +41,7 @@ Tech RSS 브리핑을 Telegram으로 배송하려던 봇. 현재 고장 상태.
 
 ## 관련 개념
 - [[rss-브리핑-파이프라인]] — 이 봇이 배송해야 했으나 실패
-- [[Discord-채널-1497196158248947842]] — 현재 작동하는 대안
+- [[discord-채널-1497196158248947842]] — 현재 작동하는 대안
 
 ## 소스
 - `raw/transcripts/sessions/20260425_discord_cron_88296c037dfa_20260425_060003.md`

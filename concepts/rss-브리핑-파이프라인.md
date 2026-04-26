@@ -3,8 +3,14 @@ title: RSS 브리핑 파이프라인
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
-tags: [오케스트레이션, cron, telegram, discord]
-sources: [raw/transcripts/sessions/20260425_discord_cron_88296c037dfa_20260425_060003.md, raw/transcripts/sessions/20260425_discord_cron_eb1c45bdbe55_20260425_180059.md]
+tags:
+- telegram
+- discord
+- orchestration
+- cron
+sources:
+- raw/transcripts/sessions/20260425_discord_cron_88296c037dfa_20260425_060003.md
+- raw/transcripts/sessions/20260425_discord_cron_eb1c45bdbe55_20260425_180059.md
 confidence: high
 ---
 

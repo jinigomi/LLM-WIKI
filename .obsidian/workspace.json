@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1e8a8d1a34560e7f",
+        "id": "c79eb2d66976b615",
         "type": "tabs",
         "children": [
           {
-            "id": "ac69dedd4ecb8cc7",
+            "id": "c9d86e8fcd5a8a94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCHEMA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SCHEMA"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ]
@@ -205,34 +201,36 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ac69dedd4ecb8cc7",
+  "active": "c9d86e8fcd5a8a94",
   "lastOpenFiles": [
-    "index.md",
-    "Project/Engineering Mindset/프로젝트-개요.md",
-    "concepts/anthropic-claude-think-tool.md",
-    "concepts/anthropic-code-execution-with-mcp.md",
-    "concepts/anthropic-contextual-retrieval.md",
-    "concepts/anthropic-building-effective-agents.md",
-    "concepts/anthropic-swe-bench.md",
-    "concepts/anthropic-think-tool.md",
-    "concepts/anthropic-claude-code-best-practices.md",
-    "concepts/anthropic-multi-agent-research.md",
-    "concepts/anthropic-desktop-extensions.md",
-    "concepts/anthropic-writing-tools.md",
-    "concepts/anthropic-postmortem.md",
-    "concepts/anthropic-context-engineering.md",
-    "concepts/anthropic-agent-skills.md",
-    "concepts/anthropic-claude-code-sandboxing.md",
-    "concepts/anthropic-code-execution-mcp.md",
-    "concepts/anthropic-advanced-tool-use.md",
-    "concepts/anthropic-effective-harnesses.md",
-    "concepts/anthropic-demystifying-evals.md",
-    "concepts/anthropic-ai-resistant-evals.md",
-    "concepts/anthropic-building-c-compiler.md",
-    "concepts/anthropic-infrastructure-noise.md",
-    "concepts/anthropic-eval-awareness.md",
-    "concepts/anthropic-harness-design.md",
-    "concepts/anthropic-claude-code-auto-mode.md",
+    "raw/archived-stubs/anthropic-claude-code-sandboxing.md",
+    "SCHEMA.md",
+    "concepts/rss-브리핑-파이프라인.md",
+    "raw/archived-stubs/anthropic-writing-tools.md",
+    "raw/archived-stubs/rss-브리핑-파이프라인.md",
+    "raw/archived-stubs/anthropic-think-tool.md",
+    "raw/archived-stubs/anthropic-swe-bench.md",
+    "raw/archived-stubs/anthropic-postmortem.md",
+    "raw/archived-stubs/anthropic-multi-agent-research.md",
+    "raw/archived-stubs/anthropic-managed-agents.md",
+    "raw/archived-stubs/anthropic-infrastructure-noise.md",
+    "raw/archived-stubs/anthropic-harness-design.md",
+    "raw/archived-stubs/anthropic-eval-awareness.md",
+    "raw/archived-stubs/anthropic-effective-harnesses.md",
+    "raw/archived-stubs/anthropic-desktop-extensions.md",
+    "raw/archived-stubs/anthropic-demystifying-evals.md",
+    "raw/archived-stubs/anthropic-context-engineering.md",
+    "raw/archived-stubs/anthropic-claude-code-auto-mode.md",
+    "raw/archived-stubs/anthropic-code-execution-mcp.md",
+    "raw/archived-stubs/anthropic-building-c-compiler.md",
+    "raw/archived-stubs/anthropic-april-23-postmortem.md",
+    "raw/archived-stubs/anthropic-ai-resistant-evals.md",
+    "raw/archived-stubs/anthropic-advanced-tool-use.md",
+    "raw/archived-stubs/anthropic-agent-skills.md",
+    "raw/archived-stubs",
+    "raw/articles/anthropic-contextual-retrieval.md",
+    "raw/articles/anthropic-advanced-tool-use.md",
+    "raw/archived",
     "Project/smart-video-speed",
     "raw/articles/anthropic",
     "Project/Engineering Mindset/세션로그",
@@ -240,8 +238,6 @@
     "Project/Engineering Mindset",
     "Project",
     "raw/transcripts/sessions",
-    "raw/transcripts",
-    "raw/papers",
-    "queries"
+    "raw/transcripts"
   ]
 }

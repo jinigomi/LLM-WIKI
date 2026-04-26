@@ -3,8 +3,12 @@ title: 세션 백업 Cron
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
-tags: [cron, memory-driven, wiki, session]
-sources: [raw/transcripts/sessions/20260425_discord_20260425_201750_33d57b45.md]
+tags:
+- session
+- memory-driven
+- cron
+sources:
+- raw/transcripts/sessions/20260425_discord_20260425_201750_33d57b45.md
 confidence: high
 ---
 

@@ -4,11 +4,15 @@ source: Anthropic Engineering
 date: 2025-03-20
 url: https://www.anthropic.com/engineering/claude-think-tool
 tags:
-  - llm
-  - reasoning
-  - tool-use
-  - engineering
-  - anthropic
+- reasoning
+- inference
+- tool-use
+- model
+- lab
+created: '2026-04-25'
+type: concept
+updated: '2026-04-25'
+confidence: high
 ---
 
 # The "think" tool: Enabling Claude to stop and think

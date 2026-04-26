@@ -10,6 +10,7 @@ tags:
   - engineering
   - anthropic
 ---
+ingested: 2026-04-26
 
 # Code execution with MCP: Building more efficient AI agents
 
