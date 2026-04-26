@@ -61,4 +61,4 @@ HermesBrain/
 
 ## [2026-04-25] create | Wiki initialized
 - Domain: AI 협업 스킬 개발 — "기억하는 개발" 패턴
-- Initial structure: SCHEMA.md, index.md, log.md, concepts/, entities/, raw/
+- Initial structure: SCHEMA.md, index.md, log.md, concepts/, entities/, raw/- 2026-04-26: AI 초보→시니어 리서치 완료. 12개 논문 리서치 (arXiv). 핵심 발견: 속도 따라잡을 수 있으나 깊이는 경험에서만. Epistemic Debt 문제. 저장: raw/papers/ai-novice-to-senior-research.md

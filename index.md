@@ -42,3 +42,5 @@ _(none yet)_
 
 ## Queries
 _(none yet)_
+## Raw Papers
+- [[raw/papers/ai-novice-to-senior-research]] — 코딩 초보가 AI로 시니어 수준 결과물을 낼 수 있는가 (12개 논문 리서치, 2026-04-26)
