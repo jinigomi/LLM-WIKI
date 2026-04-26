@@ -205,6 +205,8 @@
   },
   "active": "770c6032a0223a1d",
   "lastOpenFiles": [
+    "concepts/anthropic-claude-think-tool.md",
+    "concepts/anthropic-code-execution-with-mcp.md",
     "concepts/anthropic-contextual-retrieval.md",
     "concepts/anthropic-building-effective-agents.md",
     "concepts/anthropic-swe-bench.md",
@@ -229,8 +231,6 @@
     "concepts/anthropic-claude-code-auto-mode.md",
     "concepts/anthropic-managed-agents.md",
     "concepts/anthropic-april-23-postmortem.md",
-    "concepts/context-rot.md",
-    "raw/articles/anthropic/_index.md",
     "Project/smart-video-speed",
     "raw/articles/anthropic",
     "Project/Engineering Mindset/세션로그",
