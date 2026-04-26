@@ -46,3 +46,4 @@
 - [[엔지니어링-사고-초보자]] 적용 — Framing 단계 완료
 - [[오케스트레이션]] 패턴: Hermes(지휘자) + execute_code+terminal(현장책임자)
 - Framing 완료: Q1~Q5 모두 답변 수집
+- Discovery 완료: YouTube 라이브 감지 5가지 방법, 버퍼링 감지, playbackRate 오버라이드 패턴, 라이브 속도 전환 메커니즘 정리
