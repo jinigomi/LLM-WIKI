@@ -43,5 +43,6 @@
 ## [2026-04-26] 프로젝트-확정 | Smart Video Speed Browser Extension
 - 프로젝트 디렉토리: `Project/smart-video-speed/설계.md`
 - 웹브라우저에서 재생중인 비디오 속도 조절 브라우저 확장
-- [[엔지니어링-사고-초보자]] 적용 — Framing 단계부터 시작
+- [[엔지니어링-사고-초보자]] 적용 — Framing 단계 완료
 - [[오케스트레이션]] 패턴: Hermes(지휘자) + execute_code+terminal(현장책임자)
+- Framing 완료: Q1~Q5 모두 답변 수집
