@@ -35,3 +35,13 @@
 - [[세션-백업-cron.md]] — 매일 3:50AM 세션 wiki 보존 cron (ID: 7dc837f040a1)
 - [[Discord-채널-1497196158248947842.md]] — Hermes 주요 Discord 채널
 - [[Telegram-Bot-TechBriefingHermes-bot.md]] — 고장난 Telegram 브리핑 봇
+
+## [2026-04-26] session-start | Smart video wizard
+- [[raw/transcripts/sessions/20260426_discord_smart-video-wizard_20260426_093609_565126d2.md]]
+- [[smart-video-wizard.md]] — concept page 틀 작성됨 (세션 진행 중)
+
+## [2026-04-26] 프로젝트-확정 | Smart Video Speed Browser Extension
+- 프로젝트 디렉토리: `Project/smart-video-speed/설계.md`
+- 웹브라우저에서 재생중인 비디오 속도 조절 브라우저 확장
+- [[엔지니어링-사고-초보자]] 적용 — Framing 단계부터 시작
+- [[오케스트레이션]] 패턴: Hermes(지휘자) + execute_code+terminal(현장책임자)
