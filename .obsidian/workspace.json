@@ -198,11 +198,15 @@
       "obsidian-git:Open Git source control": false,
       "githobs:Manage a github issue": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "marp-slides:Show Slide Preview": false
     }
   },
   "active": "c9d86e8fcd5a8a94",
   "lastOpenFiles": [
+    "raw/articles/context-rot.md",
+    "raw/articles/anthropic-claude-code-best-practices.md",
+    "entities/context-rot.md",
     "raw/archived-stubs/anthropic-claude-code-sandboxing.md",
     "SCHEMA.md",
     "concepts/rss-브리핑-파이프라인.md",
@@ -226,10 +230,7 @@
     "raw/archived-stubs/anthropic-april-23-postmortem.md",
     "raw/archived-stubs/anthropic-ai-resistant-evals.md",
     "raw/archived-stubs/anthropic-advanced-tool-use.md",
-    "raw/archived-stubs/anthropic-agent-skills.md",
     "raw/archived-stubs",
-    "raw/articles/anthropic-contextual-retrieval.md",
-    "raw/articles/anthropic-advanced-tool-use.md",
     "raw/archived",
     "Project/smart-video-speed",
     "raw/articles/anthropic",

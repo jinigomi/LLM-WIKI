@@ -18,6 +18,7 @@
 - [[챕터-요약]] — 바이브코딩 책 챕터 요약
 - [[세션-백업-cron]] — 매일 3:50 AM 세션을 wiki에 자동 보존하는 cron job
 - [[2026-04-26]] — Engineering Mindset 세션 로그
+- [[context-rot]] — LLM 긴 컨텍스트 성능 저하 현상
 
 ## Concepts
 

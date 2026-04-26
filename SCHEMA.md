@@ -61,7 +61,7 @@ contradictions: [other-page-slug]
 ## Tag Taxonomy
 
 - **AI/LLM**: model, architecture, training, fine-tuning, inference, alignment, reasoning
-- **Evaluation**: benchmark, eval, harness, swe-bench, postmortem
+- **Evaluation**: benchmark, eval, harness, swe-bench, postmortem, evaluation
 - **Collaboration**: orchestration, agent, multi-agent, context-engineering, tool-use
 - **Tools/infra**: mcp, claude-code, obsidian, hermes, rss, cron
 - **Development**: engineering-thinking, vibe-coding, error-escalation, memory-driven

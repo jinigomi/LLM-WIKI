@@ -4,6 +4,22 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
+## [2026-04-26] lint | Wiki lint performed — 11 checks, all errors fixed
+
+### Errors fixed
+- **Broken wikilinks**: 34개 수정 (한국어 스페이스, concepts/ prefix, .txt 파일 링크)
+- **Missing frontmatter**: 5개 entity 파일에 frontmatter 추가 (설계, 2026-04-26, 프로젝트-개요, 챕터-요약, 체크리스트)
+- **Tag taxonomy**: 40+ 개 태그를 유효한 택소노미로 매핑
+- **context-rot page**: [[context-rot]] 링크 대상이었던 entities/context-rot.md 생성
+
+### Remaining warnings (acceptable)
+- 7개 orphan pages (프로젝트 개요 문서들, 자연스러운 상황)
+- 4개 pages with 0 outbound wikilinks (체크리스트, 세션 로그 등 — content 제한)
+- 설계 234줄 (project page, splitting deferred)
+
+### Added to taxonomy
+- `evaluation`, `platform` (telegram, discord, delivery, bot), `rag`, `embedding`
+
 ## [2026-04-26] restructure | Wiki reorganized to Karpathy LLM Wiki pattern
 
 ### What changed
