@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777291666282,
+      "lastUpdated": 1777295266503,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -188,7 +188,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777291666473,
+      "lastUpdated": 1777295266746,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -597,7 +597,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777291666616,
+      "lastUpdated": 1777295266901,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -850,7 +850,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777291666744,
+      "lastUpdated": 1777295267091,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1259,7 +1259,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777291666878,
+      "lastUpdated": 1777295267227,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1668,7 +1668,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777291667041,
+      "lastUpdated": 1777295267357,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1895,7 +1895,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777291667167,
+      "lastUpdated": 1777295267484,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2914,7 +2914,7 @@
           "image": ""
         }
       ],
-      "lastUpdated": 1777291668385,
+      "lastUpdated": 1777295268767,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4333,7 +4333,7 @@
           }
         }
       ],
-      "lastUpdated": 1777291669400,
+      "lastUpdated": 1777295269762,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4351,7 +4351,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777291669529,
+      "lastUpdated": 1777295270005,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4369,7 +4369,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777291669793,
+      "lastUpdated": 1777295270487,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4387,6 +4387,121 @@
       "url": "https://nitter.net/TeslaZoa/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Teslazoa is collaborating with global Tesla accessories brand Jowua. • When purchasing @Jowua products, enter the referral code “Teslazoa” to receive a 5% discount. • You can shop and place orders via the link below 👇 https://www.jowua-life.com/ko-kr?discount=Teslazoa&ghref=5866%3A1284806",
+          "link": "https://nitter.net/TeslaZoa/status/2048748771832738042#m",
+          "description": "<p>Teslazoa is collaborating with global Tesla accessories brand Jowua.<br> <br> • When purchasing <a href=\"https://nitter.net/jowua\" title=\"joss\">@Jowua</a> products, enter the referral code “Teslazoa” to receive a 5% discount.<br> • You can shop and place orders via the link below 👇<br> <br> <a href=\"https://www.jowua-life.com/ko-kr?discount=Teslazoa&ghref=5866%3A1284806\">jowua-life.com/ko-kr?discoun…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2045726534221099008%2FXLkTpVTA%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
+          "content": "<p>Teslazoa is collaborating with global Tesla accessories brand Jowua.<br> <br> • When purchasing <a href=\"https://nitter.net/jowua\" title=\"joss\">@Jowua</a> products, enter the referral code “Teslazoa” to receive a 5% discount.<br> • You can shop and place orders via the link below 👇<br> <br> <a href=\"https://www.jowua-life.com/ko-kr?discount=Teslazoa&ghref=5866%3A1284806\">jowua-life.com/ko-kr?discoun…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2045726534221099008%2FXLkTpVTA%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
+          "pubDate": "Mon, 27 Apr 2026 12:59:05 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048748771832738042",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/card_img%2F2045726534221099008%2FXLkTpVTA%3Fformat%3Djpg%26name%3D800x419",
+          "summary": "Teslazoa is collaborating with global Tesla accessories brand Jowua. • When purchasing @Jowua products, enter the referral code “Teslazoa” to receive a 5% discount. • You can shop and place orders via the link below 👇 j...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/card_img%2F2045726534221099008%2FXLkTpVTA%3Fformat%3Djpg%26name%3D800x419",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "블룸버그 : 테슬라는 일론 머스크의 2018년 스톡옵션을 등록했으며, 이에 따라 향후 추가 매도 가능성이 제기되고 있다. 블룸버그의 이 내용은 거짓입니다. 시장에 영향을 끼칠만할 규모가 있는 매도는 5년 후부터 가능하기 때문입니다. 제발 겁 먹는 주주들이 없기를 바래봅니다.",
+          "link": "https://nitter.net/TeslaZoa/status/2048746839009358223#m",
+          "description": "<p>블룸버그 : 테슬라는 일론 머스크의 2018년 스톡옵션을 등록했으며, 이에 따라 향후 추가 매도 가능성이 제기되고 있다.<br> <br> 블룸버그의 이 내용은 거짓입니다. 시장에 영향을 끼칠만할 규모가 있는 매도는 5년 후부터 가능하기 때문입니다. <br> <br> 제발 겁 먹는 주주들이 없기를 바래봅니다.</p> <hr/> <blockquote> <b>*Walter Bloomberg (@DeItaone)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> - TESLA FILES MUSK 2018 STOCK — SALES COULD FOLLOW<br> <br> Tesla registered ~304M shares tied to Elon Musk’s 2018 pay package, allowing them to trade once exercised. It doesn’t mean an immediate sale, but Musk is likely to sell some for taxes when options are used before they expire in 2028.<br> <br> The award survived years of legal battles and is now valued against Tesla’s ~$1.7T market cap (vs ~$70B at grant). Investors expect potential selling pressure, adding volatility to the stock, which is down 16% year-to-date.</p> </p> <footer> — <cite><a href=\"https://nitter.net/DeItaone/status/2048733383740551173#m\">https://nitter.net/DeItaone/status/2048733383740551173#m</a> </footer> </blockquote>",
+          "content": "<p>블룸버그 : 테슬라는 일론 머스크의 2018년 스톡옵션을 등록했으며, 이에 따라 향후 추가 매도 가능성이 제기되고 있다.<br> <br> 블룸버그의 이 내용은 거짓입니다. 시장에 영향을 끼칠만할 규모가 있는 매도는 5년 후부터 가능하기 때문입니다. <br> <br> 제발 겁 먹는 주주들이 없기를 바래봅니다.</p> <hr/> <blockquote> <b>*Walter Bloomberg (@DeItaone)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> - TESLA FILES MUSK 2018 STOCK — SALES COULD FOLLOW<br> <br> Tesla registered ~304M shares tied to Elon Musk’s 2018 pay package, allowing them to trade once exercised. It doesn’t mean an immediate sale, but Musk is likely to sell some for taxes when options are used before they expire in 2028.<br> <br> The award survived years of legal battles and is now valued against Tesla’s ~$1.7T market cap (vs ~$70B at grant). Investors expect potential selling pressure, adding volatility to the stock, which is down 16% year-to-date.</p> </p> <footer> — <cite><a href=\"https://nitter.net/DeItaone/status/2048733383740551173#m\">https://nitter.net/DeItaone/status/2048733383740551173#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 12:51:24 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048746839009358223",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "",
+          "summary": "블룸버그 : 테슬라는 일론 머스크의 2018년 스톡옵션을 등록했으며, 이에 따라 향후 추가 매도 가능성이 제기되고 있다. 블룸버그의 이 내용은 거짓입니다. 시장에 영향을 끼칠만할 규모가 있는 매도는 5년 후부터 가능하기 때문입니다. 제발 겁 먹는 주주들이 없기를 바래봅니다. *Walter Bloomberg (@DeItaone) $TSLA - TESLA FILES MUSK 2018 STOCK ...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "엄마 폰에 저장된 아빠의 이름은? 좋아했던 오빠 이 씁쓸해지는 기분은 뭘까요? 😅",
+          "link": "https://nitter.net/TeslaZoa/status/2048744968718848081#m",
+          "description": "<p>엄마 폰에 저장된 아빠의 이름은?<br> <br> 좋아했던 오빠<br> <br> 이 씁쓸해지는 기분은 뭘까요? 😅</p> <img src=\"https://nitter.net/pic/media%2FHG6ar8zbYAAovnc.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>엄마 폰에 저장된 아빠의 이름은?<br> <br> 좋아했던 오빠<br> <br> 이 씁쓸해지는 기분은 뭘까요? 😅</p> <img src=\"https://nitter.net/pic/media%2FHG6ar8zbYAAovnc.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Mon, 27 Apr 2026 12:43:59 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048744968718848081",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG6ar8zbYAAovnc.jpg",
+          "summary": "엄마 폰에 저장된 아빠의 이름은? 좋아했던 오빠 이 씁쓸해지는 기분은 뭘까요? 😅",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG6ar8zbYAAovnc.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🚨 테슬라, 일론 머스크 보상 관련 S-8 제출 🇺🇸 $TSLA 1️⃣ Tesla, 약 3억 396만 주 보통주 등록 위한 Form S-8 제출 2️⃣ 해당 주식은 Elon Musk의 2018년 CEO 성과 보상 패키지와 연관 3️⃣ 장기 성과 목표 달성에 따른 보상 구조 반영",
+          "link": "https://nitter.net/TeslaZoa/status/2048737255704125524#m",
+          "description": "<p>🚨 테슬라, 일론 머스크 보상 관련 S-8 제출 🇺🇸 <a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> <br> 1️⃣ Tesla, 약 3억 396만 주 보통주 등록 위한 Form S-8 제출<br> 2️⃣ 해당 주식은 Elon Musk의 2018년 CEO 성과 보상 패키지와 연관<br> 3️⃣ 장기 성과 목표 달성에 따른 보상 구조 반영</p> <hr/> <blockquote> <b>大趙 (@zhongwen2005)</b> <p> <p>Tesla : Files Form S-8 to Register 303.96 Mln Shares of Tesla’s Common Stock for Elon Musk 2018 CEO Performance Award</p> </p> <footer> — <cite><a href=\"https://nitter.net/zhongwen2005/status/2048734731886629155#m\">https://nitter.net/zhongwen2005/status/2048734731886629155#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 테슬라, 일론 머스크 보상 관련 S-8 제출 🇺🇸 <a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> <br> 1️⃣ Tesla, 약 3억 396만 주 보통주 등록 위한 Form S-8 제출<br> 2️⃣ 해당 주식은 Elon Musk의 2018년 CEO 성과 보상 패키지와 연관<br> 3️⃣ 장기 성과 목표 달성에 따른 보상 구조 반영</p> <hr/> <blockquote> <b>大趙 (@zhongwen2005)</b> <p> <p>Tesla : Files Form S-8 to Register 303.96 Mln Shares of Tesla’s Common Stock for Elon Musk 2018 CEO Performance Award</p> </p> <footer> — <cite><a href=\"https://nitter.net/zhongwen2005/status/2048734731886629155#m\">https://nitter.net/zhongwen2005/status/2048734731886629155#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 12:13:20 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048737255704125524",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "",
+          "summary": "🚨 테슬라, 일론 머스크 보상 관련 S-8 제출 🇺🇸 $TSLA 1️⃣ Tesla, 약 3억 396만 주 보통주 등록 위한 Form S-8 제출 2️⃣ 해당 주식은 Elon Musk의 2018년 CEO 성과 보상 패키지와 연관 3️⃣ 장기 성과 목표 달성에 따른 보상 구조 반영 大趙 (@zhongwen2005) Tesla : Files Form S-8 to Register 303.96 ...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🚨 에미레이츠, A380에 스타링크 도입 🇦🇪 1️⃣ Emirates, Airbus A380 기단에 Starlink 탑재 추진 2️⃣ 항공기당 안테나 3개 적용, 대형 기체·다수 승객 환경 대응 3️⃣ 기내 전체 최대 2Gbps 속도 제공 → 고도 40,000피트에서도 안정적 고속 Wi-Fi 기대",
+          "link": "https://nitter.net/TeslaZoa/status/2048737116725907783#m",
+          "description": "<p>🚨 에미레이츠, A380에 스타링크 도입 🇦🇪<br> <br> 1️⃣ Emirates, Airbus A380 기단에 Starlink 탑재 추진<br> 2️⃣ 항공기당 안테나 3개 적용, 대형 기체·다수 승객 환경 대응<br> 3️⃣ 기내 전체 최대 2Gbps 속도 제공 → 고도 40,000피트에서도 안정적 고속 Wi-Fi 기대</p> <img src=\"https://nitter.net/pic/media%2FHG6ThCxaEAEwTS4.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG6ThqzasAAFxb_.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Muskonomy (@muskonomy)</b> <p> <p>NEWS: Emirates is adding Starlink to its A380 fleet to massively upgrade in flight internet<br> <br> Each A380 will use 3 Starlink antennas, built to handle the large double deck aircraft and high number of passengers.<br> <br> The system can deliver over 2 Gbps across the cabin, meaning faster and more stable WiFi at 40,000 feet.<br> <br> This could finally make airplane internet feel close to what you get at home.</p> <img src=\"https://nitter.net/pic/media%2FHG6Rv30bAAAK6VX.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG6Rv31bsAAqEuR.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/muskonomy/status/2048735143603695966#m\">https://nitter.net/muskonomy/status/2048735143603695966#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 에미레이츠, A380에 스타링크 도입 🇦🇪<br> <br> 1️⃣ Emirates, Airbus A380 기단에 Starlink 탑재 추진<br> 2️⃣ 항공기당 안테나 3개 적용, 대형 기체·다수 승객 환경 대응<br> 3️⃣ 기내 전체 최대 2Gbps 속도 제공 → 고도 40,000피트에서도 안정적 고속 Wi-Fi 기대</p> <img src=\"https://nitter.net/pic/media%2FHG6ThCxaEAEwTS4.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG6ThqzasAAFxb_.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Muskonomy (@muskonomy)</b> <p> <p>NEWS: Emirates is adding Starlink to its A380 fleet to massively upgrade in flight internet<br> <br> Each A380 will use 3 Starlink antennas, built to handle the large double deck aircraft and high number of passengers.<br> <br> The system can deliver over 2 Gbps across the cabin, meaning faster and more stable WiFi at 40,000 feet.<br> <br> This could finally make airplane internet feel close to what you get at home.</p> <img src=\"https://nitter.net/pic/media%2FHG6Rv30bAAAK6VX.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG6Rv31bsAAqEuR.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/muskonomy/status/2048735143603695966#m\">https://nitter.net/muskonomy/status/2048735143603695966#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 12:12:46 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048737116725907783",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG6ThCxaEAEwTS4.jpg",
+          "summary": "🚨 에미레이츠, A380에 스타링크 도입 🇦🇪 1️⃣ Emirates, Airbus A380 기단에 Starlink 탑재 추진 2️⃣ 항공기당 안테나 3개 적용, 대형 기체·다수 승객 환경 대응 3️⃣ 기내 전체 최대 2Gbps 속도 제공 → 고도 40,000피트에서도 안정적 고속 Wi-Fi 기대 Muskonomy (@muskonomy) NEWS: Emirates is adding St...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG6ThCxaEAEwTS4.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "🚨 오스틴 공항 주차장에서 테슬라 사이버캡 3대 포착 🇺🇸 $TSLA 1️⃣ Tesla Cybercab 3대, 공항 주차장에서 목격 2️⃣ 차량들은 Tesla Supercharger에서 충전 중인 것으로 추정",
           "link": "https://nitter.net/TeslaZoa/status/2048733853750292480#m",
@@ -4825,7 +4940,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777291670334,
+      "lastUpdated": 1777295272406,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4835,13 +4950,36 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1907192609065623552%2FNkv4Z7zX_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1907192609065623552%2FNkv4Z7zX_400x400.jpg"
     },
     {
       "title": "송준 Jun Song / @songjunkr",
       "url": "https://nitter.net/songjunkr/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "AGI를 목표로 월드모델을 개발하는 프로젝트를 시작했습니다. 기존에 없던 새로운 아키텍처를 시도합니다. 성공여부와 관계없이 새로운것을 시도한다는데에 큰 의미가 있을것 같습니다. 로컬LLM 연구도 계속 할 예정입니다 ☺️",
+          "link": "https://nitter.net/songjunkr/status/2048748125020733658#m",
+          "description": "<p>AGI를 목표로 월드모델을 개발하는 프로젝트를 시작했습니다.<br> <br> 기존에 없던 새로운 아키텍처를 시도합니다.<br> <br> 성공여부와 관계없이 새로운것을 시도한다는데에 큰 의미가 있을것 같습니다.<br> <br> 로컬LLM 연구도 계속 할 예정입니다 ☺️</p>",
+          "content": "<p>AGI를 목표로 월드모델을 개발하는 프로젝트를 시작했습니다.<br> <br> 기존에 없던 새로운 아키텍처를 시도합니다.<br> <br> 성공여부와 관계없이 새로운것을 시도한다는데에 큰 의미가 있을것 같습니다.<br> <br> 로컬LLM 연구도 계속 할 예정입니다 ☺️</p>",
+          "pubDate": "Mon, 27 Apr 2026 12:56:31 GMT",
+          "guid": "https://nitter.net/songjunkr/2048748125020733658",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "",
+          "summary": "AGI를 목표로 월드모델을 개발하는 프로젝트를 시작했습니다. 기존에 없던 새로운 아키텍처를 시도합니다. 성공여부와 관계없이 새로운것을 시도한다는데에 큰 의미가 있을것 같습니다. 로컬LLM 연구도 계속 할 예정입니다 ☺️",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "> AI makes game dev easier > AI makes gaming PCs unaffordable",
           "link": "https://nitter.net/songjunkr/status/2048682471643046232#m",
@@ -5280,7 +5418,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777291670591,
+      "lastUpdated": 1777295273111,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5689,7 +5827,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777291869389,
+      "lastUpdated": 1777295274510,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6144,7 +6282,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777291965089,
+      "lastUpdated": 1777295274763,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6161,6 +6299,29 @@
       "url": "https://nitter.net/seti_park/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "광학은 어렵네요 😵",
+          "link": "https://nitter.net/seti_park/status/2048740179658383790#m",
+          "description": "<p>광학은 어렵네요 😵</p> <hr/> <blockquote> <b>SETI Park (@seti_park)</b> <p> <p><a href=\"http://x.com/i/article/2048731154833129472\">x.com/i/article/204873115483…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/seti_park/status/2048733562514337992#m\">https://nitter.net/seti_park/status/2048733562514337992#m</a> </footer> </blockquote>",
+          "content": "<p>광학은 어렵네요 😵</p> <hr/> <blockquote> <b>SETI Park (@seti_park)</b> <p> <p><a href=\"http://x.com/i/article/2048731154833129472\">x.com/i/article/204873115483…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/seti_park/status/2048733562514337992#m\">https://nitter.net/seti_park/status/2048733562514337992#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 12:24:57 GMT",
+          "guid": "https://nitter.net/seti_park/2048740179658383790",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "",
+          "summary": "광학은 어렵네요 😵 SETI Park (@seti_park) x.com/i/article/204873115483… — https://nitter.net/seti_park/status/2048733562514337992#m",
+          "author": "@seti_park",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "R to @seti_park: 이걸 DeepMind가 ... 다크호스로 치고 나가네요. 🤓",
           "link": "https://nitter.net/seti_park/status/2048736392931611134#m",
@@ -6231,6 +6392,29 @@
           "episodeType": ""
         },
         {
+          "title": "RT by @seti_park: ISRAELI MILITARY SAYS IT HAS BEGUN TO STRIKE HEZBOLLAH INFRASTRUCTURE SITES IN LEBANON'S BEQAA VALLEY AND IN ADDITIONAL AREAS ACROSS SOUTHERN LEBANON",
+          "link": "https://nitter.net/DeItaone/status/2048727084281798677#m",
+          "description": "<p>ISRAELI MILITARY SAYS IT HAS BEGUN TO STRIKE HEZBOLLAH INFRASTRUCTURE SITES IN LEBANON'S BEQAA VALLEY AND IN ADDITIONAL AREAS ACROSS SOUTHERN LEBANON</p>",
+          "content": "<p>ISRAELI MILITARY SAYS IT HAS BEGUN TO STRIKE HEZBOLLAH INFRASTRUCTURE SITES IN LEBANON'S BEQAA VALLEY AND IN ADDITIONAL AREAS ACROSS SOUTHERN LEBANON</p>",
+          "pubDate": "Mon, 27 Apr 2026 11:32:55 GMT",
+          "guid": "https://nitter.net/seti_park/2048727084281798677",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "",
+          "summary": "ISRAELI MILITARY SAYS IT HAS BEGUN TO STRIKE HEZBOLLAH INFRASTRUCTURE SITES IN LEBANON'S BEQAA VALLEY AND IN ADDITIONAL AREAS ACROSS SOUTHERN LEBANON",
+          "author": "@DeItaone",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
           "title": "RT by @seti_park: A decade ago in Korea, AlphaGo showed AI’s potential. Together with the Korean government, we’re now looking at how this technology can help accelerate scientific discovery and create new opportunities for economic growth across the region. 🇰🇷 Find out more → https://goo.gle/4wbqUbJ",
           "link": "https://nitter.net/GoogleDeepMind/status/2048714939125109178#m",
           "description": "<p>A decade ago in Korea, AlphaGo showed AI’s potential.<br> <br> Together with the Korean government, we’re now looking at how this technology can help accelerate scientific discovery and create new opportunities for economic growth across the region. 🇰🇷<br> <br> Find out more → <a href=\"https://goo.gle/4wbqUbJ\">goo.gle/4wbqUbJ</a></p> <video poster=\"https://nitter.net/pic/tweet_video_thumb%2FHG5_VP0akAA0fhW.jpg\" autoplay muted loop style=\"max-width:250px;\"> <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHG5_VP0akAA0fhW.mp4\" type=\"video/mp4\"></video>",
@@ -6273,6 +6457,29 @@
           "duration": "",
           "explicit": false,
           "image": "https://nitter.net/pic/card_img%2F2048670489313419264%2FFxYvRMZZ%3Fformat%3Djpg%26name%3D800x419",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "RT by @seti_park: 테슬라, 이젠 전기차 판매순위가 아니네! 3월 판매량에서 쏘나타 넘어섬!",
+          "link": "https://nitter.net/s1owsteady/status/2048666555865841757#m",
+          "description": "<p>테슬라, 이젠 전기차 판매순위가 아니네!<br> <br> 3월 판매량에서 쏘나타 넘어섬!</p> <img src=\"https://nitter.net/pic/media%2FHG5TX0saQAA5e2X.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>테슬라, 이젠 전기차 판매순위가 아니네!<br> <br> 3월 판매량에서 쏘나타 넘어섬!</p> <img src=\"https://nitter.net/pic/media%2FHG5TX0saQAA5e2X.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Mon, 27 Apr 2026 07:32:23 GMT",
+          "guid": "https://nitter.net/seti_park/2048666555865841757",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG5TX0saQAA5e2X.jpg",
+          "summary": "테슬라, 이젠 전기차 판매순위가 아니네! 3월 판매량에서 쏘나타 넘어섬!",
+          "author": "@s1owsteady",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG5TX0saQAA5e2X.jpg",
           "category": "",
           "episodeType": ""
         },
@@ -6622,7 +6829,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777292107442,
+      "lastUpdated": 1777295275736,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7790,7 +7997,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777292127313,
+      "lastUpdated": 1777295275785,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8271,7 +8478,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777292135305,
+      "lastUpdated": 1777295277202,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8427,7 +8634,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777292140077,
+      "lastUpdated": 1777295279076,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8479,7 +8686,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777292142097,
+      "lastUpdated": 1777295279228,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9097,7 +9304,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777292145878,
+      "lastUpdated": 1777295279805,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9115,6 +9322,29 @@
       "url": "https://openai.com/news/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "The next phase of the Microsoft OpenAI partnership",
+          "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+          "description": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+          "content": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+          "pubDate": "Mon, 27 Apr 2026 06:00:00 GMT",
+          "guid": "https://openai.com/index/next-phase-of-microsoft-partnership",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "OpenAI News",
+          "feedUrl": "https://openai.com/news/rss.xml",
+          "coverImage": "",
+          "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "Our principles",
           "link": "https://openai.com/index/our-principles",
@@ -10241,32 +10471,9 @@
           "image": "",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Our response to the Axios developer tool compromise",
-          "link": "https://openai.com/index/axios-developer-tool-compromise",
-          "description": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-          "content": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "guid": "https://openai.com/index/axios-developer-tool-compromise",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "OpenAI News",
-          "feedUrl": "https://openai.com/news/rss.xml",
-          "coverImage": "",
-          "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777292149743,
+      "lastUpdated": 1777295280414,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10307,7 +10514,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777291670591,
+  "lastRefreshTimestamp": 1777295280414,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
