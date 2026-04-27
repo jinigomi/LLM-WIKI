@@ -204,6 +204,9 @@
   },
   "active": "c9d86e8fcd5a8a94",
   "lastOpenFiles": [
+    "docs/hyperagents-meta-agent-analysis.md",
+    "docs/research-reports/2026-04-27-research-progress.md",
+    "docs/research-reports",
     "docs/structured-memory-template.md",
     "raw/articles/ai-에이전트-연구-도구-grok-2026-04-27.pdf",
     "docs/human-in-the-loop-checkpoints.md",
@@ -231,14 +234,11 @@
     "raw/Ch.3 \"기억하는 개발\"이라는 해법.md",
     "raw/Ch.2 컨텍스트의 문제 — AI도 까먹고, 나도 까먹는다.md",
     "raw/Ch.1 AI가 만들어준 코드, 왜 내가 이해를 못하지?.md",
-    "Clippings/바이브코딩은 왜 실패하는가 -AI 협업 가이드북.md",
     "Clippings",
-    "raw/articles/context-rot.md",
     "raw/archived-stubs",
     "raw/archived",
     "Project/smart-video-speed",
     "raw/articles/anthropic",
-    "Project/Engineering Mindset/세션로그",
-    "Project/Engineering Mindset/설계"
+    "Project/Engineering Mindset/세션로그"
   ]
 }

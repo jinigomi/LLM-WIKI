@@ -10,6 +10,14 @@
 - **인사이트**: 사용자 제공 "연구 전문가 스킬" 요구사항 기반
 - **다음**: writing-plans → subagent-driven-development 순서로 실행
 
+## [2026-04-27] create | HyperAgents Meta Agent 분석
+
+- **문서**: `docs/hyperagents-meta-agent-analysis.md`
+- **내용**: 초보자→고품질 결과물을 위한 HyperAgents 적용 설계
+- **핵심**: 3단계 품질 게이트 (Task Agent → Meta Agent Review → Metacognitive Check)
+- **스킬 3개 포함**: novice-quality-gate, metacognitive-scaffold, senior-criteria-archive
+- **목표**: 초보자의 아이디어가 Senior Developer 수준 결과물로 인증받는 시스템
+
 ## [2026-04-27] ingest | wikidocs '하네스 엔지니어링 입문' 스크래핑
 
 - **來源**: https://wikidocs.net/book/19559
@@ -82,3 +90,26 @@ HermesBrain/
 ## [2026-04-25] create | Wiki initialized
 - Domain: AI 협업 스킬 개발 — "기억하는 개발" 패턴
 - Initial structure: SCHEMA.md, index.md, log.md, concepts/, entities/, raw/- 2026-04-26: AI 초보→시니어 리서치 완료. 12개 논문 리서치 (arXiv). 핵심 발견: 속도 따라잡을 수 있으나 깊이는 경험에서만. Epistemic Debt 문제. 저장: raw/papers/ai-novice-to-senior-research.md
+
+## [2026-04-27] meta-evolution | 스킬 업그레이드 완료: refinement-methodology v1.1, meta-evolution-pattern v1.1
+
+### 개선 내용
+- **refinement-methodology**: iteration 기록 양식에 "다음 iteration 필요?" Yes/No 필드 추가, Cron 종료 시 두 스킬 동시 업그레이드 지시 명시
+- **meta-evolution-pattern**: minor version increment (.1) 기준 명시, 두 스킬 항상 함께 버전 업 규칙 추가, Cron 종료 시 절차 4단계明确规定
+
+### 구조화된 메모리 (Meta-Evolution)
+**Goal**: 초보자 Senior-level AI 협업 방법론 연구 + Research Agent 구현
+
+**Decisions**:
+1. 논문 리서치는 arXiv만 사용 (신뢰도 높음, 무료)
+2. 웹 서치는 delegate_task 사용 — 600초 타임아웃 발생으로 방법 개선 필요
+3. refinement + meta-evolution 두 스킬을 함께 업그레이드하는 규칙 확립
+
+**Learned Patterns**:
+- 성공: 매 연구 종료 시 스킬 업그레이드 → 방법론이 점점 정교해짐
+- 성공: iteration 기록 양식의 "다음 iteration 필요?" Yes/No로 명확화
+- 실패: delegate_task의 웹 서치 600초 타임아웃 — 다음에 개선 필요
+
+**Next Improvement**:
+- arxiv 서치 방법 개선:Grok 등 대안 검색 엔진, 또는 search_files로arxiv API 직접 호출
+- 4개 GitHub 레포 분석 → 엔지니어링 사고 스킬 패턴 도출
