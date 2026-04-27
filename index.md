@@ -19,6 +19,9 @@
 - [[harness-engineering-wikidocs]] — 위키독스 '하네스 엔지니어링 입문' 요약 (Layer 1-4 local harness)
 - [[harness-engineering]] — AWS Deep Insight 기반 하네스 엔지니어링 개념 (Layer 5-6 production harness)
 - [[research-agent-설계-계획]] — 초보자 Senior-level AI 협업 연구 에이전트 시스템 설계 (Multi-Agent Workflow + 도구 통합)
+- [[harness-design-long-running-apps]] — Anthropic의 Generator/Evaluator 분리 패턴 (Harness design, 2026)
+- [[hyperagents-meta-agent-analysis]] — HyperAgents 초보자→고품질 적용 설계 (3단계 품질 게이트)
+- [[anthropic-harness-comparison]] — Anthropic Harness vs HyperAgents 비교 분석
 
 ## Concepts
 
