@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777295266503,
+      "lastUpdated": 1777298866494,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -188,7 +188,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777295266746,
+      "lastUpdated": 1777298866797,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -597,7 +597,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777295266901,
+      "lastUpdated": 1777298866976,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -850,7 +850,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777295267091,
+      "lastUpdated": 1777298867183,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1259,7 +1259,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777295267227,
+      "lastUpdated": 1777298867335,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1668,7 +1668,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777295267357,
+      "lastUpdated": 1777298867397,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1895,7 +1895,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777295267484,
+      "lastUpdated": 1777298867524,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2914,7 +2914,7 @@
           "image": ""
         }
       ],
-      "lastUpdated": 1777295268767,
+      "lastUpdated": 1777298868891,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4333,7 +4333,7 @@
           }
         }
       ],
-      "lastUpdated": 1777295269762,
+      "lastUpdated": 1777298869903,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4351,7 +4351,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777295270005,
+      "lastUpdated": 1777298870014,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4369,7 +4369,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777295270487,
+      "lastUpdated": 1777298870416,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4387,6 +4387,121 @@
       "url": "https://nitter.net/TeslaZoa/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "🚨 OpenAI–Microsoft 파트너십 구조 재편 (Reuters) 1️⃣ 수익 공유 구조 변화 Microsoft는 더 이상 OpenAI에 수익 공유를 지불하지 않음 → 기존 협력 구조에서 재무적 관계 일부 재조정 2️⃣ 클라우드 독점 완화 OpenAI는 이제 특정 플랫폼에 제한되지 않고 다양한 클라우드 제공업체를 통해 제품 제공 가능 → 멀티 클라우드 전략 본격화 3️⃣ Microsoft의 지위 유지 Microsoft는 여전히 주요 주주로서 OpenAI 성장에 참여 → 전략적 파트너십은 유지되지만 “독점적 결합”은 약화 4️⃣ IP 라이선스 유지 (2032년까지) Microsoft는 OpenAI 기술(IP)에 대한 라이선스를 장기적으로 확보 → AI 경쟁력 유지의 핵심 안전장치 5️⃣ 수익 지급 구조 (2030년까지 지속) OpenAI는 Microsoft에 대한 일부 수익 공유 지급을 2030년까지 계속 수행 → 완전한 분리는 아닌 “점진적 구조 변화” 👉 핵심 요약 독점 → 전략적 파트너십 + 멀티 클라우드 전환 AI 인프라 주도권 경쟁이 본격적으로 분산되는 신호",
+          "link": "https://nitter.net/TeslaZoa/status/2048765804418904507#m",
+          "description": "<p>🚨 OpenAI–Microsoft 파트너십 구조 재편 (Reuters)<br> <br> 1️⃣ 수익 공유 구조 변화<br> Microsoft는 더 이상 OpenAI에 수익 공유를 지불하지 않음<br> → 기존 협력 구조에서 재무적 관계 일부 재조정<br> <br> 2️⃣ 클라우드 독점 완화<br> OpenAI는 이제 특정 플랫폼에 제한되지 않고 다양한 클라우드 제공업체를 통해 제품 제공 가능<br> → 멀티 클라우드 전략 본격화<br> <br> 3️⃣ Microsoft의 지위 유지<br> Microsoft는 여전히 주요 주주로서 OpenAI 성장에 참여<br> → 전략적 파트너십은 유지되지만 “독점적 결합”은 약화<br> <br> 4️⃣ IP 라이선스 유지 (2032년까지)<br> Microsoft는 OpenAI 기술(IP)에 대한 라이선스를 장기적으로 확보<br> → AI 경쟁력 유지의 핵심 안전장치<br> <br> 5️⃣ 수익 지급 구조 (2030년까지 지속)<br> OpenAI는 Microsoft에 대한 일부 수익 공유 지급을 2030년까지 계속 수행<br> → 완전한 분리는 아닌 “점진적 구조 변화”<br> <br> 👉 핵심 요약<br> 독점 → 전략적 파트너십 + 멀티 클라우드 전환<br> AI 인프라 주도권 경쟁이 본격적으로 분산되는 신호</p> <img src=\"https://nitter.net/pic/media%2FHG6to7dbIAAD_xG.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Evan (@StockMKTNewz)</b> <p> <p>OPENAI AND MICROSOFT <a href=\"https://nitter.net/search?f=tweets&q=%23MSFT\">$MSFT</a> JUST ANNOUNCED AN AMENDED PARTNERSHIP AGREEMENT<br> <br> Here's what changes:<br> <br> Microsoft will no longer pay a revenue share to OpenAI<br> <br> OpenAI can now serve its products to customers across any cloud provider<br> <br> Microsoft continues to participate in OpenAI's growth as a major shareholder and retains a license to OpenAI IP through 2032<br> <br> Revenue share payments to Microsoft continue through 2030<br> <br> (Source Reuters)</p> <img src=\"https://nitter.net/pic/media%2FHG6fkXOagAAX9Fh.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/StockMKTNewz/status/2048750377965650190#m\">https://nitter.net/StockMKTNewz/status/2048750377965650190#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 OpenAI–Microsoft 파트너십 구조 재편 (Reuters)<br> <br> 1️⃣ 수익 공유 구조 변화<br> Microsoft는 더 이상 OpenAI에 수익 공유를 지불하지 않음<br> → 기존 협력 구조에서 재무적 관계 일부 재조정<br> <br> 2️⃣ 클라우드 독점 완화<br> OpenAI는 이제 특정 플랫폼에 제한되지 않고 다양한 클라우드 제공업체를 통해 제품 제공 가능<br> → 멀티 클라우드 전략 본격화<br> <br> 3️⃣ Microsoft의 지위 유지<br> Microsoft는 여전히 주요 주주로서 OpenAI 성장에 참여<br> → 전략적 파트너십은 유지되지만 “독점적 결합”은 약화<br> <br> 4️⃣ IP 라이선스 유지 (2032년까지)<br> Microsoft는 OpenAI 기술(IP)에 대한 라이선스를 장기적으로 확보<br> → AI 경쟁력 유지의 핵심 안전장치<br> <br> 5️⃣ 수익 지급 구조 (2030년까지 지속)<br> OpenAI는 Microsoft에 대한 일부 수익 공유 지급을 2030년까지 계속 수행<br> → 완전한 분리는 아닌 “점진적 구조 변화”<br> <br> 👉 핵심 요약<br> 독점 → 전략적 파트너십 + 멀티 클라우드 전환<br> AI 인프라 주도권 경쟁이 본격적으로 분산되는 신호</p> <img src=\"https://nitter.net/pic/media%2FHG6to7dbIAAD_xG.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Evan (@StockMKTNewz)</b> <p> <p>OPENAI AND MICROSOFT <a href=\"https://nitter.net/search?f=tweets&q=%23MSFT\">$MSFT</a> JUST ANNOUNCED AN AMENDED PARTNERSHIP AGREEMENT<br> <br> Here's what changes:<br> <br> Microsoft will no longer pay a revenue share to OpenAI<br> <br> OpenAI can now serve its products to customers across any cloud provider<br> <br> Microsoft continues to participate in OpenAI's growth as a major shareholder and retains a license to OpenAI IP through 2032<br> <br> Revenue share payments to Microsoft continue through 2030<br> <br> (Source Reuters)</p> <img src=\"https://nitter.net/pic/media%2FHG6fkXOagAAX9Fh.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/StockMKTNewz/status/2048750377965650190#m\">https://nitter.net/StockMKTNewz/status/2048750377965650190#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 14:06:46 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048765804418904507",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG6to7dbIAAD_xG.jpg",
+          "summary": "🚨 OpenAI–Microsoft 파트너십 구조 재편 (Reuters) 1️⃣ 수익 공유 구조 변화 Microsoft는 더 이상 OpenAI에 수익 공유를 지불하지 않음 → 기존 협력 구조에서 재무적 관계 일부 재조정 2️⃣ 클라우드 독점 완화 OpenAI는 이제 특정 플랫폼에 제한되지 않고 다양한 클라우드 제공업체를 통해 제품 제공 가능 → 멀티 클라우드 전략 본격화 3️⃣ Microso...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG6to7dbIAAD_xG.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🚨 Tesla FSD 유럽 확장, 벨기에 진입 신호 포착 (2026년 4월 기준) 1️⃣ 네덜란드 승인 확인 RDW가 Tesla FSD Supervised에 대해 국가 형식 승인을 부여한 것은 사실이며, 현재 해당 승인은 네덜란드 내에서만 유효 2️⃣ EU 레벨 논의 예정 2026년 5월, 유럽 작업 그룹에서 각국 형식 승인 기관들과 함께 해당 승인 내용이 공식적으로 설명 및 검토될 예정 3️⃣ 벨기에 절차 진행 중 Department of Mobility and Public Works 측 확인에 따르면, EU 논의 이후 벨기에 적용을 위한 평가 및 승인 절차가 계속 진행될 계획 4️⃣ 핵심 의미 단일 국가 승인 → EU 확산 구조로 전환되는 초기 단계 FSD Supervised의 유럽 내 규제 장벽이 점진적으로 해소되는 흐름 5️⃣ 투자 관점 포인트 • 유럽 시장 내 FSD 확장 가능성 현실화 • 국가별 승인 → EU 전역 확산의 테스트 케이스 • 규제 리스크 완화 시 소프트웨어 수익 모델 가속 기대 👉 결론: 네덜란드를 시작으로 EU 전체 확산을 위한 첫 공식 단계 진입. 벨기에는 그 다음 타깃 중 하나로, 실제 승인 프로세스가 “논의 단계 → 실행 단계”로 이동 중.",
+          "link": "https://nitter.net/TeslaZoa/status/2048765322908569648#m",
+          "description": "<p>🚨 Tesla FSD 유럽 확장, 벨기에 진입 신호 포착 (2026년 4월 기준)<br> <br> 1️⃣ 네덜란드 승인 확인<br> RDW가 Tesla FSD Supervised에 대해 국가 형식 승인을 부여한 것은 사실이며, 현재 해당 승인은 네덜란드 내에서만 유효<br> <br> 2️⃣ EU 레벨 논의 예정<br> 2026년 5월, 유럽 작업 그룹에서 각국 형식 승인 기관들과 함께 해당 승인 내용이 공식적으로 설명 및 검토될 예정<br> <br> 3️⃣ 벨기에 절차 진행 중<br> Department of Mobility and Public Works 측 확인에 따르면, EU 논의 이후 벨기에 적용을 위한 평가 및 승인 절차가 계속 진행될 계획<br> <br> 4️⃣ 핵심 의미<br> 단일 국가 승인 → EU 확산 구조로 전환되는 초기 단계<br> FSD Supervised의 유럽 내 규제 장벽이 점진적으로 해소되는 흐름<br> <br> 5️⃣ 투자 관점 포인트<br> • 유럽 시장 내 FSD 확장 가능성 현실화<br> • 국가별 승인 → EU 전역 확산의 테스트 케이스<br> • 규제 리스크 완화 시 소프트웨어 수익 모델 가속 기대<br> <br> 👉 결론:<br> 네덜란드를 시작으로 EU 전체 확산을 위한 첫 공식 단계 진입.<br> 벨기에는 그 다음 타깃 중 하나로, 실제 승인 프로세스가 “논의 단계 → 실행 단계”로 이동 중.</p> <img src=\"https://nitter.net/pic/media%2FHG6tM1rbkAE0and.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Jonas DM. (@dm_jns)</b> <p> <p>🇧🇪 Huge news, Tesla FSD Supervised moving forward in Belgium!<br> <br> Flemish homologation has personally contacted me regarding the Dutch RDW type approval for Tesla FSD Supervised.<br> <br> Here’s the full translated email:<br> <br> Dear,<br> It is correct that RDW (Netherlands) has granted a National type approval. However, at this moment it is only valid in the Netherlands. Next month (05/2026) the Dutch approval will be explained and discussed in a European working group with the various type approval authorities of the member states. After that we can continue the evaluation.<br> Kind regards,<br> Team Homologie<br> DEPARTMENT OF MOBILITY & PUBLIC WORKS<br> <br> This confirms the approval is real and the process for Belgium is actively continuing after the May 2026 EU meeting. <br> Huge progress for FSD in Belgium!🚀</p> <img src=\"https://nitter.net/pic/media%2FHG6ahEubgAAZ-em.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/dm_jns/status/2048744780645998888#m\">https://nitter.net/dm_jns/status/2048744780645998888#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 Tesla FSD 유럽 확장, 벨기에 진입 신호 포착 (2026년 4월 기준)<br> <br> 1️⃣ 네덜란드 승인 확인<br> RDW가 Tesla FSD Supervised에 대해 국가 형식 승인을 부여한 것은 사실이며, 현재 해당 승인은 네덜란드 내에서만 유효<br> <br> 2️⃣ EU 레벨 논의 예정<br> 2026년 5월, 유럽 작업 그룹에서 각국 형식 승인 기관들과 함께 해당 승인 내용이 공식적으로 설명 및 검토될 예정<br> <br> 3️⃣ 벨기에 절차 진행 중<br> Department of Mobility and Public Works 측 확인에 따르면, EU 논의 이후 벨기에 적용을 위한 평가 및 승인 절차가 계속 진행될 계획<br> <br> 4️⃣ 핵심 의미<br> 단일 국가 승인 → EU 확산 구조로 전환되는 초기 단계<br> FSD Supervised의 유럽 내 규제 장벽이 점진적으로 해소되는 흐름<br> <br> 5️⃣ 투자 관점 포인트<br> • 유럽 시장 내 FSD 확장 가능성 현실화<br> • 국가별 승인 → EU 전역 확산의 테스트 케이스<br> • 규제 리스크 완화 시 소프트웨어 수익 모델 가속 기대<br> <br> 👉 결론:<br> 네덜란드를 시작으로 EU 전체 확산을 위한 첫 공식 단계 진입.<br> 벨기에는 그 다음 타깃 중 하나로, 실제 승인 프로세스가 “논의 단계 → 실행 단계”로 이동 중.</p> <img src=\"https://nitter.net/pic/media%2FHG6tM1rbkAE0and.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Jonas DM. (@dm_jns)</b> <p> <p>🇧🇪 Huge news, Tesla FSD Supervised moving forward in Belgium!<br> <br> Flemish homologation has personally contacted me regarding the Dutch RDW type approval for Tesla FSD Supervised.<br> <br> Here’s the full translated email:<br> <br> Dear,<br> It is correct that RDW (Netherlands) has granted a National type approval. However, at this moment it is only valid in the Netherlands. Next month (05/2026) the Dutch approval will be explained and discussed in a European working group with the various type approval authorities of the member states. After that we can continue the evaluation.<br> Kind regards,<br> Team Homologie<br> DEPARTMENT OF MOBILITY & PUBLIC WORKS<br> <br> This confirms the approval is real and the process for Belgium is actively continuing after the May 2026 EU meeting. <br> Huge progress for FSD in Belgium!🚀</p> <img src=\"https://nitter.net/pic/media%2FHG6ahEubgAAZ-em.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/dm_jns/status/2048744780645998888#m\">https://nitter.net/dm_jns/status/2048744780645998888#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 14:04:51 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048765322908569648",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG6tM1rbkAE0and.jpg",
+          "summary": "🚨 Tesla FSD 유럽 확장, 벨기에 진입 신호 포착 (2026년 4월 기준) 1️⃣ 네덜란드 승인 확인 RDW가 Tesla FSD Supervised에 대해 국가 형식 승인을 부여한 것은 사실이며, 현재 해당 승인은 네덜란드 내에서만 유효 2️⃣ EU 레벨 논의 예정 2026년 5월, 유럽 작업 그룹에서 각국 형식 승인 기관들과 함께 해당 승인 내용이 공식적으로 설명 및 검토될 예정 ...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG6tM1rbkAE0and.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "아니, 블룸버그의 거짓 기사에 매번 이렇게 속는다고? 대단하다 대단해... 😅",
+          "link": "https://nitter.net/TeslaZoa/status/2048764772678840432#m",
+          "description": "<p>아니, 블룸버그의 거짓 기사에 매번 이렇게 속는다고? <br> <br> 대단하다 대단해... 😅</p> <img src=\"https://nitter.net/pic/media%2FHG6ss1BbYAAx0BL.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>아니, 블룸버그의 거짓 기사에 매번 이렇게 속는다고? <br> <br> 대단하다 대단해... 😅</p> <img src=\"https://nitter.net/pic/media%2FHG6ss1BbYAAx0BL.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Mon, 27 Apr 2026 14:02:40 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048764772678840432",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG6ss1BbYAAx0BL.jpg",
+          "summary": "아니, 블룸버그의 거짓 기사에 매번 이렇게 속는다고? 대단하다 대단해... 😅",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG6ss1BbYAAx0BL.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🇰🇷 Tesla Model Y L deliveries are set to begin for customers in Korea starting tomorrow. Preparations at the delivery location, IKEA Gwangmyeong, appear to be complete. Source: TKC Naver Cafe u/경기T맨시티",
+          "link": "https://nitter.net/TeslaZoa/status/2048763396548620562#m",
+          "description": "<p>🇰🇷 Tesla Model Y L deliveries are set to begin for customers in Korea starting tomorrow.<br> <br> Preparations at the delivery location, IKEA Gwangmyeong, appear to be complete.<br> <br> Source: TKC Naver Cafe u/경기T맨시티</p> <img src=\"https://nitter.net/pic/media%2FHG6rcvla8AEiMD3.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>🇰🇷 Tesla Model Y L deliveries are set to begin for customers in Korea starting tomorrow.<br> <br> Preparations at the delivery location, IKEA Gwangmyeong, appear to be complete.<br> <br> Source: TKC Naver Cafe u/경기T맨시티</p> <img src=\"https://nitter.net/pic/media%2FHG6rcvla8AEiMD3.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Mon, 27 Apr 2026 13:57:12 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048763396548620562",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG6rcvla8AEiMD3.jpg",
+          "summary": "🇰🇷 Tesla Model Y L deliveries are set to begin for customers in Korea starting tomorrow. Preparations at the delivery location, IKEA Gwangmyeong, appear to be complete. Source: TKC Naver Cafe u/경기T맨시티",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG6rcvla8AEiMD3.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🇰🇷 한국 직장인이 회식•저녁 모임을 피하고 싶어하는 이유 1. 개인 시간• 휴식 시간이 부족해서 2. 불필요한 지출이 부담돼서 3. 억지로 술을 마셔야 하는 분위기 때문에",
+          "link": "https://nitter.net/TeslaZoa/status/2048761568268329008#m",
+          "description": "<p>🇰🇷 한국 직장인이 회식•저녁 모임을 피하고 싶어하는 이유<br> <br> 1. 개인 시간• 휴식 시간이 부족해서<br> 2. 불필요한 지출이 부담돼서<br> 3. 억지로 술을 마셔야 하는 분위기 때문에</p> <img src=\"https://nitter.net/pic/media%2FHG6pyL4akAASLqb.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>🇰🇷 한국 직장인이 회식•저녁 모임을 피하고 싶어하는 이유<br> <br> 1. 개인 시간• 휴식 시간이 부족해서<br> 2. 불필요한 지출이 부담돼서<br> 3. 억지로 술을 마셔야 하는 분위기 때문에</p> <img src=\"https://nitter.net/pic/media%2FHG6pyL4akAASLqb.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Mon, 27 Apr 2026 13:49:56 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048761568268329008",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG6pyL4akAASLqb.jpg",
+          "summary": "🇰🇷 한국 직장인이 회식•저녁 모임을 피하고 싶어하는 이유 1. 개인 시간• 휴식 시간이 부족해서 2. 불필요한 지출이 부담돼서 3. 억지로 술을 마셔야 하는 분위기 때문에",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG6pyL4akAASLqb.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "Teslazoa is collaborating with global Tesla accessories brand Jowua. • When purchasing @Jowua products, enter the referral code “Teslazoa” to receive a 5% discount. • You can shop and place orders via the link below 👇 https://www.jowua-life.com/ko-kr?discount=Teslazoa&ghref=5866%3A1284806",
           "link": "https://nitter.net/TeslaZoa/status/2048748771832738042#m",
@@ -4940,7 +5055,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777295272406,
+      "lastUpdated": 1777298871528,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5418,7 +5533,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777295273111,
+      "lastUpdated": 1777298872261,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5827,7 +5942,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777295274510,
+      "lastUpdated": 1777298873584,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6282,7 +6397,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777295274763,
+      "lastUpdated": 1777298873832,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6292,13 +6407,36 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
     },
     {
       "title": "SETI Park / @seti_park",
       "url": "https://nitter.net/seti_park/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "RT by @seti_park: 헐",
+          "link": "https://nitter.net/GONOGO_Korea/status/2048753902619922864#m",
+          "description": "<p>헐</p> <img src=\"https://nitter.net/pic/media%2FHG6ixWBaoAAyC3-.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>헐</p> <img src=\"https://nitter.net/pic/media%2FHG6ixWBaoAAyC3-.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Mon, 27 Apr 2026 13:19:29 GMT",
+          "guid": "https://nitter.net/seti_park/2048753902619922864",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG6ixWBaoAAyC3-.jpg",
+          "summary": "헐",
+          "author": "@GONOGO_Korea",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG6ixWBaoAAyC3-.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "광학은 어렵네요 😵",
           "link": "https://nitter.net/seti_park/status/2048740179658383790#m",
@@ -6829,7 +6967,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777295275736,
+      "lastUpdated": 1777298874753,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6839,7 +6977,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1995779157624766464%2FYivWTqFm_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1995779157624766464%2FYivWTqFm_400x400.jpg"
     },
     {
       "title": "arXiv AI (cs.AI) New Papers",
@@ -7997,7 +8135,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777295275785,
+      "lastUpdated": 1777298874812,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8478,7 +8616,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777295277202,
+      "lastUpdated": 1777298875861,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8634,7 +8772,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777295279076,
+      "lastUpdated": 1777298877438,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8686,7 +8824,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777295279228,
+      "lastUpdated": 1777298877590,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9304,7 +9442,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777295279805,
+      "lastUpdated": 1777298877792,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9327,7 +9465,7 @@
           "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
           "description": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
           "content": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-          "pubDate": "Mon, 27 Apr 2026 06:00:00 GMT",
+          "pubDate": "Mon, 27 Apr 2026 13:00:00 GMT",
           "guid": "https://openai.com/index/next-phase-of-microsoft-partnership",
           "read": false,
           "starred": false,
@@ -10473,7 +10611,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777295280414,
+      "lastUpdated": 1777298878616,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10514,7 +10652,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777295280414,
+  "lastRefreshTimestamp": 1777298878616,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
