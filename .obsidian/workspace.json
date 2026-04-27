@@ -28,6 +28,16 @@
             }
           },
           {
+            "id": "36234dd704cbf6c7",
+            "type": "leaf",
+            "state": {
+              "type": "rss-discover-view",
+              "state": {},
+              "icon": "compass",
+              "title": "RSS discover"
+            }
+          },
+          {
             "id": "1ed6f05072569151",
             "type": "leaf",
             "state": {
