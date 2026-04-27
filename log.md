@@ -4,6 +4,12 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
+## [2026-04-27] create | Research Agent 설계 계획
+- **문서**: `entities/research-agent-설계-계획.md`
+- **내용**: 연구 에이전트 도구 분류, Design Patterns, 6단계 워크플로우, 구현 태스크 5개
+- **인사이트**: 사용자 제공 "연구 전문가 스킬" 요구사항 기반
+- **다음**: writing-plans → subagent-driven-development 순서로 실행
+
 ## [2026-04-27] ingest | wikidocs '하네스 엔지니어링 입문' 스크래핑
 
 - **來源**: https://wikidocs.net/book/19559

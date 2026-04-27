@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-27 | Total pages: 20 (6 concepts + 14 entities)
+> Last updated: 2026-04-27 | Total pages: 21 (6 concepts + 15 entities)
 
 ## Entities
 
@@ -18,6 +18,7 @@
 - [[context-rot]] — LLM 긴 컨텍스트 성능 저하 현상
 - [[harness-engineering-wikidocs]] — 위키독스 '하네스 엔지니어링 입문' 요약 (Layer 1-4 local harness)
 - [[harness-engineering]] — AWS Deep Insight 기반 하네스 엔지니어링 개념 (Layer 5-6 production harness)
+- [[research-agent-설계-계획]] — 초보자 Senior-level AI 협업 연구 에이전트 시스템 설계 (Multi-Agent Workflow + 도구 통합)
 
 ## Concepts
 
