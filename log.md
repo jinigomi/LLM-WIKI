@@ -4,6 +4,20 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
+## [2026-04-27] ingest | wikidocs '하네스 엔지니어링 입문' 스크래핑
+
+- **來源**: https://wikidocs.net/book/19559
+- **수집**: 10/13 챕터 (3.5, 4, 5장은 '작성중' 상태)
+- **파일**: `raw/books/하네스-엔지니어링-입문-wikidocs.md`
+- **요약**: `entities/harness-engineering-wikidocs.md`
+- **분석**: `entities/harness-engineering-wikidocs.md` 심층 분석 섹션
+- **보고서**: `/Users/bricoleur/secall/하네스-엔지니어링-심층-분석-보고서.md`
+
+### Lint 수정
+- `harness-engineering-wikidocs.md`: `updated` 필드 추가, frontmatter 오류 수정
+- `raw/books/하네스-엔지니어링-입문-wikidocs.md`: raw frontmatter 형식 추가
+- `index.md`: 2개 새 entity 등록, last updated 갱신, 총 페이지 20개
+
 ## [2026-04-26] lint | Wiki lint performed — 11 checks, all errors fixed
 
 ### Errors fixed

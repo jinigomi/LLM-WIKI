@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-26 | Total pages: 18 (6 concepts + 12 entities)
+> Last updated: 2026-04-27 | Total pages: 20 (6 concepts + 14 entities)
 
 ## Entities
 
@@ -11,14 +11,13 @@
 - [[기억하는-개발]] — Obsidian에 모든 맥락을 영구 저장하는 개발 패러다임
 - [[오케스트레이션]] — 지휘자(CD)/현장책임자(CC)/기억저장소(Obsidian) 세 역할 분배
 - [[엔지니어링-사고-초보자]] — 초보자용 5-phase 엔지니어링 사고 프레임워크
-- [[기획-노트와-세션-로그]] — Obsidian 기반 프로젝트 기억 시스템의 두 핵심 문서
-- [[프로젝트-개요]] — Engineering Mindset 프로젝트 개요
-- [[체크리스트]] — Engineering Mindset 체크리스트
 - [[설계]] — smart-video-speed 프로젝트 설계
 - [[챕터-요약]] — 바이브코딩 책 챕터 요약
 - [[세션-백업-cron]] — 매일 3:50 AM 세션을 wiki에 자동 보존하는 cron job
 - [[2026-04-26]] — Engineering Mindset 세션 로그
 - [[context-rot]] — LLM 긴 컨텍스트 성능 저하 현상
+- [[harness-engineering-wikidocs]] — 위키독스 '하네스 엔지니어링 입문' 요약 (Layer 1-4 local harness)
+- [[harness-engineering]] — AWS Deep Insight 기반 하네스 엔지니어링 개념 (Layer 5-6 production harness)
 
 ## Concepts
 
@@ -34,6 +33,7 @@ _raw/ 디렉토리에 있음. Obsidian에서 직접 탐색._
 
 - `raw/articles/` — 8개 완성 기사 (Anthropic 7개 + TryChroma 1개)
 - `raw/archived-stubs/` — 19개 스텁 (원본 아티클, 내용 아직 미수집)
+- `raw/books/` — 1개 책 (위키독스 '하네스 엔지니어링 입문', 2026-04-27)
 - `raw/papers/` — 1개 논문
 - `raw/transcripts/sessions/` — 6개 세션 로그
 
