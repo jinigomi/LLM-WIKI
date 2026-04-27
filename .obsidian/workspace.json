@@ -50,9 +50,19 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "bd5c1c3b884f8a25",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -252,7 +262,7 @@
       "yolo:Open chat": false
     }
   },
-  "active": "8345a98a51aa78c3",
+  "active": "bd5c1c3b884f8a25",
   "lastOpenFiles": [
     "index.md",
     "log.md",
