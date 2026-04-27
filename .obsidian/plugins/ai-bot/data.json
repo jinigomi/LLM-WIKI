@@ -1,6 +1,0 @@
-{
-  "baseURL": "https://integrate.api.nvidia.com/v1",
-  "apiKey": "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",
-  "model": "minimaxai/minimax-m2.7",
-  "maxTokens": 32768
-}
