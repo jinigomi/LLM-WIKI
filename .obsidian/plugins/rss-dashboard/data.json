@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777327665569,
+      "lastUpdated": 1777331265366,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -188,7 +188,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777327665661,
+      "lastUpdated": 1777331265596,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -597,7 +597,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777327665777,
+      "lastUpdated": 1777331265714,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -850,7 +850,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777327665899,
+      "lastUpdated": 1777331265837,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -868,6 +868,32 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGQd6nRgbPenEigRfkYegsw",
       "folder": "Videos",
       "items": [
+        {
+          "title": "속보! 테슬라 투자는 올해가 최적의 기회! / 금주 빅테크 5개 기업 실적 발표!",
+          "link": "https://www.youtube.com/watch?v=s4gdR_SHJmw",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-27T22:02:54+00:00",
+          "guid": "yt:video:s4gdR_SHJmw",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "아트라온 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGQd6nRgbPenEigRfkYegsw",
+          "coverImage": "https://img.youtube.com/vi/s4gdR_SHJmw/maxresdefault.jpg",
+          "summary": "",
+          "author": "아트라온 TV",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "s4gdR_SHJmw"
+        },
         {
           "title": "속보! 사이버캡 생산 공식 스타트! / 테슬라 시작이다! 견디고 또 견뎌라!",
           "link": "https://www.youtube.com/watch?v=cJoEw5QZ_2o",
@@ -1259,7 +1285,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777327666020,
+      "lastUpdated": 1777331265959,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1668,7 +1694,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777327666140,
+      "lastUpdated": 1777331266083,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1895,7 +1921,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777327666253,
+      "lastUpdated": 1777331266205,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2914,7 +2940,7 @@
           "image": ""
         }
       ],
-      "lastUpdated": 1777327667766,
+      "lastUpdated": 1777331267729,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4333,7 +4359,7 @@
           }
         }
       ],
-      "lastUpdated": 1777327668812,
+      "lastUpdated": 1777331268747,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4351,7 +4377,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777327668949,
+      "lastUpdated": 1777331268860,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4369,7 +4395,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777327669180,
+      "lastUpdated": 1777331269128,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4387,6 +4413,144 @@
       "url": "https://nitter.net/TeslaZoa/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "🚨 “악천후로 발사 연기” — SpaceX Falcon Heavy 1️⃣ Falcon Heavy, Viasat-3 F3 임무 발사 중단 2️⃣ 원인: 불리한 기상 조건 3️⃣ 로켓 및 탑재체 상태는 모두 정상 4️⃣ 새로운 발사 일정은 추후 공지 예정",
+          "link": "https://nitter.net/TeslaZoa/status/2048900822789161176#m",
+          "description": "<p>🚨 “악천후로 발사 연기” — SpaceX Falcon Heavy<br> <br> 1️⃣ Falcon Heavy, Viasat-3 F3 임무 발사 중단<br> 2️⃣ 원인: 불리한 기상 조건<br> 3️⃣ 로켓 및 탑재체 상태는 모두 정상<br> 4️⃣ 새로운 발사 일정은 추후 공지 예정</p> <hr/> <blockquote> <b>SpaceX (@SpaceX)</b> <p> <p>Standing down from today’s Falcon Heavy launch of the <a href=\"https://nitter.net/viasat\" title=\"Viasat\">@viasat</a>-3 F3 mission due to unfavorable weather. Vehicle and payload remain healthy. A new target date will be shared once confirmed</p> </p> <footer> — <cite><a href=\"https://nitter.net/SpaceX/status/2048771625688956962#m\">https://nitter.net/SpaceX/status/2048771625688956962#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 “악천후로 발사 연기” — SpaceX Falcon Heavy<br> <br> 1️⃣ Falcon Heavy, Viasat-3 F3 임무 발사 중단<br> 2️⃣ 원인: 불리한 기상 조건<br> 3️⃣ 로켓 및 탑재체 상태는 모두 정상<br> 4️⃣ 새로운 발사 일정은 추후 공지 예정</p> <hr/> <blockquote> <b>SpaceX (@SpaceX)</b> <p> <p>Standing down from today’s Falcon Heavy launch of the <a href=\"https://nitter.net/viasat\" title=\"Viasat\">@viasat</a>-3 F3 mission due to unfavorable weather. Vehicle and payload remain healthy. A new target date will be shared once confirmed</p> </p> <footer> — <cite><a href=\"https://nitter.net/SpaceX/status/2048771625688956962#m\">https://nitter.net/SpaceX/status/2048771625688956962#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 23:03:17 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048900822789161176",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "",
+          "summary": "🚨 “악천후로 발사 연기” — SpaceX Falcon Heavy 1️⃣ Falcon Heavy, Viasat-3 F3 임무 발사 중단 2️⃣ 원인: 불리한 기상 조건 3️⃣ 로켓 및 탑재체 상태는 모두 정상 4️⃣ 새로운 발사 일정은 추후 공지 예정 SpaceX (@SpaceX) Standing down from today’s Falcon Heavy launch of the @viasat...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🚨 “Tesla Semi, 실제 화물 노선 투입” — AiLO Logistics 1️⃣ Tesla Semi, 3주간 실제 화물 노선 시범 운행 시작 2️⃣ 여러 고객 대상 실사용 환경에서 테스트 3️⃣ 결론: 파일럿 넘어 상업 운송 단계 초기 진입",
+          "link": "https://nitter.net/TeslaZoa/status/2048900393342804407#m",
+          "description": "<p>🚨 “Tesla Semi, 실제 화물 노선 투입” — AiLO Logistics<br> <br> 1️⃣ Tesla Semi, 3주간 실제 화물 노선 시범 운행 시작<br> 2️⃣ 여러 고객 대상 실사용 환경에서 테스트<br> 3️⃣ 결론: 파일럿 넘어 상업 운송 단계 초기 진입</p> <hr/> <blockquote> <b>Sawyer Merritt (@SawyerMerritt)</b> <p> <p>AiLO Logistics, a freight brokerage and asset-based carrier, has begun a three-week pilot of the <a href=\"https://nitter.net/Tesla\" title=\"Tesla\">@Tesla</a> Semi on live freight routes. The vehicle will be serving multiple customers.<br> <br> “Sustainability is built into how we operate at AiLO, not just what we talk about. Putting the Tesla Semi to work on live freight lanes is a direct extension of that commitment.” <a href=\"https://evwire.com/p/tesla-semi-ailo-pilot-details\">evwire.com/p/tesla-semi-ailo…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048809337343049728%2FuzRdmQCa%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/SawyerMerritt/status/2048795522295545920#m\">https://nitter.net/SawyerMerritt/status/2048795522295545920#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 “Tesla Semi, 실제 화물 노선 투입” — AiLO Logistics<br> <br> 1️⃣ Tesla Semi, 3주간 실제 화물 노선 시범 운행 시작<br> 2️⃣ 여러 고객 대상 실사용 환경에서 테스트<br> 3️⃣ 결론: 파일럿 넘어 상업 운송 단계 초기 진입</p> <hr/> <blockquote> <b>Sawyer Merritt (@SawyerMerritt)</b> <p> <p>AiLO Logistics, a freight brokerage and asset-based carrier, has begun a three-week pilot of the <a href=\"https://nitter.net/Tesla\" title=\"Tesla\">@Tesla</a> Semi on live freight routes. The vehicle will be serving multiple customers.<br> <br> “Sustainability is built into how we operate at AiLO, not just what we talk about. Putting the Tesla Semi to work on live freight lanes is a direct extension of that commitment.” <a href=\"https://evwire.com/p/tesla-semi-ailo-pilot-details\">evwire.com/p/tesla-semi-ailo…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048809337343049728%2FuzRdmQCa%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/SawyerMerritt/status/2048795522295545920#m\">https://nitter.net/SawyerMerritt/status/2048795522295545920#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 23:01:35 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048900393342804407",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/card_img%2F2048809337343049728%2FuzRdmQCa%3Fformat%3Djpg%26name%3D800x419",
+          "summary": "🚨 “Tesla Semi, 실제 화물 노선 투입” — AiLO Logistics 1️⃣ Tesla Semi, 3주간 실제 화물 노선 시범 운행 시작 2️⃣ 여러 고객 대상 실사용 환경에서 테스트 3️⃣ 결론: 파일럿 넘어 상업 운송 단계 초기 진입 Sawyer Merritt (@SawyerMerritt) AiLO Logistics, a freight brokerage and asset-ba...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/card_img%2F2048809337343049728%2FuzRdmQCa%3Fformat%3Djpg%26name%3D800x419",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🚨 “북유럽 공공도로 FSD 테스트 승인” — Tesla, 스웨덴 확대 1️⃣ Strängnäs 공공 도로에서 FSD(Supervised) 테스트 승인 2️⃣ Transportstyrelsen 최종 승인 후 1년간 유효 3️⃣ 안전 운전자 필수 조건 하에 운영 4️⃣ 기존 주 도로에 이어 공공 시립 도로까지 확대 5️⃣ 결론: 북유럽 환경에서 데이터 확보 + 인간 오류 감소 통한 교통 안전 개선 기대",
+          "link": "https://nitter.net/TeslaZoa/status/2048900238786863429#m",
+          "description": "<p>🚨 “북유럽 공공도로 FSD 테스트 승인” — Tesla, 스웨덴 확대<br> <br> 1️⃣ Strängnäs 공공 도로에서 FSD(Supervised) 테스트 승인<br> 2️⃣ Transportstyrelsen 최종 승인 후 1년간 유효<br> 3️⃣ 안전 운전자 필수 조건 하에 운영<br> 4️⃣ 기존 주 도로에 이어 공공 시립 도로까지 확대<br> 5️⃣ 결론: 북유럽 환경에서 데이터 확보 + 인간 오류 감소 통한 교통 안전 개선 기대</p> <img src=\"https://nitter.net/pic/media%2FHG8n6BkagAEq02_.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Sawyer Merritt (@SawyerMerritt)</b> <p> <p>Tesla has been given approval to test FSD (Supervised) on public roads in Strängnäs, Sweden.<br> <br> • Valid for 1 year after Sweden’s Transport Agency (Transportstyrelsen) gives final approval<br> • Safety drivers required<br> • Covers public municipal roads (Tesla already has state road approval)<br> <br> The municipality notes that automated driving can \"significantly improve traffic safety\" by reducing human error, and the importance of real-world data collection in Nordic conditions.</p> <img src=\"https://nitter.net/pic/media%2FHG7QKPUaoAAznep.png\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/SawyerMerritt/status/2048803852544069701#m\">https://nitter.net/SawyerMerritt/status/2048803852544069701#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 “북유럽 공공도로 FSD 테스트 승인” — Tesla, 스웨덴 확대<br> <br> 1️⃣ Strängnäs 공공 도로에서 FSD(Supervised) 테스트 승인<br> 2️⃣ Transportstyrelsen 최종 승인 후 1년간 유효<br> 3️⃣ 안전 운전자 필수 조건 하에 운영<br> 4️⃣ 기존 주 도로에 이어 공공 시립 도로까지 확대<br> 5️⃣ 결론: 북유럽 환경에서 데이터 확보 + 인간 오류 감소 통한 교통 안전 개선 기대</p> <img src=\"https://nitter.net/pic/media%2FHG8n6BkagAEq02_.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Sawyer Merritt (@SawyerMerritt)</b> <p> <p>Tesla has been given approval to test FSD (Supervised) on public roads in Strängnäs, Sweden.<br> <br> • Valid for 1 year after Sweden’s Transport Agency (Transportstyrelsen) gives final approval<br> • Safety drivers required<br> • Covers public municipal roads (Tesla already has state road approval)<br> <br> The municipality notes that automated driving can \"significantly improve traffic safety\" by reducing human error, and the importance of real-world data collection in Nordic conditions.</p> <img src=\"https://nitter.net/pic/media%2FHG7QKPUaoAAznep.png\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/SawyerMerritt/status/2048803852544069701#m\">https://nitter.net/SawyerMerritt/status/2048803852544069701#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 23:00:58 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048900238786863429",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG8n6BkagAEq02_.jpg",
+          "summary": "🚨 “북유럽 공공도로 FSD 테스트 승인” — Tesla, 스웨덴 확대 1️⃣ Strängnäs 공공 도로에서 FSD(Supervised) 테스트 승인 2️⃣ Transportstyrelsen 최종 승인 후 1년간 유효 3️⃣ 안전 운전자 필수 조건 하에 운영 4️⃣ 기존 주 도로에 이어 공공 시립 도로까지 확대 5️⃣ 결론: 북유럽 환경에서 데이터 확보 + 인간 오류 감소 통한 교통 안전...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG8n6BkagAEq02_.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🚨 엔지니어와 3시간 대화, Tesla는 완전히 다른 회사 — Jason Cammisa 발언 1️⃣ 차량 엔지니어링 책임자 Lars와 디자이너 Franz von Holzhausen까지 직접 참여 2️⃣ “자동차·데이터·엔지니어링에 완전히 몰입한 사람들”이라는 평가 3️⃣ Tesla는 조직 문화 자체가 엔지니어 중심",
+          "link": "https://nitter.net/TeslaZoa/status/2048899394599272744#m",
+          "description": "<p>🚨 엔지니어와 3시간 대화, Tesla는 완전히 다른 회사 — Jason Cammisa 발언<br> <br> 1️⃣ 차량 엔지니어링 책임자 Lars와 디자이너 Franz von Holzhausen까지 직접 참여<br> 2️⃣ “자동차·데이터·엔지니어링에 완전히 몰입한 사람들”이라는 평가<br> 3️⃣ Tesla는 조직 문화 자체가 엔지니어 중심</p> <a href=\"https://nitter.net/TeslaZoa/status/2048899394599272744#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048862770976727040%2Fimg%2FfVOZ1EIdQe-hn621.jpg\" style=\"max-width:250px;\" /> </a> <hr/> <blockquote> <b>Sawyer Merritt (@SawyerMerritt)</b> <p> <p>Jason Cammisa on <a href=\"https://nitter.net/Tesla\" title=\"Tesla\">@Tesla</a> giving him access to the Model S Signature:<br> <br> \"I said I need some time with Lars (VP of Vehicle Engineering). And they said: \"we'll do one better. Let's get Lars and Franz and we'll send 45 minutes together.\" It ended up being 3 hours; These are the coolest guys you'll meet. They are total car, data and engineering nerds.\"<br> <br> (via The Carmudgeon Show). Full podcast linked below:</p> <a href=\"https://nitter.net/SawyerMerritt/status/2048863126024798463#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048862770976727040%2Fimg%2FfVOZ1EIdQe-hn621.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/SawyerMerritt/status/2048863126024798463#m\">https://nitter.net/SawyerMerritt/status/2048863126024798463#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 엔지니어와 3시간 대화, Tesla는 완전히 다른 회사 — Jason Cammisa 발언<br> <br> 1️⃣ 차량 엔지니어링 책임자 Lars와 디자이너 Franz von Holzhausen까지 직접 참여<br> 2️⃣ “자동차·데이터·엔지니어링에 완전히 몰입한 사람들”이라는 평가<br> 3️⃣ Tesla는 조직 문화 자체가 엔지니어 중심</p> <a href=\"https://nitter.net/TeslaZoa/status/2048899394599272744#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048862770976727040%2Fimg%2FfVOZ1EIdQe-hn621.jpg\" style=\"max-width:250px;\" /> </a> <hr/> <blockquote> <b>Sawyer Merritt (@SawyerMerritt)</b> <p> <p>Jason Cammisa on <a href=\"https://nitter.net/Tesla\" title=\"Tesla\">@Tesla</a> giving him access to the Model S Signature:<br> <br> \"I said I need some time with Lars (VP of Vehicle Engineering). And they said: \"we'll do one better. Let's get Lars and Franz and we'll send 45 minutes together.\" It ended up being 3 hours; These are the coolest guys you'll meet. They are total car, data and engineering nerds.\"<br> <br> (via The Carmudgeon Show). Full podcast linked below:</p> <a href=\"https://nitter.net/SawyerMerritt/status/2048863126024798463#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048862770976727040%2Fimg%2FfVOZ1EIdQe-hn621.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/SawyerMerritt/status/2048863126024798463#m\">https://nitter.net/SawyerMerritt/status/2048863126024798463#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 22:57:37 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048899394599272744",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2048862770976727040%2Fimg%2FfVOZ1EIdQe-hn621.jpg",
+          "summary": "🚨 엔지니어와 3시간 대화, Tesla는 완전히 다른 회사 — Jason Cammisa 발언 1️⃣ 차량 엔지니어링 책임자 Lars와 디자이너 Franz von Holzhausen까지 직접 참여 2️⃣ “자동차·데이터·엔지니어링에 완전히 몰입한 사람들”이라는 평가 3️⃣ Tesla는 조직 문화 자체가 엔지니어 중심 Video Sawyer Merritt (@SawyerMerritt) Jaso...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/amplify_video_thumb%2F2048862770976727040%2Fimg%2FfVOZ1EIdQe-hn621.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🚨 Jason Cammisa, Tesla 핵심 평가 1️⃣ Tesla Model S는 10년 가까이 됐지만 업데이트로 자율주행·주차 기능까지 추가 2️⃣ 일반 차량은 출고 이후 기능이 고정되지만 Tesla는 지속적으로 진화 3️⃣ “10년 된 차가 기능을 계속 추가받는 사례는 없다”",
+          "link": "https://nitter.net/TeslaZoa/status/2048898351631114269#m",
+          "description": "<p>🚨 Jason Cammisa, Tesla 핵심 평가<br> <br> 1️⃣ Tesla Model S는 10년 가까이 됐지만 업데이트로 자율주행·주차 기능까지 추가<br> 2️⃣ 일반 차량은 출고 이후 기능이 고정되지만 Tesla는 지속적으로 진화<br> 3️⃣ “10년 된 차가 기능을 계속 추가받는 사례는 없다”</p> <a href=\"https://nitter.net/TeslaZoa/status/2048898351631114269#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048871817599991808%2Fimg%2FnPKbIUle0mJhU1xk.jpg\" style=\"max-width:250px;\" /> </a> <hr/> <blockquote> <b>Sawyer Merritt (@SawyerMerritt)</b> <p> <p>Jason Cammisa on software-defined vehicles being <a href=\"https://nitter.net/Tesla\" title=\"Tesla\">@Tesla</a>’s idea:<br> <br> “The car (Model S) itself that I drove is nearly 10 years old. It drove itself the whole way. Think about that. My e-Golf is a 2019; it left the factory, and it’s static from here on out. But here is this car (Model S) that has evolved and gotten additional features, and it can f**cking drive itself. It pulled into the parking lot. What 10-year-old car in the industry gains features? None. That’s when you start to think this company is just different.”<br> <br> via The Carmudgeon Show: <a href=\"https://piped.video/watch?v=q2WfYEaiPbQ\">piped.video/watch?v=q2WfYEai…</a></p> <a href=\"https://nitter.net/SawyerMerritt/status/2048872027877200312#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048871817599991808%2Fimg%2FnPKbIUle0mJhU1xk.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/SawyerMerritt/status/2048872027877200312#m\">https://nitter.net/SawyerMerritt/status/2048872027877200312#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 Jason Cammisa, Tesla 핵심 평가<br> <br> 1️⃣ Tesla Model S는 10년 가까이 됐지만 업데이트로 자율주행·주차 기능까지 추가<br> 2️⃣ 일반 차량은 출고 이후 기능이 고정되지만 Tesla는 지속적으로 진화<br> 3️⃣ “10년 된 차가 기능을 계속 추가받는 사례는 없다”</p> <a href=\"https://nitter.net/TeslaZoa/status/2048898351631114269#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048871817599991808%2Fimg%2FnPKbIUle0mJhU1xk.jpg\" style=\"max-width:250px;\" /> </a> <hr/> <blockquote> <b>Sawyer Merritt (@SawyerMerritt)</b> <p> <p>Jason Cammisa on software-defined vehicles being <a href=\"https://nitter.net/Tesla\" title=\"Tesla\">@Tesla</a>’s idea:<br> <br> “The car (Model S) itself that I drove is nearly 10 years old. It drove itself the whole way. Think about that. My e-Golf is a 2019; it left the factory, and it’s static from here on out. But here is this car (Model S) that has evolved and gotten additional features, and it can f**cking drive itself. It pulled into the parking lot. What 10-year-old car in the industry gains features? None. That’s when you start to think this company is just different.”<br> <br> via The Carmudgeon Show: <a href=\"https://piped.video/watch?v=q2WfYEaiPbQ\">piped.video/watch?v=q2WfYEai…</a></p> <a href=\"https://nitter.net/SawyerMerritt/status/2048872027877200312#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048871817599991808%2Fimg%2FnPKbIUle0mJhU1xk.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/SawyerMerritt/status/2048872027877200312#m\">https://nitter.net/SawyerMerritt/status/2048872027877200312#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 22:53:28 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048898351631114269",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2048871817599991808%2Fimg%2FnPKbIUle0mJhU1xk.jpg",
+          "summary": "🚨 Jason Cammisa, Tesla 핵심 평가 1️⃣ Tesla Model S는 10년 가까이 됐지만 업데이트로 자율주행·주차 기능까지 추가 2️⃣ 일반 차량은 출고 이후 기능이 고정되지만 Tesla는 지속적으로 진화 3️⃣ “10년 된 차가 기능을 계속 추가받는 사례는 없다” Video Sawyer Merritt (@SawyerMerritt) Jason Cammisa on softw...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/amplify_video_thumb%2F2048871817599991808%2Fimg%2FnPKbIUle0mJhU1xk.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "경찰차로 사용되는 사이버트럭은 포스가 남다르네요 😍",
+          "link": "https://nitter.net/TeslaZoa/status/2048897978258382907#m",
+          "description": "<p>경찰차로 사용되는 사이버트럭은 포스가 남다르네요 😍</p> <a href=\"https://nitter.net/TeslaZoa/status/2048897978258382907#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048648315273986048%2Fimg%2F0egV23DAy0haN7Q3.jpg\" style=\"max-width:250px;\" /> </a>",
+          "content": "<p>경찰차로 사용되는 사이버트럭은 포스가 남다르네요 😍</p> <a href=\"https://nitter.net/TeslaZoa/status/2048897978258382907#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048648315273986048%2Fimg%2F0egV23DAy0haN7Q3.jpg\" style=\"max-width:250px;\" /> </a>",
+          "pubDate": "Mon, 27 Apr 2026 22:51:59 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048897978258382907",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2048648315273986048%2Fimg%2F0egV23DAy0haN7Q3.jpg",
+          "summary": "경찰차로 사용되는 사이버트럭은 포스가 남다르네요 😍 Video",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/amplify_video_thumb%2F2048648315273986048%2Fimg%2F0egV23DAy0haN7Q3.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "🚨 Starlink Aviation 책임자 Nick Seitz 발언 요약 1️⃣ “상업 항공기 최초로 2Gbps+ 속도 지원” 기존 기내 WiFi 대비 차원이 다른 초고속 인터넷 환경 구축 2️⃣ “이미 선두지만, 멈추지 않는다” 기내 연결성 시장 1위 수준에서도 지속적인 기술 혁신 강조 3️⃣ “항공기 = 새로운 디지털 플랫폼” 기내 경험, 쇼핑, 업무, 엔터테인먼트 등 다양한 활용 가능성 확대 4️⃣ “경험의 기준 자체를 바꾼다” Starlink 이용 후 기존 항공 WiFi는 만족하기 어려운 수준이라는 자신감",
           "link": "https://nitter.net/TeslaZoa/status/2048879026111226050#m",
@@ -4407,6 +4571,52 @@
           "duration": "",
           "explicit": false,
           "image": "https://nitter.net/pic/media%2FHG8UnSkacAAVZa1.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "RT by @TeslaZoa: From space to your phone, Starlink Mobile is now available to deliver data, voice, video, and messaging to @docomo customers in Japan 🛰️❤️📱",
+          "link": "https://nitter.net/Starlink/status/2048793511701717143#m",
+          "description": "<p>From space to your phone, Starlink Mobile is now available to deliver data, voice, video, and messaging to <a href=\"https://nitter.net/docomo\" title=\"NTTドコモ\">@docomo</a> customers in Japan 🛰️❤️📱</p> <hr/> <blockquote> <b>NTTドコモ (@docomo)</b> <p> <p>／<br> 本日から提供開始✨<br> <a href=\"https://nitter.net/search?f=tweets&q=%23docomoStarlinkDirect\">#docomoStarlinkDirect</a> 🛰️<br> ＼<br> <br> 本日から「docomo Starlink Direct」の提供を開始します！<br> <br> スマホと衛星 <a href=\"https://nitter.net/Starlink\" title=\"Starlink\">@Starlink</a> がつながれば、アプリやテキストメッセージによるデータ通信を、いつでも！どこでも！<br> <br> 対応機種をご利用であれば、ahamo含むドコモの料金プランご契約のすべてのお客さまがご利用になれます。<br> <br> ▼対応機種や対応アプリ、設定方法はこちら<br> <a href=\"http://spr.ly/6010BBJ7Is\">spr.ly/6010BBJ7Is</a></p> <a href=\"https://nitter.net/docomo/status/2048567807357464767#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048557103292305408%2Fimg%2FXbo4FZfaWPV_8Ax0.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/docomo/status/2048567807357464767#m\">https://nitter.net/docomo/status/2048567807357464767#m</a> </footer> </blockquote>",
+          "content": "<p>From space to your phone, Starlink Mobile is now available to deliver data, voice, video, and messaging to <a href=\"https://nitter.net/docomo\" title=\"NTTドコモ\">@docomo</a> customers in Japan 🛰️❤️📱</p> <hr/> <blockquote> <b>NTTドコモ (@docomo)</b> <p> <p>／<br> 本日から提供開始✨<br> <a href=\"https://nitter.net/search?f=tweets&q=%23docomoStarlinkDirect\">#docomoStarlinkDirect</a> 🛰️<br> ＼<br> <br> 本日から「docomo Starlink Direct」の提供を開始します！<br> <br> スマホと衛星 <a href=\"https://nitter.net/Starlink\" title=\"Starlink\">@Starlink</a> がつながれば、アプリやテキストメッセージによるデータ通信を、いつでも！どこでも！<br> <br> 対応機種をご利用であれば、ahamo含むドコモの料金プランご契約のすべてのお客さまがご利用になれます。<br> <br> ▼対応機種や対応アプリ、設定方法はこちら<br> <a href=\"http://spr.ly/6010BBJ7Is\">spr.ly/6010BBJ7Is</a></p> <a href=\"https://nitter.net/docomo/status/2048567807357464767#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048557103292305408%2Fimg%2FXbo4FZfaWPV_8Ax0.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/docomo/status/2048567807357464767#m\">https://nitter.net/docomo/status/2048567807357464767#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 15:56:52 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048793511701717143",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2048557103292305408%2Fimg%2FXbo4FZfaWPV_8Ax0.jpg",
+          "summary": "From space to your phone, Starlink Mobile is now available to deliver data, voice, video, and messaging to @docomo customers in Japan 🛰️❤️📱 NTTドコモ (@docomo) ／ 本日から提供開始✨ #docomoStarlinkDirect 🛰️ ＼ 本日から「docomo Starlink ...",
+          "author": "@Starlink",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/amplify_video_thumb%2F2048557103292305408%2Fimg%2FXbo4FZfaWPV_8Ax0.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "RT by @TeslaZoa: BREAKING: Elon Musk and OpenAI trial officially set to begin today Nearly 50% chance he wins.",
+          "link": "https://nitter.net/Kalshi/status/2048788564712821171#m",
+          "description": "<p>BREAKING: Elon Musk and OpenAI trial officially set to begin today<br> <br> Nearly 50% chance he wins.</p> <img src=\"https://nitter.net/pic/media%2FHG7CV0nakAAf79E.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG7CV0la8AAHkBF.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>BREAKING: Elon Musk and OpenAI trial officially set to begin today<br> <br> Nearly 50% chance he wins.</p> <img src=\"https://nitter.net/pic/media%2FHG7CV0nakAAf79E.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG7CV0la8AAHkBF.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Mon, 27 Apr 2026 15:37:13 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048788564712821171",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG7CV0nakAAf79E.jpg",
+          "summary": "BREAKING: Elon Musk and OpenAI trial officially set to begin today Nearly 50% chance he wins.",
+          "author": "@Kalshi",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG7CV0nakAAf79E.jpg",
           "category": "",
           "episodeType": ""
         },
@@ -4597,8 +4807,8 @@
         {
           "title": "블룸버그 : 테슬라는 일론 머스크의 2018년 스톡옵션을 등록했으며, 이에 따라 향후 추가 매도 가능성이 제기되고 있다. 블룸버그의 이 내용은 거짓입니다. 시장에 영향을 끼칠만할 규모가 있는 매도는 5년 후부터 가능하기 때문입니다. 제발 겁 먹는 주주들이 없기를 바래봅니다.",
           "link": "https://nitter.net/TeslaZoa/status/2048746839009358223#m",
-          "description": "<p>블룸버그 : 테슬라는 일론 머스크의 2018년 스톡옵션을 등록했으며, 이에 따라 향후 추가 매도 가능성이 제기되고 있다.<br> <br> 블룸버그의 이 내용은 거짓입니다. 시장에 영향을 끼칠만할 규모가 있는 매도는 5년 후부터 가능하기 때문입니다. <br> <br> 제발 겁 먹는 주주들이 없기를 바래봅니다.</p> <hr/> <blockquote> <b>*Walter Bloomberg (@DeItaone)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> - TESLA FILES MUSK 2018 STOCK — SALES COULD FOLLOW<br> <br> Tesla registered ~304M shares tied to Elon Musk’s 2018 pay package, allowing them to trade once exercised. It doesn’t mean an immediate sale, but Musk is likely to sell some for taxes when options are used before they expire in 2028.<br> <br> The award survived years of legal battles and is now valued against Tesla’s ~$1.7T market cap (vs ~$70B at grant). Investors expect potential selling pressure, adding volatility to the stock, which is down 16% year-to-date.</p> <p><b>Community note:</b> per the 2018 CEO Performance Award terms (and 2026 implementation agreement), Musk must hold shares from exercising the options for five years after vesting (except to cover taxes/exercise price or limited cases like estate planning). <a href=\"https://nitter.net/t.co/2YuVyWyaf5\">sec.gov/Archives/edgar…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/DeItaone/status/2048733383740551173#m\">https://nitter.net/DeItaone/status/2048733383740551173#m</a> </footer> </blockquote>",
-          "content": "<p>블룸버그 : 테슬라는 일론 머스크의 2018년 스톡옵션을 등록했으며, 이에 따라 향후 추가 매도 가능성이 제기되고 있다.<br> <br> 블룸버그의 이 내용은 거짓입니다. 시장에 영향을 끼칠만할 규모가 있는 매도는 5년 후부터 가능하기 때문입니다. <br> <br> 제발 겁 먹는 주주들이 없기를 바래봅니다.</p> <hr/> <blockquote> <b>*Walter Bloomberg (@DeItaone)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> - TESLA FILES MUSK 2018 STOCK — SALES COULD FOLLOW<br> <br> Tesla registered ~304M shares tied to Elon Musk’s 2018 pay package, allowing them to trade once exercised. It doesn’t mean an immediate sale, but Musk is likely to sell some for taxes when options are used before they expire in 2028.<br> <br> The award survived years of legal battles and is now valued against Tesla’s ~$1.7T market cap (vs ~$70B at grant). Investors expect potential selling pressure, adding volatility to the stock, which is down 16% year-to-date.</p> <p><b>Community note:</b> per the 2018 CEO Performance Award terms (and 2026 implementation agreement), Musk must hold shares from exercising the options for five years after vesting (except to cover taxes/exercise price or limited cases like estate planning). <a href=\"https://nitter.net/t.co/2YuVyWyaf5\">sec.gov/Archives/edgar…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/DeItaone/status/2048733383740551173#m\">https://nitter.net/DeItaone/status/2048733383740551173#m</a> </footer> </blockquote>",
+          "description": "<p>블룸버그 : 테슬라는 일론 머스크의 2018년 스톡옵션을 등록했으며, 이에 따라 향후 추가 매도 가능성이 제기되고 있다.<br> <br> 블룸버그의 이 내용은 거짓입니다. 시장에 영향을 끼칠만할 규모가 있는 매도는 5년 후부터 가능하기 때문입니다. <br> <br> 제발 겁 먹는 주주들이 없기를 바래봅니다.</p> <hr/> <blockquote> <b>*Walter Bloomberg (@DeItaone)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> - TESLA FILES MUSK 2018 STOCK — SALES COULD FOLLOW<br> <br> Tesla registered ~304M shares tied to Elon Musk’s 2018 pay package, allowing them to trade once exercised. It doesn’t mean an immediate sale, but Musk is likely to sell some for taxes when options are used before they expire in 2028.<br> <br> The award survived years of legal battles and is now valued against Tesla’s ~$1.7T market cap (vs ~$70B at grant). Investors expect potential selling pressure, adding volatility to the stock, which is down 16% year-to-date.</p> <p><b>Community note:</b> Additional context: Upon exercising the 2018 options, Musk receives restricted shares that vest only after continuous service through Jan 2028, followed by a 5-year holding period. Most shares cannot be sold until 2033, except limited amounts for taxes. <a href=\"https://nitter.net/t.co/Yau9c16gYh\">sec.gov/Archives/edgar…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/DeItaone/status/2048733383740551173#m\">https://nitter.net/DeItaone/status/2048733383740551173#m</a> </footer> </blockquote>",
+          "content": "<p>블룸버그 : 테슬라는 일론 머스크의 2018년 스톡옵션을 등록했으며, 이에 따라 향후 추가 매도 가능성이 제기되고 있다.<br> <br> 블룸버그의 이 내용은 거짓입니다. 시장에 영향을 끼칠만할 규모가 있는 매도는 5년 후부터 가능하기 때문입니다. <br> <br> 제발 겁 먹는 주주들이 없기를 바래봅니다.</p> <hr/> <blockquote> <b>*Walter Bloomberg (@DeItaone)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> - TESLA FILES MUSK 2018 STOCK — SALES COULD FOLLOW<br> <br> Tesla registered ~304M shares tied to Elon Musk’s 2018 pay package, allowing them to trade once exercised. It doesn’t mean an immediate sale, but Musk is likely to sell some for taxes when options are used before they expire in 2028.<br> <br> The award survived years of legal battles and is now valued against Tesla’s ~$1.7T market cap (vs ~$70B at grant). Investors expect potential selling pressure, adding volatility to the stock, which is down 16% year-to-date.</p> <p><b>Community note:</b> Additional context: Upon exercising the 2018 options, Musk receives restricted shares that vest only after continuous service through Jan 2028, followed by a 5-year holding period. Most shares cannot be sold until 2033, except limited amounts for taxes. <a href=\"https://nitter.net/t.co/Yau9c16gYh\">sec.gov/Archives/edgar…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/DeItaone/status/2048733383740551173#m\">https://nitter.net/DeItaone/status/2048733383740551173#m</a> </footer> </blockquote>",
           "pubDate": "Mon, 27 Apr 2026 12:51:24 GMT",
           "guid": "https://nitter.net/TeslaZoa/2048746839009358223",
           "read": false,
@@ -5124,7 +5334,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777327670317,
+      "lastUpdated": 1777331269989,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5141,6 +5351,52 @@
       "url": "https://nitter.net/songjunkr/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Bro, why are you keep on using Claude? $20 Codex + Local LLM is enough.",
+          "link": "https://nitter.net/songjunkr/status/2048888498095317345#m",
+          "description": "<p>Bro, why are you keep on using Claude?<br> <br> $20 Codex + Local LLM is enough.</p> <hr/> <blockquote> <b>leo 🐾 (@synthwavedd)</b> <p> <p>$20 Claude Pro users will soon no longer be able to use Opus models in Claude Code unless they purchase extra usage<br> <br> 🤦‍♂️</p> <img src=\"https://nitter.net/pic/media%2FHG8OV4hWYAAw2sK.png\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/synthwavedd/status/2048872483558715490#m\">https://nitter.net/synthwavedd/status/2048872483558715490#m</a> </footer> </blockquote>",
+          "content": "<p>Bro, why are you keep on using Claude?<br> <br> $20 Codex + Local LLM is enough.</p> <hr/> <blockquote> <b>leo 🐾 (@synthwavedd)</b> <p> <p>$20 Claude Pro users will soon no longer be able to use Opus models in Claude Code unless they purchase extra usage<br> <br> 🤦‍♂️</p> <img src=\"https://nitter.net/pic/media%2FHG8OV4hWYAAw2sK.png\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/synthwavedd/status/2048872483558715490#m\">https://nitter.net/synthwavedd/status/2048872483558715490#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 22:14:19 GMT",
+          "guid": "https://nitter.net/songjunkr/2048888498095317345",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG8OV4hWYAAw2sK.png",
+          "summary": "Bro, why are you keep on using Claude? $20 Codex + Local LLM is enough. leo 🐾 (@synthwavedd) $20 Claude Pro users will soon no longer be able to use Opus models in Claude Code unless they purchase extra usage 🤦‍♂️ — ht...",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG8OV4hWYAAw2sK.png",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "I wouldn't say open-source AI has completely beaten frontier labs just yet, but they’ve definitely closed the gap right to their doorstep. A year ago—hell, even 3 months ago—you couldn't even compare them. Now, open-source companies are dropping models like crazy at a fraction of the cost. It’s honestly getting a bit scary now.",
+          "link": "https://nitter.net/songjunkr/status/2048887578104103100#m",
+          "description": "<p>I wouldn't say open-source AI has completely beaten frontier labs just yet, but they’ve definitely closed the gap right to their doorstep. <br> <br> A year ago—hell, even 3 months ago—you couldn't even compare them. <br> <br> Now, open-source companies are dropping models like crazy at a fraction of the cost. <br> <br> It’s honestly getting a bit scary now.</p>",
+          "content": "<p>I wouldn't say open-source AI has completely beaten frontier labs just yet, but they’ve definitely closed the gap right to their doorstep. <br> <br> A year ago—hell, even 3 months ago—you couldn't even compare them. <br> <br> Now, open-source companies are dropping models like crazy at a fraction of the cost. <br> <br> It’s honestly getting a bit scary now.</p>",
+          "pubDate": "Mon, 27 Apr 2026 22:10:39 GMT",
+          "guid": "https://nitter.net/songjunkr/2048887578104103100",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "",
+          "summary": "I wouldn't say open-source AI has completely beaten frontier labs just yet, but they’ve definitely closed the gap right to their doorstep. A year ago—hell, even 3 months ago—you couldn't even compare them. Now, open-sour...",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "R to @songjunkr: 코딩은 잘 작동하지만 데이터분야만 문제가 있어요 🥲",
           "link": "https://nitter.net/songjunkr/status/2048883049954480204#m",
@@ -5190,8 +5446,8 @@
         {
           "title": "Cloud AI is getting more expensive. Build Local LLMs before it’s too late. You won’t be able to get the hardware soon.",
           "link": "https://nitter.net/songjunkr/status/2048871045017620940#m",
-          "description": "<p>Cloud AI is getting more expensive.<br> <br> Build Local LLMs before it’s too late.<br> <br> You won’t be able to get the hardware soon.</p> <hr/> <blockquote> <b>GitHub (@github)</b> <p> <p>Starting June 1st, GitHub Copilot will move to a usage-based billing model as GitHub Copilot supports more agentic and advanced workflows. <br> <br> In early May, you'll see a preview bill experience, giving visibility into projected costs before the transition. <br> <br> 👉 Read more about the upcoming change: <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">github.blog/news-insights/co…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048811859503886336%2FUz_RBiDD%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/github/status/2048794729274278258#m\">https://nitter.net/github/status/2048794729274278258#m</a> </footer> </blockquote>",
-          "content": "<p>Cloud AI is getting more expensive.<br> <br> Build Local LLMs before it’s too late.<br> <br> You won’t be able to get the hardware soon.</p> <hr/> <blockquote> <b>GitHub (@github)</b> <p> <p>Starting June 1st, GitHub Copilot will move to a usage-based billing model as GitHub Copilot supports more agentic and advanced workflows. <br> <br> In early May, you'll see a preview bill experience, giving visibility into projected costs before the transition. <br> <br> 👉 Read more about the upcoming change: <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">github.blog/news-insights/co…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048811859503886336%2FUz_RBiDD%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/github/status/2048794729274278258#m\">https://nitter.net/github/status/2048794729274278258#m</a> </footer> </blockquote>",
+          "description": "<p>Cloud AI is getting more expensive.<br> <br> Build Local LLMs before it’s too late.<br> <br> You won’t be able to get the hardware soon.</p> <hr/> <blockquote> <b>GitHub (@github)</b> <p> <p>Starting June 1st, GitHub Copilot will move to a usage-based billing model as GitHub Copilot supports more agentic and advanced workflows. <br> <br> In early May, you'll see a preview bill experience, giving visibility into projected costs before the transition. <br> <br> 👉 Read more about the upcoming change: <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">github.blog/news-insights/co…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048794544301633537%2FhiIbluj3%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/github/status/2048794729274278258#m\">https://nitter.net/github/status/2048794729274278258#m</a> </footer> </blockquote>",
+          "content": "<p>Cloud AI is getting more expensive.<br> <br> Build Local LLMs before it’s too late.<br> <br> You won’t be able to get the hardware soon.</p> <hr/> <blockquote> <b>GitHub (@github)</b> <p> <p>Starting June 1st, GitHub Copilot will move to a usage-based billing model as GitHub Copilot supports more agentic and advanced workflows. <br> <br> In early May, you'll see a preview bill experience, giving visibility into projected costs before the transition. <br> <br> 👉 Read more about the upcoming change: <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">github.blog/news-insights/co…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048794544301633537%2FhiIbluj3%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/github/status/2048794729274278258#m\">https://nitter.net/github/status/2048794729274278258#m</a> </footer> </blockquote>",
           "pubDate": "Mon, 27 Apr 2026 21:04:57 GMT",
           "guid": "https://nitter.net/songjunkr/2048871045017620940",
           "read": false,
@@ -5199,14 +5455,14 @@
           "tags": [],
           "feedTitle": "송준 Jun Song / @songjunkr",
           "feedUrl": "https://nitter.net/songjunkr/rss",
-          "coverImage": "https://nitter.net/pic/card_img%2F2048811859503886336%2FUz_RBiDD%3Fformat%3Djpg%26name%3D800x419",
+          "coverImage": "https://nitter.net/pic/card_img%2F2048794544301633537%2FhiIbluj3%3Fformat%3Djpg%26name%3D800x419",
           "summary": "Cloud AI is getting more expensive. Build Local LLMs before it’s too late. You won’t be able to get the hardware soon. GitHub (@github) Starting June 1st, GitHub Copilot will move to a usage-based billing model as GitHub...",
           "author": "@songjunkr",
           "saved": false,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
-          "image": "https://nitter.net/pic/card_img%2F2048811859503886336%2FUz_RBiDD%3Fformat%3Djpg%26name%3D800x419",
+          "image": "https://nitter.net/pic/card_img%2F2048794544301633537%2FhiIbluj3%3Fformat%3Djpg%26name%3D800x419",
           "category": "",
           "episodeType": ""
         },
@@ -5717,7 +5973,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777327691522,
+      "lastUpdated": 1777331290773,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5734,6 +5990,52 @@
       "url": "https://nitter.net/supernovajunn/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "구글 딥마인드가 한국에 AI 캠퍼스를 짓는 진짜 이유는? 알파고가 이세돌을 이긴 지 10년이 됐다. 그 타이밍에 구글 딥마인드가 한국 정부와 파트너십을 발표했다. AI 아카데미, 서울 AI 캠퍼스, 서울대·KAIST 협력, AI 안전연구소 공동 연구로 진행한다고 한다. 표면적 명분은 \"AI 혁신 생태계 구축\"이다. 근데 구글이 감동받아서 AI 학교 세우러 한국 온 게 아니다. 한국은 상위 30개 경제국 중 AI 채택 속도가 가장 빠른 나라다. 이미 85,000명 이상의 연구자가 알파폴드를 쓰고 있다. 이것이 뭘 의미하는지 보자면 구글은 캠퍼스 짓기도 전에 이미 한국 과학계를 락인해두고 있었다 캠퍼스는 협상결과가 아니라 다음 단계다. 진짜 이유는 세 가지라 생각한다. 첫째는 HBM이다. SK하이닉스가 전 세계 HBM 시장의 50% 이상을 쥐고 있다. AI 모델 훈련에 필요한 GPU 메모리 H100, B200 전부 HBM 없이는 안 돌아간다. 구글이 한국에 캠퍼스 짓는다는 건 칩 공급망의 심장부 옆에 앉겠다는 뜻이다. 학술 협력은 명분이고, 반도체 생태계 접근이 핵심이다. 둘째는 중국 봉쇄 이후 지정학이다. 미국의 대중 반도체 수출 규제 이후, 동아시아에서 신뢰할 수 있는 기술 파트너는 한국과 일본뿐이다. 구글뿐 아니라 OpenAI가 한국 사무소를 열었고, 마이크로소프트가 한국에 29억 달러 투자를 발표했다. 중국을 대체하는 동아시아 AI 거점을 한국에 박아두는 레이스이지 않을까? 셋째는 정부 보조금이다. 한국 과기부는 2026년 5월 국가 AI과학센터(NAIS)를 열 예정이고, AI 인프라에 수조 원 규모의 예산을 쏟고 있다. 구글 입장에서 이건 공짜로 연구 인프라 빌리는 구조다. 캠퍼스 운영비 일부를 정부가 대주는 셈이고, AlphaGenome·AlphaEvolve 같은 모델들을 한국 국책 연구소에서 테스트베드로 쓸 수 있다. 인재는 덤으로 가져간다.서울대·KAIST 인턴십 파이프라인을 구글이 직접 장악하지 않을까? 그리고,구글 MS.오픈AI가 한국에 들어올때 패턴이 있다. 나머지는 출근후에 쓸께요~ㅎㅎ",
+          "link": "https://nitter.net/supernovajunn/status/2048897668618092573#m",
+          "description": "<p>구글 딥마인드가 한국에 AI 캠퍼스를 짓는 진짜 이유는?<br> <br> 알파고가 이세돌을 이긴 지 10년이 됐다. 그 타이밍에 구글 딥마인드가 한국 정부와 파트너십을 발표했다. AI 아카데미, 서울 AI 캠퍼스, 서울대·KAIST 협력, AI 안전연구소 공동 연구로 진행한다고 한다.<br> <br> 표면적 명분은 \"AI 혁신 생태계 구축\"이다. 근데 구글이 감동받아서 AI 학교 세우러 한국 온 게 아니다.<br> <br> 한국은 상위 30개 경제국 중 AI 채택 속도가 가장 빠른 나라다. 이미 85,000명 이상의 연구자가 알파폴드를 쓰고 있다. 이것이 뭘 의미하는지 보자면 구글은 캠퍼스 짓기도 전에 이미 한국 과학계를 락인해두고 있었다<br> <br> 캠퍼스는 협상결과가 아니라 다음 단계다.<br> <br> 진짜 이유는 세 가지라 생각한다.<br> <br> 첫째는 HBM이다. SK하이닉스가 전 세계 HBM 시장의 50% 이상을 쥐고 있다. AI 모델 훈련에 필요한 GPU 메모리 H100, B200 전부 HBM 없이는 안 돌아간다. 구글이 한국에 캠퍼스 짓는다는 건 칩 공급망의 심장부 옆에 앉겠다는 뜻이다. 학술 협력은 명분이고, 반도체 생태계 접근이 핵심이다.<br> <br> 둘째는 중국 봉쇄 이후 지정학이다. 미국의 대중 반도체 수출 규제 이후, 동아시아에서 신뢰할 수 있는 기술 파트너는 한국과 일본뿐이다. 구글뿐 아니라 OpenAI가 한국 사무소를 열었고, 마이크로소프트가 한국에 29억 달러 투자를 발표했다. 중국을 대체하는 동아시아 AI 거점을 한국에 박아두는 레이스이지 않을까?<br> <br> 셋째는 정부 보조금이다. 한국 과기부는 2026년 5월 국가 AI과학센터(NAIS)를 열 예정이고, AI 인프라에 수조 원 규모의 예산을 쏟고 있다. <br> <br> 구글 입장에서 이건 공짜로 연구 인프라 빌리는 구조다. 캠퍼스 운영비 일부를 정부가 대주는 셈이고, AlphaGenome·AlphaEvolve 같은 모델들을 한국 국책 연구소에서 테스트베드로 쓸 수 있다.<br> <br> 인재는 덤으로 가져간다.서울대·KAIST 인턴십 파이프라인을 구글이 직접 장악하지 않을까?<br> <br> 그리고,구글 MS.오픈AI가 한국에 들어올때 패턴이 있다.<br> <br> 나머지는 출근후에 쓸께요~ㅎㅎ</p> <hr/> <blockquote> <b>Google DeepMind (@GoogleDeepMind)</b> <p> <p>A decade ago in Korea, AlphaGo showed AI’s potential.<br> <br> Together with the Korean government, we’re now looking at how this technology can help accelerate scientific discovery and create new opportunities for economic growth across the region. 🇰🇷<br> <br> Find out more → <a href=\"https://goo.gle/4wbqUbJ\">goo.gle/4wbqUbJ</a></p> <video poster=\"https://nitter.net/pic/tweet_video_thumb%2FHG5_VP0akAA0fhW.jpg\" autoplay muted loop style=\"max-width:250px;\"> <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHG5_VP0akAA0fhW.mp4\" type=\"video/mp4\"></video> </p> <footer> — <cite><a href=\"https://nitter.net/GoogleDeepMind/status/2048714939125109178#m\">https://nitter.net/GoogleDeepMind/status/2048714939125109178#m</a> </footer> </blockquote>",
+          "content": "<p>구글 딥마인드가 한국에 AI 캠퍼스를 짓는 진짜 이유는?<br> <br> 알파고가 이세돌을 이긴 지 10년이 됐다. 그 타이밍에 구글 딥마인드가 한국 정부와 파트너십을 발표했다. AI 아카데미, 서울 AI 캠퍼스, 서울대·KAIST 협력, AI 안전연구소 공동 연구로 진행한다고 한다.<br> <br> 표면적 명분은 \"AI 혁신 생태계 구축\"이다. 근데 구글이 감동받아서 AI 학교 세우러 한국 온 게 아니다.<br> <br> 한국은 상위 30개 경제국 중 AI 채택 속도가 가장 빠른 나라다. 이미 85,000명 이상의 연구자가 알파폴드를 쓰고 있다. 이것이 뭘 의미하는지 보자면 구글은 캠퍼스 짓기도 전에 이미 한국 과학계를 락인해두고 있었다<br> <br> 캠퍼스는 협상결과가 아니라 다음 단계다.<br> <br> 진짜 이유는 세 가지라 생각한다.<br> <br> 첫째는 HBM이다. SK하이닉스가 전 세계 HBM 시장의 50% 이상을 쥐고 있다. AI 모델 훈련에 필요한 GPU 메모리 H100, B200 전부 HBM 없이는 안 돌아간다. 구글이 한국에 캠퍼스 짓는다는 건 칩 공급망의 심장부 옆에 앉겠다는 뜻이다. 학술 협력은 명분이고, 반도체 생태계 접근이 핵심이다.<br> <br> 둘째는 중국 봉쇄 이후 지정학이다. 미국의 대중 반도체 수출 규제 이후, 동아시아에서 신뢰할 수 있는 기술 파트너는 한국과 일본뿐이다. 구글뿐 아니라 OpenAI가 한국 사무소를 열었고, 마이크로소프트가 한국에 29억 달러 투자를 발표했다. 중국을 대체하는 동아시아 AI 거점을 한국에 박아두는 레이스이지 않을까?<br> <br> 셋째는 정부 보조금이다. 한국 과기부는 2026년 5월 국가 AI과학센터(NAIS)를 열 예정이고, AI 인프라에 수조 원 규모의 예산을 쏟고 있다. <br> <br> 구글 입장에서 이건 공짜로 연구 인프라 빌리는 구조다. 캠퍼스 운영비 일부를 정부가 대주는 셈이고, AlphaGenome·AlphaEvolve 같은 모델들을 한국 국책 연구소에서 테스트베드로 쓸 수 있다.<br> <br> 인재는 덤으로 가져간다.서울대·KAIST 인턴십 파이프라인을 구글이 직접 장악하지 않을까?<br> <br> 그리고,구글 MS.오픈AI가 한국에 들어올때 패턴이 있다.<br> <br> 나머지는 출근후에 쓸께요~ㅎㅎ</p> <hr/> <blockquote> <b>Google DeepMind (@GoogleDeepMind)</b> <p> <p>A decade ago in Korea, AlphaGo showed AI’s potential.<br> <br> Together with the Korean government, we’re now looking at how this technology can help accelerate scientific discovery and create new opportunities for economic growth across the region. 🇰🇷<br> <br> Find out more → <a href=\"https://goo.gle/4wbqUbJ\">goo.gle/4wbqUbJ</a></p> <video poster=\"https://nitter.net/pic/tweet_video_thumb%2FHG5_VP0akAA0fhW.jpg\" autoplay muted loop style=\"max-width:250px;\"> <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHG5_VP0akAA0fhW.mp4\" type=\"video/mp4\"></video> </p> <footer> — <cite><a href=\"https://nitter.net/GoogleDeepMind/status/2048714939125109178#m\">https://nitter.net/GoogleDeepMind/status/2048714939125109178#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 22:50:45 GMT",
+          "guid": "https://nitter.net/supernovajunn/2048897668618092573",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Cognac(꼬냑) / @supernovajunn",
+          "feedUrl": "https://nitter.net/supernovajunn/rss",
+          "coverImage": "",
+          "summary": "구글 딥마인드가 한국에 AI 캠퍼스를 짓는 진짜 이유는? 알파고가 이세돌을 이긴 지 10년이 됐다. 그 타이밍에 구글 딥마인드가 한국 정부와 파트너십을 발표했다. AI 아카데미, 서울 AI 캠퍼스, 서울대·KAIST 협력, AI 안전연구소 공동 연구로 진행한다고 한다. 표면적 명분은 \"AI 혁신 생태계 구축\"이다. 근데 구글이 감동받아서 AI 학교 세우러 한국 온 게 아니다. 한국은 상위 3...",
+          "author": "@supernovajunn",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "GitHub Copilot이 6월부터 종량제로 전환한다고 한다 구독 $10에 AI 에이전트 무제한은 애초에 불가능한 요금제였다. 사람이 코드 쓰는 건 예측 가능한 비용이라고 하자. 하지만 Copilot Workspace가 한 세션에 수백만 토큰 쓰면? 구독료로 깃헙도 감당이 안 된다. 이건 Copilot만의 얘기가 아니다. AI SaaS 전체가 같은 구독자로 갈 가능성이 크다 구독은 기본 티어, 에이전트 워크플로우는 사용량 과금제로 분리. 무제한 구독 시대는 끝나간다 비용 아끼는 법은 이제 스스로 해야한다 5월 사용량 보고 어떤 기능이 얼마를 쓰는지 패턴 파악하고 나서 끊을 거 정해야한다 아직까지 AI 구독료가 싸 보였던 건 아직 원가 이하로 팔고 있어서였다. 이제 투자비 회수하기가 드러나기 시작하는 거다.",
+          "link": "https://nitter.net/supernovajunn/status/2048893641243173181#m",
+          "description": "<p>GitHub Copilot이 6월부터 종량제로 전환한다고 한다<br> <br> 구독 $10에 AI 에이전트 무제한은 애초에 불가능한 요금제였다. 사람이 코드 쓰는 건 예측 가능한 비용이라고 하자. 하지만 Copilot Workspace가 한 세션에 수백만 토큰 쓰면? 구독료로 깃헙도 감당이 안 된다.<br> <br> 이건 Copilot만의 얘기가 아니다.<br> <br> AI SaaS 전체가 같은 구독자로 갈 가능성이 크다 구독은 기본 티어, 에이전트 워크플로우는 사용량 과금제로 분리.<br> <br> 무제한 구독 시대는 끝나간다<br> <br> 비용 아끼는 법은 이제 스스로 해야한다<br> <br> 5월 사용량 보고 어떤 기능이 얼마를 쓰는지 패턴 파악하고 나서 끊을 거 정해야한다<br> <br> 아직까지 AI 구독료가 싸 보였던 건 아직 원가 이하로 팔고 있어서였다. 이제 투자비 회수하기가 드러나기 시작하는 거다.</p> <hr/> <blockquote> <b>GitHub (@github)</b> <p> <p>Starting June 1st, GitHub Copilot will move to a usage-based billing model as GitHub Copilot supports more agentic and advanced workflows. <br> <br> In early May, you'll see a preview bill experience, giving visibility into projected costs before the transition. <br> <br> 👉 Read more about the upcoming change: <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">github.blog/news-insights/co…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048794544301633537%2FhiIbluj3%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/github/status/2048794729274278258#m\">https://nitter.net/github/status/2048794729274278258#m</a> </footer> </blockquote>",
+          "content": "<p>GitHub Copilot이 6월부터 종량제로 전환한다고 한다<br> <br> 구독 $10에 AI 에이전트 무제한은 애초에 불가능한 요금제였다. 사람이 코드 쓰는 건 예측 가능한 비용이라고 하자. 하지만 Copilot Workspace가 한 세션에 수백만 토큰 쓰면? 구독료로 깃헙도 감당이 안 된다.<br> <br> 이건 Copilot만의 얘기가 아니다.<br> <br> AI SaaS 전체가 같은 구독자로 갈 가능성이 크다 구독은 기본 티어, 에이전트 워크플로우는 사용량 과금제로 분리.<br> <br> 무제한 구독 시대는 끝나간다<br> <br> 비용 아끼는 법은 이제 스스로 해야한다<br> <br> 5월 사용량 보고 어떤 기능이 얼마를 쓰는지 패턴 파악하고 나서 끊을 거 정해야한다<br> <br> 아직까지 AI 구독료가 싸 보였던 건 아직 원가 이하로 팔고 있어서였다. 이제 투자비 회수하기가 드러나기 시작하는 거다.</p> <hr/> <blockquote> <b>GitHub (@github)</b> <p> <p>Starting June 1st, GitHub Copilot will move to a usage-based billing model as GitHub Copilot supports more agentic and advanced workflows. <br> <br> In early May, you'll see a preview bill experience, giving visibility into projected costs before the transition. <br> <br> 👉 Read more about the upcoming change: <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">github.blog/news-insights/co…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048794544301633537%2FhiIbluj3%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/github/status/2048794729274278258#m\">https://nitter.net/github/status/2048794729274278258#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 22:34:45 GMT",
+          "guid": "https://nitter.net/supernovajunn/2048893641243173181",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Cognac(꼬냑) / @supernovajunn",
+          "feedUrl": "https://nitter.net/supernovajunn/rss",
+          "coverImage": "https://nitter.net/pic/card_img%2F2048794544301633537%2FhiIbluj3%3Fformat%3Djpg%26name%3D800x419",
+          "summary": "GitHub Copilot이 6월부터 종량제로 전환한다고 한다 구독 $10에 AI 에이전트 무제한은 애초에 불가능한 요금제였다. 사람이 코드 쓰는 건 예측 가능한 비용이라고 하자. 하지만 Copilot Workspace가 한 세션에 수백만 토큰 쓰면? 구독료로 깃헙도 감당이 안 된다. 이건 Copilot만의 얘기가 아니다. AI SaaS 전체가 같은 구독자로 갈 가능성이 크다 구독은 기본 티...",
+          "author": "@supernovajunn",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/card_img%2F2048794544301633537%2FhiIbluj3%3Fformat%3Djpg%26name%3D800x419",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "샘 알트먼의 AGI 이후 아무도 일하지 않는 다라.. 어쨌든 농업혁명, 산업혁명에도 직업이 사라지고 더 많은 직업이 나타났는데 이번에는 뭔가 다르다.. 사실상 노동력의 가치가 0인 세상 아니면 오히려 더 많은 인간이 필요한 세상일까? 나는 후자라고 생각한다. 오히려 생산성이 폭발적으로 증가해 결국 더 많은 사람들이 AI와 더 많은 것을 생산할 거라 생각한다.",
           "link": "https://nitter.net/supernovajunn/status/2048684812102431173#m",
@@ -6126,7 +6428,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777327692637,
+      "lastUpdated": 1777331292182,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6627,7 +6929,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777327693556,
+      "lastUpdated": 1777331292916,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7335,7 +7637,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777327694892,
+      "lastUpdated": 1777331294071,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8503,7 +8805,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777327694926,
+      "lastUpdated": 1777331294118,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9017,7 +9319,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777327695606,
+      "lastUpdated": 1777331295407,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9173,7 +9475,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777327697201,
+      "lastUpdated": 1777331298789,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9225,7 +9527,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777327697310,
+      "lastUpdated": 1777331298917,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9843,7 +10145,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777327697781,
+      "lastUpdated": 1777331299476,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11012,7 +11314,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777327698635,
+      "lastUpdated": 1777331300184,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11030,6 +11332,32 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
       "folder": "Videos",
       "items": [
+        {
+          "title": "이거 알면 못 팔죠, 머스크가 설계한 테슬라 횡보 뒤에 나올 것들",
+          "link": "https://www.youtube.com/watch?v=CRxL1x_4pwc",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-27T22:48:02+00:00",
+          "guid": "yt:video:CRxL1x_4pwc",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/CRxL1x_4pwc/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "CRxL1x_4pwc"
+        },
         {
           "title": "머스크 \"기다려라 다 보여줄게\" 테슬라의 진짜 실체",
           "link": "https://www.youtube.com/watch?v=uc4uX-u6rJ0",
@@ -11421,7 +11749,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777327698639,
+      "lastUpdated": 1777331300317,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11752,7 +12080,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777327698642,
+      "lastUpdated": 1777331300441,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11793,7 +12121,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777327698642,
+  "lastRefreshTimestamp": 1777331300441,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
