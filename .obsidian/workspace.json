@@ -204,6 +204,9 @@
   },
   "active": "c9d86e8fcd5a8a94",
   "lastOpenFiles": [
+    "docs/human-in-the-loop-checkpoints.md",
+    "docs/research-sop.md",
+    "docs",
     "entities/discord-채널-1497196158248947842.md",
     "entities/research-agent-설계-계획.md",
     "raw/articles/ai-beginner-senior-methodology-sources.md",
@@ -230,15 +233,12 @@
     "Clippings",
     "raw/articles/context-rot.md",
     "raw/articles/anthropic-claude-code-best-practices.md",
-    "entities/context-rot.md",
-    "raw/archived-stubs/anthropic-claude-code-sandboxing.md",
     "raw/archived-stubs",
     "raw/archived",
     "Project/smart-video-speed",
     "raw/articles/anthropic",
     "Project/Engineering Mindset/세션로그",
     "Project/Engineering Mindset/설계",
-    "Project/Engineering Mindset",
-    "Project"
+    "Project/Engineering Mindset"
   ]
 }
