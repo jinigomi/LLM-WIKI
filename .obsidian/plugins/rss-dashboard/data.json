@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777324103087,
+      "lastUpdated": 1777327665569,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -188,7 +188,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777324103361,
+      "lastUpdated": 1777327665661,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -597,7 +597,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777324103496,
+      "lastUpdated": 1777327665777,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -850,7 +850,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777324103662,
+      "lastUpdated": 1777327665899,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1259,7 +1259,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777324103799,
+      "lastUpdated": 1777327666020,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1668,7 +1668,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777324103943,
+      "lastUpdated": 1777327666140,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1895,7 +1895,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777324104076,
+      "lastUpdated": 1777327666253,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1913,6 +1913,26 @@
       "url": "https://feeds.feedburner.com/geeknews-feed",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Fast16: Stuxnet보다 5년 앞선 고정밀 소프트웨어 사보타주",
+          "link": "https://news.hada.io/topic?id=28955",
+          "description": "",
+          "content": "<ul> <li><strong>2005년 제작된 미문서화 사보타주 프레임워크</strong>로, 선택된 계산 소프트웨어의 메모리 코드를 패치해 <strong>수치 결과를 왜곡</strong>하도록 설계됨</li> <li><code>svcmgmt.exe</code>는 겉으로는 서비스 래퍼처럼 보이지만 내부에 <strong>Lua 5.0 가상 머신</strong>과 암호화된 바이트코드...</p>",
+          "pubDate": "2026-04-28T05:39:25+09:00",
+          "guid": "https://news.hada.io/topic?id=28955",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
+          "coverImage": "",
+          "summary": "2005년 제작된 미문서화 사보타주 프레임워크로, 선택된 계산 소프트웨어의 메모리 코드를 패치해 수치 결과를 왜곡하도록 설계됨 svcmgmt.exe는 겉으로는 서비스 래퍼처럼 보이지만 내부에 Lua 5.0 가상 머신과 암호화된 바이트코드...",
+          "author": "neo",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": ""
+        },
         {
           "title": "만들기 전에 거는 세 가지 제약",
           "link": "https://news.hada.io/topic?id=28954",
@@ -2892,29 +2912,9 @@
           "mediaType": "article",
           "explicit": false,
           "image": ""
-        },
-        {
-          "title": "CSS를 질의 언어로 보기",
-          "link": "https://news.hada.io/topic?id=28897",
-          "description": "",
-          "content": "<ul> <li><strong>선택자와 규칙</strong>으로 대상 집합을 고르고 속성을 적용하는 CSS의 구조는, 집합과 규칙으로 동작하는 Datalog와 형태적으로 닮아 있음</li> <li><code>div.awesome</code> 같은 선택자 결합은 <strong>교집합</strong>을 만들고, Datalog에서는 같은 변수를 반복하는 방식으로 비슷한 <strong>jo...</p>",
-          "pubDate": "2026-04-26T11:17:16+09:00",
-          "guid": "https://news.hada.io/topic?id=28897",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
-          "coverImage": "",
-          "summary": "선택자와 규칙으로 대상 집합을 고르고 속성을 적용하는 CSS의 구조는, 집합과 규칙으로 동작하는 Datalog와 형태적으로 닮아 있음 div.awesome 같은 선택자 결합은 교집합을 만들고, Datalog에서는 같은 변수를 반복하는 방식으로 비슷한 jo...",
-          "author": "xguru",
-          "saved": false,
-          "mediaType": "article",
-          "explicit": false,
-          "image": ""
         }
       ],
-      "lastUpdated": 1777324105486,
+      "lastUpdated": 1777327667766,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2924,7 +2924,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "siteUrl": "https://news.hada.io/topic?id=28954",
+      "siteUrl": "https://news.hada.io/topic?id=28955",
       "iconUrl": "https://social.news.hada.io/WideLogo500.png"
     },
     {
@@ -4333,7 +4333,7 @@
           }
         }
       ],
-      "lastUpdated": 1777324106487,
+      "lastUpdated": 1777327668812,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4351,7 +4351,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777324106599,
+      "lastUpdated": 1777327668949,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4369,7 +4369,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777324106883,
+      "lastUpdated": 1777327669180,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4388,10 +4388,33 @@
       "folder": "RSS",
       "items": [
         {
+          "title": "🚨 Starlink Aviation 책임자 Nick Seitz 발언 요약 1️⃣ “상업 항공기 최초로 2Gbps+ 속도 지원” 기존 기내 WiFi 대비 차원이 다른 초고속 인터넷 환경 구축 2️⃣ “이미 선두지만, 멈추지 않는다” 기내 연결성 시장 1위 수준에서도 지속적인 기술 혁신 강조 3️⃣ “항공기 = 새로운 디지털 플랫폼” 기내 경험, 쇼핑, 업무, 엔터테인먼트 등 다양한 활용 가능성 확대 4️⃣ “경험의 기준 자체를 바꾼다” Starlink 이용 후 기존 항공 WiFi는 만족하기 어려운 수준이라는 자신감",
+          "link": "https://nitter.net/TeslaZoa/status/2048879026111226050#m",
+          "description": "<p>🚨 Starlink Aviation 책임자 Nick Seitz 발언 요약<br> <br> 1️⃣ “상업 항공기 최초로 2Gbps+ 속도 지원”<br> 기존 기내 WiFi 대비 차원이 다른 초고속 인터넷 환경 구축<br> <br> 2️⃣ “이미 선두지만, 멈추지 않는다”<br> 기내 연결성 시장 1위 수준에서도 지속적인 기술 혁신 강조<br> <br> 3️⃣ “항공기 = 새로운 디지털 플랫폼”<br> 기내 경험, 쇼핑, 업무, 엔터테인먼트 등 다양한 활용 가능성 확대<br> <br> 4️⃣ “경험의 기준 자체를 바꾼다”<br> Starlink 이용 후 기존 항공 WiFi는 만족하기 어려운 수준이라는 자신감</p> <img src=\"https://nitter.net/pic/media%2FHG8UnSkacAAVZa1.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Sawyer Merritt (@SawyerMerritt)</b> <p> <p>Global Head of <a href=\"https://nitter.net/Starlink\" title=\"Starlink\">@Starlink</a> Aviation, Nick Seitz:<br> <br> \"For the first time ever, Starlink is installing systems on commercial aircraft capable of 2Gbps+. <br> <br> Already the leader in in-flight WiFi, we don’t rest on being the best and continue to push technology forward. The Starlink Aviation platform is the best place to deploy the future of in-flight experience, shopping, business travel, entertainment, and many yet unimagined use cases. Once you fly Starlink, nothing else is good enough.\"</p> <img src=\"https://nitter.net/pic/media%2FHG7mbM4aMAAn7j7.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/SawyerMerritt/status/2048828407505461751#m\">https://nitter.net/SawyerMerritt/status/2048828407505461751#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 Starlink Aviation 책임자 Nick Seitz 발언 요약<br> <br> 1️⃣ “상업 항공기 최초로 2Gbps+ 속도 지원”<br> 기존 기내 WiFi 대비 차원이 다른 초고속 인터넷 환경 구축<br> <br> 2️⃣ “이미 선두지만, 멈추지 않는다”<br> 기내 연결성 시장 1위 수준에서도 지속적인 기술 혁신 강조<br> <br> 3️⃣ “항공기 = 새로운 디지털 플랫폼”<br> 기내 경험, 쇼핑, 업무, 엔터테인먼트 등 다양한 활용 가능성 확대<br> <br> 4️⃣ “경험의 기준 자체를 바꾼다”<br> Starlink 이용 후 기존 항공 WiFi는 만족하기 어려운 수준이라는 자신감</p> <img src=\"https://nitter.net/pic/media%2FHG8UnSkacAAVZa1.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Sawyer Merritt (@SawyerMerritt)</b> <p> <p>Global Head of <a href=\"https://nitter.net/Starlink\" title=\"Starlink\">@Starlink</a> Aviation, Nick Seitz:<br> <br> \"For the first time ever, Starlink is installing systems on commercial aircraft capable of 2Gbps+. <br> <br> Already the leader in in-flight WiFi, we don’t rest on being the best and continue to push technology forward. The Starlink Aviation platform is the best place to deploy the future of in-flight experience, shopping, business travel, entertainment, and many yet unimagined use cases. Once you fly Starlink, nothing else is good enough.\"</p> <img src=\"https://nitter.net/pic/media%2FHG7mbM4aMAAn7j7.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/SawyerMerritt/status/2048828407505461751#m\">https://nitter.net/SawyerMerritt/status/2048828407505461751#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 21:36:40 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048879026111226050",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG8UnSkacAAVZa1.jpg",
+          "summary": "🚨 Starlink Aviation 책임자 Nick Seitz 발언 요약 1️⃣ “상업 항공기 최초로 2Gbps+ 속도 지원” 기존 기내 WiFi 대비 차원이 다른 초고속 인터넷 환경 구축 2️⃣ “이미 선두지만, 멈추지 않는다” 기내 연결성 시장 1위 수준에서도 지속적인 기술 혁신 강조 3️⃣ “항공기 = 새로운 디지털 플랫폼” 기내 경험, 쇼핑, 업무, 엔터테인먼트 등 다양한 활용 가능...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG8UnSkacAAVZa1.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
           "title": "🚨 에미레이트, A380에 스타링크 도입으로 기내 인터넷 혁신 1️⃣ 각 A380에 최대 3개의 스타링크 안테나를 탑재해 연결 속도와 안정성을 대폭 개선 2️⃣ 기존 기내 와이파이 대비 최대 1000배 향상된 성능 제공 3️⃣ 고도 40,000피트에서도 스트리밍, 게임, 화상 통화, 실시간 업무 처리 가능 4️⃣ 2026년부터 전 기단 순차 업그레이드 예정 항공 연결성의 패러다임이 바뀌는 순간 🚀",
           "link": "https://nitter.net/TeslaZoa/status/2048767937633304696#m",
-          "description": "<p>🚨 에미레이트, A380에 스타링크 도입으로 기내 인터넷 혁신<br> <br> 1️⃣ 각 A380에 최대 3개의 스타링크 안테나를 탑재해 연결 속도와 안정성을 대폭 개선<br> 2️⃣ 기존 기내 와이파이 대비 최대 1000배 향상된 성능 제공<br> 3️⃣ 고도 40,000피트에서도 스트리밍, 게임, 화상 통화, 실시간 업무 처리 가능<br> 4️⃣ 2026년부터 전 기단 순차 업그레이드 예정<br> <br> 항공 연결성의 패러다임이 바뀌는 순간 🚀</p> <img src=\"https://nitter.net/pic/media%2FHG6vlCGasAA10Am.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>DogeDesigner (@cb_doge)</b> <p> <p>🚨 NEWS: Emirates upgrades its iconic A380 with Starlink high-speed Wi-Fi, delivering “better-than-home” internet at 40,000 feet.<br> <br> • Up to 3 Starlink antennas on each A380 for massive speed boost<br> <br> • Internet performance improved up to 1000x vs older systems<br> <br> • Enables</p> </p> <footer> — <cite><a href=\"https://nitter.net/cb_doge/status/2048744214230712500#m\">https://nitter.net/cb_doge/status/2048744214230712500#m</a> </footer> </blockquote>",
-          "content": "<p>🚨 에미레이트, A380에 스타링크 도입으로 기내 인터넷 혁신<br> <br> 1️⃣ 각 A380에 최대 3개의 스타링크 안테나를 탑재해 연결 속도와 안정성을 대폭 개선<br> 2️⃣ 기존 기내 와이파이 대비 최대 1000배 향상된 성능 제공<br> 3️⃣ 고도 40,000피트에서도 스트리밍, 게임, 화상 통화, 실시간 업무 처리 가능<br> 4️⃣ 2026년부터 전 기단 순차 업그레이드 예정<br> <br> 항공 연결성의 패러다임이 바뀌는 순간 🚀</p> <img src=\"https://nitter.net/pic/media%2FHG6vlCGasAA10Am.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>DogeDesigner (@cb_doge)</b> <p> <p>🚨 NEWS: Emirates upgrades its iconic A380 with Starlink high-speed Wi-Fi, delivering “better-than-home” internet at 40,000 feet.<br> <br> • Up to 3 Starlink antennas on each A380 for massive speed boost<br> <br> • Internet performance improved up to 1000x vs older systems<br> <br> • Enables</p> </p> <footer> — <cite><a href=\"https://nitter.net/cb_doge/status/2048744214230712500#m\">https://nitter.net/cb_doge/status/2048744214230712500#m</a> </footer> </blockquote>",
+          "description": "<p>🚨 에미레이트, A380에 스타링크 도입으로 기내 인터넷 혁신<br> <br> 1️⃣ 각 A380에 최대 3개의 스타링크 안테나를 탑재해 연결 속도와 안정성을 대폭 개선<br> 2️⃣ 기존 기내 와이파이 대비 최대 1000배 향상된 성능 제공<br> 3️⃣ 고도 40,000피트에서도 스트리밍, 게임, 화상 통화, 실시간 업무 처리 가능<br> 4️⃣ 2026년부터 전 기단 순차 업그레이드 예정<br> <br> 항공 연결성의 패러다임이 바뀌는 순간 🚀</p> <img src=\"https://nitter.net/pic/media%2FHG6vlCGasAA10Am.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>DogeDesigner (@cb_doge)</b> <p> <p>🚨 NEWS: Emirates upgrades its iconic A380 with Starlink high-speed Wi-Fi, delivering “better-than-home” internet at 40,000 feet.<br> <br> • Up to 3 Starlink antennas on each A380 for massive speed boost<br> <br> • Internet performance improved up to 1000x vs older systems<br> <br> • Enables streaming, gaming, video calls & real-time work onboard<br> <br> • Rollout begins in 2026 as part of fleet-wide upgrade<br> <br> A major leap in aviation connectivity 🚀</p> <img src=\"https://nitter.net/pic/media%2FHG6aABhaAAA4p7Z.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/cb_doge/status/2048744214230712500#m\">https://nitter.net/cb_doge/status/2048744214230712500#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 에미레이트, A380에 스타링크 도입으로 기내 인터넷 혁신<br> <br> 1️⃣ 각 A380에 최대 3개의 스타링크 안테나를 탑재해 연결 속도와 안정성을 대폭 개선<br> 2️⃣ 기존 기내 와이파이 대비 최대 1000배 향상된 성능 제공<br> 3️⃣ 고도 40,000피트에서도 스트리밍, 게임, 화상 통화, 실시간 업무 처리 가능<br> 4️⃣ 2026년부터 전 기단 순차 업그레이드 예정<br> <br> 항공 연결성의 패러다임이 바뀌는 순간 🚀</p> <img src=\"https://nitter.net/pic/media%2FHG6vlCGasAA10Am.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>DogeDesigner (@cb_doge)</b> <p> <p>🚨 NEWS: Emirates upgrades its iconic A380 with Starlink high-speed Wi-Fi, delivering “better-than-home” internet at 40,000 feet.<br> <br> • Up to 3 Starlink antennas on each A380 for massive speed boost<br> <br> • Internet performance improved up to 1000x vs older systems<br> <br> • Enables streaming, gaming, video calls & real-time work onboard<br> <br> • Rollout begins in 2026 as part of fleet-wide upgrade<br> <br> A major leap in aviation connectivity 🚀</p> <img src=\"https://nitter.net/pic/media%2FHG6aABhaAAA4p7Z.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/cb_doge/status/2048744214230712500#m\">https://nitter.net/cb_doge/status/2048744214230712500#m</a> </footer> </blockquote>",
           "pubDate": "Mon, 27 Apr 2026 14:15:15 GMT",
           "guid": "https://nitter.net/TeslaZoa/2048767937633304696",
           "read": false,
@@ -4436,8 +4459,8 @@
         {
           "title": "🚨 OpenAI–Microsoft 파트너십 구조 재편 (Reuters) 1️⃣ 수익 공유 구조 변화 Microsoft는 더 이상 OpenAI에 수익 공유를 지불하지 않음 → 기존 협력 구조에서 재무적 관계 일부 재조정 2️⃣ 클라우드 독점 완화 OpenAI는 이제 특정 플랫폼에 제한되지 않고 다양한 클라우드 제공업체를 통해 제품 제공 가능 → 멀티 클라우드 전략 본격화 3️⃣ Microsoft의 지위 유지 Microsoft는 여전히 주요 주주로서 OpenAI 성장에 참여 → 전략적 파트너십은 유지되지만 “독점적 결합”은 약화 4️⃣ IP 라이선스 유지 (2032년까지) Microsoft는 OpenAI 기술(IP)에 대한 라이선스를 장기적으로 확보 → AI 경쟁력 유지의 핵심 안전장치 5️⃣ 수익 지급 구조 (2030년까지 지속) OpenAI는 Microsoft에 대한 일부 수익 공유 지급을 2030년까지 계속 수행 → 완전한 분리는 아닌 “점진적 구조 변화” 👉 핵심 요약 독점 → 전략적 파트너십 + 멀티 클라우드 전환 AI 인프라 주도권 경쟁이 본격적으로 분산되는 신호",
           "link": "https://nitter.net/TeslaZoa/status/2048765804418904507#m",
-          "description": "<p>🚨 OpenAI–Microsoft 파트너십 구조 재편 (Reuters)<br> <br> 1️⃣ 수익 공유 구조 변화<br> Microsoft는 더 이상 OpenAI에 수익 공유를 지불하지 않음<br> → 기존 협력 구조에서 재무적 관계 일부 재조정<br> <br> 2️⃣ 클라우드 독점 완화<br> OpenAI는 이제 특정 플랫폼에 제한되지 않고 다양한 클라우드 제공업체를 통해 제품 제공 가능<br> → 멀티 클라우드 전략 본격화<br> <br> 3️⃣ Microsoft의 지위 유지<br> Microsoft는 여전히 주요 주주로서 OpenAI 성장에 참여<br> → 전략적 파트너십은 유지되지만 “독점적 결합”은 약화<br> <br> 4️⃣ IP 라이선스 유지 (2032년까지)<br> Microsoft는 OpenAI 기술(IP)에 대한 라이선스를 장기적으로 확보<br> → AI 경쟁력 유지의 핵심 안전장치<br> <br> 5️⃣ 수익 지급 구조 (2030년까지 지속)<br> OpenAI는 Microsoft에 대한 일부 수익 공유 지급을 2030년까지 계속 수행<br> → 완전한 분리는 아닌 “점진적 구조 변화”<br> <br> 👉 핵심 요약<br> 독점 → 전략적 파트너십 + 멀티 클라우드 전환<br> AI 인프라 주도권 경쟁이 본격적으로 분산되는 신호</p> <img src=\"https://nitter.net/pic/media%2FHG6to7dbIAAD_xG.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Evan (@StockMKTNewz)</b> <p> <p>OPENAI AND MICROSOFT <a href=\"https://nitter.net/search?f=tweets&q=%23MSFT\">$MSFT</a> JUST ANNOUNCED AN AMENDED PARTNERSHIP AGREEMENT<br> <br> Here's what changes:<br> <br> Microsoft will no longer pay a revenue share to OpenAI<br> <br> OpenAI can now serve its products to customers across any cloud provider<br> <br> Microsoft continues to participate in OpenAI's</p> </p> <footer> — <cite><a href=\"https://nitter.net/StockMKTNewz/status/2048750377965650190#m\">https://nitter.net/StockMKTNewz/status/2048750377965650190#m</a> </footer> </blockquote>",
-          "content": "<p>🚨 OpenAI–Microsoft 파트너십 구조 재편 (Reuters)<br> <br> 1️⃣ 수익 공유 구조 변화<br> Microsoft는 더 이상 OpenAI에 수익 공유를 지불하지 않음<br> → 기존 협력 구조에서 재무적 관계 일부 재조정<br> <br> 2️⃣ 클라우드 독점 완화<br> OpenAI는 이제 특정 플랫폼에 제한되지 않고 다양한 클라우드 제공업체를 통해 제품 제공 가능<br> → 멀티 클라우드 전략 본격화<br> <br> 3️⃣ Microsoft의 지위 유지<br> Microsoft는 여전히 주요 주주로서 OpenAI 성장에 참여<br> → 전략적 파트너십은 유지되지만 “독점적 결합”은 약화<br> <br> 4️⃣ IP 라이선스 유지 (2032년까지)<br> Microsoft는 OpenAI 기술(IP)에 대한 라이선스를 장기적으로 확보<br> → AI 경쟁력 유지의 핵심 안전장치<br> <br> 5️⃣ 수익 지급 구조 (2030년까지 지속)<br> OpenAI는 Microsoft에 대한 일부 수익 공유 지급을 2030년까지 계속 수행<br> → 완전한 분리는 아닌 “점진적 구조 변화”<br> <br> 👉 핵심 요약<br> 독점 → 전략적 파트너십 + 멀티 클라우드 전환<br> AI 인프라 주도권 경쟁이 본격적으로 분산되는 신호</p> <img src=\"https://nitter.net/pic/media%2FHG6to7dbIAAD_xG.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Evan (@StockMKTNewz)</b> <p> <p>OPENAI AND MICROSOFT <a href=\"https://nitter.net/search?f=tweets&q=%23MSFT\">$MSFT</a> JUST ANNOUNCED AN AMENDED PARTNERSHIP AGREEMENT<br> <br> Here's what changes:<br> <br> Microsoft will no longer pay a revenue share to OpenAI<br> <br> OpenAI can now serve its products to customers across any cloud provider<br> <br> Microsoft continues to participate in OpenAI's</p> </p> <footer> — <cite><a href=\"https://nitter.net/StockMKTNewz/status/2048750377965650190#m\">https://nitter.net/StockMKTNewz/status/2048750377965650190#m</a> </footer> </blockquote>",
+          "description": "<p>🚨 OpenAI–Microsoft 파트너십 구조 재편 (Reuters)<br> <br> 1️⃣ 수익 공유 구조 변화<br> Microsoft는 더 이상 OpenAI에 수익 공유를 지불하지 않음<br> → 기존 협력 구조에서 재무적 관계 일부 재조정<br> <br> 2️⃣ 클라우드 독점 완화<br> OpenAI는 이제 특정 플랫폼에 제한되지 않고 다양한 클라우드 제공업체를 통해 제품 제공 가능<br> → 멀티 클라우드 전략 본격화<br> <br> 3️⃣ Microsoft의 지위 유지<br> Microsoft는 여전히 주요 주주로서 OpenAI 성장에 참여<br> → 전략적 파트너십은 유지되지만 “독점적 결합”은 약화<br> <br> 4️⃣ IP 라이선스 유지 (2032년까지)<br> Microsoft는 OpenAI 기술(IP)에 대한 라이선스를 장기적으로 확보<br> → AI 경쟁력 유지의 핵심 안전장치<br> <br> 5️⃣ 수익 지급 구조 (2030년까지 지속)<br> OpenAI는 Microsoft에 대한 일부 수익 공유 지급을 2030년까지 계속 수행<br> → 완전한 분리는 아닌 “점진적 구조 변화”<br> <br> 👉 핵심 요약<br> 독점 → 전략적 파트너십 + 멀티 클라우드 전환<br> AI 인프라 주도권 경쟁이 본격적으로 분산되는 신호</p> <img src=\"https://nitter.net/pic/media%2FHG6to7dbIAAD_xG.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Evan (@StockMKTNewz)</b> <p> <p>OPENAI AND MICROSOFT <a href=\"https://nitter.net/search?f=tweets&q=%23MSFT\">$MSFT</a> JUST ANNOUNCED AN AMENDED PARTNERSHIP AGREEMENT<br> <br> Here's what changes:<br> <br> Microsoft will no longer pay a revenue share to OpenAI<br> <br> OpenAI can now serve its products to customers across any cloud provider<br> <br> Microsoft continues to participate in OpenAI's growth as a major shareholder and retains a license to OpenAI IP through 2032<br> <br> Revenue share payments to Microsoft continue through 2030<br> <br> (Source Reuters)</p> <img src=\"https://nitter.net/pic/media%2FHG6fkXOagAAX9Fh.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/StockMKTNewz/status/2048750377965650190#m\">https://nitter.net/StockMKTNewz/status/2048750377965650190#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 OpenAI–Microsoft 파트너십 구조 재편 (Reuters)<br> <br> 1️⃣ 수익 공유 구조 변화<br> Microsoft는 더 이상 OpenAI에 수익 공유를 지불하지 않음<br> → 기존 협력 구조에서 재무적 관계 일부 재조정<br> <br> 2️⃣ 클라우드 독점 완화<br> OpenAI는 이제 특정 플랫폼에 제한되지 않고 다양한 클라우드 제공업체를 통해 제품 제공 가능<br> → 멀티 클라우드 전략 본격화<br> <br> 3️⃣ Microsoft의 지위 유지<br> Microsoft는 여전히 주요 주주로서 OpenAI 성장에 참여<br> → 전략적 파트너십은 유지되지만 “독점적 결합”은 약화<br> <br> 4️⃣ IP 라이선스 유지 (2032년까지)<br> Microsoft는 OpenAI 기술(IP)에 대한 라이선스를 장기적으로 확보<br> → AI 경쟁력 유지의 핵심 안전장치<br> <br> 5️⃣ 수익 지급 구조 (2030년까지 지속)<br> OpenAI는 Microsoft에 대한 일부 수익 공유 지급을 2030년까지 계속 수행<br> → 완전한 분리는 아닌 “점진적 구조 변화”<br> <br> 👉 핵심 요약<br> 독점 → 전략적 파트너십 + 멀티 클라우드 전환<br> AI 인프라 주도권 경쟁이 본격적으로 분산되는 신호</p> <img src=\"https://nitter.net/pic/media%2FHG6to7dbIAAD_xG.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Evan (@StockMKTNewz)</b> <p> <p>OPENAI AND MICROSOFT <a href=\"https://nitter.net/search?f=tweets&q=%23MSFT\">$MSFT</a> JUST ANNOUNCED AN AMENDED PARTNERSHIP AGREEMENT<br> <br> Here's what changes:<br> <br> Microsoft will no longer pay a revenue share to OpenAI<br> <br> OpenAI can now serve its products to customers across any cloud provider<br> <br> Microsoft continues to participate in OpenAI's growth as a major shareholder and retains a license to OpenAI IP through 2032<br> <br> Revenue share payments to Microsoft continue through 2030<br> <br> (Source Reuters)</p> <img src=\"https://nitter.net/pic/media%2FHG6fkXOagAAX9Fh.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/StockMKTNewz/status/2048750377965650190#m\">https://nitter.net/StockMKTNewz/status/2048750377965650190#m</a> </footer> </blockquote>",
           "pubDate": "Mon, 27 Apr 2026 14:06:46 GMT",
           "guid": "https://nitter.net/TeslaZoa/2048765804418904507",
           "read": false,
@@ -4459,8 +4482,8 @@
         {
           "title": "🚨 Tesla FSD 유럽 확장, 벨기에 진입 신호 포착 (2026년 4월 기준) 1️⃣ 네덜란드 승인 확인 RDW가 Tesla FSD Supervised에 대해 국가 형식 승인을 부여한 것은 사실이며, 현재 해당 승인은 네덜란드 내에서만 유효 2️⃣ EU 레벨 논의 예정 2026년 5월, 유럽 작업 그룹에서 각국 형식 승인 기관들과 함께 해당 승인 내용이 공식적으로 설명 및 검토될 예정 3️⃣ 벨기에 절차 진행 중 Department of Mobility and Public Works 측 확인에 따르면, EU 논의 이후 벨기에 적용을 위한 평가 및 승인 절차가 계속 진행될 계획 4️⃣ 핵심 의미 단일 국가 승인 → EU 확산 구조로 전환되는 초기 단계 FSD Supervised의 유럽 내 규제 장벽이 점진적으로 해소되는 흐름 5️⃣ 투자 관점 포인트 • 유럽 시장 내 FSD 확장 가능성 현실화 • 국가별 승인 → EU 전역 확산의 테스트 케이스 • 규제 리스크 완화 시 소프트웨어 수익 모델 가속 기대 👉 결론: 네덜란드를 시작으로 EU 전체 확산을 위한 첫 공식 단계 진입. 벨기에는 그 다음 타깃 중 하나로, 실제 승인 프로세스가 “논의 단계 → 실행 단계”로 이동 중.",
           "link": "https://nitter.net/TeslaZoa/status/2048765322908569648#m",
-          "description": "<p>🚨 Tesla FSD 유럽 확장, 벨기에 진입 신호 포착 (2026년 4월 기준)<br> <br> 1️⃣ 네덜란드 승인 확인<br> RDW가 Tesla FSD Supervised에 대해 국가 형식 승인을 부여한 것은 사실이며, 현재 해당 승인은 네덜란드 내에서만 유효<br> <br> 2️⃣ EU 레벨 논의 예정<br> 2026년 5월, 유럽 작업 그룹에서 각국 형식 승인 기관들과 함께 해당 승인 내용이 공식적으로 설명 및 검토될 예정<br> <br> 3️⃣ 벨기에 절차 진행 중<br> Department of Mobility and Public Works 측 확인에 따르면, EU 논의 이후 벨기에 적용을 위한 평가 및 승인 절차가 계속 진행될 계획<br> <br> 4️⃣ 핵심 의미<br> 단일 국가 승인 → EU 확산 구조로 전환되는 초기 단계<br> FSD Supervised의 유럽 내 규제 장벽이 점진적으로 해소되는 흐름<br> <br> 5️⃣ 투자 관점 포인트<br> • 유럽 시장 내 FSD 확장 가능성 현실화<br> • 국가별 승인 → EU 전역 확산의 테스트 케이스<br> • 규제 리스크 완화 시 소프트웨어 수익 모델 가속 기대<br> <br> 👉 결론:<br> 네덜란드를 시작으로 EU 전체 확산을 위한 첫 공식 단계 진입.<br> 벨기에는 그 다음 타깃 중 하나로, 실제 승인 프로세스가 “논의 단계 → 실행 단계”로 이동 중.</p> <img src=\"https://nitter.net/pic/media%2FHG6tM1rbkAE0and.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Jonas DM. (@dm_jns)</b> <p> <p>🇧🇪 Huge news, Tesla FSD Supervised moving forward in Belgium!<br> <br> Flemish homologation has personally contacted me regarding the Dutch RDW type approval for Tesla FSD Supervised.<br> <br> Here’s the full translated email:<br> <br> Dear,<br> It is correct that RDW (Netherlands) has granted a National</p> </p> <footer> — <cite><a href=\"https://nitter.net/dm_jns/status/2048744780645998888#m\">https://nitter.net/dm_jns/status/2048744780645998888#m</a> </footer> </blockquote>",
-          "content": "<p>🚨 Tesla FSD 유럽 확장, 벨기에 진입 신호 포착 (2026년 4월 기준)<br> <br> 1️⃣ 네덜란드 승인 확인<br> RDW가 Tesla FSD Supervised에 대해 국가 형식 승인을 부여한 것은 사실이며, 현재 해당 승인은 네덜란드 내에서만 유효<br> <br> 2️⃣ EU 레벨 논의 예정<br> 2026년 5월, 유럽 작업 그룹에서 각국 형식 승인 기관들과 함께 해당 승인 내용이 공식적으로 설명 및 검토될 예정<br> <br> 3️⃣ 벨기에 절차 진행 중<br> Department of Mobility and Public Works 측 확인에 따르면, EU 논의 이후 벨기에 적용을 위한 평가 및 승인 절차가 계속 진행될 계획<br> <br> 4️⃣ 핵심 의미<br> 단일 국가 승인 → EU 확산 구조로 전환되는 초기 단계<br> FSD Supervised의 유럽 내 규제 장벽이 점진적으로 해소되는 흐름<br> <br> 5️⃣ 투자 관점 포인트<br> • 유럽 시장 내 FSD 확장 가능성 현실화<br> • 국가별 승인 → EU 전역 확산의 테스트 케이스<br> • 규제 리스크 완화 시 소프트웨어 수익 모델 가속 기대<br> <br> 👉 결론:<br> 네덜란드를 시작으로 EU 전체 확산을 위한 첫 공식 단계 진입.<br> 벨기에는 그 다음 타깃 중 하나로, 실제 승인 프로세스가 “논의 단계 → 실행 단계”로 이동 중.</p> <img src=\"https://nitter.net/pic/media%2FHG6tM1rbkAE0and.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Jonas DM. (@dm_jns)</b> <p> <p>🇧🇪 Huge news, Tesla FSD Supervised moving forward in Belgium!<br> <br> Flemish homologation has personally contacted me regarding the Dutch RDW type approval for Tesla FSD Supervised.<br> <br> Here’s the full translated email:<br> <br> Dear,<br> It is correct that RDW (Netherlands) has granted a National</p> </p> <footer> — <cite><a href=\"https://nitter.net/dm_jns/status/2048744780645998888#m\">https://nitter.net/dm_jns/status/2048744780645998888#m</a> </footer> </blockquote>",
+          "description": "<p>🚨 Tesla FSD 유럽 확장, 벨기에 진입 신호 포착 (2026년 4월 기준)<br> <br> 1️⃣ 네덜란드 승인 확인<br> RDW가 Tesla FSD Supervised에 대해 국가 형식 승인을 부여한 것은 사실이며, 현재 해당 승인은 네덜란드 내에서만 유효<br> <br> 2️⃣ EU 레벨 논의 예정<br> 2026년 5월, 유럽 작업 그룹에서 각국 형식 승인 기관들과 함께 해당 승인 내용이 공식적으로 설명 및 검토될 예정<br> <br> 3️⃣ 벨기에 절차 진행 중<br> Department of Mobility and Public Works 측 확인에 따르면, EU 논의 이후 벨기에 적용을 위한 평가 및 승인 절차가 계속 진행될 계획<br> <br> 4️⃣ 핵심 의미<br> 단일 국가 승인 → EU 확산 구조로 전환되는 초기 단계<br> FSD Supervised의 유럽 내 규제 장벽이 점진적으로 해소되는 흐름<br> <br> 5️⃣ 투자 관점 포인트<br> • 유럽 시장 내 FSD 확장 가능성 현실화<br> • 국가별 승인 → EU 전역 확산의 테스트 케이스<br> • 규제 리스크 완화 시 소프트웨어 수익 모델 가속 기대<br> <br> 👉 결론:<br> 네덜란드를 시작으로 EU 전체 확산을 위한 첫 공식 단계 진입.<br> 벨기에는 그 다음 타깃 중 하나로, 실제 승인 프로세스가 “논의 단계 → 실행 단계”로 이동 중.</p> <img src=\"https://nitter.net/pic/media%2FHG6tM1rbkAE0and.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Jonas DM. (@dm_jns)</b> <p> <p>🇧🇪 Huge news, Tesla FSD Supervised moving forward in Belgium!<br> <br> Flemish homologation has personally contacted me regarding the Dutch RDW type approval for Tesla FSD Supervised.<br> <br> Here’s the full translated email:<br> <br> Dear,<br> It is correct that RDW (Netherlands) has granted a National type approval. However, at this moment it is only valid in the Netherlands. Next month (05/2026) the Dutch approval will be explained and discussed in a European working group with the various type approval authorities of the member states. After that we can continue the evaluation.<br> Kind regards,<br> Team Homologie<br> DEPARTMENT OF MOBILITY & PUBLIC WORKS<br> <br> This confirms the approval is real and the process for Belgium is actively continuing after the May 2026 EU meeting. <br> Huge progress for FSD in Belgium!🚀</p> <img src=\"https://nitter.net/pic/media%2FHG6ahEubgAAZ-em.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/dm_jns/status/2048744780645998888#m\">https://nitter.net/dm_jns/status/2048744780645998888#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 Tesla FSD 유럽 확장, 벨기에 진입 신호 포착 (2026년 4월 기준)<br> <br> 1️⃣ 네덜란드 승인 확인<br> RDW가 Tesla FSD Supervised에 대해 국가 형식 승인을 부여한 것은 사실이며, 현재 해당 승인은 네덜란드 내에서만 유효<br> <br> 2️⃣ EU 레벨 논의 예정<br> 2026년 5월, 유럽 작업 그룹에서 각국 형식 승인 기관들과 함께 해당 승인 내용이 공식적으로 설명 및 검토될 예정<br> <br> 3️⃣ 벨기에 절차 진행 중<br> Department of Mobility and Public Works 측 확인에 따르면, EU 논의 이후 벨기에 적용을 위한 평가 및 승인 절차가 계속 진행될 계획<br> <br> 4️⃣ 핵심 의미<br> 단일 국가 승인 → EU 확산 구조로 전환되는 초기 단계<br> FSD Supervised의 유럽 내 규제 장벽이 점진적으로 해소되는 흐름<br> <br> 5️⃣ 투자 관점 포인트<br> • 유럽 시장 내 FSD 확장 가능성 현실화<br> • 국가별 승인 → EU 전역 확산의 테스트 케이스<br> • 규제 리스크 완화 시 소프트웨어 수익 모델 가속 기대<br> <br> 👉 결론:<br> 네덜란드를 시작으로 EU 전체 확산을 위한 첫 공식 단계 진입.<br> 벨기에는 그 다음 타깃 중 하나로, 실제 승인 프로세스가 “논의 단계 → 실행 단계”로 이동 중.</p> <img src=\"https://nitter.net/pic/media%2FHG6tM1rbkAE0and.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Jonas DM. (@dm_jns)</b> <p> <p>🇧🇪 Huge news, Tesla FSD Supervised moving forward in Belgium!<br> <br> Flemish homologation has personally contacted me regarding the Dutch RDW type approval for Tesla FSD Supervised.<br> <br> Here’s the full translated email:<br> <br> Dear,<br> It is correct that RDW (Netherlands) has granted a National type approval. However, at this moment it is only valid in the Netherlands. Next month (05/2026) the Dutch approval will be explained and discussed in a European working group with the various type approval authorities of the member states. After that we can continue the evaluation.<br> Kind regards,<br> Team Homologie<br> DEPARTMENT OF MOBILITY & PUBLIC WORKS<br> <br> This confirms the approval is real and the process for Belgium is actively continuing after the May 2026 EU meeting. <br> Huge progress for FSD in Belgium!🚀</p> <img src=\"https://nitter.net/pic/media%2FHG6ahEubgAAZ-em.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/dm_jns/status/2048744780645998888#m\">https://nitter.net/dm_jns/status/2048744780645998888#m</a> </footer> </blockquote>",
           "pubDate": "Mon, 27 Apr 2026 14:04:51 GMT",
           "guid": "https://nitter.net/TeslaZoa/2048765322908569648",
           "read": false,
@@ -4574,8 +4597,8 @@
         {
           "title": "블룸버그 : 테슬라는 일론 머스크의 2018년 스톡옵션을 등록했으며, 이에 따라 향후 추가 매도 가능성이 제기되고 있다. 블룸버그의 이 내용은 거짓입니다. 시장에 영향을 끼칠만할 규모가 있는 매도는 5년 후부터 가능하기 때문입니다. 제발 겁 먹는 주주들이 없기를 바래봅니다.",
           "link": "https://nitter.net/TeslaZoa/status/2048746839009358223#m",
-          "description": "<p>블룸버그 : 테슬라는 일론 머스크의 2018년 스톡옵션을 등록했으며, 이에 따라 향후 추가 매도 가능성이 제기되고 있다.<br> <br> 블룸버그의 이 내용은 거짓입니다. 시장에 영향을 끼칠만할 규모가 있는 매도는 5년 후부터 가능하기 때문입니다. <br> <br> 제발 겁 먹는 주주들이 없기를 바래봅니다.</p> <hr/> <blockquote> <b>*Walter Bloomberg (@DeItaone)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> - TESLA FILES MUSK 2018 STOCK — SALES COULD FOLLOW<br> <br> Tesla registered ~304M shares tied to Elon Musk’s 2018 pay package, allowing them to trade once exercised. It doesn’t mean an immediate sale, but Musk is likely to sell some for taxes when options are used before they</p> <p><b>Community note:</b> per the 2018 CEO Performance Award terms (and 2026 implementation agreement), Musk must hold shares from exercising the options for five years after vesting (except to cover taxes/exercise price or limited cases like estate planning). <a href=\"https://nitter.net/t.co/2YuVyWyaf5\">sec.gov/Archives/edgar…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/DeItaone/status/2048733383740551173#m\">https://nitter.net/DeItaone/status/2048733383740551173#m</a> </footer> </blockquote>",
-          "content": "<p>블룸버그 : 테슬라는 일론 머스크의 2018년 스톡옵션을 등록했으며, 이에 따라 향후 추가 매도 가능성이 제기되고 있다.<br> <br> 블룸버그의 이 내용은 거짓입니다. 시장에 영향을 끼칠만할 규모가 있는 매도는 5년 후부터 가능하기 때문입니다. <br> <br> 제발 겁 먹는 주주들이 없기를 바래봅니다.</p> <hr/> <blockquote> <b>*Walter Bloomberg (@DeItaone)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> - TESLA FILES MUSK 2018 STOCK — SALES COULD FOLLOW<br> <br> Tesla registered ~304M shares tied to Elon Musk’s 2018 pay package, allowing them to trade once exercised. It doesn’t mean an immediate sale, but Musk is likely to sell some for taxes when options are used before they</p> <p><b>Community note:</b> per the 2018 CEO Performance Award terms (and 2026 implementation agreement), Musk must hold shares from exercising the options for five years after vesting (except to cover taxes/exercise price or limited cases like estate planning). <a href=\"https://nitter.net/t.co/2YuVyWyaf5\">sec.gov/Archives/edgar…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/DeItaone/status/2048733383740551173#m\">https://nitter.net/DeItaone/status/2048733383740551173#m</a> </footer> </blockquote>",
+          "description": "<p>블룸버그 : 테슬라는 일론 머스크의 2018년 스톡옵션을 등록했으며, 이에 따라 향후 추가 매도 가능성이 제기되고 있다.<br> <br> 블룸버그의 이 내용은 거짓입니다. 시장에 영향을 끼칠만할 규모가 있는 매도는 5년 후부터 가능하기 때문입니다. <br> <br> 제발 겁 먹는 주주들이 없기를 바래봅니다.</p> <hr/> <blockquote> <b>*Walter Bloomberg (@DeItaone)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> - TESLA FILES MUSK 2018 STOCK — SALES COULD FOLLOW<br> <br> Tesla registered ~304M shares tied to Elon Musk’s 2018 pay package, allowing them to trade once exercised. It doesn’t mean an immediate sale, but Musk is likely to sell some for taxes when options are used before they expire in 2028.<br> <br> The award survived years of legal battles and is now valued against Tesla’s ~$1.7T market cap (vs ~$70B at grant). Investors expect potential selling pressure, adding volatility to the stock, which is down 16% year-to-date.</p> <p><b>Community note:</b> per the 2018 CEO Performance Award terms (and 2026 implementation agreement), Musk must hold shares from exercising the options for five years after vesting (except to cover taxes/exercise price or limited cases like estate planning). <a href=\"https://nitter.net/t.co/2YuVyWyaf5\">sec.gov/Archives/edgar…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/DeItaone/status/2048733383740551173#m\">https://nitter.net/DeItaone/status/2048733383740551173#m</a> </footer> </blockquote>",
+          "content": "<p>블룸버그 : 테슬라는 일론 머스크의 2018년 스톡옵션을 등록했으며, 이에 따라 향후 추가 매도 가능성이 제기되고 있다.<br> <br> 블룸버그의 이 내용은 거짓입니다. 시장에 영향을 끼칠만할 규모가 있는 매도는 5년 후부터 가능하기 때문입니다. <br> <br> 제발 겁 먹는 주주들이 없기를 바래봅니다.</p> <hr/> <blockquote> <b>*Walter Bloomberg (@DeItaone)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> - TESLA FILES MUSK 2018 STOCK — SALES COULD FOLLOW<br> <br> Tesla registered ~304M shares tied to Elon Musk’s 2018 pay package, allowing them to trade once exercised. It doesn’t mean an immediate sale, but Musk is likely to sell some for taxes when options are used before they expire in 2028.<br> <br> The award survived years of legal battles and is now valued against Tesla’s ~$1.7T market cap (vs ~$70B at grant). Investors expect potential selling pressure, adding volatility to the stock, which is down 16% year-to-date.</p> <p><b>Community note:</b> per the 2018 CEO Performance Award terms (and 2026 implementation agreement), Musk must hold shares from exercising the options for five years after vesting (except to cover taxes/exercise price or limited cases like estate planning). <a href=\"https://nitter.net/t.co/2YuVyWyaf5\">sec.gov/Archives/edgar…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/DeItaone/status/2048733383740551173#m\">https://nitter.net/DeItaone/status/2048733383740551173#m</a> </footer> </blockquote>",
           "pubDate": "Mon, 27 Apr 2026 12:51:24 GMT",
           "guid": "https://nitter.net/TeslaZoa/2048746839009358223",
           "read": false,
@@ -4643,8 +4666,8 @@
         {
           "title": "🚨 에미레이츠, A380에 스타링크 도입 🇦🇪 1️⃣ Emirates, Airbus A380 기단에 Starlink 탑재 추진 2️⃣ 항공기당 안테나 3개 적용, 대형 기체·다수 승객 환경 대응 3️⃣ 기내 전체 최대 2Gbps 속도 제공 → 고도 40,000피트에서도 안정적 고속 Wi-Fi 기대",
           "link": "https://nitter.net/TeslaZoa/status/2048737116725907783#m",
-          "description": "<p>🚨 에미레이츠, A380에 스타링크 도입 🇦🇪<br> <br> 1️⃣ Emirates, Airbus A380 기단에 Starlink 탑재 추진<br> 2️⃣ 항공기당 안테나 3개 적용, 대형 기체·다수 승객 환경 대응<br> 3️⃣ 기내 전체 최대 2Gbps 속도 제공 → 고도 40,000피트에서도 안정적 고속 Wi-Fi 기대</p> <img src=\"https://nitter.net/pic/media%2FHG6ThCxaEAEwTS4.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG6ThqzasAAFxb_.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Muskonomy (@muskonomy)</b> <p> <p>NEWS: Emirates is adding Starlink to its A380 fleet to massively upgrade in flight internet<br> <br> Each A380 will use 3 Starlink antennas, built to handle the large double deck aircraft and high number of passengers.<br> <br> The system can deliver over 2 Gbps across the cabin, meaning faster</p> </p> <footer> — <cite><a href=\"https://nitter.net/muskonomy/status/2048735143603695966#m\">https://nitter.net/muskonomy/status/2048735143603695966#m</a> </footer> </blockquote>",
-          "content": "<p>🚨 에미레이츠, A380에 스타링크 도입 🇦🇪<br> <br> 1️⃣ Emirates, Airbus A380 기단에 Starlink 탑재 추진<br> 2️⃣ 항공기당 안테나 3개 적용, 대형 기체·다수 승객 환경 대응<br> 3️⃣ 기내 전체 최대 2Gbps 속도 제공 → 고도 40,000피트에서도 안정적 고속 Wi-Fi 기대</p> <img src=\"https://nitter.net/pic/media%2FHG6ThCxaEAEwTS4.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG6ThqzasAAFxb_.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Muskonomy (@muskonomy)</b> <p> <p>NEWS: Emirates is adding Starlink to its A380 fleet to massively upgrade in flight internet<br> <br> Each A380 will use 3 Starlink antennas, built to handle the large double deck aircraft and high number of passengers.<br> <br> The system can deliver over 2 Gbps across the cabin, meaning faster</p> </p> <footer> — <cite><a href=\"https://nitter.net/muskonomy/status/2048735143603695966#m\">https://nitter.net/muskonomy/status/2048735143603695966#m</a> </footer> </blockquote>",
+          "description": "<p>🚨 에미레이츠, A380에 스타링크 도입 🇦🇪<br> <br> 1️⃣ Emirates, Airbus A380 기단에 Starlink 탑재 추진<br> 2️⃣ 항공기당 안테나 3개 적용, 대형 기체·다수 승객 환경 대응<br> 3️⃣ 기내 전체 최대 2Gbps 속도 제공 → 고도 40,000피트에서도 안정적 고속 Wi-Fi 기대</p> <img src=\"https://nitter.net/pic/media%2FHG6ThCxaEAEwTS4.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG6ThqzasAAFxb_.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Muskonomy (@muskonomy)</b> <p> <p>NEWS: Emirates is adding Starlink to its A380 fleet to massively upgrade in flight internet<br> <br> Each A380 will use 3 Starlink antennas, built to handle the large double deck aircraft and high number of passengers.<br> <br> The system can deliver over 2 Gbps across the cabin, meaning faster and more stable WiFi at 40,000 feet.<br> <br> This could finally make airplane internet feel close to what you get at home.</p> <img src=\"https://nitter.net/pic/media%2FHG6Rv30bAAAK6VX.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG6Rv31bsAAqEuR.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/muskonomy/status/2048735143603695966#m\">https://nitter.net/muskonomy/status/2048735143603695966#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 에미레이츠, A380에 스타링크 도입 🇦🇪<br> <br> 1️⃣ Emirates, Airbus A380 기단에 Starlink 탑재 추진<br> 2️⃣ 항공기당 안테나 3개 적용, 대형 기체·다수 승객 환경 대응<br> 3️⃣ 기내 전체 최대 2Gbps 속도 제공 → 고도 40,000피트에서도 안정적 고속 Wi-Fi 기대</p> <img src=\"https://nitter.net/pic/media%2FHG6ThCxaEAEwTS4.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG6ThqzasAAFxb_.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Muskonomy (@muskonomy)</b> <p> <p>NEWS: Emirates is adding Starlink to its A380 fleet to massively upgrade in flight internet<br> <br> Each A380 will use 3 Starlink antennas, built to handle the large double deck aircraft and high number of passengers.<br> <br> The system can deliver over 2 Gbps across the cabin, meaning faster and more stable WiFi at 40,000 feet.<br> <br> This could finally make airplane internet feel close to what you get at home.</p> <img src=\"https://nitter.net/pic/media%2FHG6Rv30bAAAK6VX.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG6Rv31bsAAqEuR.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/muskonomy/status/2048735143603695966#m\">https://nitter.net/muskonomy/status/2048735143603695966#m</a> </footer> </blockquote>",
           "pubDate": "Mon, 27 Apr 2026 12:12:46 GMT",
           "guid": "https://nitter.net/TeslaZoa/2048737116725907783",
           "read": false,
@@ -4712,8 +4735,8 @@
         {
           "title": "이번에 모델 Y RWD 출고 받는 분들, 진심으로 축하드립니다!",
           "link": "https://nitter.net/TeslaZoa/status/2048733047802167701#m",
-          "description": "<p>이번에 모델 Y RWD 출고 받는 분들, 진심으로 축하드립니다!</p> <hr/> <blockquote> <b>Tsla Chan (@Tslachan)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> 🇰🇷<br> 테슬라 코리아, Model Y RWD 차량 대상 ’테슬라 지원금’ 보조 예정<br> <br> 설문에 해당 테슬라 보조금 지원 받겠다고 선택하면, RWD 구매 예정자는 170만원 지원 받아서 차량 출고할 수 있음</p> </p> <footer> — <cite><a href=\"https://nitter.net/Tslachan/status/2048726624066261307#m\">https://nitter.net/Tslachan/status/2048726624066261307#m</a> </footer> </blockquote>",
-          "content": "<p>이번에 모델 Y RWD 출고 받는 분들, 진심으로 축하드립니다!</p> <hr/> <blockquote> <b>Tsla Chan (@Tslachan)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> 🇰🇷<br> 테슬라 코리아, Model Y RWD 차량 대상 ’테슬라 지원금’ 보조 예정<br> <br> 설문에 해당 테슬라 보조금 지원 받겠다고 선택하면, RWD 구매 예정자는 170만원 지원 받아서 차량 출고할 수 있음</p> </p> <footer> — <cite><a href=\"https://nitter.net/Tslachan/status/2048726624066261307#m\">https://nitter.net/Tslachan/status/2048726624066261307#m</a> </footer> </blockquote>",
+          "description": "<p>이번에 모델 Y RWD 출고 받는 분들, 진심으로 축하드립니다!</p> <hr/> <blockquote> <b>Tsla Chan (@Tslachan)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> 🇰🇷<br> 테슬라 코리아, Model Y RWD 차량 대상 ’테슬라 지원금’ 보조 예정<br> <br> 설문에 해당 테슬라 보조금 지원 받겠다고 선택하면, RWD 구매 예정자는 170만원 지원 받아서 차량 출고할 수 있음</p> <img src=\"https://nitter.net/pic/media%2FHG6KAE5aYAAGeVU.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/Tslachan/status/2048726624066261307#m\">https://nitter.net/Tslachan/status/2048726624066261307#m</a> </footer> </blockquote>",
+          "content": "<p>이번에 모델 Y RWD 출고 받는 분들, 진심으로 축하드립니다!</p> <hr/> <blockquote> <b>Tsla Chan (@Tslachan)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> 🇰🇷<br> 테슬라 코리아, Model Y RWD 차량 대상 ’테슬라 지원금’ 보조 예정<br> <br> 설문에 해당 테슬라 보조금 지원 받겠다고 선택하면, RWD 구매 예정자는 170만원 지원 받아서 차량 출고할 수 있음</p> <img src=\"https://nitter.net/pic/media%2FHG6KAE5aYAAGeVU.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/Tslachan/status/2048726624066261307#m\">https://nitter.net/Tslachan/status/2048726624066261307#m</a> </footer> </blockquote>",
           "pubDate": "Mon, 27 Apr 2026 11:56:36 GMT",
           "guid": "https://nitter.net/TeslaZoa/2048733047802167701",
           "read": false,
@@ -5101,7 +5124,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777324107957,
+      "lastUpdated": 1777327670317,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5118,6 +5141,52 @@
       "url": "https://nitter.net/songjunkr/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "R to @songjunkr: 코딩은 잘 작동하지만 데이터분야만 문제가 있어요 🥲",
+          "link": "https://nitter.net/songjunkr/status/2048883049954480204#m",
+          "description": "<p>코딩은 잘 작동하지만 데이터분야만 문제가 있어요 🥲</p>",
+          "content": "<p>코딩은 잘 작동하지만 데이터분야만 문제가 있어요 🥲</p>",
+          "pubDate": "Mon, 27 Apr 2026 21:52:40 GMT",
+          "guid": "https://nitter.net/songjunkr/2048883049954480204",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "",
+          "summary": "코딩은 잘 작동하지만 데이터분야만 문제가 있어요 🥲",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "GPT-5.5 keeps breaking my SuperQwen workflow (testing v80 rn) and I have no idea why. Tried xHigh, High, Medium, Low and all are same. Data analysis & extraction is completely bugged. GPT-5.4 was fine. Is this a me problem or a 5.5 problem?",
+          "link": "https://nitter.net/songjunkr/status/2048879474171908342#m",
+          "description": "<p>GPT-5.5 keeps breaking my SuperQwen workflow (testing v80 rn) and I have no idea why. <br> <br> Tried xHigh, High, Medium, Low and all are same.<br> <br> Data analysis & extraction is completely bugged. <br> <br> GPT-5.4 was fine. <br> <br> Is this a me problem or a 5.5 problem?</p>",
+          "content": "<p>GPT-5.5 keeps breaking my SuperQwen workflow (testing v80 rn) and I have no idea why. <br> <br> Tried xHigh, High, Medium, Low and all are same.<br> <br> Data analysis & extraction is completely bugged. <br> <br> GPT-5.4 was fine. <br> <br> Is this a me problem or a 5.5 problem?</p>",
+          "pubDate": "Mon, 27 Apr 2026 21:38:27 GMT",
+          "guid": "https://nitter.net/songjunkr/2048879474171908342",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "",
+          "summary": "GPT-5.5 keeps breaking my SuperQwen workflow (testing v80 rn) and I have no idea why. Tried xHigh, High, Medium, Low and all are same. Data analysis & extraction is completely bugged. GPT-5.4 was fine. Is this a me probl...",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "Cloud AI is getting more expensive. Build Local LLMs before it’s too late. You won’t be able to get the hardware soon.",
           "link": "https://nitter.net/songjunkr/status/2048871045017620940#m",
@@ -5648,7 +5717,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777324128846,
+      "lastUpdated": 1777327691522,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6057,7 +6126,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777324130742,
+      "lastUpdated": 1777327692637,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6558,7 +6627,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777324131668,
+      "lastUpdated": 1777327693556,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7266,7 +7335,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777324132672,
+      "lastUpdated": 1777327694892,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8434,7 +8503,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777324132718,
+      "lastUpdated": 1777327694926,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8948,7 +9017,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777324134260,
+      "lastUpdated": 1777327695606,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9104,7 +9173,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777324135903,
+      "lastUpdated": 1777327697201,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9156,7 +9225,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777324136038,
+      "lastUpdated": 1777327697310,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9774,7 +9843,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777324136228,
+      "lastUpdated": 1777327697781,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9792,6 +9861,29 @@
       "url": "https://openai.com/news/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "OpenAI available at FedRAMP Moderate",
+          "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+          "description": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+          "content": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+          "pubDate": "Mon, 27 Apr 2026 14:00:00 GMT",
+          "guid": "https://openai.com/index/openai-available-at-fedramp-moderate",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "OpenAI News",
+          "feedUrl": "https://openai.com/news/rss.xml",
+          "coverImage": "",
+          "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "The next phase of the Microsoft OpenAI partnership",
           "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
@@ -10918,32 +11010,9 @@
           "image": "",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "AI fundamentals",
-          "link": "https://openai.com/academy/what-is-ai",
-          "description": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
-          "content": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "guid": "https://openai.com/academy/what-is-ai",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "OpenAI News",
-          "feedUrl": "https://openai.com/news/rss.xml",
-          "coverImage": "",
-          "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777324136972,
+      "lastUpdated": 1777327698635,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10954,6 +11023,746 @@
         "rules": []
       },
       "siteUrl": "https://openai.com/news",
+      "iconUrl": ""
+    },
+    {
+      "title": "제이디드월드",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+      "folder": "Videos",
+      "items": [
+        {
+          "title": "머스크 \"기다려라 다 보여줄게\" 테슬라의 진짜 실체",
+          "link": "https://www.youtube.com/watch?v=uc4uX-u6rJ0",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-26T22:54:07+00:00",
+          "guid": "yt:video:uc4uX-u6rJ0",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/uc4uX-u6rJ0/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "uc4uX-u6rJ0"
+        },
+        {
+          "title": "머스크는 왜 입을 닫았나, 테슬라가 기술을 숨기기 시작한 진짜 의도",
+          "link": "https://www.youtube.com/watch?v=Aor83N12Dtk",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-25T23:50:32+00:00",
+          "guid": "yt:video:Aor83N12Dtk",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/Aor83N12Dtk/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "Aor83N12Dtk"
+        },
+        {
+          "title": "테슬라 확실한 신호가 나타나고 있습니다",
+          "link": "https://www.youtube.com/watch?v=kt-3RmnhCQ4",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-23T22:21:24+00:00",
+          "guid": "yt:video:kt-3RmnhCQ4",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/kt-3RmnhCQ4/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "kt-3RmnhCQ4"
+        },
+        {
+          "title": "머스크가 말한 테슬라 4분기 믿어도 될까",
+          "link": "https://www.youtube.com/watch?v=65G1pK7BiTs",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-23T09:36:15+00:00",
+          "guid": "yt:video:65G1pK7BiTs",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/65G1pK7BiTs/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "65G1pK7BiTs"
+        },
+        {
+          "title": "머스크의 호언장담, 테슬라 몇 대 팔아야 할지 직접 계산해 봤습니다",
+          "link": "https://www.youtube.com/watch?v=_ylX1-pA-lc",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-21T22:37:24+00:00",
+          "guid": "yt:video:_ylX1-pA-lc",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/_ylX1-pA-lc/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "_ylX1-pA-lc"
+        },
+        {
+          "title": "테슬라 사이버캡 논란 종결! 규제를 비웃는 머스크의 한 수",
+          "link": "https://www.youtube.com/watch?v=zE_jR7sTn_Y",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-19T21:15:39+00:00",
+          "guid": "yt:video:zE_jR7sTn_Y",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/zE_jR7sTn_Y/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "zE_jR7sTn_Y"
+        },
+        {
+          "title": "테슬라 1분기 엄청난 금액의 투자가 오히려 호재인 이유",
+          "link": "https://www.youtube.com/watch?v=2xGQZVEBHTE",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-18T23:20:28+00:00",
+          "guid": "yt:video:2xGQZVEBHTE",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/2xGQZVEBHTE/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "2xGQZVEBHTE"
+        },
+        {
+          "title": "테슬라가 올해 증명해 낸 것들 총정리, 머스크에 베팅하는 이유",
+          "link": "https://www.youtube.com/watch?v=kVmZpbTLxdk",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-16T21:30:47+00:00",
+          "guid": "yt:video:kVmZpbTLxdk",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/kVmZpbTLxdk/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "kVmZpbTLxdk"
+        },
+        {
+          "title": "테슬라 주주라면 4월 22일 전 무조건 보시고 대응하세요",
+          "link": "https://www.youtube.com/watch?v=D2vOAeMxTns",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-15T20:48:50+00:00",
+          "guid": "yt:video:D2vOAeMxTns",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/D2vOAeMxTns/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "D2vOAeMxTns"
+        },
+        {
+          "title": "머스크가 직접 밝힌 AI4로 FSD 완성의 진짜 의미",
+          "link": "https://www.youtube.com/watch?v=g-kj-fdCXoc",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-15T12:35:21+00:00",
+          "guid": "yt:video:g-kj-fdCXoc",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/g-kj-fdCXoc/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "g-kj-fdCXoc"
+        },
+        {
+          "title": "테슬라 킬러들 다 어디갔나? 머스크가 날린 사이다 일침",
+          "link": "https://www.youtube.com/watch?v=TokVeOJEsoU",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-14T10:10:39+00:00",
+          "guid": "yt:video:TokVeOJEsoU",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/TokVeOJEsoU/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "TokVeOJEsoU"
+        },
+        {
+          "title": "테슬라 존버의 시간...길었던 하락장의 끝은 이번 여름일까?",
+          "link": "https://www.youtube.com/watch?v=GlrGp_HKS0g",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-13T12:39:37+00:00",
+          "guid": "yt:video:GlrGp_HKS0g",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/GlrGp_HKS0g/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "GlrGp_HKS0g"
+        },
+        {
+          "title": "결국 머스크 계획대로? 테슬라 6년 주기 상승장 나올까",
+          "link": "https://www.youtube.com/watch?v=Qs4mM9CLvd4",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-12T12:36:14+00:00",
+          "guid": "yt:video:Qs4mM9CLvd4",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/Qs4mM9CLvd4/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "Qs4mM9CLvd4"
+        },
+        {
+          "title": "테슬라 FSD 유럽 승인과 머스크의 진짜 계획",
+          "link": "https://www.youtube.com/watch?v=ZDIRTSs1dH0",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-10T23:05:36+00:00",
+          "guid": "yt:video:ZDIRTSs1dH0",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/ZDIRTSs1dH0/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "ZDIRTSs1dH0"
+        },
+        {
+          "title": "머스크의 깜짝 반전! 테슬라 주주들 난리 날 저가형 SUV 등판",
+          "link": "https://www.youtube.com/watch?v=6mjl2_i-tIU",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-09T23:07:04+00:00",
+          "guid": "yt:video:6mjl2_i-tIU",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/6mjl2_i-tIU/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "6mjl2_i-tIU"
+        }
+      ],
+      "lastUpdated": 1777327698639,
+      "autoDeleteDuration": 30,
+      "maxItemsLimit": 50,
+      "scanInterval": 0,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCnQm5yxDkKwAXt-bqedJ2bg",
+      "iconUrl": ""
+    },
+    {
+      "title": "제이디드",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRfiatN6y1ndP0rfR0M-c4g",
+      "folder": "Videos",
+      "items": [
+        {
+          "title": "팔란티어 의심하지 마세요, 결국 압도적 실적으로 증명할 겁니다",
+          "link": "https://www.youtube.com/watch?v=5PqR2vmGU2s",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-23T23:55:16+00:00",
+          "guid": "yt:video:5PqR2vmGU2s",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRfiatN6y1ndP0rfR0M-c4g",
+          "coverImage": "https://img.youtube.com/vi/5PqR2vmGU2s/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "5PqR2vmGU2s"
+        },
+        {
+          "title": "팔란티어 멈추지 않는 신규 계약 행진, 매출 성장에 한계는 없다",
+          "link": "https://www.youtube.com/watch?v=GGdJv9josQY",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-22T20:50:06+00:00",
+          "guid": "yt:video:GGdJv9josQY",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRfiatN6y1ndP0rfR0M-c4g",
+          "coverImage": "https://img.youtube.com/vi/GGdJv9josQY/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "GGdJv9josQY"
+        },
+        {
+          "title": "팔란티어 거품은 끝났다. PER 2년전 회귀, 진짜 성장이 나온다",
+          "link": "https://www.youtube.com/watch?v=d1iAHl9zcrw",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-20T20:45:40+00:00",
+          "guid": "yt:video:d1iAHl9zcrw",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRfiatN6y1ndP0rfR0M-c4g",
+          "coverImage": "https://img.youtube.com/vi/d1iAHl9zcrw/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "d1iAHl9zcrw"
+        },
+        {
+          "title": "팔란티어 주주의 수익은 이미 설계되어 있다",
+          "link": "https://www.youtube.com/watch?v=gDX-9tiTTNk",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-16T21:22:18+00:00",
+          "guid": "yt:video:gDX-9tiTTNk",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRfiatN6y1ndP0rfR0M-c4g",
+          "coverImage": "https://img.youtube.com/vi/gDX-9tiTTNk/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "gDX-9tiTTNk"
+        },
+        {
+          "title": "팔란티어와 아이렌을 사야하는 완벽한 이유",
+          "link": "https://www.youtube.com/watch?v=R_-lOcvLhoE",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-14T22:41:00+00:00",
+          "guid": "yt:video:R_-lOcvLhoE",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRfiatN6y1ndP0rfR0M-c4g",
+          "coverImage": "https://img.youtube.com/vi/R_-lOcvLhoE/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "R_-lOcvLhoE"
+        },
+        {
+          "title": "팔란티어 5월 4일전에 무조건 확인해야 할 것",
+          "link": "https://www.youtube.com/watch?v=-gGzVQHtgBI",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-13T20:30:10+00:00",
+          "guid": "yt:video:-gGzVQHtgBI",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRfiatN6y1ndP0rfR0M-c4g",
+          "coverImage": "https://img.youtube.com/vi/-gGzVQHtgBI/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "-gGzVQHtgBI"
+        },
+        {
+          "title": "트럼프가 픽한 팔란티어? 마이클 버리가 틀렸다는 확실한 증거",
+          "link": "https://www.youtube.com/watch?v=x5Ijma1ak5E",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-10T16:48:15+00:00",
+          "guid": "yt:video:x5Ijma1ak5E",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRfiatN6y1ndP0rfR0M-c4g",
+          "coverImage": "https://img.youtube.com/vi/x5Ijma1ak5E/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "x5Ijma1ak5E"
+        },
+        {
+          "title": "미국 이란 종전 시그널 떴다, 500조 굴리는 켄 피셔의 일침..지금 안 사요??",
+          "link": "https://www.youtube.com/watch?v=EGhOohF1qn0",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-09T18:49:44+00:00",
+          "guid": "yt:video:EGhOohF1qn0",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRfiatN6y1ndP0rfR0M-c4g",
+          "coverImage": "https://img.youtube.com/vi/EGhOohF1qn0/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "EGhOohF1qn0"
+        },
+        {
+          "title": "팔란티어가 엔트로픽 클로드 때문에 망한다는 마이클버리",
+          "link": "https://www.youtube.com/watch?v=mM3YJdMz-to",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-08T18:10:01+00:00",
+          "guid": "yt:video:mM3YJdMz-to",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRfiatN6y1ndP0rfR0M-c4g",
+          "coverImage": "https://img.youtube.com/vi/mM3YJdMz-to/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "mM3YJdMz-to"
+        },
+        {
+          "title": "전쟁은 곧 끝난다, 어디에 투자해야 할까?",
+          "link": "https://www.youtube.com/watch?v=8jo4T2C0Uow",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-05T07:20:43+00:00",
+          "guid": "yt:video:8jo4T2C0Uow",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRfiatN6y1ndP0rfR0M-c4g",
+          "coverImage": "https://img.youtube.com/vi/8jo4T2C0Uow/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "8jo4T2C0Uow"
+        },
+        {
+          "title": "팔란티어 사야하는 이유",
+          "link": "https://www.youtube.com/watch?v=0Z0wu5nTtQU",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-02T07:45:25+00:00",
+          "guid": "yt:video:0Z0wu5nTtQU",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRfiatN6y1ndP0rfR0M-c4g",
+          "coverImage": "https://img.youtube.com/vi/0Z0wu5nTtQU/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "0Z0wu5nTtQU"
+        },
+        {
+          "title": "주식 초고수 빌 애크먼이 지금 사라고 합니다",
+          "link": "https://www.youtube.com/watch?v=7SZev66YFC0",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-03-30T14:22:02+00:00",
+          "guid": "yt:video:7SZev66YFC0",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRfiatN6y1ndP0rfR0M-c4g",
+          "coverImage": "https://img.youtube.com/vi/7SZev66YFC0/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "7SZev66YFC0"
+        }
+      ],
+      "lastUpdated": 1777327698642,
+      "autoDeleteDuration": 30,
+      "maxItemsLimit": 50,
+      "scanInterval": 0,
+      "mediaType": "video",
+      "keywordRules": {
+        "overrideGlobalRules": false,
+        "includeLogic": "AND",
+        "rules": []
+      },
+      "siteUrl": "https://www.youtube.com/channel/UCRfiatN6y1ndP0rfR0M-c4g",
       "iconUrl": ""
     }
   ],
@@ -10984,7 +11793,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777324136972,
+  "lastRefreshTimestamp": 1777327698642,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
@@ -10992,7 +11801,10 @@
   "showThumbnails": true,
   "sidebarCollapsed": false,
   "sidebarWidth": 280,
-  "collapsedFolders": [],
+  "collapsedFolders": [
+    "RSS",
+    "Videos"
+  ],
   "tagsCollapsed": true,
   "articleFilter": {
     "type": "none",
