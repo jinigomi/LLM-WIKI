@@ -16,8 +16,19 @@
               "icon": "lucide-git-fork",
               "title": "그래프 뷰"
             }
+          },
+          {
+            "id": "8345a98a51aa78c3",
+            "type": "leaf",
+            "state": {
+              "type": "rss-dashboard-view",
+              "state": {},
+              "icon": "rss",
+              "title": "RSS dashboard"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +152,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "모든 속성"
             }
           },
           {
@@ -155,7 +166,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "개요"
             }
           },
           {
@@ -179,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,10 +210,12 @@
       "githobs:Manage a github issue": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "terminal:Open terminal": false,
-      "marp-slides:Show Slide Preview": false
+      "marp-slides:Show Slide Preview": false,
+      "rss-dashboard:RSS dashboard": false,
+      "ai-bot:Ask AI": false
     }
   },
-  "active": "c9d86e8fcd5a8a94",
+  "active": "8345a98a51aa78c3",
   "lastOpenFiles": [
     "docs/anthropic-harness-comparison.md",
     "docs/hyperagents-meta-agent-analysis.md",
