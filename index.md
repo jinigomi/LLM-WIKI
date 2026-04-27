@@ -47,6 +47,7 @@ _(none yet)_
 - [[docs/research-sop]] — 연구 결과 저장 SOP (기본 원칙, 저장 흐름, 품질 기준, 체크리스트)
 - [[docs/human-in-the-loop-checkpoints]] — HitL 체크포인트 (6단계 게이트 + 기록 양식)
 - [[docs/2026-04-27-research-agent-build]] — 연구 에이전트 구현 실행 계획 (5개 태스크)
+- [[docs/structured-memory-template]] — 구조화 메모리 템플릿 (Goal/Decisions/Learned/Next)
 
 ## Raw Papers
 - [[raw/papers/ai-novice-to-senior-research]] — 코딩 초보가 AI로 시니어 수준 결과물을 낼 수 있는가 (12개 논문 리서치, 2026-04-26)

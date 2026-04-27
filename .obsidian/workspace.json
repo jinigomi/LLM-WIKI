@@ -204,6 +204,8 @@
   },
   "active": "c9d86e8fcd5a8a94",
   "lastOpenFiles": [
+    "docs/structured-memory-template.md",
+    "raw/articles/ai-에이전트-연구-도구-grok-2026-04-27.pdf",
     "docs/human-in-the-loop-checkpoints.md",
     "docs/research-sop.md",
     "docs",
@@ -232,13 +234,11 @@
     "Clippings/바이브코딩은 왜 실패하는가 -AI 협업 가이드북.md",
     "Clippings",
     "raw/articles/context-rot.md",
-    "raw/articles/anthropic-claude-code-best-practices.md",
     "raw/archived-stubs",
     "raw/archived",
     "Project/smart-video-speed",
     "raw/articles/anthropic",
     "Project/Engineering Mindset/세션로그",
-    "Project/Engineering Mindset/설계",
-    "Project/Engineering Mindset"
+    "Project/Engineering Mindset/설계"
   ]
 }
