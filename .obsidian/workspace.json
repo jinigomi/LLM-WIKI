@@ -230,6 +230,9 @@
   },
   "active": "8345a98a51aa78c3",
   "lastOpenFiles": [
+    "raw/tweets/2026-04-28-lucas-flatwhite-blueprint-prompt.md",
+    "raw/tweets",
+    "concepts/vibe-coding-blueprint-pattern.md",
     "entities/app-blueprint-prompt.md",
     "comparisons/note-wiki-vibe-coding-beginner-methodology.md",
     "concepts/vibe-coding-beginner-methodology.md",
@@ -255,16 +258,13 @@
     "SCHEMA.md",
     "concepts/rss-브리핑-파이프라인.md",
     "concepts/mcp-프로토콜.md",
-    "concepts/harness-engineering.md",
     "YOLO",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "docs/research-reports",
     "raw/articles/ai-에이전트-연구-도구-grok-2026-04-27.pdf",
     "docs",
     "raw/books",
-    "Clippings",
-    "raw/archived-stubs"
+    "Clippings"
   ]
 }
