@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777356464973,
+      "lastUpdated": 1777360103447,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -188,7 +188,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777352871724,
+      "lastUpdated": 1777360103547,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -887,7 +887,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777356531501,
+      "lastUpdated": 1777360103678,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1140,7 +1140,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777352926464,
+      "lastUpdated": 1777360103808,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1865,7 +1865,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777356600096,
+      "lastUpdated": 1777360103932,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1883,6 +1883,32 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA",
       "folder": "Videos",
       "items": [
+        {
+          "title": "대박) 테슬라 FSD 스웨덴 승인!! 유럽전역 확장 임박! 자율주행 매출 급상승 하나? 엔비디아 아직도 저평가! 구글이 미쳤다! AI 기업들 미친상승이 온다! 테슬라 세미트럭 인기",
+          "link": "https://www.youtube.com/watch?v=rl8Jvw_iNNw",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-28T04:19:34+00:00",
+          "guid": "yt:video:rl8Jvw_iNNw",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "LA 정교수 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA",
+          "coverImage": "https://img.youtube.com/vi/rl8Jvw_iNNw/maxresdefault.jpg",
+          "summary": "",
+          "author": "LA 정교수 TV",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "rl8Jvw_iNNw"
+        },
         {
           "title": "테슬라 우리가 놓친것들! 실적 다시보니 장난 아냐! 실속있는 실적내용이 많았는데 우리는 보지 못했다! 6개월 안에 테슬라 급상승이 온다! 엔비디아 250불 온다! 구글 팔란티어 업",
           "link": "https://www.youtube.com/watch?v=_M3n0bch6FA",
@@ -2274,7 +2300,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777342091874,
+      "lastUpdated": 1777360104055,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2501,7 +2527,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777353000680,
+      "lastUpdated": 1777360104202,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3520,7 +3546,7 @@
           "image": ""
         }
       ],
-      "lastUpdated": 1777356672902,
+      "lastUpdated": 1777360105535,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3538,6 +3564,34 @@
       "url": "https://it.donga.com/feeds/rss/",
       "folder": "RSS",
       "items": [
+        {
+          "title": "\"대졸 취업까지 11.6개월.... 청년 아닌 제도 탓\", 김철희 서울시 미래청년기획관",
+          "link": "https://it.donga.com/108807/",
+          "description": "<p> [IT동아] </p> <h5> <문제는 청년이 아니다> 출간한 김철희 서울시 미래청년기획관 </h5> <p> 서울시 미래청년기획관실은 전국에서 유일한 청년 전담 기관이다. 김철희 기획관은 국회, 대통령비서실, 국회의장실을 거친 30년 이상 경력의 정책 전문가로, 5년째 서울시 청년정책을 총괄하고 있다. 그간의 경험과 생각을 기록한 <문제는 청년이 아니다 - 청년정책의 대전환 / 윤성사 출판>을 최근 출간했다. 청년을 둘러싼 문제 원인을 청년이 아닌 제도에서 찾아야 한다고 말하는 저자의 이야기를 들어본다. </p> <h5> '청년'의 정의부터 잘못됐다 </h5> <p> 저자는 책 제목부터 ‘문제는 청년이 아니다’라고 단언한다. </p> <p> \"두 가지 이유 때문입니다. 첫째는 '청년'이라는 개념 자체가 애매합니다. 서울시 조례상 청년은 ‘만 19세에서 39세’까지인데, 20대 초반~30대 후반까지 같은 '청년'으로 묶는 건 무리가 있다고 생각합니다. 정작 당사자간 의견도 갈리고, 정책 담당자들도 각자 다르게 해석합니다.\" </p> <p> <figure> <img alt=\"출처=김철희\" src=\"https://it.donga.com/media/__sized__/images/2026/4/28/a162098cd22b4249-thumbnail-1920x1080-70.jpg\"/> <figcaption> 출처=김철희 </figcaption> </figure> </p> <p> 정책 범위의 문제를 두 번째 이유로 언급했다. 그에 따르면, 청년기본법상 청년 정책 영역은 주거, 일자리, 건강, 복지, 금융, 정신 건강, 국제 관계, 사회 참여 등 10가지가 넘는다. </p> <p> \"국토부도 명확하게 해결하지 못하는 주거 문제를 청년 정책으로 풀겠다는 건 무리라고 봅니다. 모든 것을 ‘청년 문제’로 규정하는 순간, 청년 정책 자체의 존재 이유가 사라지는 겁니다.\" </p> <h5> 대학 졸업 후 첫 취업까지 11.6개월, 10년째 OECD 꼴찌 </h5> <p> 그가 책을 통해 제시하는 핵심 지표는 분명하다. OECD 공식 통계 기준으로, 한국 청년은 대학 졸업 후 첫 직장 입사까지 평균 11.6개월이 걸린다. OECD 평균은 6개월. 한국은 10년 넘게 '이행 지연 국가'로 분류되고 있다. </p> <p> \"이 마저도 졸업 유예, 대학원 진학, 아르바이트 등을 취업으로 집계한 수치입니다. 이를 제외하면 실제로 36개월 이상 걸리는 게 일반적인 인식이에요. 공식 지표로도 OECD 국가 꼴찌인데, 실상은 훨씬 심각합니다.\" </p> <p> 그는 취업 지연은 연쇄 문제로 이어진다고 말한다. 생계 불안, 주거 불안, 우울감 증가, 연애/결혼/출산 포기로 이어지고, 결국 국가 성장 동력까지 떨어뜨리게 된다. 그런데 지금의 청년 정책은 졸업 후 돈을 주고, 밥을 주고, 재교육하는 사후 약방문에 머물러 있다는 것. </p> <h5> '쉬었음 청년'은 피해자... 교육 시스템이 만들어낸 결과 </h5> <p> 최근 늘고 있는 이른바 '쉬었음 청년'(취업 의사 없이 쉬는 청년)에 대해서도 그는 다른 시각을 책에 적었다. </p> <p> \"'쉬었음'이라는 표현 자체가 청년에게 책임을 전가하는 말입니다. 그 청년들은 대학 4년 동안 학점 관리하고, 대외 활동 열심히 하고, 토익 점수도 잘 받았는데, 졸업하고 사회 나와 보니 막상 통하는 데가 없어요. 그런 환경을 어른들이 만들어 놓고 그들의 책임이라 말하는 건 좀 가혹합니다.\" </p> <p> 그는 문제의 뿌리를 교육 시스템에서 찾는다. 유치원부터 단절, 분리, 격리가 일상화된 환경, 부모의 과잉 개입과 IT 기반의 실시간 통제가 결합돼, 학생들이 실패를 경험하고 이를 통해 학습할 기회 자체를 잃었다는 것이다. </p> <p> \"기성 세대는 그 부모 세대보다 똑똑했고 학업 수준도 높았기에 시행착오를 마음껏 겪을 수 있었어요. 그런데 현재의 청년들은 그런 공간과 시간, 기회가 없어요. 이는 기성 세대의 잘못, 청년의 잘못은 더더욱 아닙니다. 더 좋은 방법을 몰랐고, 또 찾으려 하지 않았던 까닭입니다.\" </p> <p> <figure> <img alt=\"김철희 서울시 미래청년기획관 / 출처=김철희\" src=\"https://it.donga.com/media/__sized__/images/2026/4/28/405c205347454950-thumbnail-1920x1080-70.jpg\"/> <figcaption> 김철희 서울시 미래청년기획관 / 출처=김철희 </figcaption> </figure> </p> <h5> 선진국 청년 정책의 핵심은 '재학 중 현장 경험' </h5> <p> OECD나 EU, UN 등이 정의하는 청년 정책의 방향은 우리와 다르다. 만 19세에서 25~26세 사이, 학교에서 사회로 전환하는 시기를 집중 지원하는 데 초점을 둔다. </p> <p> \"미국에는 '청년 정책'이라는 단어 자체가 없습니다. 유치원부터 현장 학습이 보장되기 때문입니다. 기자가 되고 싶으면 중학교 때부터 신문사에서 경험을 쌓고, 세프가 되고 싶다면 식당에서 바로 일하며 배우는 문화가 시스템화되어 있어요.\" </p> <p> 그는 EU의 '에라스무스 플러스'를 대표 사례로 꼽는다. 1987년 시작된 이 교육 제도는 유럽 청년들이 다른 나라에서 학습 및 업무 경험을 쌓도록 지원한다. 현재까지 약 1,700만 명이 참여했고, 투입 예산만 680조 원이 넘는다. </p> <p> \"EU는 청년이 공동체에서 어떤 인재가 돼야 하는지 사전에 합의하고 투자합니다. 그 결과, 복잡한 다국적 공동체가 지금까지 유지되고 있는 겁니다.\" </p> <h5> 서울시 실험 결과는 \"경쟁률 15대 1\" </h5> <p> 김 기획관은 이 방향을 서울시에서 이미 적용, 실험 중이다. '서울 영커리언스'는 대학 재학생을 대상으로 1~5단계에 걸쳐 직무 경험을 쌓을 수 있도록 설계한 사업이다. 3단계 경쟁률은 15대 1이 넘는다. </p> <p> <figure> <img alt=\"서울 영커리언스 5단계 과정 / 출처=서울시\" src=\"https://it.donga.com/media/__sized__/images/2026/4/28/7a95299a6d4f4ba8-thumbnail-1920x1080-70.jpg\"/> <figcaption> 서울 영커리언스 5단계 과정 / 출처=서울시 </figcaption> </figure> </p> <p> '서울 청년 파트너스'는 사회복지학과생이라면 복지관에서, IT 전공생이라면 서울시 행정 시스템에서 현업 업무를 경험하는 방식이며, 현재 13개 분야에서 운영되고 있다. </p> <p> \"이전에 예비 인턴제를 시범 운영해보니, 해당 기업들 반응이 너무 좋았어요. 재학생들 역량과 실력이 예상보다 뛰어나고 우수해서, 스톡옵션까지 제안하며 영입하겠다던 기업도 있었습니다. 즉 청년들에게 기회를 만들어 주면 됩니다. 그들은 현장에서 부딪혀 보고 싶어하는 욕구가 강하합니다.\" </p> <h5> 대안은 '사회 첫 출발 지원법' </h5> <p> 이 책의 결론은 하나로 수렴한다. ‘제도 개편’이다. 그는 책을 통해, 청년기본법 개정 대신, '사회 첫 출발 지원법' 제정을 대안으로 제시한다. </p> <p> \"청년기본법을 뒤엎는 게 아니라, 그 안에서 학교, 기업, 정부, 공공기관이 협력해 재학 중에 단계적으로 현장 경험을 쌓을 수 있는 플랫폼을 만드는 겁니다. 미국의 현장 학습권과 EU의 이동 학습권을 합친 '이동/현장 학습권'을 우리 청년들에게 보장하는 거죠.\" </p> <p> 한중일 3국 간 에라스무스 벤치마킹 교환 프로그램도 제안했다. 그가 10년 전 국무총리실 차원에서 추진했다가 무산된 구상이다. \"3국간 외교상 걸림이 있다면, 도시 단위부터 시작하면 됩니다. 기회를 주면 AI 분야에서도, 예술 분야에서도 BTS급 인재가 쏟아질 수 있습니다.\" </p> <p> \"전 세계에서 대학 진학률이 가장 높으면서, 외국 청년들이 살고 싶어하는 나라가 바로 우리 대한민국입니다. 그런데 정작 우리 청년들은 ‘세계에서 가장 불행한 청년’ 중 하나로 꼽힙니다. 이 묘한 아이러니를 바꾸려면 정책 리더들이 방향을 다시, 제대로 잡아야 합니다.” </p> <p> IT동아 이문규 기자 (munch@itdonga.com) </p>",
+          "content": "<p> [IT동아] </p> <h5> <문제는 청년이 아니다> 출간한 김철희 서울시 미래청년기획관 </h5> <p> 서울시 미래청년기획관실은 전국에서 유일한 청년 전담 기관이다. 김철희 기획관은 국회, 대통령비서실, 국회의장실을 거친 30년 이상 경력의 정책 전문가로, 5년째 서울시 청년정책을 총괄하고 있다. 그간의 경험과 생각을 기록한 <문제는 청년이 아니다 - 청년정책의 대전환 / 윤성사 출판>을 최근 출간했다. 청년을 둘러싼 문제 원인을 청년이 아닌 제도에서 찾아야 한다고 말하는 저자의 이야기를 들어본다. </p> <h5> '청년'의 정의부터 잘못됐다 </h5> <p> 저자는 책 제목부터 ‘문제는 청년이 아니다’라고 단언한다. </p> <p> \"두 가지 이유 때문입니다. 첫째는 '청년'이라는 개념 자체가 애매합니다. 서울시 조례상 청년은 ‘만 19세에서 39세’까지인데, 20대 초반~30대 후반까지 같은 '청년'으로 묶는 건 무리가 있다고 생각합니다. 정작 당사자간 의견도 갈리고, 정책 담당자들도 각자 다르게 해석합니다.\" </p> <p> <figure> <img alt=\"출처=김철희\" src=\"https://it.donga.com/media/__sized__/images/2026/4/28/a162098cd22b4249-thumbnail-1920x1080-70.jpg\"/> <figcaption> 출처=김철희 </figcaption> </figure> </p> <p> 정책 범위의 문제를 두 번째 이유로 언급했다. 그에 따르면, 청년기본법상 청년 정책 영역은 주거, 일자리, 건강, 복지, 금융, 정신 건강, 국제 관계, 사회 참여 등 10가지가 넘는다. </p> <p> \"국토부도 명확하게 해결하지 못하는 주거 문제를 청년 정책으로 풀겠다는 건 무리라고 봅니다. 모든 것을 ‘청년 문제’로 규정하는 순간, 청년 정책 자체의 존재 이유가 사라지는 겁니다.\" </p> <h5> 대학 졸업 후 첫 취업까지 11.6개월, 10년째 OECD 꼴찌 </h5> <p> 그가 책을 통해 제시하는 핵심 지표는 분명하다. OECD 공식 통계 기준으로, 한국 청년은 대학 졸업 후 첫 직장 입사까지 평균 11.6개월이 걸린다. OECD 평균은 6개월. 한국은 10년 넘게 '이행 지연 국가'로 분류되고 있다. </p> <p> \"이 마저도 졸업 유예, 대학원 진학, 아르바이트 등을 취업으로 집계한 수치입니다. 이를 제외하면 실제로 36개월 이상 걸리는 게 일반적인 인식이에요. 공식 지표로도 OECD 국가 꼴찌인데, 실상은 훨씬 심각합니다.\" </p> <p> 그는 취업 지연은 연쇄 문제로 이어진다고 말한다. 생계 불안, 주거 불안, 우울감 증가, 연애/결혼/출산 포기로 이어지고, 결국 국가 성장 동력까지 떨어뜨리게 된다. 그런데 지금의 청년 정책은 졸업 후 돈을 주고, 밥을 주고, 재교육하는 사후 약방문에 머물러 있다는 것. </p> <h5> '쉬었음 청년'은 피해자... 교육 시스템이 만들어낸 결과 </h5> <p> 최근 늘고 있는 이른바 '쉬었음 청년'(취업 의사 없이 쉬는 청년)에 대해서도 그는 다른 시각을 책에 적었다. </p> <p> \"'쉬었음'이라는 표현 자체가 청년에게 책임을 전가하는 말입니다. 그 청년들은 대학 4년 동안 학점 관리하고, 대외 활동 열심히 하고, 토익 점수도 잘 받았는데, 졸업하고 사회 나와 보니 막상 통하는 데가 없어요. 그런 환경을 어른들이 만들어 놓고 그들의 책임이라 말하는 건 좀 가혹합니다.\" </p> <p> 그는 문제의 뿌리를 교육 시스템에서 찾는다. 유치원부터 단절, 분리, 격리가 일상화된 환경, 부모의 과잉 개입과 IT 기반의 실시간 통제가 결합돼, 학생들이 실패를 경험하고 이를 통해 학습할 기회 자체를 잃었다는 것이다. </p> <p> \"기성 세대는 그 부모 세대보다 똑똑했고 학업 수준도 높았기에 시행착오를 마음껏 겪을 수 있었어요. 그런데 현재의 청년들은 그런 공간과 시간, 기회가 없어요. 이는 기성 세대의 잘못, 청년의 잘못은 더더욱 아닙니다. 더 좋은 방법을 몰랐고, 또 찾으려 하지 않았던 까닭입니다.\" </p> <p> <figure> <img alt=\"김철희 서울시 미래청년기획관 / 출처=김철희\" src=\"https://it.donga.com/media/__sized__/images/2026/4/28/405c205347454950-thumbnail-1920x1080-70.jpg\"/> <figcaption> 김철희 서울시 미래청년기획관 / 출처=김철희 </figcaption> </figure> </p> <h5> 선진국 청년 정책의 핵심은 '재학 중 현장 경험' </h5> <p> OECD나 EU, UN 등이 정의하는 청년 정책의 방향은 우리와 다르다. 만 19세에서 25~26세 사이, 학교에서 사회로 전환하는 시기를 집중 지원하는 데 초점을 둔다. </p> <p> \"미국에는 '청년 정책'이라는 단어 자체가 없습니다. 유치원부터 현장 학습이 보장되기 때문입니다. 기자가 되고 싶으면 중학교 때부터 신문사에서 경험을 쌓고, 세프가 되고 싶다면 식당에서 바로 일하며 배우는 문화가 시스템화되어 있어요.\" </p> <p> 그는 EU의 '에라스무스 플러스'를 대표 사례로 꼽는다. 1987년 시작된 이 교육 제도는 유럽 청년들이 다른 나라에서 학습 및 업무 경험을 쌓도록 지원한다. 현재까지 약 1,700만 명이 참여했고, 투입 예산만 680조 원이 넘는다. </p> <p> \"EU는 청년이 공동체에서 어떤 인재가 돼야 하는지 사전에 합의하고 투자합니다. 그 결과, 복잡한 다국적 공동체가 지금까지 유지되고 있는 겁니다.\" </p> <h5> 서울시 실험 결과는 \"경쟁률 15대 1\" </h5> <p> 김 기획관은 이 방향을 서울시에서 이미 적용, 실험 중이다. '서울 영커리언스'는 대학 재학생을 대상으로 1~5단계에 걸쳐 직무 경험을 쌓을 수 있도록 설계한 사업이다. 3단계 경쟁률은 15대 1이 넘는다. </p> <p> <figure> <img alt=\"서울 영커리언스 5단계 과정 / 출처=서울시\" src=\"https://it.donga.com/media/__sized__/images/2026/4/28/7a95299a6d4f4ba8-thumbnail-1920x1080-70.jpg\"/> <figcaption> 서울 영커리언스 5단계 과정 / 출처=서울시 </figcaption> </figure> </p> <p> '서울 청년 파트너스'는 사회복지학과생이라면 복지관에서, IT 전공생이라면 서울시 행정 시스템에서 현업 업무를 경험하는 방식이며, 현재 13개 분야에서 운영되고 있다. </p> <p> \"이전에 예비 인턴제를 시범 운영해보니, 해당 기업들 반응이 너무 좋았어요. 재학생들 역량과 실력이 예상보다 뛰어나고 우수해서, 스톡옵션까지 제안하며 영입하겠다던 기업도 있었습니다. 즉 청년들에게 기회를 만들어 주면 됩니다. 그들은 현장에서 부딪혀 보고 싶어하는 욕구가 강하합니다.\" </p> <h5> 대안은 '사회 첫 출발 지원법' </h5> <p> 이 책의 결론은 하나로 수렴한다. ‘제도 개편’이다. 그는 책을 통해, 청년기본법 개정 대신, '사회 첫 출발 지원법' 제정을 대안으로 제시한다. </p> <p> \"청년기본법을 뒤엎는 게 아니라, 그 안에서 학교, 기업, 정부, 공공기관이 협력해 재학 중에 단계적으로 현장 경험을 쌓을 수 있는 플랫폼을 만드는 겁니다. 미국의 현장 학습권과 EU의 이동 학습권을 합친 '이동/현장 학습권'을 우리 청년들에게 보장하는 거죠.\" </p> <p> 한중일 3국 간 에라스무스 벤치마킹 교환 프로그램도 제안했다. 그가 10년 전 국무총리실 차원에서 추진했다가 무산된 구상이다. \"3국간 외교상 걸림이 있다면, 도시 단위부터 시작하면 됩니다. 기회를 주면 AI 분야에서도, 예술 분야에서도 BTS급 인재가 쏟아질 수 있습니다.\" </p> <p> \"전 세계에서 대학 진학률이 가장 높으면서, 외국 청년들이 살고 싶어하는 나라가 바로 우리 대한민국입니다. 그런데 정작 우리 청년들은 ‘세계에서 가장 불행한 청년’ 중 하나로 꼽힙니다. 이 묘한 아이러니를 바꾸려면 정책 리더들이 방향을 다시, 제대로 잡아야 합니다.” </p> <p> IT동아 이문규 기자 (munch@itdonga.com) </p>",
+          "pubDate": "Tue, 28 Apr 2026 14:03:43 +0900",
+          "guid": "https://it.donga.com/108807/",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "IT동아",
+          "feedUrl": "https://it.donga.com/feeds/rss/",
+          "coverImage": "https://it.donga.com/media/__sized__/images/2026/4/28/a162098cd22b4249-thumbnail-1920x1080-70.jpg",
+          "summary": "[IT동아] <문제는 청년이 아니다> 출간한 김철희 서울시 미래청년기획관 서울시 미래청년기획관실은 전국에서 유일한 청년 전담 기관이다. 김철희 기획관은 국회, 대통령비서실, 국회의장실을 거친 30년 이상 경력의 정책 전문가로, 5년째 서울시 청년정책을 총괄하고 있다. 그간의 경험과 생각을 기록한 <문제는 청년이 아니다 - 청년정책의 대전환 / 윤성사 출판>을 최근 출간했다. 청년을 둘러싼 문...",
+          "author": "munch@itdonga.com (이문규)",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://it.donga.com/media/__sized__/images/2026/4/28/a162098cd22b4249-thumbnail-1920x1080-70.jpg",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://it.donga.com/media/__sized__/images/2026/4/28/405c205347454950-thumbnail-1920x1080-70.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
         {
           "title": "김곡미 충남콘텐츠진흥원장 “E스포츠·인공지능·창업 충남 새 동력으로”",
           "link": "https://it.donga.com/108798/",
@@ -4909,37 +4963,9 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "title": "수이, AI 에이전트 시대 금융 인프라 비전 제시 ‘차별점은 수수료 무료’",
-          "link": "https://it.donga.com/108757/",
-          "description": "<p> [IT동아 한만혁 기자] 블록체인 플랫폼 수이(Sui) 개발사 미스틴랩스(Mysten Labs)가 4월 17일 기자간담회를 열고 금융 인프라로의 확장 전략과 에이전틱 파이낸스(Agentic Finance) 시대를 대비한 인프라를 제시했다. 자체 스테이블코인 수이달러(SuiUSD) 출시 계획과 비트코인을 탈중앙화 금융(디파이)에 연결하는 해시(Hashi), 온체인 자본시장을 지원하는 딥북(DeepBook) 등 핵심 구성 요소도 함께 공개했다. </p> <p> 수이는 자금이 자유롭게 이동하는 환경을 지향하는 레이어1(독립 블록체인 네트워크) 블록체인 플랫폼이다. 메타(Meta) 블록체인 프로젝트 ‘리브라(Libra)’를 이끌었던 팀이 설립했으며, 객체(오브젝트) 중심 모델을 기반으로 고성능 결제 및 금융 애플리케이션 구축에 필요한 기능을 제공한다. </p> <p> 행사를 위해 방한한 아데니이 아비오둔(Adeniyi Abiodun) 미스틴랩스 공동 창업자 겸 최고제품책임자(CPO)는 “리브라 프로젝트 당시 핵심 목표 중 하나가 ‘거래를 메시지 보내는 것처럼 쉽게 하자’는 것이었다”라며 수이의 방향성도 이와 같다고 설명했다. </p> <p> <figure> <img alt=\"아데니이 아비오둔 미스틴랩스 CPO / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/4/17/783180028572423c-thumbnail-1920x1080-70.jpg\"/> <figcaption> 아데니이 아비오둔 미스틴랩스 CPO / 출처=IT동아 </figcaption> </figure> </p> <h3> 수이 금융 생태계의 차별점 ‘수수료 무료’ </h3> <p> 아비오둔 CPO는 “앞으로 인터넷상 거래, 송금이 수이 네트워크 내에서 빠르고 저렴하고 안전한 방식으로 이루어질 것”이라고 자신하며, 금융 인프라로서 수이 네트워크의 특징에 대해 설명했다. </p> <p> 아비오둔 CPO가 꼽은 수이 네트워크의 가장 큰 특징은 송금이나 거래 시 수수료가 없다는 점이다. 수수료 없는 운영이 가능한 이유는 수수료를 예치금 수익으로 대체하는 구조이기 때문이다. 곧 출시할 자체 스테이블코인 ‘수이달러(SuiUSD)’를 수이 네트워크에 예치하면 수익이 발생하는데, 이를 거래, 송금 시 발생하는 수수료로 지급하는 방식이다. 수이달러는 미국 달러와 1:1 비율의 가치를 지니며, 미국 디지털자산 규제 GENIUS 법에 대응하는 규제 친화적 스테이블코인이다. </p> <p> 대규모 자금을 다룰 수 있는 안정적인 네트워크도 주요 특징 중 하나다. 아비오둔 CPO는 “수이는 비자, 마스터카드 등 글로벌 기업과 비슷한 규모의 송금을 지원할 수 있는 네트워크를 갖추고 있다”라며 “처음 출시할 때부터 글로벌 플랫폼을 지향했기 때문에 수평으로 무한 확장이 가능한 구조로 설계했다”라고 말했다. 필요한 만큼 하드웨어를 보충함으로써 빠르게 확장할 수 있다는 설명이다. </p> <p> 또한 수이 네트워크는 퍼블릭 블록체인의 개방성을 유지하면서도 규제 준수 요건을 동시에 충족한다. 기관 및 대규모 기업의 요구를 충족할 수 있는 프라이빗 트랜잭션 구조를 지원하고, 비공개 상태를 유지하면서도 필요시 규제 기관에 데이터를 선택적으로 제공할 수 있다. </p> <p> <figure> <img alt=\"수이 금융 생태계를 소개하는 아비오둔 CPO / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/4/17/13a5d4c796624d97-thumbnail-1920x1080-70.jpg\"/> <figcaption> 수이 금융 생태계를 소개하는 아비오둔 CPO / 출처=IT동아 </figcaption> </figure> </p> <h3> 수이 생태계 확장하는 해시·딥북 </h3> <p> 이어 아비오둔 CPO는 해시와 딥북도 소개했다. 해시는 비트코인을 디파이와 연결하는 솔루션이다. 그는 “기관 투자자나 펀드, 상장지수펀드(ETF) 운용사들은 보안과 신뢰에 대한 우려 탓에 비트코인을 디파이에 활용하는 데 부담을 느낀다”라며 “해시는 기관 투자자나 펀드 운영사가 안전하고 신뢰할 수 있는 방법으로 디파이에 참여하도록 지원하는 솔루션”이라고 설명했다. </p> <p> 해시를 통해 이용자가 수이에 비트코인을 맡기면 수이달러를 활용해 디파이에 참여하거나 대출을 받을 수 있다. 수이달러를 담보로 활용하거나 펀드 운용에도 연계할 수 있다. 아비오둔 CPO는 “해시는 일종의 보험”이라며 “비트코인 활용 시 세금이나 보안 문제를 걱정할 필요가 없다”라고 설명했다. 이어 “현재 25개 이상의 기관이 해시에 관심을 갖고 적극적인 지원 의사를 보이고 있다”라고 덧붙였다. </p> <p> 딥북은 온체인 자본시장을 지원하는 트레이딩 엔진이다. 디지털자산은 물론 주식, 채권, ETF 등 다양한 자산을 온체인에서 통합 운용할 수 있는 환경을 제공한다. 아비오둔 CPO는 “향후 AI 에이전트가 딥북 안에서 투자 판단을 내리고 거래를 자율적으로 실행할 것”이라고 설명했다. </p> <p> <figure> <img alt=\"미스틴랩스의 데릭 한 아시아태평양 총괄(좌)과 아비오둔 CPO / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/4/17/8df18d1510614326-thumbnail-1920x1080-70.jpg\"/> <figcaption> 미스틴랩스의 데릭 한 아시아태평양 총괄(좌)과 아비오둔 CPO / 출처=IT동아 </figcaption> </figure> </p> <p> 아비오둔 CPO는 “수이가 제시하는 에이전틱 파이낸스 환경에서는 AI 에이전트가 자산을 직접 보유하고, 사전에 정의된 로직에 따라 복잡한 금융 거래를 자율적으로 실행한다”라며 “AI 에이전트가 얼마나 많은 자금을 쓰게 할지, 거래 빈도나 한도를 어떻게 설정할지 등을 책임감 있게 관리할 것”이라고 강조했다. </p> <p> 또한 한국 시장에 대해서는 “한국은 아시아에서 가장 빠르게 성장하는 시장”이라며 “현재 국내 스테이블코인, 게임, 빅테크 관련 기업 및 기관과 협업 논의를 진행 중이다. 규제가 명확해지면 한국에서 더 많은 혁신 사례를 공개할 수 있을 것”이라고 전했다. </p> <p> IT동아 한만혁 기자 (mh@itdonga.com) </p>",
-          "content": "<p> [IT동아 한만혁 기자] 블록체인 플랫폼 수이(Sui) 개발사 미스틴랩스(Mysten Labs)가 4월 17일 기자간담회를 열고 금융 인프라로의 확장 전략과 에이전틱 파이낸스(Agentic Finance) 시대를 대비한 인프라를 제시했다. 자체 스테이블코인 수이달러(SuiUSD) 출시 계획과 비트코인을 탈중앙화 금융(디파이)에 연결하는 해시(Hashi), 온체인 자본시장을 지원하는 딥북(DeepBook) 등 핵심 구성 요소도 함께 공개했다. </p> <p> 수이는 자금이 자유롭게 이동하는 환경을 지향하는 레이어1(독립 블록체인 네트워크) 블록체인 플랫폼이다. 메타(Meta) 블록체인 프로젝트 ‘리브라(Libra)’를 이끌었던 팀이 설립했으며, 객체(오브젝트) 중심 모델을 기반으로 고성능 결제 및 금융 애플리케이션 구축에 필요한 기능을 제공한다. </p> <p> 행사를 위해 방한한 아데니이 아비오둔(Adeniyi Abiodun) 미스틴랩스 공동 창업자 겸 최고제품책임자(CPO)는 “리브라 프로젝트 당시 핵심 목표 중 하나가 ‘거래를 메시지 보내는 것처럼 쉽게 하자’는 것이었다”라며 수이의 방향성도 이와 같다고 설명했다. </p> <p> <figure> <img alt=\"아데니이 아비오둔 미스틴랩스 CPO / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/4/17/783180028572423c-thumbnail-1920x1080-70.jpg\"/> <figcaption> 아데니이 아비오둔 미스틴랩스 CPO / 출처=IT동아 </figcaption> </figure> </p> <h3> 수이 금융 생태계의 차별점 ‘수수료 무료’ </h3> <p> 아비오둔 CPO는 “앞으로 인터넷상 거래, 송금이 수이 네트워크 내에서 빠르고 저렴하고 안전한 방식으로 이루어질 것”이라고 자신하며, 금융 인프라로서 수이 네트워크의 특징에 대해 설명했다. </p> <p> 아비오둔 CPO가 꼽은 수이 네트워크의 가장 큰 특징은 송금이나 거래 시 수수료가 없다는 점이다. 수수료 없는 운영이 가능한 이유는 수수료를 예치금 수익으로 대체하는 구조이기 때문이다. 곧 출시할 자체 스테이블코인 ‘수이달러(SuiUSD)’를 수이 네트워크에 예치하면 수익이 발생하는데, 이를 거래, 송금 시 발생하는 수수료로 지급하는 방식이다. 수이달러는 미국 달러와 1:1 비율의 가치를 지니며, 미국 디지털자산 규제 GENIUS 법에 대응하는 규제 친화적 스테이블코인이다. </p> <p> 대규모 자금을 다룰 수 있는 안정적인 네트워크도 주요 특징 중 하나다. 아비오둔 CPO는 “수이는 비자, 마스터카드 등 글로벌 기업과 비슷한 규모의 송금을 지원할 수 있는 네트워크를 갖추고 있다”라며 “처음 출시할 때부터 글로벌 플랫폼을 지향했기 때문에 수평으로 무한 확장이 가능한 구조로 설계했다”라고 말했다. 필요한 만큼 하드웨어를 보충함으로써 빠르게 확장할 수 있다는 설명이다. </p> <p> 또한 수이 네트워크는 퍼블릭 블록체인의 개방성을 유지하면서도 규제 준수 요건을 동시에 충족한다. 기관 및 대규모 기업의 요구를 충족할 수 있는 프라이빗 트랜잭션 구조를 지원하고, 비공개 상태를 유지하면서도 필요시 규제 기관에 데이터를 선택적으로 제공할 수 있다. </p> <p> <figure> <img alt=\"수이 금융 생태계를 소개하는 아비오둔 CPO / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/4/17/13a5d4c796624d97-thumbnail-1920x1080-70.jpg\"/> <figcaption> 수이 금융 생태계를 소개하는 아비오둔 CPO / 출처=IT동아 </figcaption> </figure> </p> <h3> 수이 생태계 확장하는 해시·딥북 </h3> <p> 이어 아비오둔 CPO는 해시와 딥북도 소개했다. 해시는 비트코인을 디파이와 연결하는 솔루션이다. 그는 “기관 투자자나 펀드, 상장지수펀드(ETF) 운용사들은 보안과 신뢰에 대한 우려 탓에 비트코인을 디파이에 활용하는 데 부담을 느낀다”라며 “해시는 기관 투자자나 펀드 운영사가 안전하고 신뢰할 수 있는 방법으로 디파이에 참여하도록 지원하는 솔루션”이라고 설명했다. </p> <p> 해시를 통해 이용자가 수이에 비트코인을 맡기면 수이달러를 활용해 디파이에 참여하거나 대출을 받을 수 있다. 수이달러를 담보로 활용하거나 펀드 운용에도 연계할 수 있다. 아비오둔 CPO는 “해시는 일종의 보험”이라며 “비트코인 활용 시 세금이나 보안 문제를 걱정할 필요가 없다”라고 설명했다. 이어 “현재 25개 이상의 기관이 해시에 관심을 갖고 적극적인 지원 의사를 보이고 있다”라고 덧붙였다. </p> <p> 딥북은 온체인 자본시장을 지원하는 트레이딩 엔진이다. 디지털자산은 물론 주식, 채권, ETF 등 다양한 자산을 온체인에서 통합 운용할 수 있는 환경을 제공한다. 아비오둔 CPO는 “향후 AI 에이전트가 딥북 안에서 투자 판단을 내리고 거래를 자율적으로 실행할 것”이라고 설명했다. </p> <p> <figure> <img alt=\"미스틴랩스의 데릭 한 아시아태평양 총괄(좌)과 아비오둔 CPO / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/4/17/8df18d1510614326-thumbnail-1920x1080-70.jpg\"/> <figcaption> 미스틴랩스의 데릭 한 아시아태평양 총괄(좌)과 아비오둔 CPO / 출처=IT동아 </figcaption> </figure> </p> <p> 아비오둔 CPO는 “수이가 제시하는 에이전틱 파이낸스 환경에서는 AI 에이전트가 자산을 직접 보유하고, 사전에 정의된 로직에 따라 복잡한 금융 거래를 자율적으로 실행한다”라며 “AI 에이전트가 얼마나 많은 자금을 쓰게 할지, 거래 빈도나 한도를 어떻게 설정할지 등을 책임감 있게 관리할 것”이라고 강조했다. </p> <p> 또한 한국 시장에 대해서는 “한국은 아시아에서 가장 빠르게 성장하는 시장”이라며 “현재 국내 스테이블코인, 게임, 빅테크 관련 기업 및 기관과 협업 논의를 진행 중이다. 규제가 명확해지면 한국에서 더 많은 혁신 사례를 공개할 수 있을 것”이라고 전했다. </p> <p> IT동아 한만혁 기자 (mh@itdonga.com) </p>",
-          "pubDate": "Fri, 17 Apr 2026 15:45:09 +0900",
-          "guid": "https://it.donga.com/108757/",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "IT동아",
-          "feedUrl": "https://it.donga.com/feeds/rss/",
-          "coverImage": "https://it.donga.com/media/__sized__/images/2026/4/17/783180028572423c-thumbnail-1920x1080-70.jpg",
-          "summary": "[IT동아 한만혁 기자] 블록체인 플랫폼 수이(Sui) 개발사 미스틴랩스(Mysten Labs)가 4월 17일 기자간담회를 열고 금융 인프라로의 확장 전략과 에이전틱 파이낸스(Agentic Finance) 시대를 대비한 인프라를 제시했다. 자체 스테이블코인 수이달러(SuiUSD) 출시 계획과 비트코인을 탈중앙화 금융(디파이)에 연결하는 해시(Hashi), 온체인 자본시장을 지원하는 딥북(De...",
-          "author": "mh@itdonga.com (한만혁)",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://it.donga.com/media/__sized__/images/2026/4/17/783180028572423c-thumbnail-1920x1080-70.jpg",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://it.donga.com/media/__sized__/images/2026/4/17/783180028572423c-thumbnail-960x540-70.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ],
-      "lastUpdated": 1777356673974,
+      "lastUpdated": 1777360106571,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4957,7 +4983,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777356674125,
+      "lastUpdated": 1777360106722,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4975,7 +5001,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777356674359,
+      "lastUpdated": 1777360106930,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6144,7 +6170,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777356675387,
+      "lastUpdated": 1777360107924,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7082,7 +7108,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777356696338,
+      "lastUpdated": 1777360128832,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7606,7 +7632,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777356697449,
+      "lastUpdated": 1777360129922,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7623,6 +7649,29 @@
       "url": "https://nitter.net/Tslachan/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "$TSLA 유럽 네덜란드에서 FSD 승인은 매우 반가운 뉴스이나, 전체적인 흐름을 보니 5월 5일 진행될 발표회 이후 6월 30일 되서야 EU 전체 회의를 통한 확대 여부가 진행될 것이 확실해 보이고 (통과 예상), 여러 의미로 2분기 말이 기다려짐 기다려지는 또 하나의 강력한 이유는 Hardware 3 차량에 대한 V14 버전의 출시. 흔히 V14 Lite 라고 불리는 이 버전은 v12.6.4 이 가지고 있던 수준보다 더 나은 주행 성능을 가지는 것은 물론이거니와 주차 상태에서 터치 한번이면 바로 주행이 시작되는 등의 현재 V14가 가지고 있는 특징을 모두 사용할 수 있다는 점이 기대감을 키우는 요인임 [그렇다면, 한국에 출시 될까?] 기본적으로 해당 버전이 미국에 출시되는 것은 당연하고, 그 외 \"한국, 뉴질랜드, 호주 등의 HW3 차량에 출시될까?\" 이것이 가장 중요한 부분으로 보여짐 희망 섞인 개인적인 의견으로, 올해 위 국가에는 모두 V14 Lite 버전이 배포될 것이라 생각함 • 객관적으로 보았을때 현재 테슬라는 사면초과의 상황임. HW4 오너는 모두 업데이트 받는데, HW3 오너는 철저하게 소외당한채 약 2년의 시간이 지났음 • 테슬라는 '어닝콜' 자리에서 반복적으로 HW3 차량에 대한 책임감을 다 할 것이라는 뉘앙스의 발언을 계속 하였음 • V14 Lite는 HW3 차량의 FSD 배포에 대한 기술적 병목을 꽤 해결할 것으로 보여짐 • 정리하자면, 해당 버전이 완성되면 정말 배포하지 않을 이유가 없음. (상식적으로 생각하였을 경우) • 다만 한국과 호주, 뉴질랜드 등에 배포시기는 3분기 혹은 4분기가 될 수도 있다고 생각하고 있음 - 여태까지 미국에서 최신 FSD 버전이 배포되고, 기타 국가에 거의 동시에 배포된 적이 없음. 테슬라도 미국 외 국가에 배포하는 경우 일종의 '준비시간'이 필요할 것 • 여유롭게 올해 말까지는 미국산 HW3 차량에 업데이트가 진행될 것이라 믿어 의심치 않음 요즘 제 낙 중 하나는 올해 내 V14 Lite 업데이트 받은 미국산 HW3 Model 3를 타고 어디를 여행갈지 생각해보는 중...",
+          "link": "https://nitter.net/Tslachan/status/2049022908585095632#m",
+          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> 유럽 네덜란드에서 FSD 승인은 매우 반가운 뉴스이나, 전체적인 흐름을 보니 5월 5일 진행될 발표회 이후 6월 30일 되서야 EU 전체 회의를 통한 확대 여부가 진행될 것이 확실해 보이고 (통과 예상), 여러 의미로 2분기 말이 기다려짐<br> <br> 기다려지는 또 하나의 강력한 이유는 Hardware 3 차량에 대한 V14 버전의 출시. <br> <br> 흔히 V14 Lite 라고 불리는 이 버전은 v12.6.4 이 가지고 있던 수준보다 더 나은 주행 성능을 가지는 것은 물론이거니와 <br> <br> 주차 상태에서 터치 한번이면 바로 주행이 시작되는 등의 현재 V14가 가지고 있는 특징을 모두 사용할 수 있다는 점이 기대감을 키우는 요인임<br> <br> [그렇다면, 한국에 출시 될까?]<br> 기본적으로 해당 버전이 미국에 출시되는 것은 당연하고, 그 외 \"한국, 뉴질랜드, 호주 등의 HW3 차량에 출시될까?\" 이것이 가장 중요한 부분으로 보여짐<br> <br> 희망 섞인 개인적인 의견으로, 올해 위 국가에는 모두 V14 Lite 버전이 배포될 것이라 생각함<br> <br> • 객관적으로 보았을때 현재 테슬라는 사면초과의 상황임. HW4 오너는 모두 업데이트 받는데, HW3 오너는 철저하게 소외당한채 약 2년의 시간이 지났음<br> <br> • 테슬라는 '어닝콜' 자리에서 반복적으로 HW3 차량에 대한 책임감을 다 할 것이라는 뉘앙스의 발언을 계속 하였음<br> <br> • V14 Lite는 HW3 차량의 FSD 배포에 대한 기술적 병목을 꽤 해결할 것으로 보여짐<br> <br> • 정리하자면, 해당 버전이 완성되면 정말 배포하지 않을 이유가 없음. (상식적으로 생각하였을 경우)<br> <br> • 다만 한국과 호주, 뉴질랜드 등에 배포시기는 3분기 혹은 4분기가 될 수도 있다고 생각하고 있음<br> - 여태까지 미국에서 최신 FSD 버전이 배포되고, 기타 국가에 거의 동시에 배포된 적이 없음. 테슬라도 미국 외 국가에 배포하는 경우 일종의 '준비시간'이 필요할 것<br> <br> • 여유롭게 올해 말까지는 미국산 HW3 차량에 업데이트가 진행될 것이라 믿어 의심치 않음<br> <br> 요즘 제 낙 중 하나는 올해 내 V14 Lite 업데이트 받은 미국산 HW3 Model 3를 타고 어디를 여행갈지 생각해보는 중...</p> <img src=\"https://nitter.net/pic/media%2FHG-TQR5aEAAaR7v.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> 유럽 네덜란드에서 FSD 승인은 매우 반가운 뉴스이나, 전체적인 흐름을 보니 5월 5일 진행될 발표회 이후 6월 30일 되서야 EU 전체 회의를 통한 확대 여부가 진행될 것이 확실해 보이고 (통과 예상), 여러 의미로 2분기 말이 기다려짐<br> <br> 기다려지는 또 하나의 강력한 이유는 Hardware 3 차량에 대한 V14 버전의 출시. <br> <br> 흔히 V14 Lite 라고 불리는 이 버전은 v12.6.4 이 가지고 있던 수준보다 더 나은 주행 성능을 가지는 것은 물론이거니와 <br> <br> 주차 상태에서 터치 한번이면 바로 주행이 시작되는 등의 현재 V14가 가지고 있는 특징을 모두 사용할 수 있다는 점이 기대감을 키우는 요인임<br> <br> [그렇다면, 한국에 출시 될까?]<br> 기본적으로 해당 버전이 미국에 출시되는 것은 당연하고, 그 외 \"한국, 뉴질랜드, 호주 등의 HW3 차량에 출시될까?\" 이것이 가장 중요한 부분으로 보여짐<br> <br> 희망 섞인 개인적인 의견으로, 올해 위 국가에는 모두 V14 Lite 버전이 배포될 것이라 생각함<br> <br> • 객관적으로 보았을때 현재 테슬라는 사면초과의 상황임. HW4 오너는 모두 업데이트 받는데, HW3 오너는 철저하게 소외당한채 약 2년의 시간이 지났음<br> <br> • 테슬라는 '어닝콜' 자리에서 반복적으로 HW3 차량에 대한 책임감을 다 할 것이라는 뉘앙스의 발언을 계속 하였음<br> <br> • V14 Lite는 HW3 차량의 FSD 배포에 대한 기술적 병목을 꽤 해결할 것으로 보여짐<br> <br> • 정리하자면, 해당 버전이 완성되면 정말 배포하지 않을 이유가 없음. (상식적으로 생각하였을 경우)<br> <br> • 다만 한국과 호주, 뉴질랜드 등에 배포시기는 3분기 혹은 4분기가 될 수도 있다고 생각하고 있음<br> - 여태까지 미국에서 최신 FSD 버전이 배포되고, 기타 국가에 거의 동시에 배포된 적이 없음. 테슬라도 미국 외 국가에 배포하는 경우 일종의 '준비시간'이 필요할 것<br> <br> • 여유롭게 올해 말까지는 미국산 HW3 차량에 업데이트가 진행될 것이라 믿어 의심치 않음<br> <br> 요즘 제 낙 중 하나는 올해 내 V14 Lite 업데이트 받은 미국산 HW3 Model 3를 타고 어디를 여행갈지 생각해보는 중...</p> <img src=\"https://nitter.net/pic/media%2FHG-TQR5aEAAaR7v.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Tue, 28 Apr 2026 07:08:25 GMT",
+          "guid": "https://nitter.net/Tslachan/2049022908585095632",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Tsla Chan / @Tslachan",
+          "feedUrl": "https://nitter.net/Tslachan/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG-TQR5aEAAaR7v.jpg",
+          "summary": "$TSLA 유럽 네덜란드에서 FSD 승인은 매우 반가운 뉴스이나, 전체적인 흐름을 보니 5월 5일 진행될 발표회 이후 6월 30일 되서야 EU 전체 회의를 통한 확대 여부가 진행될 것이 확실해 보이고 (통과 예상), 여러 의미로 2분기 말이 기다려짐 기다려지는 또 하나의 강력한 이유는 Hardware 3 차량에 대한 V14 버전의 출시. 흔히 V14 Lite 라고 불리는 이 버전은 v12.6...",
+          "author": "@Tslachan",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG-TQR5aEAAaR7v.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "RT by @Tslachan: 2026. 04. 28 🎂🎉 오늘, 한국에서 New Model Y의 인도가 시작된 지 1년이 되었습니다. Model Y가 2026년 1분기 수입차 모델별 판매량 1위에 오르기까지, Tesla 오너분들이 보내주신 큰 사랑에 감사드립니다. *출처: 2026년 1분기(1~3월) 수입차 판매량, 한국수입자동차협회 https://www.tesla.com/ko_kr/modely/design#overview",
           "link": "https://nitter.net/tesla_korea/status/2048991171561869605#m",
@@ -7833,8 +7882,8 @@
         {
           "title": "R to @Tslachan: purplemine.co.kr/",
           "link": "https://nitter.net/Tslachan/status/2048940277021528500#m",
-          "description": "<p><a href=\"https://purplemine.co.kr/\">purplemine.co.kr/</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048940285678567424%2FEOxQpz1G%3Fformat%3Dpng%26name%3D420x420_2\" style=\"max-width:250px;\" />",
-          "content": "<p><a href=\"https://purplemine.co.kr/\">purplemine.co.kr/</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048940285678567424%2FEOxQpz1G%3Fformat%3Dpng%26name%3D420x420_2\" style=\"max-width:250px;\" />",
+          "description": "<p><a href=\"https://purplemine.co.kr/\">purplemine.co.kr/</a></p>",
+          "content": "<p><a href=\"https://purplemine.co.kr/\">purplemine.co.kr/</a></p>",
           "pubDate": "Tue, 28 Apr 2026 01:40:04 GMT",
           "guid": "https://nitter.net/Tslachan/2048940277021528500",
           "read": false,
@@ -8475,7 +8524,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777356698307,
+      "lastUpdated": 1777360130805,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8492,6 +8541,29 @@
       "url": "https://nitter.net/seti_park/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Oh, patents? 👀",
+          "link": "https://nitter.net/seti_park/status/2049009738181140749#m",
+          "description": "<p>Oh, patents? 👀</p> <video poster=\"https://nitter.net/pic/tweet_video_thumb%2FHG-LfkeaAAAjOsi.jpg\" autoplay muted loop style=\"max-width:250px;\"> <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHG-LfkeaAAAjOsi.mp4\" type=\"video/mp4\"></video> <hr/> <blockquote> <b>J Keynes (@JKeynesAlpha)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23LPK\">$LPK</a> <a href=\"https://nitter.net/search?f=tweets&q=%23LPKF\">$LPKF</a> <a href=\"https://nitter.net/search?f=tweets&q=%23LPKFF\">$LPKFF</a> 🔥🔥I genuinely think that LPKF is a potential 10 bagger at this market cap. Once you understand the patents, necessity of LIDE, the moat and the CEO's stated market share potential, it becomes clear. Not every stock has this potential. Doesn't mean it's \"in the bag yet\" but it is a \"multibagger\" in my view.</p> </p> <footer> — <cite><a href=\"https://nitter.net/JKeynesAlpha/status/2048860184936583367#m\">https://nitter.net/JKeynesAlpha/status/2048860184936583367#m</a> </footer> </blockquote>",
+          "content": "<p>Oh, patents? 👀</p> <video poster=\"https://nitter.net/pic/tweet_video_thumb%2FHG-LfkeaAAAjOsi.jpg\" autoplay muted loop style=\"max-width:250px;\"> <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHG-LfkeaAAAjOsi.mp4\" type=\"video/mp4\"></video> <hr/> <blockquote> <b>J Keynes (@JKeynesAlpha)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23LPK\">$LPK</a> <a href=\"https://nitter.net/search?f=tweets&q=%23LPKF\">$LPKF</a> <a href=\"https://nitter.net/search?f=tweets&q=%23LPKFF\">$LPKFF</a> 🔥🔥I genuinely think that LPKF is a potential 10 bagger at this market cap. Once you understand the patents, necessity of LIDE, the moat and the CEO's stated market share potential, it becomes clear. Not every stock has this potential. Doesn't mean it's \"in the bag yet\" but it is a \"multibagger\" in my view.</p> </p> <footer> — <cite><a href=\"https://nitter.net/JKeynesAlpha/status/2048860184936583367#m\">https://nitter.net/JKeynesAlpha/status/2048860184936583367#m</a> </footer> </blockquote>",
+          "pubDate": "Tue, 28 Apr 2026 06:16:04 GMT",
+          "guid": "https://nitter.net/seti_park/2049009738181140749",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "",
+          "summary": "Oh, patents? 👀 J Keynes (@JKeynesAlpha) $LPK $LPKF $LPKFF 🔥🔥I genuinely think that LPKF is a potential 10 bagger at this market cap. Once you understand the patents, necessity of LIDE, the moat and the CEO's stated ma...",
+          "author": "@seti_park",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "RT by @seti_park: Seti project 생각나서 더 두근거리시겠어요 ㅎㅎ",
           "link": "https://nitter.net/BSPK_/status/2048964530391388584#m",
@@ -9275,7 +9347,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777356699332,
+      "lastUpdated": 1777360131757,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10443,7 +10515,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777356699454,
+      "lastUpdated": 1777360131894,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10957,7 +11029,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777356700436,
+      "lastUpdated": 1777360132785,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11113,7 +11185,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777356701981,
+      "lastUpdated": 1777360134447,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11165,7 +11237,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777356702102,
+      "lastUpdated": 1777360134590,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11783,7 +11855,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777356702619,
+      "lastUpdated": 1777360134797,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12952,7 +13024,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777356703028,
+      "lastUpdated": 1777360135609,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13387,7 +13459,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777349337357,
+      "lastUpdated": 1777360135810,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13718,7 +13790,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777349337476,
+      "lastUpdated": 1777360135940,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13736,6 +13808,32 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKdKdx5-eLZUmAgsdvxkKiA",
       "folder": "Videos",
       "items": [
+        {
+          "title": "최소 10년은 돈 법니다. 바이브코딩에 관심 많은 비개발자라면 꼭 알아야 할 흐름",
+          "link": "https://www.youtube.com/watch?v=_g8mWNhfzWM",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-28T05:14:19+00:00",
+          "guid": "yt:video:_g8mWNhfzWM",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "양실장의 바이브코딩대학",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKdKdx5-eLZUmAgsdvxkKiA",
+          "coverImage": "https://img.youtube.com/vi/_g8mWNhfzWM/maxresdefault.jpg",
+          "summary": "",
+          "author": "양실장의 바이브코딩대학",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "_g8mWNhfzWM"
+        },
         {
           "title": "비개발자 바이브코더가 가장 두려워하는 단어 '백엔드' 딱 이 내용만 알면 됩니다",
           "link": "https://www.youtube.com/watch?v=0SGfDKMLdaI",
@@ -14417,7 +14515,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777356756163,
+      "lastUpdated": 1777360136060,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14458,7 +14556,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777356756164,
+  "lastRefreshTimestamp": 1777360136060,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
