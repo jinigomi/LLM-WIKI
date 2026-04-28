@@ -55,7 +55,8 @@
               "title": "vibe-coding-beginner-methodology"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,7 +256,7 @@
       "yolo:Open chat": false
     }
   },
-  "active": "c9d86e8fcd5a8a94",
+  "active": "8345a98a51aa78c3",
   "lastOpenFiles": [
     "concepts/vibe-coding-beginner-methodology.md",
     "comparisons/hermes-vs-boop.md",
