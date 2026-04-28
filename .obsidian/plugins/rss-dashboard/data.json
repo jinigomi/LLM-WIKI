@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777352865093,
+      "lastUpdated": 1777356464973,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -887,7 +887,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777352890962,
+      "lastUpdated": 1777356531501,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1865,7 +1865,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777352926619,
+      "lastUpdated": 1777356600096,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2519,6 +2519,26 @@
       "url": "https://feeds.feedburner.com/geeknews-feed",
       "folder": "RSS",
       "items": [
+        {
+          "title": "중국, Meta의 AI 스타트업 Manus 인수 차단",
+          "link": "https://news.hada.io/topic?id=28972",
+          "description": "",
+          "content": "<ul> <li><strong>중국 당국</strong>이 관련 법규에 따라 외국인 투자 금지 결정을 내리며, Meta의 <strong>Manus 인수 철회</strong>를 요구함</li> <li>중국에서 설립된 뒤 Singapore로 이전한 Manus는 <strong>범용 AI 에이전트</strong>를 개발하며, 시장 조사·코딩·데이터 분석 같은 복잡한 작업을 수행할 수 있음...</p>",
+          "pubDate": "2026-04-28T14:33:49+09:00",
+          "guid": "https://news.hada.io/topic?id=28972",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
+          "coverImage": "",
+          "summary": "중국 당국이 관련 법규에 따라 외국인 투자 금지 결정을 내리며, Meta의 Manus 인수 철회를 요구함 중국에서 설립된 뒤 Singapore로 이전한 Manus는 범용 AI 에이전트를 개발하며, 시장 조사·코딩·데이터 분석 같은 복잡한 작업을 수행할 수 있음...",
+          "author": "neo",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": ""
+        },
         {
           "title": "VibeVoice - 오픈소스 프론티어 음성 AI 모델",
           "link": "https://news.hada.io/topic?id=28971",
@@ -3498,29 +3518,9 @@
           "mediaType": "article",
           "explicit": false,
           "image": ""
-        },
-        {
-          "title": "Lightwhale 3: Linux 서버를 다시 재미있게 만들기",
-          "link": "https://news.hada.io/topic?id=28916",
-          "description": "",
-          "content": "<ul> <li><strong>Docker 컨테이너 전용</strong>으로 설계된 Linux 서버 OS로, ISO만 부팅하면 곧바로 <strong>Docker Engine 환경</strong>에 들어가게 됨</li> <li>코어 시스템을 <strong>불변·무상태 구조</strong>로 두고 <code>/etc</code>, <code>/var</code>, <code>/home</code>과 Docker 데이터만 별도 쓰기 영...</p>",
-          "pubDate": "2026-04-27T06:39:26+09:00",
-          "guid": "https://news.hada.io/topic?id=28916",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
-          "coverImage": "",
-          "summary": "Docker 컨테이너 전용으로 설계된 Linux 서버 OS로, ISO만 부팅하면 곧바로 Docker Engine 환경에 들어가게 됨 코어 시스템을 불변·무상태 구조로 두고 /etc, /var, /home과 Docker 데이터만 별도 쓰기 영...",
-          "author": "neo",
-          "saved": false,
-          "mediaType": "article",
-          "explicit": false,
-          "image": ""
         }
       ],
-      "lastUpdated": 1777353002038,
+      "lastUpdated": 1777356672902,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3530,7 +3530,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "siteUrl": "https://news.hada.io/topic?id=28971",
+      "siteUrl": "https://news.hada.io/topic?id=28972",
       "iconUrl": "https://social.news.hada.io/WideLogo500.png"
     },
     {
@@ -4939,7 +4939,7 @@
           }
         }
       ],
-      "lastUpdated": 1777353003224,
+      "lastUpdated": 1777356673974,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4957,7 +4957,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777353003337,
+      "lastUpdated": 1777356674125,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4975,7 +4975,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777353003567,
+      "lastUpdated": 1777356674359,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4993,6 +4993,52 @@
       "url": "https://nitter.net/TeslaZoa/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "🚨2026년 투자하면서 세금 아끼는 가장 쉬운 방법 1️⃣ 3가지만 제대로 하면 연말정산 때 최대 148.5만 원을 현금으로 돌려받고 투자 수익도 세금 부담 없이 굴릴 수 있습니다. 핵심만 정리해드립니다 👇 2️⃣ 연금저축 600만 원 납입 → 최대 99만 원 환급 • 연간 한도: 600만 원 • 세액공제율: 총급여 5,500만 원 이하 기준 16.5% • 600만 원 × 16.5% = 99만 원 환급 이미 낸 세금에서 돌려받는 구조라 실질 수익률이 바로 올라갑니다. 3️⃣ IRP 300만 원 추가 → 총 148.5만 원 환급 • 연금저축 + IRP 합산 한도: 900만 원 • 900만 원 × 16.5% = 148.5만 원 환급 IRP는 퇴직금 이전도 가능하고 노후 대비까지 동시에 설계할 수 있습니다. 4️⃣ ISA 계좌로 투자 → 수익 최대 200만 원 비과세 • 연 납입 한도: 2,000만 원 • 비과세 한도: 200만 원 (서민형 400만 원) • 초과분: 9.9% 분리과세 일반 계좌(15.4%) 대비 세금 효율이 크게 개선됩니다. 5️⃣ 세 가지를 동시에 활용하면 • 연말정산: 최대 148.5만 원 환급 • 투자 수익: ISA 200만 원까지 비과세 • 장기 효과: 세금 없이 재투자 → 복리 상승 이 조합으로 연간 200~300만 원 수준 절세 효과를 보는 사례가 많습니다.",
+          "link": "https://nitter.net/TeslaZoa/status/2049001192655815088#m",
+          "description": "<p>🚨2026년 투자하면서 세금 아끼는 가장 쉬운 방법<br> <br> 1️⃣ 3가지만 제대로 하면<br> 연말정산 때 최대 148.5만 원을 현금으로 돌려받고<br> 투자 수익도 세금 부담 없이 굴릴 수 있습니다.<br> 핵심만 정리해드립니다 👇<br> <br> 2️⃣ 연금저축 600만 원 납입 → 최대 99만 원 환급<br> • 연간 한도: 600만 원<br> • 세액공제율: 총급여 5,500만 원 이하 기준 16.5%<br> • 600만 원 × 16.5% = 99만 원 환급<br> <br> 이미 낸 세금에서 돌려받는 구조라<br> 실질 수익률이 바로 올라갑니다.<br> <br> 3️⃣ IRP 300만 원 추가 → 총 148.5만 원 환급<br> • 연금저축 + IRP 합산 한도: 900만 원<br> • 900만 원 × 16.5% = 148.5만 원 환급<br> <br> IRP는 퇴직금 이전도 가능하고<br> 노후 대비까지 동시에 설계할 수 있습니다.<br> <br> 4️⃣ ISA 계좌로 투자 → 수익 최대 200만 원 비과세<br> • 연 납입 한도: 2,000만 원<br> • 비과세 한도: 200만 원 (서민형 400만 원)<br> • 초과분: 9.9% 분리과세<br> <br> 일반 계좌(15.4%) 대비 세금 효율이 크게 개선됩니다.<br> <br> 5️⃣ 세 가지를 동시에 활용하면<br> • 연말정산: 최대 148.5만 원 환급<br> • 투자 수익: ISA 200만 원까지 비과세<br> • 장기 효과: 세금 없이 재투자 → 복리 상승<br> <br> 이 조합으로 연간 200~300만 원 수준 절세 효과를 보는 사례가 많습니다.</p> <img src=\"https://nitter.net/pic/media%2FHG-DuJXaQAAd5Lj.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>🚨2026년 투자하면서 세금 아끼는 가장 쉬운 방법<br> <br> 1️⃣ 3가지만 제대로 하면<br> 연말정산 때 최대 148.5만 원을 현금으로 돌려받고<br> 투자 수익도 세금 부담 없이 굴릴 수 있습니다.<br> 핵심만 정리해드립니다 👇<br> <br> 2️⃣ 연금저축 600만 원 납입 → 최대 99만 원 환급<br> • 연간 한도: 600만 원<br> • 세액공제율: 총급여 5,500만 원 이하 기준 16.5%<br> • 600만 원 × 16.5% = 99만 원 환급<br> <br> 이미 낸 세금에서 돌려받는 구조라<br> 실질 수익률이 바로 올라갑니다.<br> <br> 3️⃣ IRP 300만 원 추가 → 총 148.5만 원 환급<br> • 연금저축 + IRP 합산 한도: 900만 원<br> • 900만 원 × 16.5% = 148.5만 원 환급<br> <br> IRP는 퇴직금 이전도 가능하고<br> 노후 대비까지 동시에 설계할 수 있습니다.<br> <br> 4️⃣ ISA 계좌로 투자 → 수익 최대 200만 원 비과세<br> • 연 납입 한도: 2,000만 원<br> • 비과세 한도: 200만 원 (서민형 400만 원)<br> • 초과분: 9.9% 분리과세<br> <br> 일반 계좌(15.4%) 대비 세금 효율이 크게 개선됩니다.<br> <br> 5️⃣ 세 가지를 동시에 활용하면<br> • 연말정산: 최대 148.5만 원 환급<br> • 투자 수익: ISA 200만 원까지 비과세<br> • 장기 효과: 세금 없이 재투자 → 복리 상승<br> <br> 이 조합으로 연간 200~300만 원 수준 절세 효과를 보는 사례가 많습니다.</p> <img src=\"https://nitter.net/pic/media%2FHG-DuJXaQAAd5Lj.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Tue, 28 Apr 2026 05:42:07 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2049001192655815088",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG-DuJXaQAAd5Lj.jpg",
+          "summary": "🚨2026년 투자하면서 세금 아끼는 가장 쉬운 방법 1️⃣ 3가지만 제대로 하면 연말정산 때 최대 148.5만 원을 현금으로 돌려받고 투자 수익도 세금 부담 없이 굴릴 수 있습니다. 핵심만 정리해드립니다 👇 2️⃣ 연금저축 600만 원 납입 → 최대 99만 원 환급 • 연간 한도: 600만 원 • 세액공제율: 총급여 5,500만 원 이하 기준 16.5% • 600만 원 × 16.5% = ...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG-DuJXaQAAd5Lj.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🚨 테슬라 칩 전략, 단순한 ‘구매’가 아닌 산업 재편 1️⃣ 테슬라, 반도체 고객이 아니라 설계자 테슬라는 더 이상 칩을 외부에서 단순 조달하는 기업이 아닙니다. 자체 아키텍처 설계와 생산 파트너십을 통해 반도체 밸류체인 깊숙이 들어가고 있습니다. 2️⃣ 삼성 2nm 기반, 3세대 칩 장기 계약 삼성전자의 텍사스 팹에서 약 154억 달러 규모 계약 단일 세대가 아닌 AI4+ → AI5 → AI6까지 이어지는 ‘멀티 제너레이션 전략’ → 안정적인 공급 + 성능 로드맵 동시 확보 3️⃣ AI4+ (2027년 중반) 더 높은 메모리 용량 더 넓은 메모리 대역폭 더 강력한 연산 성능 → FSD 고도화 및 실시간 추론 능력 강화 4️⃣ AI5 (최근 확정) 현재 차량 대비 약 5~10배 성능 향상 초기 적용: 옵티머스 + AI 데이터센터 → 차량을 넘어 로보틱스/클라우드 AI까지 확장 5️⃣ AI6 (삼성 독점 라인) 아직 상세 공개 전 → 사실상 ‘차세대 AI 인프라 칩’으로 추정 6️⃣ 자체 팹 전략까지 병행 인텔과 14A 공정 협력 기가 텍사스 내 테라팹 연구 시설 구축 진행 → 설계 + 생산 최적화까지 수직 통합 시도 7️⃣ 핵심 포인트 다른 완성차 업체: 칩 공급망 의존 테슬라: 칩 로드맵 자체 설계 + 생산 영향력 확보 결론 테슬라는 반도체를 ‘구매’하는 기업이 아니라 AI 시대의 컴퓨팅 인프라를 직접 설계하고 통제하는 방향으로 이동 중입니다.",
+          "link": "https://nitter.net/TeslaZoa/status/2048996843674366094#m",
+          "description": "<p>🚨 테슬라 칩 전략, 단순한 ‘구매’가 아닌 산업 재편<br> <br> 1️⃣ 테슬라, 반도체 고객이 아니라 설계자<br> 테슬라는 더 이상 칩을 외부에서 단순 조달하는 기업이 아닙니다. 자체 아키텍처 설계와 생산 파트너십을 통해 반도체 밸류체인 깊숙이 들어가고 있습니다.<br> <br> 2️⃣ 삼성 2nm 기반, 3세대 칩 장기 계약<br> 삼성전자의 텍사스 팹에서 약 154억 달러 규모 계약<br> 단일 세대가 아닌 AI4+ → AI5 → AI6까지 이어지는 ‘멀티 제너레이션 전략’<br> → 안정적인 공급 + 성능 로드맵 동시 확보<br> <br> 3️⃣ AI4+ (2027년 중반)<br> 더 높은 메모리 용량<br> 더 넓은 메모리 대역폭<br> 더 강력한 연산 성능<br> → FSD 고도화 및 실시간 추론 능력 강화<br> <br> 4️⃣ AI5 (최근 확정)<br> 현재 차량 대비 약 5~10배 성능 향상<br> 초기 적용: 옵티머스 + AI 데이터센터<br> → 차량을 넘어 로보틱스/클라우드 AI까지 확장<br> <br> 5️⃣ AI6 (삼성 독점 라인)<br> 아직 상세 공개 전<br> → 사실상 ‘차세대 AI 인프라 칩’으로 추정<br> <br> 6️⃣ 자체 팹 전략까지 병행<br> 인텔과 14A 공정 협력<br> 기가 텍사스 내 테라팹 연구 시설 구축 진행<br> → 설계 + 생산 최적화까지 수직 통합 시도<br> <br> 7️⃣ 핵심 포인트<br> 다른 완성차 업체: 칩 공급망 의존<br> 테슬라: 칩 로드맵 자체 설계 + 생산 영향력 확보<br> <br> 결론<br> 테슬라는 반도체를 ‘구매’하는 기업이 아니라<br> AI 시대의 컴퓨팅 인프라를 직접 설계하고 통제하는 방향으로 이동 중입니다.</p> <img src=\"https://nitter.net/pic/media%2FHG9_xBPbYAAzeqN.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Mars University (@MarsUniversityX)</b> <p> <p>Tesla’s chip strategy is bigger than anyone realize.<br> <br> Samsung’s $37 billion Texas fab is coming online. Tesla’s contract is worth $15.4 billion. And it covers not one, not two, but three generations of chips — all on Samsung’s most advanced 2 nanometer process.<br> <br> AI4+: More memory. Higher bandwidth. More compute. Mid-2027.<br> <br> AI5: Finalized April 15. Five to ten times faster than what’s in Tesla’s cars today. Powers Optimus and Tesla’s AI data centers first.<br> <br> AI6: Samsung exclusive. The chip that hasn’t even been fully described yet.<br> <br> Now zoom out.<br> <br> Terafab research fab breaking ground at Giga Texas. Intel partnering on 14A process. Samsung locked in for 2nm. AI5 finalized. AI6 in the pipeline.<br> <br> Tesla isn’t buying chips from the semiconductor industry.<br> <br> It’s becoming the semiconductor industry.<br> <br> While every other automaker is scrambling for chip supply, Tesla has a $15.4 billion contract, three chip generations in production, and its own fab under construction.<br> <br> Tesla isn’t depending on the chip industry. It’s reshaping it.</p> <img src=\"https://nitter.net/pic/media%2FHG8thBtbwAEJArO.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG8thFhbYAEJcY8.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/MarsUniversityX/status/2048906413766783288#m\">https://nitter.net/MarsUniversityX/status/2048906413766783288#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 테슬라 칩 전략, 단순한 ‘구매’가 아닌 산업 재편<br> <br> 1️⃣ 테슬라, 반도체 고객이 아니라 설계자<br> 테슬라는 더 이상 칩을 외부에서 단순 조달하는 기업이 아닙니다. 자체 아키텍처 설계와 생산 파트너십을 통해 반도체 밸류체인 깊숙이 들어가고 있습니다.<br> <br> 2️⃣ 삼성 2nm 기반, 3세대 칩 장기 계약<br> 삼성전자의 텍사스 팹에서 약 154억 달러 규모 계약<br> 단일 세대가 아닌 AI4+ → AI5 → AI6까지 이어지는 ‘멀티 제너레이션 전략’<br> → 안정적인 공급 + 성능 로드맵 동시 확보<br> <br> 3️⃣ AI4+ (2027년 중반)<br> 더 높은 메모리 용량<br> 더 넓은 메모리 대역폭<br> 더 강력한 연산 성능<br> → FSD 고도화 및 실시간 추론 능력 강화<br> <br> 4️⃣ AI5 (최근 확정)<br> 현재 차량 대비 약 5~10배 성능 향상<br> 초기 적용: 옵티머스 + AI 데이터센터<br> → 차량을 넘어 로보틱스/클라우드 AI까지 확장<br> <br> 5️⃣ AI6 (삼성 독점 라인)<br> 아직 상세 공개 전<br> → 사실상 ‘차세대 AI 인프라 칩’으로 추정<br> <br> 6️⃣ 자체 팹 전략까지 병행<br> 인텔과 14A 공정 협력<br> 기가 텍사스 내 테라팹 연구 시설 구축 진행<br> → 설계 + 생산 최적화까지 수직 통합 시도<br> <br> 7️⃣ 핵심 포인트<br> 다른 완성차 업체: 칩 공급망 의존<br> 테슬라: 칩 로드맵 자체 설계 + 생산 영향력 확보<br> <br> 결론<br> 테슬라는 반도체를 ‘구매’하는 기업이 아니라<br> AI 시대의 컴퓨팅 인프라를 직접 설계하고 통제하는 방향으로 이동 중입니다.</p> <img src=\"https://nitter.net/pic/media%2FHG9_xBPbYAAzeqN.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Mars University (@MarsUniversityX)</b> <p> <p>Tesla’s chip strategy is bigger than anyone realize.<br> <br> Samsung’s $37 billion Texas fab is coming online. Tesla’s contract is worth $15.4 billion. And it covers not one, not two, but three generations of chips — all on Samsung’s most advanced 2 nanometer process.<br> <br> AI4+: More memory. Higher bandwidth. More compute. Mid-2027.<br> <br> AI5: Finalized April 15. Five to ten times faster than what’s in Tesla’s cars today. Powers Optimus and Tesla’s AI data centers first.<br> <br> AI6: Samsung exclusive. The chip that hasn’t even been fully described yet.<br> <br> Now zoom out.<br> <br> Terafab research fab breaking ground at Giga Texas. Intel partnering on 14A process. Samsung locked in for 2nm. AI5 finalized. AI6 in the pipeline.<br> <br> Tesla isn’t buying chips from the semiconductor industry.<br> <br> It’s becoming the semiconductor industry.<br> <br> While every other automaker is scrambling for chip supply, Tesla has a $15.4 billion contract, three chip generations in production, and its own fab under construction.<br> <br> Tesla isn’t depending on the chip industry. It’s reshaping it.</p> <img src=\"https://nitter.net/pic/media%2FHG8thBtbwAEJArO.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG8thFhbYAEJcY8.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/MarsUniversityX/status/2048906413766783288#m\">https://nitter.net/MarsUniversityX/status/2048906413766783288#m</a> </footer> </blockquote>",
+          "pubDate": "Tue, 28 Apr 2026 05:24:50 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048996843674366094",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG9_xBPbYAAzeqN.jpg",
+          "summary": "🚨 테슬라 칩 전략, 단순한 ‘구매’가 아닌 산업 재편 1️⃣ 테슬라, 반도체 고객이 아니라 설계자 테슬라는 더 이상 칩을 외부에서 단순 조달하는 기업이 아닙니다. 자체 아키텍처 설계와 생산 파트너십을 통해 반도체 밸류체인 깊숙이 들어가고 있습니다. 2️⃣ 삼성 2nm 기반, 3세대 칩 장기 계약 삼성전자의 텍사스 팹에서 약 154억 달러 규모 계약 단일 세대가 아닌 AI4+ → AI5 →...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG9_xBPbYAAzeqN.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "주니퍼 인도, 벌써 1년 !! 🥳",
           "link": "https://nitter.net/TeslaZoa/status/2048992290249842738#m",
@@ -6096,55 +6142,9 @@
           "image": "https://nitter.net/pic/media%2FHG5xQlaa0AEgzeO.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "🚨 2026년 1분기 테슬라 어닝 이후 기관들의 목표주가·투자의견 업데이트 정리 1️⃣ UBS Neutral 유지 목표주가: $352 → $364 (상향) 근거: 단기 헤드윈드 완화 + 장기 AI 가치 일부 반영 2️⃣ Canaccord Genuity Buy 유지 목표주가: $420 → $450 (상향) 근거: 수요 회복 + 마진 개선 흐름 긍정 3️⃣ RBC Capital Outperform 유지 목표주가: $480 → $475 (소폭 조정/유지) 근거: 여전히 강한 자동차 마진 구조 강조 4️⃣ Mizuho Outperform 유지 목표주가: $540 → $480 (하향) 근거: 대규모 Capex 부담 반영 5️⃣ DZ Bank Sell → Hold (상향 조정) 목표주가: $385 (신규 제시) 근거: 로보택시 리스크 완화 + Cybercab 생산 기대 6️⃣ Wedbush (Dan Ives) Outperform 유지 목표주가: $600 유지 근거: AI·로보틱스 기반 가장 강한 장기 낙관론 7️⃣ Roth Capital Buy 유지 목표주가: $505 유지 근거: 수요 회복 + 일회성 요인 긍정, SpaceX 연계 시너지 언급 8️⃣ Morgan Stanley (Andrew Percoco) Equal Weight 유지 목표주가: $415 유지 근거: Capex는 AI 리더십 확보에 필요하지만 단기 리스크 존재 9️⃣ TD Cowen Buy 유지 목표주가: $490 유지 근거: 기존 투자 논리 유지 (변화 없음) 🔟 Cantor Fitzgerald Overweight 유지 목표주가: $510 유지 근거: 기존 긍정적 시각 유지 1️⃣1️⃣ BofA Buy 유지 목표주가: $460 유지 근거: 카메라 기반 자율주행의 비용 경쟁력 강조",
-          "link": "https://nitter.net/TeslaZoa/status/2048687852477968468#m",
-          "description": "<p>🚨 2026년 1분기 테슬라 어닝 이후 기관들의 목표주가·투자의견 업데이트 정리<br> <br> 1️⃣ UBS<br> Neutral 유지<br> 목표주가: $352 → $364 (상향)<br> 근거: 단기 헤드윈드 완화 + 장기 AI 가치 일부 반영<br> <br> 2️⃣ Canaccord Genuity<br> Buy 유지<br> 목표주가: $420 → $450 (상향)<br> 근거: 수요 회복 + 마진 개선 흐름 긍정<br> <br> 3️⃣ RBC Capital<br> Outperform 유지<br> 목표주가: $480 → $475 (소폭 조정/유지)<br> 근거: 여전히 강한 자동차 마진 구조 강조<br> <br> 4️⃣ Mizuho<br> Outperform 유지<br> 목표주가: $540 → $480 (하향)<br> 근거: 대규모 Capex 부담 반영<br> <br> 5️⃣ DZ Bank<br> Sell → Hold (상향 조정)<br> 목표주가: $385 (신규 제시)<br> 근거: 로보택시 리스크 완화 + Cybercab 생산 기대<br> <br> 6️⃣ Wedbush (Dan Ives)<br> Outperform 유지<br> 목표주가: $600 유지<br> 근거: AI·로보틱스 기반 가장 강한 장기 낙관론<br> <br> 7️⃣ Roth Capital<br> Buy 유지<br> 목표주가: $505 유지<br> 근거: 수요 회복 + 일회성 요인 긍정, SpaceX 연계 시너지 언급<br> <br> 8️⃣ Morgan Stanley (Andrew Percoco)<br> Equal Weight 유지<br> 목표주가: $415 유지<br> 근거: Capex는 AI 리더십 확보에 필요하지만 단기 리스크 존재<br> <br> 9️⃣ TD Cowen<br> Buy 유지<br> 목표주가: $490 유지<br> 근거: 기존 투자 논리 유지 (변화 없음)<br> <br> 🔟 Cantor Fitzgerald<br> Overweight 유지<br> 목표주가: $510 유지<br> 근거: 기존 긍정적 시각 유지<br> <br> 1️⃣1️⃣ BofA<br> Buy 유지<br> 목표주가: $460 유지<br> 근거: 카메라 기반 자율주행의 비용 경쟁력 강조</p> <img src=\"https://nitter.net/pic/media%2FHG5mt-za0AAS7Bm.jpg\" style=\"max-width:250px;\" />",
-          "content": "<p>🚨 2026년 1분기 테슬라 어닝 이후 기관들의 목표주가·투자의견 업데이트 정리<br> <br> 1️⃣ UBS<br> Neutral 유지<br> 목표주가: $352 → $364 (상향)<br> 근거: 단기 헤드윈드 완화 + 장기 AI 가치 일부 반영<br> <br> 2️⃣ Canaccord Genuity<br> Buy 유지<br> 목표주가: $420 → $450 (상향)<br> 근거: 수요 회복 + 마진 개선 흐름 긍정<br> <br> 3️⃣ RBC Capital<br> Outperform 유지<br> 목표주가: $480 → $475 (소폭 조정/유지)<br> 근거: 여전히 강한 자동차 마진 구조 강조<br> <br> 4️⃣ Mizuho<br> Outperform 유지<br> 목표주가: $540 → $480 (하향)<br> 근거: 대규모 Capex 부담 반영<br> <br> 5️⃣ DZ Bank<br> Sell → Hold (상향 조정)<br> 목표주가: $385 (신규 제시)<br> 근거: 로보택시 리스크 완화 + Cybercab 생산 기대<br> <br> 6️⃣ Wedbush (Dan Ives)<br> Outperform 유지<br> 목표주가: $600 유지<br> 근거: AI·로보틱스 기반 가장 강한 장기 낙관론<br> <br> 7️⃣ Roth Capital<br> Buy 유지<br> 목표주가: $505 유지<br> 근거: 수요 회복 + 일회성 요인 긍정, SpaceX 연계 시너지 언급<br> <br> 8️⃣ Morgan Stanley (Andrew Percoco)<br> Equal Weight 유지<br> 목표주가: $415 유지<br> 근거: Capex는 AI 리더십 확보에 필요하지만 단기 리스크 존재<br> <br> 9️⃣ TD Cowen<br> Buy 유지<br> 목표주가: $490 유지<br> 근거: 기존 투자 논리 유지 (변화 없음)<br> <br> 🔟 Cantor Fitzgerald<br> Overweight 유지<br> 목표주가: $510 유지<br> 근거: 기존 긍정적 시각 유지<br> <br> 1️⃣1️⃣ BofA<br> Buy 유지<br> 목표주가: $460 유지<br> 근거: 카메라 기반 자율주행의 비용 경쟁력 강조</p> <img src=\"https://nitter.net/pic/media%2FHG5mt-za0AAS7Bm.jpg\" style=\"max-width:250px;\" />",
-          "pubDate": "Mon, 27 Apr 2026 08:57:01 GMT",
-          "guid": "https://nitter.net/TeslaZoa/2048687852477968468",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "TeslaZoa / @TeslaZoa",
-          "feedUrl": "https://nitter.net/TeslaZoa/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHG5mt-za0AAS7Bm.jpg",
-          "summary": "🚨 2026년 1분기 테슬라 어닝 이후 기관들의 목표주가·투자의견 업데이트 정리 1️⃣ UBS Neutral 유지 목표주가: $352 → $364 (상향) 근거: 단기 헤드윈드 완화 + 장기 AI 가치 일부 반영 2️⃣ Canaccord Genuity Buy 유지 목표주가: $420 → $450 (상향) 근거: 수요 회복 + 마진 개선 흐름 긍정 3️⃣ RBC Capital Outperfo...",
-          "author": "@TeslaZoa",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHG5mt-za0AAS7Bm.jpg",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "🚨 테슬라 미국 판매량 추이 (2018~2025) 1️⃣ 2018년 약 197,500대 (+295%) Model 3 본격 출시로 폭발적 성장 2️⃣ 2019년 약 195,100대 (-1%) 성장 정체, 과도기 진입 3️⃣ 2020년 약 292,900대 (+50%) 미국 세금 공제 효과 반영 4️⃣ 2021년 약 302,000대 (+3%) 성장 둔화, 공급 제약 영향 5️⃣ 2022년 약 536,100대 (+78%) Model Y 중심 대량 판매 확대 6️⃣ 2023년 670,000대 (+25%) 사상 최고 판매 기록 7️⃣ 2024년 633,762대 (-5.4%) EV 시장 점유율 약 48.7% 유지 (등록 데이터 기준) 8️⃣ 2025년 약 580,147대 (-8.4%) 수요 둔화 및 경쟁 심화 영향 (MI 데이터 기준) 핵심 흐름 초기(2018-2022) → 고성장 구간 정점(2023) → 최대 판매 기록 최근(2024-2025) → 성장 둔화 및 조정 국면",
-          "link": "https://nitter.net/TeslaZoa/status/2048684589976346847#m",
-          "description": "<p>🚨 테슬라 미국 판매량 추이 (2018~2025)<br> <br> 1️⃣ 2018년<br> 약 197,500대 (+295%)<br> Model 3 본격 출시로 폭발적 성장<br> <br> 2️⃣ 2019년<br> 약 195,100대 (-1%)<br> 성장 정체, 과도기 진입<br> <br> 3️⃣ 2020년<br> 약 292,900대 (+50%)<br> 미국 세금 공제 효과 반영<br> <br> 4️⃣ 2021년<br> 약 302,000대 (+3%)<br> 성장 둔화, 공급 제약 영향<br> <br> 5️⃣ 2022년<br> 약 536,100대 (+78%)<br> Model Y 중심 대량 판매 확대<br> <br> 6️⃣ 2023년<br> 670,000대 (+25%)<br> 사상 최고 판매 기록<br> <br> 7️⃣ 2024년<br> 633,762대 (-5.4%)<br> EV 시장 점유율 약 48.7% 유지 (등록 데이터 기준)<br> <br> 8️⃣ 2025년<br> 약 580,147대 (-8.4%)<br> 수요 둔화 및 경쟁 심화 영향 (MI 데이터 기준)<br> <br> 핵심 흐름<br> 초기(2018-2022) → 고성장 구간<br> 정점(2023) → 최대 판매 기록<br> 최근(2024-2025) → 성장 둔화 및 조정 국면</p> <img src=\"https://nitter.net/pic/media%2FHG5jS0dacAAezmD.jpg\" style=\"max-width:250px;\" />",
-          "content": "<p>🚨 테슬라 미국 판매량 추이 (2018~2025)<br> <br> 1️⃣ 2018년<br> 약 197,500대 (+295%)<br> Model 3 본격 출시로 폭발적 성장<br> <br> 2️⃣ 2019년<br> 약 195,100대 (-1%)<br> 성장 정체, 과도기 진입<br> <br> 3️⃣ 2020년<br> 약 292,900대 (+50%)<br> 미국 세금 공제 효과 반영<br> <br> 4️⃣ 2021년<br> 약 302,000대 (+3%)<br> 성장 둔화, 공급 제약 영향<br> <br> 5️⃣ 2022년<br> 약 536,100대 (+78%)<br> Model Y 중심 대량 판매 확대<br> <br> 6️⃣ 2023년<br> 670,000대 (+25%)<br> 사상 최고 판매 기록<br> <br> 7️⃣ 2024년<br> 633,762대 (-5.4%)<br> EV 시장 점유율 약 48.7% 유지 (등록 데이터 기준)<br> <br> 8️⃣ 2025년<br> 약 580,147대 (-8.4%)<br> 수요 둔화 및 경쟁 심화 영향 (MI 데이터 기준)<br> <br> 핵심 흐름<br> 초기(2018-2022) → 고성장 구간<br> 정점(2023) → 최대 판매 기록<br> 최근(2024-2025) → 성장 둔화 및 조정 국면</p> <img src=\"https://nitter.net/pic/media%2FHG5jS0dacAAezmD.jpg\" style=\"max-width:250px;\" />",
-          "pubDate": "Mon, 27 Apr 2026 08:44:03 GMT",
-          "guid": "https://nitter.net/TeslaZoa/2048684589976346847",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "TeslaZoa / @TeslaZoa",
-          "feedUrl": "https://nitter.net/TeslaZoa/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHG5jS0dacAAezmD.jpg",
-          "summary": "🚨 테슬라 미국 판매량 추이 (2018~2025) 1️⃣ 2018년 약 197,500대 (+295%) Model 3 본격 출시로 폭발적 성장 2️⃣ 2019년 약 195,100대 (-1%) 성장 정체, 과도기 진입 3️⃣ 2020년 약 292,900대 (+50%) 미국 세금 공제 효과 반영 4️⃣ 2021년 약 302,000대 (+3%) 성장 둔화, 공급 제약 영향 5️⃣ 2022년 약 5...",
-          "author": "@TeslaZoa",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHG5jS0dacAAezmD.jpg",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777353004893,
+      "lastUpdated": 1777356675387,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6154,13 +6154,128 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1907192609065623552%2FNkv4Z7zX_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1907192609065623552%2FNkv4Z7zX_400x400.jpg"
     },
     {
       "title": "송준 Jun Song / @songjunkr",
       "url": "https://nitter.net/songjunkr/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "You can try new open-sourced models for free with Nvidia API It is very slow, but still free😂",
+          "link": "https://nitter.net/songjunkr/status/2049006043771125803#m",
+          "description": "<p>You can try new open-sourced models for free with Nvidia API<br> <br> It is very slow, but still free😂</p> <hr/> <blockquote> <b>Miguel Ángel Durán (@midudev)</b> <p> <p>NVIDIA da acceso gratis por API a modelos de IA.<br> A DeepSeek V4, MiniMax M2.7, GLM 5.1, Gemma 4...<br> <br> Perfecto para pruebas de desarrollo.<br> Puedes usarlo con OpenCode y OpenClaw<br> <br> Puedes conseguir acceso aquí:<br> → <a href=\"http://build.nvidia.com/models\">build.nvidia.com/models</a></p> <img src=\"https://nitter.net/pic/media%2FHG6dTO1XoAEs2r-.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/midudev/status/2048747841019892127#m\">https://nitter.net/midudev/status/2048747841019892127#m</a> </footer> </blockquote>",
+          "content": "<p>You can try new open-sourced models for free with Nvidia API<br> <br> It is very slow, but still free😂</p> <hr/> <blockquote> <b>Miguel Ángel Durán (@midudev)</b> <p> <p>NVIDIA da acceso gratis por API a modelos de IA.<br> A DeepSeek V4, MiniMax M2.7, GLM 5.1, Gemma 4...<br> <br> Perfecto para pruebas de desarrollo.<br> Puedes usarlo con OpenCode y OpenClaw<br> <br> Puedes conseguir acceso aquí:<br> → <a href=\"http://build.nvidia.com/models\">build.nvidia.com/models</a></p> <img src=\"https://nitter.net/pic/media%2FHG6dTO1XoAEs2r-.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/midudev/status/2048747841019892127#m\">https://nitter.net/midudev/status/2048747841019892127#m</a> </footer> </blockquote>",
+          "pubDate": "Tue, 28 Apr 2026 06:01:24 GMT",
+          "guid": "https://nitter.net/songjunkr/2049006043771125803",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG6dTO1XoAEs2r-.jpg",
+          "summary": "You can try new open-sourced models for free with Nvidia API It is very slow, but still free😂 Miguel Ángel Durán (@midudev) NVIDIA da acceso gratis por API a modelos de IA. A DeepSeek V4, MiniMax M2.7, GLM 5.1, Gemma 4....",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG6dTO1XoAEs2r-.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "43 tok/s is pretty fast",
+          "link": "https://nitter.net/songjunkr/status/2049005519751512182#m",
+          "description": "<p>43 tok/s is pretty fast</p> <hr/> <blockquote> <b>John T Davies 🇪🇺 (@jtdavies)</b> <p> <p>DeepSeek-V4-Flash on a Laptop.<br> <br> Everyone's doing it so I guess I have to too, I was curious.<br> <br> This is DeepSeek-V4-Flash (2bit-DQ) running at 43 toks/sec on my M5 Max Laptop using <a href=\"https://nitter.net/Prince_Canuma\" title=\"Prince Canuma\">@Prince_Canuma</a>'s PR on Apple's mlx-lm.</p> <a href=\"https://nitter.net/jtdavies/status/2048927320249901201#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048927241405382656%2Fimg%2FgfnV6_PJRgSCGD20.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/jtdavies/status/2048927320249901201#m\">https://nitter.net/jtdavies/status/2048927320249901201#m</a> </footer> </blockquote>",
+          "content": "<p>43 tok/s is pretty fast</p> <hr/> <blockquote> <b>John T Davies 🇪🇺 (@jtdavies)</b> <p> <p>DeepSeek-V4-Flash on a Laptop.<br> <br> Everyone's doing it so I guess I have to too, I was curious.<br> <br> This is DeepSeek-V4-Flash (2bit-DQ) running at 43 toks/sec on my M5 Max Laptop using <a href=\"https://nitter.net/Prince_Canuma\" title=\"Prince Canuma\">@Prince_Canuma</a>'s PR on Apple's mlx-lm.</p> <a href=\"https://nitter.net/jtdavies/status/2048927320249901201#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048927241405382656%2Fimg%2FgfnV6_PJRgSCGD20.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/jtdavies/status/2048927320249901201#m\">https://nitter.net/jtdavies/status/2048927320249901201#m</a> </footer> </blockquote>",
+          "pubDate": "Tue, 28 Apr 2026 05:59:19 GMT",
+          "guid": "https://nitter.net/songjunkr/2049005519751512182",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2048927241405382656%2Fimg%2FgfnV6_PJRgSCGD20.jpg",
+          "summary": "43 tok/s is pretty fast John T Davies 🇪🇺 (@jtdavies) DeepSeek-V4-Flash on a Laptop. Everyone's doing it so I guess I have to too, I was curious. This is DeepSeek-V4-Flash (2bit-DQ) running at 43 toks/sec on my M5 Max L...",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/amplify_video_thumb%2F2048927241405382656%2Fimg%2FgfnV6_PJRgSCGD20.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "로컬LLM 많이 물어보는 질문 : AI Max+ 395 미니 PC를 사도 괜찮을까요? (Strix Halo, etc) - 128GB의 통합메모리이지만 저렴한 가격은 장점이 맞습니다. - 최대 256GB/s의 대역폭은 사용 시 많이 느립니다. (실제 사용시 200GB/s 정도 사용) - 128gb에 맞는 모델을 사용하면 10tok/s 수준입니다.",
+          "link": "https://nitter.net/songjunkr/status/2049000604320833645#m",
+          "description": "<p>로컬LLM 많이 물어보는 질문 : AI Max+ 395 미니 PC를 사도 괜찮을까요? (Strix Halo, etc)<br> <br> - 128GB의 통합메모리이지만 저렴한 가격은 장점이 맞습니다.<br> - 최대 256GB/s의 대역폭은 사용 시 많이 느립니다. (실제 사용시 200GB/s 정도 사용)<br> - 128gb에 맞는 모델을 사용하면 10tok/s 수준입니다.</p>",
+          "content": "<p>로컬LLM 많이 물어보는 질문 : AI Max+ 395 미니 PC를 사도 괜찮을까요? (Strix Halo, etc)<br> <br> - 128GB의 통합메모리이지만 저렴한 가격은 장점이 맞습니다.<br> - 최대 256GB/s의 대역폭은 사용 시 많이 느립니다. (실제 사용시 200GB/s 정도 사용)<br> - 128gb에 맞는 모델을 사용하면 10tok/s 수준입니다.</p>",
+          "pubDate": "Tue, 28 Apr 2026 05:39:47 GMT",
+          "guid": "https://nitter.net/songjunkr/2049000604320833645",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "",
+          "summary": "로컬LLM 많이 물어보는 질문 : AI Max+ 395 미니 PC를 사도 괜찮을까요? (Strix Halo, etc) - 128GB의 통합메모리이지만 저렴한 가격은 장점이 맞습니다. - 최대 256GB/s의 대역폭은 사용 시 많이 느립니다. (실제 사용시 200GB/s 정도 사용) - 128gb에 맞는 모델을 사용하면 10tok/s 수준입니다.",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "펜타곤은 Anthropic, OpenAI, Google 셋 다 사용하는건가요?",
+          "link": "https://nitter.net/songjunkr/status/2048997877578596454#m",
+          "description": "<p>펜타곤은 Anthropic, OpenAI, Google 셋 다 사용하는건가요?</p> <hr/> <blockquote> <b>Watcher.Guru (@WatcherGuru)</b> <p> <p>JUST IN: Google <a href=\"https://nitter.net/search?f=tweets&q=%23GOOGL\">$GOOGL</a> signs classified AI deal with the Pentagon.</p> <img src=\"https://nitter.net/pic/media%2FHG98UM3bYAA3F_x.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG98UM1aMAA2m6J.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/WatcherGuru/status/2048993047942181129#m\">https://nitter.net/WatcherGuru/status/2048993047942181129#m</a> </footer> </blockquote>",
+          "content": "<p>펜타곤은 Anthropic, OpenAI, Google 셋 다 사용하는건가요?</p> <hr/> <blockquote> <b>Watcher.Guru (@WatcherGuru)</b> <p> <p>JUST IN: Google <a href=\"https://nitter.net/search?f=tweets&q=%23GOOGL\">$GOOGL</a> signs classified AI deal with the Pentagon.</p> <img src=\"https://nitter.net/pic/media%2FHG98UM3bYAA3F_x.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG98UM1aMAA2m6J.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/WatcherGuru/status/2048993047942181129#m\">https://nitter.net/WatcherGuru/status/2048993047942181129#m</a> </footer> </blockquote>",
+          "pubDate": "Tue, 28 Apr 2026 05:28:57 GMT",
+          "guid": "https://nitter.net/songjunkr/2048997877578596454",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG98UM3bYAA3F_x.jpg",
+          "summary": "펜타곤은 Anthropic, OpenAI, Google 셋 다 사용하는건가요? Watcher.Guru (@WatcherGuru) JUST IN: Google $GOOGL signs classified AI deal with the Pentagon. — https://nitter.net/WatcherGuru/status/2048993047942181129#m",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG98UM3bYAA3F_x.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "4/28 기준 로컬 LLM 성능 리스트 (맥) : 동적양자화 TQ 기준 (손실 최소화) 36gb~64gb = Qwen3.6-35B, 27B ~128gb = Deepseek V4 Flash , Mimo V2.5 (양자화 중) ~256gb = GLM-5.1 ~512gb = Kimi-K2.6, Mimo V2.5 Pro (양자화 중)",
+          "link": "https://nitter.net/songjunkr/status/2048995643369406701#m",
+          "description": "<p>4/28 기준 로컬 LLM 성능 리스트 (맥) : <br> <br> 동적양자화 TQ 기준 (손실 최소화)<br> <br> 36gb~64gb = Qwen3.6-35B, 27B<br> ~128gb = Deepseek V4 Flash , Mimo V2.5 (양자화 중)<br> ~256gb = GLM-5.1<br> ~512gb = Kimi-K2.6, Mimo V2.5 Pro (양자화 중)</p>",
+          "content": "<p>4/28 기준 로컬 LLM 성능 리스트 (맥) : <br> <br> 동적양자화 TQ 기준 (손실 최소화)<br> <br> 36gb~64gb = Qwen3.6-35B, 27B<br> ~128gb = Deepseek V4 Flash , Mimo V2.5 (양자화 중)<br> ~256gb = GLM-5.1<br> ~512gb = Kimi-K2.6, Mimo V2.5 Pro (양자화 중)</p>",
+          "pubDate": "Tue, 28 Apr 2026 05:20:04 GMT",
+          "guid": "https://nitter.net/songjunkr/2048995643369406701",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "",
+          "summary": "4/28 기준 로컬 LLM 성능 리스트 (맥) : 동적양자화 TQ 기준 (손실 최소화) 36gb~64gb = Qwen3.6-35B, 27B ~128gb = Deepseek V4 Flash , Mimo V2.5 (양자화 중) ~256gb = GLM-5.1 ~512gb = Kimi-K2.6, Mimo V2.5 Pro (양자화 중)",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "Hey @grok remove the best open-source AI company from the image.",
           "link": "https://nitter.net/songjunkr/status/2048979579390578836#m",
@@ -6967,7 +7082,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777353025279,
+      "lastUpdated": 1777356696338,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6977,7 +7092,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
     },
     {
       "title": "Cognac(꼬냑) / @supernovajunn",
@@ -7491,7 +7606,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777353026485,
+      "lastUpdated": 1777356697449,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8360,7 +8475,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777353027429,
+      "lastUpdated": 1777356698307,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8370,7 +8485,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
     },
     {
       "title": "SETI Park / @seti_park",
@@ -9160,7 +9275,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777353028456,
+      "lastUpdated": 1777356699332,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9170,7 +9285,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1995779157624766464%2FYivWTqFm_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1995779157624766464%2FYivWTqFm_400x400.jpg"
     },
     {
       "title": "arXiv AI (cs.AI) New Papers",
@@ -10328,7 +10443,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777353028571,
+      "lastUpdated": 1777356699454,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10842,7 +10957,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777353029356,
+      "lastUpdated": 1777356700436,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10998,7 +11113,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777353030861,
+      "lastUpdated": 1777356701981,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11050,7 +11165,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777353031008,
+      "lastUpdated": 1777356702102,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11668,7 +11783,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777353031450,
+      "lastUpdated": 1777356702619,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12837,7 +12952,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777353032552,
+      "lastUpdated": 1777356703028,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14302,7 +14417,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777353086915,
+      "lastUpdated": 1777356756163,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14343,7 +14458,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777353086915,
+  "lastRefreshTimestamp": 1777356756164,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",

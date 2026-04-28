@@ -26,31 +26,9 @@
               "icon": "rss",
               "title": "RSS dashboard"
             }
-          },
-          {
-            "id": "73382c6553243943",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.google.com/search?q=youtube&sei=vEbwaZzjHLXl1e8P59ediAY"
-              },
-              "icon": "lucide-file",
-              "title": "youtube - Google Search"
-            }
-          },
-          {
-            "id": "80de2c6cc0b5b2da",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,7 +228,7 @@
       "yolo:Open chat": false
     }
   },
-  "active": "80de2c6cc0b5b2da",
+  "active": "8345a98a51aa78c3",
   "lastOpenFiles": [
     "comparisons/note-wiki-vibe-coding-beginner-methodology.md",
     "concepts/vibe-coding-beginner-methodology.md",
