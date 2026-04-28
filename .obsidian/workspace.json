@@ -230,6 +230,7 @@
   },
   "active": "8345a98a51aa78c3",
   "lastOpenFiles": [
+    "docs/research-reports/2026-04-28-research-progress.md",
     "raw/tweets/2026-04-28-lucas-flatwhite-blueprint-prompt.md",
     "raw/tweets",
     "concepts/vibe-coding-blueprint-pattern.md",
@@ -257,7 +258,6 @@
     "log.md",
     "SCHEMA.md",
     "concepts/rss-브리핑-파이프라인.md",
-    "concepts/mcp-프로토콜.md",
     "YOLO",
     "copilot/copilot-custom-prompts",
     "copilot",
