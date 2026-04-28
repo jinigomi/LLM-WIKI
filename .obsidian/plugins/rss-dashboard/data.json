@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777396102102,
+      "lastUpdated": 1777399701945,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -188,7 +188,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777396102305,
+      "lastUpdated": 1777399702052,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -623,7 +623,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777396102392,
+      "lastUpdated": 1777399702193,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -876,7 +876,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777396102546,
+      "lastUpdated": 1777399702353,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1311,7 +1311,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777396102693,
+      "lastUpdated": 1777399702501,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1772,7 +1772,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777396102841,
+      "lastUpdated": 1777399702639,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1999,7 +1999,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777396102981,
+      "lastUpdated": 1777399702784,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3018,7 +3018,7 @@
           "image": ""
         }
       ],
-      "lastUpdated": 1777396104375,
+      "lastUpdated": 1777399703388,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4437,7 +4437,7 @@
           }
         }
       ],
-      "lastUpdated": 1777396105505,
+      "lastUpdated": 1777399704399,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4455,7 +4455,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777396105655,
+      "lastUpdated": 1777399704509,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4473,7 +4473,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777396105919,
+      "lastUpdated": 1777399704765,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5642,7 +5642,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777396107002,
+      "lastUpdated": 1777399705775,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6580,7 +6580,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777396107305,
+      "lastUpdated": 1777399706625,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6590,7 +6590,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
     },
     {
       "title": "Cognac(꼬냑) / @supernovajunn",
@@ -7127,7 +7127,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777396108448,
+      "lastUpdated": 1777399707860,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8272,7 +8272,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777396109417,
+      "lastUpdated": 1777399709109,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8282,7 +8282,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
     },
     {
       "title": "SETI Park / @seti_park",
@@ -9325,7 +9325,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777396110262,
+      "lastUpdated": 1777399710121,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10493,7 +10493,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777396110382,
+      "lastUpdated": 1777399710248,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11007,7 +11007,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777396111191,
+      "lastUpdated": 1777399711075,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11163,7 +11163,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777396112788,
+      "lastUpdated": 1777399712525,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11215,7 +11215,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777396112928,
+      "lastUpdated": 1777399712676,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11873,7 +11873,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777396113311,
+      "lastUpdated": 1777399713321,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11891,6 +11891,29 @@
       "url": "https://openai.com/news/rss.xml",
       "folder": "RSS",
       "items": [
+        {
+          "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+          "link": "https://openai.com/index/openai-on-aws",
+          "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+          "content": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+          "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
+          "guid": "https://openai.com/index/openai-on-aws",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "OpenAI News",
+          "feedUrl": "https://openai.com/news/rss.xml",
+          "coverImage": "",
+          "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+          "author": "",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "OpenAI available at FedRAMP Moderate",
           "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
@@ -13017,32 +13040,9 @@
           "image": "",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Using skills",
-          "link": "https://openai.com/academy/skills",
-          "description": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-          "content": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-          "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-          "guid": "https://openai.com/academy/skills",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "OpenAI News",
-          "feedUrl": "https://openai.com/news/rss.xml",
-          "coverImage": "",
-          "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-          "author": "",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777396114051,
+      "lastUpdated": 1777399714223,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13477,7 +13477,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777396114194,
+      "lastUpdated": 1777399714360,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13808,7 +13808,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777396114340,
+      "lastUpdated": 1777399714507,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14533,7 +14533,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777396114486,
+      "lastUpdated": 1777399714667,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14574,7 +14574,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777396114486,
+  "lastRefreshTimestamp": 1777399714667,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
