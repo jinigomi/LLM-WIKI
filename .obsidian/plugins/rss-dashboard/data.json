@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777403301960,
+      "lastUpdated": 1777406901996,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -188,7 +188,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777403302143,
+      "lastUpdated": 1777406902182,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -623,7 +623,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777403302229,
+      "lastUpdated": 1777406902310,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -876,7 +876,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777403302367,
+      "lastUpdated": 1777406902448,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1311,7 +1311,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777403302510,
+      "lastUpdated": 1777406902597,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1772,7 +1772,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777403302653,
+      "lastUpdated": 1777406902739,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1999,7 +1999,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777403302840,
+      "lastUpdated": 1777406902876,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2017,6 +2017,26 @@
       "url": "https://feeds.feedburner.com/geeknews-feed",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Quarkdown - 강력한 기능을 더한 Markdown",
+          "link": "https://news.hada.io/topic?id=28984",
+          "description": "",
+          "content": "<ul> <li><strong>Markdown 기반 문서 작성</strong>에 LaTeX 수준의 조판 기능을 결합해, 논문부터 책·프레젠테이션·정적 사이트·지식 베이스까지 한 도구로 다룰 수 있게 구성됨</li> <li><strong>보일러플레이트를 줄인 문법</strong> 안에 저자, 여백, 초록, 이미지, 인용문 같은 요소를 직접 넣어 본문과 레이아웃을...</p>",
+          "pubDate": "2026-04-29T03:33:43+09:00",
+          "guid": "https://news.hada.io/topic?id=28984",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
+          "coverImage": "",
+          "summary": "Markdown 기반 문서 작성에 LaTeX 수준의 조판 기능을 결합해, 논문부터 책·프레젠테이션·정적 사이트·지식 베이스까지 한 도구로 다룰 수 있게 구성됨 보일러플레이트를 줄인 문법 안에 저자, 여백, 초록, 이미지, 인용문 같은 요소를 직접 넣어 본문과 레이아웃을...",
+          "author": "neo",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": ""
+        },
         {
           "title": "Show GN: 완전하게 로컬에서 돌리는 AI 페르소나 시뮬레이터",
           "link": "https://news.hada.io/topic?id=28982",
@@ -2996,29 +3016,9 @@
           "mediaType": "article",
           "explicit": false,
           "image": ""
-        },
-        {
-          "title": "Tell HN: 내 iPhone에 앱 하나가 매일 조용히 설치되고 있음",
-          "link": "https://news.hada.io/topic?id=28924",
-          "description": "",
-          "content": "<ul> <li>지난 3일 동안 매일 오후 1시쯤 <strong>Headspace 앱</strong>이 iPhone 13 Pro에 <strong>자동으로 나타남</strong></li> <li><strong>자동 다운로드</strong>는 꺼져 있고, 이 현상이 시작된 뒤 <strong>최신 iOS</strong>로 업데이트한 상태임</li> <li>Reddit에서도 2~3일 전부터 같은 현상이 보고됐고, i...</p>",
-          "pubDate": "2026-04-27T10:04:34+09:00",
-          "guid": "https://news.hada.io/topic?id=28924",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
-          "coverImage": "",
-          "summary": "지난 3일 동안 매일 오후 1시쯤 Headspace 앱이 iPhone 13 Pro에 자동으로 나타남 자동 다운로드는 꺼져 있고, 이 현상이 시작된 뒤 최신 iOS로 업데이트한 상태임 Reddit에서도 2~3일 전부터 같은 현상이 보고됐고, i...",
-          "author": "neo",
-          "saved": false,
-          "mediaType": "article",
-          "explicit": false,
-          "image": ""
         }
       ],
-      "lastUpdated": 1777403303364,
+      "lastUpdated": 1777406904375,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3028,7 +3028,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "siteUrl": "https://news.hada.io/topic?id=28982",
+      "siteUrl": "https://news.hada.io/topic?id=28984",
       "iconUrl": "https://social.news.hada.io/WideLogo500.png"
     },
     {
@@ -4437,7 +4437,7 @@
           }
         }
       ],
-      "lastUpdated": 1777403304382,
+      "lastUpdated": 1777406905446,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4455,7 +4455,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777403304530,
+      "lastUpdated": 1777406905565,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4473,7 +4473,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777403304840,
+      "lastUpdated": 1777406905875,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5642,7 +5642,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777403306091,
+      "lastUpdated": 1777406907596,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6580,7 +6580,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777403307321,
+      "lastUpdated": 1777406908672,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6590,7 +6590,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
     },
     {
       "title": "Cognac(꼬냑) / @supernovajunn",
@@ -7127,7 +7127,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777403308815,
+      "lastUpdated": 1777406910508,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7285,8 +7285,8 @@
         {
           "title": "R to @Tslachan: 혹시 구매 예정인 분은, 제 스타링크 리퍼럴 링크를 사용하실수도 있습니다! https://starlink.com/residential?referral=RC-DF-11966127-45923-2",
           "link": "https://nitter.net/Tslachan/status/2049059426519384514#m",
-          "description": "<p>혹시 구매 예정인 분은, 제 스타링크 리퍼럴 링크를 사용하실수도 있습니다!<br> <a href=\"https://starlink.com/residential?referral=RC-DF-11966127-45923-2\">starlink.com/residential?ref…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2047983685010595840%2Fd7owx3dx%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
-          "content": "<p>혹시 구매 예정인 분은, 제 스타링크 리퍼럴 링크를 사용하실수도 있습니다!<br> <a href=\"https://starlink.com/residential?referral=RC-DF-11966127-45923-2\">starlink.com/residential?ref…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2047983685010595840%2Fd7owx3dx%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
+          "description": "<p>혹시 구매 예정인 분은, 제 스타링크 리퍼럴 링크를 사용하실수도 있습니다!<br> <a href=\"https://starlink.com/residential?referral=RC-DF-11966127-45923-2\">starlink.com/residential?ref…</a></p>",
+          "content": "<p>혹시 구매 예정인 분은, 제 스타링크 리퍼럴 링크를 사용하실수도 있습니다!<br> <a href=\"https://starlink.com/residential?referral=RC-DF-11966127-45923-2\">starlink.com/residential?ref…</a></p>",
           "pubDate": "Tue, 28 Apr 2026 09:33:31 GMT",
           "guid": "https://nitter.net/Tslachan/2049059426519384514",
           "read": false,
@@ -7584,8 +7584,8 @@
         {
           "title": "R to @Tslachan: shop.tesla.com/ko_kr/product…",
           "link": "https://nitter.net/Tslachan/status/2048943882738737319#m",
-          "description": "<p><a href=\"https://shop.tesla.com/ko_kr/product/on-the-road-vessel-p2m?sku=2044042-00-B\">shop.tesla.com/ko_kr/product…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2047961914551246848%2FVz4a9GtW%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
-          "content": "<p><a href=\"https://shop.tesla.com/ko_kr/product/on-the-road-vessel-p2m?sku=2044042-00-B\">shop.tesla.com/ko_kr/product…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2047961914551246848%2FVz4a9GtW%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
+          "description": "<p><a href=\"https://shop.tesla.com/ko_kr/product/on-the-road-vessel-p2m?sku=2044042-00-B\">shop.tesla.com/ko_kr/product…</a></p>",
+          "content": "<p><a href=\"https://shop.tesla.com/ko_kr/product/on-the-road-vessel-p2m?sku=2044042-00-B\">shop.tesla.com/ko_kr/product…</a></p>",
           "pubDate": "Tue, 28 Apr 2026 01:54:23 GMT",
           "guid": "https://nitter.net/Tslachan/2048943882738737319",
           "read": false,
@@ -8272,7 +8272,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777403310474,
+      "lastUpdated": 1777406910758,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8282,7 +8282,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
     },
     {
       "title": "SETI Park / @seti_park",
@@ -9325,7 +9325,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777403312339,
+      "lastUpdated": 1777406912351,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9335,7 +9335,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1995779157624766464%2FYivWTqFm_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1995779157624766464%2FYivWTqFm_400x400.jpg"
     },
     {
       "title": "arXiv AI (cs.AI) New Papers",
@@ -10493,7 +10493,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777403312469,
+      "lastUpdated": 1777406912500,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10511,6 +10511,39 @@
       "url": "https://anchor.fm/s/f06031a0/podcast/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "OpenAI Leadership Dispute: The Altman Affair",
+          "link": "",
+          "description": "In this episode, we analyze the leadership dispute featuring Sam Altman and OpenAI's CFO. Additionally, we’ll review the EU's decision to halt the AI Act and the discontent brewing within Google. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+          "content": "In this episode, we analyze the leadership dispute featuring Sam Altman and OpenAI's CFO. Additionally, we’ll review the EU's decision to halt the AI Act and the discontent brewing within Google. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+          "pubDate": "Tue, 28 Apr 2026 19:33:34 -0000",
+          "guid": "gid://art19-episode-locator/V0/vcE-_c5QI-k-2THqgGigbCHkJNVRDlh6ZGuEGhYSKr8",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "Podcast",
+              "color": "#8e44ad"
+            }
+          ],
+          "feedTitle": "Data Skeptic",
+          "feedUrl": "https://anchor.fm/s/f06031a0/podcast/rss",
+          "coverImage": "",
+          "summary": "In this episode, we analyze the leadership dispute featuring Sam Altman and OpenAI's CFO. Additionally, we’ll review the EU's decision to halt the AI Act and the discontent brewing within Google. See Privacy Policy at ht...",
+          "author": "Data Skeptic AI",
+          "saved": false,
+          "mediaType": "podcast",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://rss.art19.com/episodes/dbe02bfe-8e95-443d-9f26-fa0032f8b65b.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+            "type": "audio/mpeg",
+            "length": "20351686"
+          },
+          "audioUrl": "https://rss.art19.com/episodes/dbe02bfe-8e95-443d-9f26-fa0032f8b65b.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+        },
         {
           "title": "OpenAI's Liberation from Microsoft Structure",
           "link": "",
@@ -11007,7 +11040,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777403313298,
+      "lastUpdated": 1777406914390,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11163,7 +11196,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777403314835,
+      "lastUpdated": 1777406916230,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11215,7 +11248,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777403314987,
+      "lastUpdated": 1777406916383,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11893,7 +11926,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777403315454,
+      "lastUpdated": 1777406916803,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13062,7 +13095,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777403316374,
+      "lastUpdated": 1777406917415,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13497,7 +13530,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777403316509,
+      "lastUpdated": 1777406917554,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13828,7 +13861,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777403316671,
+      "lastUpdated": 1777406917685,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14553,7 +14586,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777403316814,
+      "lastUpdated": 1777406917766,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14594,7 +14627,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777403316815,
+  "lastRefreshTimestamp": 1777406917767,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
