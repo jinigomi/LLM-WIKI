@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777392502029,
+      "lastUpdated": 1777396102102,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -188,7 +188,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777392502293,
+      "lastUpdated": 1777396102305,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -623,7 +623,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777392502378,
+      "lastUpdated": 1777396102392,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -876,7 +876,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777392502462,
+      "lastUpdated": 1777396102546,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1311,7 +1311,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777392502623,
+      "lastUpdated": 1777396102693,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1772,7 +1772,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777392502774,
+      "lastUpdated": 1777396102841,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1999,7 +1999,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777392502930,
+      "lastUpdated": 1777396102981,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3018,7 +3018,7 @@
           "image": ""
         }
       ],
-      "lastUpdated": 1777392504323,
+      "lastUpdated": 1777396104375,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4437,7 +4437,7 @@
           }
         }
       ],
-      "lastUpdated": 1777392505342,
+      "lastUpdated": 1777396105505,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4455,7 +4455,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777392505459,
+      "lastUpdated": 1777396105655,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4473,7 +4473,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777392505759,
+      "lastUpdated": 1777396105919,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5642,7 +5642,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777392506745,
+      "lastUpdated": 1777396107002,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6580,7 +6580,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777392508005,
+      "lastUpdated": 1777396107305,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6590,7 +6590,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
     },
     {
       "title": "Cognac(꼬냑) / @supernovajunn",
@@ -7127,7 +7127,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777392509484,
+      "lastUpdated": 1777396108448,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8272,7 +8272,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777392510386,
+      "lastUpdated": 1777396109417,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8309,6 +8309,29 @@
           "duration": "",
           "explicit": false,
           "image": "https://nitter.net/pic/amplify_video_thumb%2F2049153715370926082%2Fimg%2FdcAS4IEsqt4mYWTt.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "RT by @seti_park: Adobe for creativity + Claude 🤝 Now, Claude users can power their content with more than 50 Creative Cloud tools. Simply describe the outcome you want and let the assistant orchestrate workflows behind the scenes: https://adobe.ly/4cTkJjF",
+          "link": "https://nitter.net/Adobe/status/2049154741544870369#m",
+          "description": "<p>Adobe for creativity + Claude 🤝<br> <br> Now, Claude users can power their content with more than 50 Creative Cloud tools. Simply describe the outcome you want and let the assistant orchestrate workflows behind the scenes: <a href=\"https://adobe.ly/4cTkJjF\">adobe.ly/4cTkJjF</a></p> <a href=\"https://nitter.net/Adobe/status/2049154741544870369#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/media%2FHHAPYK6XIAAASz3.jpg\" style=\"max-width:250px;\" /> </a>",
+          "content": "<p>Adobe for creativity + Claude 🤝<br> <br> Now, Claude users can power their content with more than 50 Creative Cloud tools. Simply describe the outcome you want and let the assistant orchestrate workflows behind the scenes: <a href=\"https://adobe.ly/4cTkJjF\">adobe.ly/4cTkJjF</a></p> <a href=\"https://nitter.net/Adobe/status/2049154741544870369#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/media%2FHHAPYK6XIAAASz3.jpg\" style=\"max-width:250px;\" /> </a>",
+          "pubDate": "Tue, 28 Apr 2026 15:52:16 GMT",
+          "guid": "https://nitter.net/seti_park/2049154741544870369",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHAPYK6XIAAASz3.jpg",
+          "summary": "Adobe for creativity + Claude 🤝 Now, Claude users can power their content with more than 50 Creative Cloud tools. Simply describe the outcome you want and let the assistant orchestrate workflows behind the scenes: adobe...",
+          "author": "@Adobe",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHAPYK6XIAAASz3.jpg",
           "category": "",
           "episodeType": ""
         },
@@ -8378,6 +8401,29 @@
           "duration": "",
           "explicit": false,
           "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "RT by @seti_park: More connectors launching today: Adobe Creative Cloud, Ableton, Splice, Canva Affinity, SketchUp, and Resolume. We've also joined the Blender Development Fund as a patron to support open-source development of the software. Read more: http://anthropic.com/news/claude-for-creative-work",
+          "link": "https://nitter.net/claudeai/status/2049143442601546054#m",
+          "description": "<p>More connectors launching today: Adobe Creative Cloud, Ableton, Splice, Canva Affinity, SketchUp, and Resolume.<br> <br> We've also joined the Blender Development Fund as a patron to support open-source development of the software.<br> <br> Read more: <a href=\"http://anthropic.com/news/claude-for-creative-work\">anthropic.com/news/claude-fo…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2049143446686830592%2F7LHTu_mg%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
+          "content": "<p>More connectors launching today: Adobe Creative Cloud, Ableton, Splice, Canva Affinity, SketchUp, and Resolume.<br> <br> We've also joined the Blender Development Fund as a patron to support open-source development of the software.<br> <br> Read more: <a href=\"http://anthropic.com/news/claude-for-creative-work\">anthropic.com/news/claude-fo…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2049143446686830592%2F7LHTu_mg%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
+          "pubDate": "Tue, 28 Apr 2026 15:07:22 GMT",
+          "guid": "https://nitter.net/seti_park/2049143442601546054",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "https://nitter.net/pic/card_img%2F2049143446686830592%2F7LHTu_mg%3Fformat%3Djpg%26name%3D800x419",
+          "summary": "More connectors launching today: Adobe Creative Cloud, Ableton, Splice, Canva Affinity, SketchUp, and Resolume. We've also joined the Blender Development Fund as a patron to support open-source development of the softwar...",
+          "author": "@claudeai",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/card_img%2F2049143446686830592%2F7LHTu_mg%3Fformat%3Djpg%26name%3D800x419",
           "category": "",
           "episodeType": ""
         },
@@ -9279,7 +9325,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777392511385,
+      "lastUpdated": 1777396110262,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10447,7 +10493,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777392511529,
+      "lastUpdated": 1777396110382,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10961,7 +11007,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777392512319,
+      "lastUpdated": 1777396111191,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11117,7 +11163,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777392514021,
+      "lastUpdated": 1777396112788,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11169,7 +11215,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777392514174,
+      "lastUpdated": 1777396112928,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11827,7 +11873,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777392514598,
+      "lastUpdated": 1777396113311,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12996,7 +13042,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777392515152,
+      "lastUpdated": 1777396114051,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13431,7 +13477,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777392515303,
+      "lastUpdated": 1777396114194,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13762,7 +13808,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777392515453,
+      "lastUpdated": 1777396114340,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14487,7 +14533,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777392515620,
+      "lastUpdated": 1777396114486,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14528,7 +14574,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777392515621,
+  "lastRefreshTimestamp": 1777396114486,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
