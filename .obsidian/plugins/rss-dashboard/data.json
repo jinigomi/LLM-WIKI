@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777331265366,
+      "lastUpdated": 1777334865378,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -188,7 +188,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777331265596,
+      "lastUpdated": 1777334865576,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -597,7 +597,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777331265714,
+      "lastUpdated": 1777334865715,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -850,7 +850,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777331265837,
+      "lastUpdated": 1777334865852,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1285,7 +1285,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777331265959,
+      "lastUpdated": 1777334865993,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1694,7 +1694,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777331266083,
+      "lastUpdated": 1777334866125,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1921,7 +1921,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777331266205,
+      "lastUpdated": 1777334866277,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2940,7 +2940,7 @@
           "image": ""
         }
       ],
-      "lastUpdated": 1777331267729,
+      "lastUpdated": 1777334866753,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4359,7 +4359,7 @@
           }
         }
       ],
-      "lastUpdated": 1777331268747,
+      "lastUpdated": 1777334867859,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4377,7 +4377,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777331268860,
+      "lastUpdated": 1777334867975,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4395,7 +4395,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777331269128,
+      "lastUpdated": 1777334868220,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4413,6 +4413,52 @@
       "url": "https://nitter.net/TeslaZoa/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "R to @TeslaZoa: naver.me/G8fmbZNQ",
+          "link": "https://nitter.net/TeslaZoa/status/2048910850107605414#m",
+          "description": "<p><a href=\"https://naver.me/G8fmbZNQ\">naver.me/G8fmbZNQ</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048655758775246848%2FxxW_yQjT%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
+          "content": "<p><a href=\"https://naver.me/G8fmbZNQ\">naver.me/G8fmbZNQ</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048655758775246848%2FxxW_yQjT%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
+          "pubDate": "Mon, 27 Apr 2026 23:43:08 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048910850107605414",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/card_img%2F2048655758775246848%2FxxW_yQjT%3Fformat%3Djpg%26name%3D800x419",
+          "summary": "naver.me/G8fmbZNQ",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/card_img%2F2048655758775246848%2FxxW_yQjT%3Fformat%3Djpg%26name%3D800x419",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🚨 “Cybercab 테스트 차량 대량 이동 포착” — Tesla Giga Texas 1️⃣ Gigafactory Texas 출고 주차장에 금색 Cybercab 최소 15대 추가 확인 2️⃣ 공장 내부에서도 추가 차량 지속 이동 중 3️⃣ 스티어링 휠 & 페달 키트 장착 → 테스트용 구성 추정 4️⃣ 결론: 전국 단위 도로 테스트 확대 신호, 실제 주행 목격 증가 예상",
+          "link": "https://nitter.net/TeslaZoa/status/2048903747045351873#m",
+          "description": "<p>🚨 “Cybercab 테스트 차량 대량 이동 포착” — Tesla Giga Texas<br> <br> 1️⃣ Gigafactory Texas 출고 주차장에 금색 Cybercab 최소 15대 추가 확인<br> 2️⃣ 공장 내부에서도 추가 차량 지속 이동 중<br> 3️⃣ 스티어링 휠 & 페달 키트 장착 → 테스트용 구성 추정<br> 4️⃣ 결론: 전국 단위 도로 테스트 확대 신호, 실제 주행 목격 증가 예상</p> <img src=\"https://nitter.net/pic/media%2FHG8rGA5bQAAvZUc.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Joe Tegtmeyer 🚀 🤠🛸😎 (@JoeTegtmeyer)</b> <p> <p>At least 15 more glossy & deep gold Cybercabs at the Giga Texas outbound lot today, with more working their way over from the main factory. <br> <br> These all appear to be equipped with the Steering wheel & pedal kits, so probably headed out to more locations around the country for testing … I’m sure we will see more images of these on the roads soon!</p> <a href=\"https://nitter.net/JoeTegtmeyer/status/2048795599189725580#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048795270582779904%2Fimg%2FK07ACAK9w1jLKAvq.jpg\" style=\"max-width:250px;\" /> </a> <img src=\"https://nitter.net/pic/media%2FHG7IcZfbEAAv3c-.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG7IcZia0AAVLJj.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG7IcZiaYAA95nz.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/JoeTegtmeyer/status/2048795599189725580#m\">https://nitter.net/JoeTegtmeyer/status/2048795599189725580#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 “Cybercab 테스트 차량 대량 이동 포착” — Tesla Giga Texas<br> <br> 1️⃣ Gigafactory Texas 출고 주차장에 금색 Cybercab 최소 15대 추가 확인<br> 2️⃣ 공장 내부에서도 추가 차량 지속 이동 중<br> 3️⃣ 스티어링 휠 & 페달 키트 장착 → 테스트용 구성 추정<br> 4️⃣ 결론: 전국 단위 도로 테스트 확대 신호, 실제 주행 목격 증가 예상</p> <img src=\"https://nitter.net/pic/media%2FHG8rGA5bQAAvZUc.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Joe Tegtmeyer 🚀 🤠🛸😎 (@JoeTegtmeyer)</b> <p> <p>At least 15 more glossy & deep gold Cybercabs at the Giga Texas outbound lot today, with more working their way over from the main factory. <br> <br> These all appear to be equipped with the Steering wheel & pedal kits, so probably headed out to more locations around the country for testing … I’m sure we will see more images of these on the roads soon!</p> <a href=\"https://nitter.net/JoeTegtmeyer/status/2048795599189725580#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048795270582779904%2Fimg%2FK07ACAK9w1jLKAvq.jpg\" style=\"max-width:250px;\" /> </a> <img src=\"https://nitter.net/pic/media%2FHG7IcZfbEAAv3c-.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG7IcZia0AAVLJj.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG7IcZiaYAA95nz.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/JoeTegtmeyer/status/2048795599189725580#m\">https://nitter.net/JoeTegtmeyer/status/2048795599189725580#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 23:14:54 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2048903747045351873",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG8rGA5bQAAvZUc.jpg",
+          "summary": "🚨 “Cybercab 테스트 차량 대량 이동 포착” — Tesla Giga Texas 1️⃣ Gigafactory Texas 출고 주차장에 금색 Cybercab 최소 15대 추가 확인 2️⃣ 공장 내부에서도 추가 차량 지속 이동 중 3️⃣ 스티어링 휠 & 페달 키트 장착 → 테스트용 구성 추정 4️⃣ 결론: 전국 단위 도로 테스트 확대 신호, 실제 주행 목격 증가 예상 Joe Tegtmey...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG8rGA5bQAAvZUc.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "🚨 “악천후로 발사 연기” — SpaceX Falcon Heavy 1️⃣ Falcon Heavy, Viasat-3 F3 임무 발사 중단 2️⃣ 원인: 불리한 기상 조건 3️⃣ 로켓 및 탑재체 상태는 모두 정상 4️⃣ 새로운 발사 일정은 추후 공지 예정",
           "link": "https://nitter.net/TeslaZoa/status/2048900822789161176#m",
@@ -5334,7 +5380,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777331269989,
+      "lastUpdated": 1777334869414,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5351,6 +5397,29 @@
       "url": "https://nitter.net/songjunkr/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Pinned: AI는 인류에게 가장 중요한 자산이 되었습니다. 최신 프론티어 모델에 접근 가능여부로 계급이 나누어집니다. Sonnet을 사용하는 사람과, Opus를 사용하는 사람의 생산성은 비교가 불가능하니까요. 그 시대를 오늘 Antrophic이 시작했습니다. 그리고 제가 예측한것처럼 $20 플랜은 $100가 되었습니다. Opus에 대한 접근의 최소치를 $100로 올린겁니다. 이 가격은 여전히 그들의 적자를 커버하지 못합니다. 지능당 가격은 계속해서 낮아지는건 사실입니다. 하지만 사람들은 Mythos와 같이 더욱 더 많은 컴퓨팅이 필요한 고급 모델을 원할겁니다. 그것이 가격이 계속해서 올라가는 이유입니다. Mythos를 사용하는 최상위 계층과, Opus를 사용하는 중위 계층, Sonnet을 사용하는 하위 계층으로 나누어집니다. 이런 계급나누기에 휩쓸리지 않기위해 앞으로 사람들은 자신만의 지능을 구축할겁니다. 그것은 로컬LLM이고, 앞으로 수요는 계속 늘어날수밖에 없습니다. 세상의 변화에 대비해야합니다.",
+          "link": "https://nitter.net/songjunkr/status/2048905088073372074#m",
+          "description": "<p>AI는 인류에게 가장 중요한 자산이 되었습니다.<br> <br> 최신 프론티어 모델에 접근 가능여부로 계급이 나누어집니다.<br> <br> Sonnet을 사용하는 사람과, Opus를 사용하는 사람의 생산성은 비교가 불가능하니까요.<br> <br> 그 시대를 오늘 Antrophic이 시작했습니다.<br> <br> 그리고 제가 예측한것처럼 $20 플랜은 $100가 되었습니다.<br> <br> Opus에 대한 접근의 최소치를 $100로 올린겁니다.<br> <br> 이 가격은 여전히 그들의 적자를 커버하지 못합니다.<br> <br> 지능당 가격은 계속해서 낮아지는건 사실입니다.<br> <br> 하지만 사람들은 Mythos와 같이 더욱 더 많은 컴퓨팅이 필요한 고급 모델을 원할겁니다.<br> <br> 그것이 가격이 계속해서 올라가는 이유입니다.<br> <br> Mythos를 사용하는 최상위 계층과, Opus를 사용하는 중위 계층, Sonnet을 사용하는 하위 계층으로 나누어집니다.<br> <br> 이런 계급나누기에 휩쓸리지 않기위해 앞으로 사람들은 자신만의 지능을 구축할겁니다.<br> <br> 그것은 로컬LLM이고, 앞으로 수요는 계속 늘어날수밖에 없습니다.<br> <br> 세상의 변화에 대비해야합니다.</p>",
+          "content": "<p>AI는 인류에게 가장 중요한 자산이 되었습니다.<br> <br> 최신 프론티어 모델에 접근 가능여부로 계급이 나누어집니다.<br> <br> Sonnet을 사용하는 사람과, Opus를 사용하는 사람의 생산성은 비교가 불가능하니까요.<br> <br> 그 시대를 오늘 Antrophic이 시작했습니다.<br> <br> 그리고 제가 예측한것처럼 $20 플랜은 $100가 되었습니다.<br> <br> Opus에 대한 접근의 최소치를 $100로 올린겁니다.<br> <br> 이 가격은 여전히 그들의 적자를 커버하지 못합니다.<br> <br> 지능당 가격은 계속해서 낮아지는건 사실입니다.<br> <br> 하지만 사람들은 Mythos와 같이 더욱 더 많은 컴퓨팅이 필요한 고급 모델을 원할겁니다.<br> <br> 그것이 가격이 계속해서 올라가는 이유입니다.<br> <br> Mythos를 사용하는 최상위 계층과, Opus를 사용하는 중위 계층, Sonnet을 사용하는 하위 계층으로 나누어집니다.<br> <br> 이런 계급나누기에 휩쓸리지 않기위해 앞으로 사람들은 자신만의 지능을 구축할겁니다.<br> <br> 그것은 로컬LLM이고, 앞으로 수요는 계속 늘어날수밖에 없습니다.<br> <br> 세상의 변화에 대비해야합니다.</p>",
+          "pubDate": "Mon, 27 Apr 2026 23:20:14 GMT",
+          "guid": "https://nitter.net/songjunkr/2048905088073372074",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "",
+          "summary": "AI는 인류에게 가장 중요한 자산이 되었습니다. 최신 프론티어 모델에 접근 가능여부로 계급이 나누어집니다. Sonnet을 사용하는 사람과, Opus를 사용하는 사람의 생산성은 비교가 불가능하니까요. 그 시대를 오늘 Antrophic이 시작했습니다. 그리고 제가 예측한것처럼 $20 플랜은 $100가 되었습니다. Opus에 대한 접근의 최소치를 $100로 올린겁니다. 이 가격은 여전히 그들의 적...",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "Bro, why are you keep on using Claude? $20 Codex + Local LLM is enough.",
           "link": "https://nitter.net/songjunkr/status/2048888498095317345#m",
@@ -5628,7 +5697,7 @@
           "episodeType": ""
         },
         {
-          "title": "Pinned: 저는 절대로 가짜 정보나 Click-Bait 게시글을 포스팅 하지 않습니다. 직접 검증한 내용만 포스팅하고 있습니다. 질문에 대한 댓글을 전부 달아드리려고 노력하고 있으나, 아직 풀타임 회사 일을 퇴사하며 정리중이고, 사이드프로젝트도 계속 진행중이여서 수백개의 댓글과 DM 중 일부를 놓칠수 있습니다. 최대한 전부 답변드릴수 있도록 노력하겠습니다. 제 포스팅을 봐주셔서 감사합니다!",
+          "title": "저는 절대로 가짜 정보나 Click-Bait 게시글을 포스팅 하지 않습니다. 직접 검증한 내용만 포스팅하고 있습니다. 질문에 대한 댓글을 전부 달아드리려고 노력하고 있으나, 아직 풀타임 회사 일을 퇴사하며 정리중이고, 사이드프로젝트도 계속 진행중이여서 수백개의 댓글과 DM 중 일부를 놓칠수 있습니다. 최대한 전부 답변드릴수 있도록 노력하겠습니다. 제 포스팅을 봐주셔서 감사합니다!",
           "link": "https://nitter.net/songjunkr/status/2048657522022904318#m",
           "description": "<p>저는 절대로 가짜 정보나 Click-Bait 게시글을 포스팅 하지 않습니다.<br> <br> 직접 검증한 내용만 포스팅하고 있습니다.<br> <br> 질문에 대한 댓글을 전부 달아드리려고 노력하고 있으나,<br> 아직 풀타임 회사 일을 퇴사하며 정리중이고, <br> 사이드프로젝트도 계속 진행중이여서 수백개의 댓글과 DM 중 일부를 놓칠수 있습니다.<br> <br> 최대한 전부 답변드릴수 있도록 노력하겠습니다.<br> <br> 제 포스팅을 봐주셔서 감사합니다!</p>",
           "content": "<p>저는 절대로 가짜 정보나 Click-Bait 게시글을 포스팅 하지 않습니다.<br> <br> 직접 검증한 내용만 포스팅하고 있습니다.<br> <br> 질문에 대한 댓글을 전부 달아드리려고 노력하고 있으나,<br> 아직 풀타임 회사 일을 퇴사하며 정리중이고, <br> 사이드프로젝트도 계속 진행중이여서 수백개의 댓글과 DM 중 일부를 놓칠수 있습니다.<br> <br> 최대한 전부 답변드릴수 있도록 노력하겠습니다.<br> <br> 제 포스팅을 봐주셔서 감사합니다!</p>",
@@ -5973,7 +6042,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777331290773,
+      "lastUpdated": 1777334890142,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6428,7 +6497,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777331292182,
+      "lastUpdated": 1777334891027,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6445,6 +6514,52 @@
       "url": "https://nitter.net/Tslachan/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "$TSLA Tesla restarted FSD v14.3.2 deployment with 2026.2.9.9 software update.",
+          "link": "https://nitter.net/Tslachan/status/2048916878844985448#m",
+          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> Tesla restarted FSD v14.3.2 deployment with 2026.2.9.9 software update.</p> <img src=\"https://nitter.net/pic/media%2FHG83B-BaYAAl6Ls.png\" style=\"max-width:250px;\" />",
+          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> Tesla restarted FSD v14.3.2 deployment with 2026.2.9.9 software update.</p> <img src=\"https://nitter.net/pic/media%2FHG83B-BaYAAl6Ls.png\" style=\"max-width:250px;\" />",
+          "pubDate": "Tue, 28 Apr 2026 00:07:05 GMT",
+          "guid": "https://nitter.net/Tslachan/2048916878844985448",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Tsla Chan / @Tslachan",
+          "feedUrl": "https://nitter.net/Tslachan/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG83B-BaYAAl6Ls.png",
+          "summary": "$TSLA Tesla restarted FSD v14.3.2 deployment with 2026.2.9.9 software update.",
+          "author": "@Tslachan",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG83B-BaYAAl6Ls.png",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "$TSLA [테슬라 일론이 직접 밝힌 'AI4.1' 업그레이드 내용 총정리 (2027년 생산)] https://www.youtube.com/watch?v=ymDmY4SjeCs&t=2s",
+          "link": "https://nitter.net/Tslachan/status/2048911080450351451#m",
+          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> [테슬라 일론이 직접 밝힌 'AI4.1' 업그레이드 내용 총정리 (2027년 생산)]<br> <br> <a href=\"https://piped.video/watch?v=ymDmY4SjeCs&t=2s\">piped.video/watch?v=ymDmY4Sj…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048907122994515968%2FaplM7NoD%3Fformat%3Djpg%26name%3D1200x627\" style=\"max-width:250px;\" />",
+          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> [테슬라 일론이 직접 밝힌 'AI4.1' 업그레이드 내용 총정리 (2027년 생산)]<br> <br> <a href=\"https://piped.video/watch?v=ymDmY4SjeCs&t=2s\">piped.video/watch?v=ymDmY4Sj…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048907122994515968%2FaplM7NoD%3Fformat%3Djpg%26name%3D1200x627\" style=\"max-width:250px;\" />",
+          "pubDate": "Mon, 27 Apr 2026 23:44:03 GMT",
+          "guid": "https://nitter.net/Tslachan/2048911080450351451",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Tsla Chan / @Tslachan",
+          "feedUrl": "https://nitter.net/Tslachan/rss",
+          "coverImage": "https://nitter.net/pic/card_img%2F2048907122994515968%2FaplM7NoD%3Fformat%3Djpg%26name%3D1200x627",
+          "summary": "$TSLA [테슬라 일론이 직접 밝힌 'AI4.1' 업그레이드 내용 총정리 (2027년 생산)] piped.video/watch?v=ymDmY4Sj…",
+          "author": "@Tslachan",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/card_img%2F2048907122994515968%2FaplM7NoD%3Fformat%3Djpg%26name%3D1200x627",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "I can't wait for them to start driving without steering wheels.",
           "link": "https://nitter.net/Tslachan/status/2048871097299509306#m",
@@ -6929,7 +7044,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777331292916,
+      "lastUpdated": 1777334892167,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6939,13 +7054,36 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
     },
     {
       "title": "SETI Park / @seti_park",
       "url": "https://nitter.net/seti_park/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "\"Conventional approaches to training large neural networks on a distributed computing system require a large number of tightly interconnected hardware accelerators such as GPUs or TPUs\" - [0015]. 😉",
+          "link": "https://nitter.net/seti_park/status/2048911766844014961#m",
+          "description": "<p>\"Conventional approaches to training large neural networks on a distributed computing system require a large number of tightly interconnected hardware accelerators such as GPUs or TPUs\" - [0015].<br> <br> 😉</p> <hr/> <blockquote> <b>SETI Park (@seti_park)</b> <p> <p>Google DeepMind가 개발한 이 기술은 \"Stargate\" 같은 mega-campus 배팅에 치명상을 입힐 수 있다는 생각이 드네요. 굳이 최신 칩을 단일 AI 데이터센터에 집중하지 않아도, 다양한 세대의 TPUs로 구성된, 기존의 (구글의) 데이터 센터들을 총 동원하여 프론티어 AI 모델을 pre-training 할 수 있으니까요. 👀</p> </p> <footer> — <cite><a href=\"https://nitter.net/seti_park/status/2048817315572269421#m\">https://nitter.net/seti_park/status/2048817315572269421#m</a> </footer> </blockquote>",
+          "content": "<p>\"Conventional approaches to training large neural networks on a distributed computing system require a large number of tightly interconnected hardware accelerators such as GPUs or TPUs\" - [0015].<br> <br> 😉</p> <hr/> <blockquote> <b>SETI Park (@seti_park)</b> <p> <p>Google DeepMind가 개발한 이 기술은 \"Stargate\" 같은 mega-campus 배팅에 치명상을 입힐 수 있다는 생각이 드네요. 굳이 최신 칩을 단일 AI 데이터센터에 집중하지 않아도, 다양한 세대의 TPUs로 구성된, 기존의 (구글의) 데이터 센터들을 총 동원하여 프론티어 AI 모델을 pre-training 할 수 있으니까요. 👀</p> </p> <footer> — <cite><a href=\"https://nitter.net/seti_park/status/2048817315572269421#m\">https://nitter.net/seti_park/status/2048817315572269421#m</a> </footer> </blockquote>",
+          "pubDate": "Mon, 27 Apr 2026 23:46:46 GMT",
+          "guid": "https://nitter.net/seti_park/2048911766844014961",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "",
+          "summary": "\"Conventional approaches to training large neural networks on a distributed computing system require a large number of tightly interconnected hardware accelerators such as GPUs or TPUs\" - [0015]. 😉 SETI Park (@seti_park...",
+          "author": "@seti_park",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "R to @seti_park: @bogusjack @BSPK_ @spaceastrium @lucas_flatwhite",
           "link": "https://nitter.net/seti_park/status/2048817457125843106#m",
@@ -7637,7 +7775,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777331294071,
+      "lastUpdated": 1777334893382,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8805,7 +8943,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777331294118,
+      "lastUpdated": 1777334893416,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9319,7 +9457,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777331295407,
+      "lastUpdated": 1777334894438,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9475,7 +9613,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777331298789,
+      "lastUpdated": 1777334896040,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9527,7 +9665,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777331298917,
+      "lastUpdated": 1777334896153,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10145,7 +10283,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777331299476,
+      "lastUpdated": 1777334896478,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11314,7 +11452,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777331300184,
+      "lastUpdated": 1777334899405,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11749,7 +11887,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777331300317,
+      "lastUpdated": 1777334899612,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12080,7 +12218,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777331300441,
+      "lastUpdated": 1777334899752,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12121,7 +12259,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777331300441,
+  "lastRefreshTimestamp": 1777334899752,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",

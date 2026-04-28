@@ -17,6 +17,11 @@ source_urls:
 # vibe-coding-beginner-methodology checklist
 
 ## Checklist
+- [ ] 기획 단계
+- [ ] 환경 설정
+- [ ] 프롬프트 및 구현
+- [ ] 검증 및 보안
+- [ ] 디버깅 및 마무리
 
 ## Related
 [[anthropic]], [[openai]], [[llm-wiki]]

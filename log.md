@@ -4,6 +4,14 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
+## [2026-04-28] create | concepts/vibe-coding-beginner-methodology.md
+- **NotebookLM 파이프라인**: nlwflow note-wiki로 6개 소스 URL 분석 (notebook_id: 7ebb8346)
+- **artifact**: `/Users/bricoleur/artifacts/7ebb8346-3fa1-4f7a-9809-baa38faca430/` (report.md, mind-map.json, qa.json)
+- **Wiki 페이지**: `concepts/vibe-coding-beginner-methodology.md` — 3계층 프롬프트 전략, 5단계 워크플로우, 보안/한계 정리
+- **체크리스트**: `queries/vibe-coding-beginner-checklist.md` — 기획→환경→프롬프트→검증→디버깅
+- **index.md 재구성**: 자동 생성된 빈 index 복구
+- **트러블슈팅**: `qmd` 바이너리 없음 → `--no-qmd-update`, `--no-qmd-update` 위치 이슈 (subcommand 뒤에 배치)
+
 ## [2026-04-28] ingest | raw/papers/ — vibe coding 연구 논문 6편
 - arXiv API로 vibe coding 관련 논문 6편 수집, raw/papers/에 마크다운 저장
 - 2512.02750v1: 초보자 vibe coding 탐구 (Gama et al.)
@@ -152,6 +160,18 @@ HermesBrain/
 ## [2026-04-28] ingest | vibe-coding-beginner-methodology
 - NotebookLM notebook created and artifacts exported
 - Notebook ID: baff70f1-595f-486a-8d34-c4a1b3984e26
+- Files created:
+  - raw/articles/note-wiki-vibe-coding-beginner-methodology-sources-2026-04-28.md
+  - raw/articles/notebooklm-note-wiki-vibe-coding-beginner-methodology-report-2026-04-28.md
+  - comparisons/note-wiki-vibe-coding-beginner-methodology.md
+  - queries/note-wiki-vibe-coding-beginner-methodology-checklist.md
+- Files updated:
+  - index.md
+  - log.md
+
+## [2026-04-28] ingest | vibe-coding-beginner-methodology
+- NotebookLM notebook created and artifacts exported
+- Notebook ID: 7ebb8346-3fa1-4f7a-9809-baa38faca430
 - Files created:
   - raw/articles/note-wiki-vibe-coding-beginner-methodology-sources-2026-04-28.md
   - raw/articles/notebooklm-note-wiki-vibe-coding-beginner-methodology-report-2026-04-28.md
