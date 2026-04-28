@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777388902172,
+      "lastUpdated": 1777392502029,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -188,7 +188,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777388902396,
+      "lastUpdated": 1777392502293,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -623,7 +623,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777388902537,
+      "lastUpdated": 1777392502378,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -876,7 +876,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777388902696,
+      "lastUpdated": 1777392502462,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1311,7 +1311,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777388902855,
+      "lastUpdated": 1777392502623,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1772,7 +1772,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777388903009,
+      "lastUpdated": 1777392502774,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1999,7 +1999,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777388903157,
+      "lastUpdated": 1777392502930,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2017,6 +2017,46 @@
       "url": "https://feeds.feedburner.com/geeknews-feed",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Show GN: 완전하게 로컬에서 돌리는 AI 페르소나 시뮬레이터",
+          "link": "https://news.hada.io/topic?id=28982",
+          "description": "",
+          "content": "<p>mirollama는 문서와 시나리오를 입력하면 로컬 LLM 기반 AI 에이전트들이 이해관계자 반응, 갈등, 내러티브 변화를 시뮬레이션해주는 local-first multi-agent scenario lab입니다.</p> <ul> <li>기존의 666ghj/mirofish의 영향을 받아 작업. 이것을 완전한 에어갭에서 작동하게 해보게 하자가 포인트.</li> <li>로컬",
+          "pubDate": "2026-04-29T00:24:54+09:00",
+          "guid": "https://news.hada.io/topic?id=28982",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
+          "coverImage": "",
+          "summary": "mirollama는 문서와 시나리오를 입력하면 로컬 LLM 기반 AI 에이전트들이 이해관계자 반응, 갈등, 내러티브 변화를 시뮬레이션해주는 local-first multi-agent scenario lab입니다. 기존의 666ghj/mirofish의 영향을 받아 작업. 이것을 완전한 에어갭에서 작동하게 해보게 하자가 포인트. 로컬",
+          "author": "haebom",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": ""
+        },
+        {
+          "title": "네덜란드 중앙은행, AWS를 버리고 European Cloud로 Lidl 선택",
+          "link": "https://news.hada.io/topic?id=28980",
+          "description": "",
+          "content": "<ul> <li><strong>미국 클라우드 의존도</strong>를 낮추기 위해 네덜란드 중앙은행이 Schwarz Digits와 계약을 앞두고 있으며, 유럽 법률 아래에서 운영되는 클라우드로 전환이 진행 중임</li> <li>선택 대상인 <strong>Stackit</strong>은 Lidl과 Kaufland의 내부 IT에서 출발해 외부 고객으로 확장된 플랫폼이며, 미국...</p>",
+          "pubDate": "2026-04-28T23:33:49+09:00",
+          "guid": "https://news.hada.io/topic?id=28980",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
+          "coverImage": "",
+          "summary": "미국 클라우드 의존도를 낮추기 위해 네덜란드 중앙은행이 Schwarz Digits와 계약을 앞두고 있으며, 유럽 법률 아래에서 운영되는 클라우드로 전환이 진행 중임 선택 대상인 Stackit은 Lidl과 Kaufland의 내부 IT에서 출발해 외부 고객으로 확장된 플랫폼이며, 미국...",
+          "author": "neo",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": ""
+        },
         {
           "title": "1930년의 13B 빈티지 언어 모델 Talkie",
           "link": "https://news.hada.io/topic?id=28977",
@@ -2976,49 +3016,9 @@
           "mediaType": "article",
           "explicit": false,
           "image": ""
-        },
-        {
-          "title": "자신보다 뛰어난 사람을 채용하는 법",
-          "link": "https://news.hada.io/topic?id=28923",
-          "description": "",
-          "content": "<ul> <li>CEO가 자신이 잘 모르는 분야의 <strong>임원급 인재를 평가</strong>해야 할 때, 전문성 대신 판단할 수 있는 실질적 기준들을 제시하는 채용 가이드</li> <li>면접 후 후보자의 아이디어를 <strong>당장 실행하고 싶은 충동</strong>이 드는지가 핵심 신호이며, 이는 문화 적합성과 맥락 이해를 동시에 검증하...</p>",
-          "pubDate": "2026-04-27T10:04:02+09:00",
-          "guid": "https://news.hada.io/topic?id=28923",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
-          "coverImage": "",
-          "summary": "CEO가 자신이 잘 모르는 분야의 임원급 인재를 평가해야 할 때, 전문성 대신 판단할 수 있는 실질적 기준들을 제시하는 채용 가이드 면접 후 후보자의 아이디어를 당장 실행하고 싶은 충동이 드는지가 핵심 신호이며, 이는 문화 적합성과 맥락 이해를 동시에 검증하...",
-          "author": "neo",
-          "saved": false,
-          "mediaType": "article",
-          "explicit": false,
-          "image": ""
-        },
-        {
-          "title": "Asahi Linux 진행 보고서 Linux 7.0",
-          "link": "https://news.hada.io/topic?id=28922",
-          "description": "",
-          "content": "<ul> <li>Apple Silicon용 Linux 지원은 <strong>설치기 자동화</strong>, 전력 관리, 오디오, 디스플레이, M3 활성화까지 여러 축에서 동시에 진전됨</li> <li><strong>Asahi Installer</strong>는 이미지 매니페스트를 코드베이스와 분리하고 GitHub workflow 배포를 도입해 더 자주 갱신할 수 있게 바뀌었으며, 0.8.0...</p>",
-          "pubDate": "2026-04-27T10:01:34+09:00",
-          "guid": "https://news.hada.io/topic?id=28922",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
-          "coverImage": "",
-          "summary": "Apple Silicon용 Linux 지원은 설치기 자동화, 전력 관리, 오디오, 디스플레이, M3 활성화까지 여러 축에서 동시에 진전됨 Asahi Installer는 이미지 매니페스트를 코드베이스와 분리하고 GitHub workflow 배포를 도입해 더 자주 갱신할 수 있게 바뀌었으며, 0.8.0...",
-          "author": "neo",
-          "saved": false,
-          "mediaType": "article",
-          "explicit": false,
-          "image": ""
         }
       ],
-      "lastUpdated": 1777388904580,
+      "lastUpdated": 1777392504323,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3028,7 +3028,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "siteUrl": "https://news.hada.io/topic?id=28977",
+      "siteUrl": "https://news.hada.io/topic?id=28982",
       "iconUrl": "https://social.news.hada.io/WideLogo500.png"
     },
     {
@@ -4437,7 +4437,7 @@
           }
         }
       ],
-      "lastUpdated": 1777388905823,
+      "lastUpdated": 1777392505342,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4455,7 +4455,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777388905952,
+      "lastUpdated": 1777392505459,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4473,7 +4473,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777388906227,
+      "lastUpdated": 1777392505759,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4770,8 +4770,8 @@
         {
           "title": "🚨 중국의 Chery는 Toyota의 품질과 Tesla의 기술을 결합한 ‘Double T’ 전략을 통해 저가 이미지를 탈피하고 유럽 현지 생산 확대를 기반으로 글로벌 확장을 추진하겠다고 밝혔습니다. https://www.reuters.com/business/autos-transportation/chinas-chery-seeks-be-toyota-plus-tesla-it-targets-global-expansion-2026-04-28/",
           "link": "https://nitter.net/TeslaZoa/status/2049100825205883236#m",
-          "description": "<p>🚨 중국의 Chery는 Toyota의 품질과 Tesla의 기술을 결합한 ‘Double T’ 전략을 통해 저가 이미지를 탈피하고 유럽 현지 생산 확대를 기반으로 글로벌 확장을 추진하겠다고 밝혔습니다. <br> <br> <a href=\"https://www.reuters.com/business/autos-transportation/chinas-chery-seeks-be-toyota-plus-tesla-it-targets-global-expansion-2026-04-28/\">reuters.com/business/autos-t…</a></p>",
-          "content": "<p>🚨 중국의 Chery는 Toyota의 품질과 Tesla의 기술을 결합한 ‘Double T’ 전략을 통해 저가 이미지를 탈피하고 유럽 현지 생산 확대를 기반으로 글로벌 확장을 추진하겠다고 밝혔습니다. <br> <br> <a href=\"https://www.reuters.com/business/autos-transportation/chinas-chery-seeks-be-toyota-plus-tesla-it-targets-global-expansion-2026-04-28/\">reuters.com/business/autos-t…</a></p>",
+          "description": "<p>🚨 중국의 Chery는 Toyota의 품질과 Tesla의 기술을 결합한 ‘Double T’ 전략을 통해 저가 이미지를 탈피하고 유럽 현지 생산 확대를 기반으로 글로벌 확장을 추진하겠다고 밝혔습니다. <br> <br> <a href=\"https://www.reuters.com/business/autos-transportation/chinas-chery-seeks-be-toyota-plus-tesla-it-targets-global-expansion-2026-04-28/\">reuters.com/business/autos-t…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2049005817173532672%2FxSd3zJGj%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
+          "content": "<p>🚨 중국의 Chery는 Toyota의 품질과 Tesla의 기술을 결합한 ‘Double T’ 전략을 통해 저가 이미지를 탈피하고 유럽 현지 생산 확대를 기반으로 글로벌 확장을 추진하겠다고 밝혔습니다. <br> <br> <a href=\"https://www.reuters.com/business/autos-transportation/chinas-chery-seeks-be-toyota-plus-tesla-it-targets-global-expansion-2026-04-28/\">reuters.com/business/autos-t…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2049005817173532672%2FxSd3zJGj%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
           "pubDate": "Tue, 28 Apr 2026 12:18:01 GMT",
           "guid": "https://nitter.net/TeslaZoa/2049100825205883236",
           "read": false,
@@ -4779,14 +4779,14 @@
           "tags": [],
           "feedTitle": "TeslaZoa / @TeslaZoa",
           "feedUrl": "https://nitter.net/TeslaZoa/rss",
-          "coverImage": "",
+          "coverImage": "https://nitter.net/pic/card_img%2F2049005817173532672%2FxSd3zJGj%3Fformat%3Djpg%26name%3D800x419",
           "summary": "🚨 중국의 Chery는 Toyota의 품질과 Tesla의 기술을 결합한 ‘Double T’ 전략을 통해 저가 이미지를 탈피하고 유럽 현지 생산 확대를 기반으로 글로벌 확장을 추진하겠다고 밝혔습니다. reuters.com/business/autos-t…",
           "author": "@TeslaZoa",
           "saved": false,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
-          "image": "",
+          "image": "https://nitter.net/pic/card_img%2F2049005817173532672%2FxSd3zJGj%3Fformat%3Djpg%26name%3D800x419",
           "category": "",
           "episodeType": ""
         },
@@ -5642,7 +5642,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777388907871,
+      "lastUpdated": 1777392506745,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6580,7 +6580,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777388908137,
+      "lastUpdated": 1777392508005,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6590,7 +6590,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
     },
     {
       "title": "Cognac(꼬냑) / @supernovajunn",
@@ -7127,7 +7127,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777388909307,
+      "lastUpdated": 1777392509484,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7144,6 +7144,29 @@
       "url": "https://nitter.net/Tslachan/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "$TSLA FSD's judgment of the situation, and I've never seen a reverse as fast as this.",
+          "link": "https://nitter.net/Tslachan/status/2049157815277892000#m",
+          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> FSD's judgment of the situation, and I've never seen a reverse as fast as this.</p> <a href=\"https://nitter.net/Tslachan/status/2049157815277892000#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049157595865452544%2Fimg%2FaVt9XiD-X_Au5ykf.jpg\" style=\"max-width:250px;\" /> </a>",
+          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> FSD's judgment of the situation, and I've never seen a reverse as fast as this.</p> <a href=\"https://nitter.net/Tslachan/status/2049157815277892000#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049157595865452544%2Fimg%2FaVt9XiD-X_Au5ykf.jpg\" style=\"max-width:250px;\" /> </a>",
+          "pubDate": "Tue, 28 Apr 2026 16:04:29 GMT",
+          "guid": "https://nitter.net/Tslachan/2049157815277892000",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Tsla Chan / @Tslachan",
+          "feedUrl": "https://nitter.net/Tslachan/rss",
+          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2049157595865452544%2Fimg%2FaVt9XiD-X_Au5ykf.jpg",
+          "summary": "$TSLA FSD's judgment of the situation, and I've never seen a reverse as fast as this. Video",
+          "author": "@Tslachan",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/amplify_video_thumb%2F2049157595865452544%2Fimg%2FaVt9XiD-X_Au5ykf.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "BYD's Q1 2026 net income decreased by -55% (YoY) • BYD has continued to focus on low-cost EV sales, but domestic sales are falling due to intensifying competition in China • BYD's Overall Vehicle Sales Turn Down For 7th consecutive Month Despite Increased Overseas Exports",
           "link": "https://nitter.net/Tslachan/status/2049139513075921121#m",
@@ -7561,8 +7584,8 @@
         {
           "title": "R to @Tslachan: shop.tesla.com/ko_kr/product…",
           "link": "https://nitter.net/Tslachan/status/2048943882738737319#m",
-          "description": "<p><a href=\"https://shop.tesla.com/ko_kr/product/on-the-road-vessel-p2m?sku=2044042-00-B\">shop.tesla.com/ko_kr/product…</a></p>",
-          "content": "<p><a href=\"https://shop.tesla.com/ko_kr/product/on-the-road-vessel-p2m?sku=2044042-00-B\">shop.tesla.com/ko_kr/product…</a></p>",
+          "description": "<p><a href=\"https://shop.tesla.com/ko_kr/product/on-the-road-vessel-p2m?sku=2044042-00-B\">shop.tesla.com/ko_kr/product…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2047961914551246848%2FVz4a9GtW%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
+          "content": "<p><a href=\"https://shop.tesla.com/ko_kr/product/on-the-road-vessel-p2m?sku=2044042-00-B\">shop.tesla.com/ko_kr/product…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2047961914551246848%2FVz4a9GtW%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
           "pubDate": "Tue, 28 Apr 2026 01:54:23 GMT",
           "guid": "https://nitter.net/Tslachan/2048943882738737319",
           "read": false,
@@ -8249,7 +8272,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777388910612,
+      "lastUpdated": 1777392510386,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8259,13 +8282,128 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
     },
     {
       "title": "SETI Park / @seti_park",
       "url": "https://nitter.net/seti_park/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "RT by @seti_park: Claude Code can now send push notifications to your phone when a long task finishes or Claude needs your input. Walk away from the terminal, we'll let you know when it's done.",
+          "link": "https://nitter.net/ClaudeDevs/status/2049154855143649315#m",
+          "description": "<p>Claude Code can now send push notifications to your phone when a long task finishes or Claude needs your input.<br> <br> Walk away from the terminal, we'll let you know when it's done.</p> <a href=\"https://nitter.net/ClaudeDevs/status/2049154855143649315#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049153715370926082%2Fimg%2FdcAS4IEsqt4mYWTt.jpg\" style=\"max-width:250px;\" /> </a>",
+          "content": "<p>Claude Code can now send push notifications to your phone when a long task finishes or Claude needs your input.<br> <br> Walk away from the terminal, we'll let you know when it's done.</p> <a href=\"https://nitter.net/ClaudeDevs/status/2049154855143649315#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049153715370926082%2Fimg%2FdcAS4IEsqt4mYWTt.jpg\" style=\"max-width:250px;\" /> </a>",
+          "pubDate": "Tue, 28 Apr 2026 15:52:43 GMT",
+          "guid": "https://nitter.net/seti_park/2049154855143649315",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2049153715370926082%2Fimg%2FdcAS4IEsqt4mYWTt.jpg",
+          "summary": "Claude Code can now send push notifications to your phone when a long task finishes or Claude needs your input. Walk away from the terminal, we'll let you know when it's done. Video",
+          "author": "@ClaudeDevs",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/amplify_video_thumb%2F2049153715370926082%2Fimg%2FdcAS4IEsqt4mYWTt.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "R to @seti_park: @bogusjack @BSPK_ 🤓",
+          "link": "https://nitter.net/seti_park/status/2049153814306144608#m",
+          "description": "<p><a href=\"https://nitter.net/bogusjack\" title=\"Xber J\">@bogusjack</a> <br> <a href=\"https://nitter.net/BSPK_\" title=\"BSPK\">@BSPK_</a> 🤓</p>",
+          "content": "<p><a href=\"https://nitter.net/bogusjack\" title=\"Xber J\">@bogusjack</a> <br> <a href=\"https://nitter.net/BSPK_\" title=\"BSPK\">@BSPK_</a> 🤓</p>",
+          "pubDate": "Tue, 28 Apr 2026 15:48:35 GMT",
+          "guid": "https://nitter.net/seti_park/2049153814306144608",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "",
+          "summary": "@bogusjack @BSPK_ 🤓",
+          "author": "@seti_park",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "Pinned: Google: “전세계의 TPUs 들아, 프론티어 모델 pre-training에 힘을 빌려줘!” @Google 이 몇 년간 준비해온 길, 그리고 @elonmusk 님이 AI5와 AI Satellites 로 완성하고자 하는 길 ... 이제 Terafab Project가 왜 중요한지 아시겠죠? 😉",
+          "link": "https://nitter.net/seti_park/status/2049153719762288806#m",
+          "description": "<p>Google: “전세계의 TPUs 들아, 프론티어 모델 pre-training에 힘을 빌려줘!”<br> <br> <a href=\"https://nitter.net/Google\" title=\"Google\">@Google</a> 이 몇 년간 준비해온 길, 그리고 <a href=\"https://nitter.net/elonmusk\" title=\"Elon Musk\">@elonmusk</a> 님이 AI5와 AI Satellites 로 완성하고자 하는 길 ...<br> <br> 이제 Terafab Project가 왜 중요한지 아시겠죠? 😉</p> <img src=\"https://nitter.net/pic/media%2FHHAOcb9aIAE1TrH.jpg\" style=\"max-width:250px;\" /> <video poster=\"https://nitter.net/pic/tweet_video_thumb%2FHHAOccAaEAAak21.jpg\" autoplay muted loop style=\"max-width:250px;\"> <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHHAOccAaEAAak21.mp4\" type=\"video/mp4\"></video> <hr/> <blockquote> <b>SETI Park (@seti_park)</b> <p> <p><a href=\"http://x.com/i/article/2049141973043613696\">x.com/i/article/204914197304…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/seti_park/status/2049145396908474858#m\">https://nitter.net/seti_park/status/2049145396908474858#m</a> </footer> </blockquote>",
+          "content": "<p>Google: “전세계의 TPUs 들아, 프론티어 모델 pre-training에 힘을 빌려줘!”<br> <br> <a href=\"https://nitter.net/Google\" title=\"Google\">@Google</a> 이 몇 년간 준비해온 길, 그리고 <a href=\"https://nitter.net/elonmusk\" title=\"Elon Musk\">@elonmusk</a> 님이 AI5와 AI Satellites 로 완성하고자 하는 길 ...<br> <br> 이제 Terafab Project가 왜 중요한지 아시겠죠? 😉</p> <img src=\"https://nitter.net/pic/media%2FHHAOcb9aIAE1TrH.jpg\" style=\"max-width:250px;\" /> <video poster=\"https://nitter.net/pic/tweet_video_thumb%2FHHAOccAaEAAak21.jpg\" autoplay muted loop style=\"max-width:250px;\"> <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHHAOccAaEAAak21.mp4\" type=\"video/mp4\"></video> <hr/> <blockquote> <b>SETI Park (@seti_park)</b> <p> <p><a href=\"http://x.com/i/article/2049141973043613696\">x.com/i/article/204914197304…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/seti_park/status/2049145396908474858#m\">https://nitter.net/seti_park/status/2049145396908474858#m</a> </footer> </blockquote>",
+          "pubDate": "Tue, 28 Apr 2026 15:48:12 GMT",
+          "guid": "https://nitter.net/seti_park/2049153719762288806",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHAOcb9aIAE1TrH.jpg",
+          "summary": "Google: “전세계의 TPUs 들아, 프론티어 모델 pre-training에 힘을 빌려줘!” @Google 이 몇 년간 준비해온 길, 그리고 @elonmusk 님이 AI5와 AI Satellites 로 완성하고자 하는 길 ... 이제 Terafab Project가 왜 중요한지 아시겠죠? 😉 SETI Park (@seti_park) x.com/i/article/204914197304… —...",
+          "author": "@seti_park",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHAOcb9aIAE1TrH.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "x.com/i/article/204914197304…",
+          "link": "https://nitter.net/seti_park/status/2049145396908474858#m",
+          "description": "<p><a href=\"http://x.com/i/article/2049141973043613696\">x.com/i/article/204914197304…</a></p>",
+          "content": "<p><a href=\"http://x.com/i/article/2049141973043613696\">x.com/i/article/204914197304…</a></p>",
+          "pubDate": "Tue, 28 Apr 2026 15:15:08 GMT",
+          "guid": "https://nitter.net/seti_park/2049145396908474858",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "",
+          "summary": "x.com/i/article/204914197304…",
+          "author": "@seti_park",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "RT by @seti_park: Claude now connects to the tools creative professionals already use. With the new Blender connector, you can debug a scene, build new tools, or batch-apply changes across every object, directly from Claude.",
+          "link": "https://nitter.net/claudeai/status/2049143438281445811#m",
+          "description": "<p>Claude now connects to the tools creative professionals already use.<br> <br> With the new Blender connector, you can debug a scene, build new tools, or batch-apply changes across every object, directly from Claude.</p> <a href=\"https://nitter.net/claudeai/status/2049143438281445811#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/media%2FHHAFgitW8AA3O9K.jpg\" style=\"max-width:250px;\" /> </a>",
+          "content": "<p>Claude now connects to the tools creative professionals already use.<br> <br> With the new Blender connector, you can debug a scene, build new tools, or batch-apply changes across every object, directly from Claude.</p> <a href=\"https://nitter.net/claudeai/status/2049143438281445811#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/media%2FHHAFgitW8AA3O9K.jpg\" style=\"max-width:250px;\" /> </a>",
+          "pubDate": "Tue, 28 Apr 2026 15:07:21 GMT",
+          "guid": "https://nitter.net/seti_park/2049143438281445811",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHAFgitW8AA3O9K.jpg",
+          "summary": "Claude now connects to the tools creative professionals already use. With the new Blender connector, you can debug a scene, build new tools, or batch-apply changes across every object, directly from Claude. Video",
+          "author": "@claudeai",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHAFgitW8AA3O9K.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "R to @seti_park: 🤩",
           "link": "https://nitter.net/seti_park/status/2049064223565824006#m",
@@ -9141,7 +9279,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777388911965,
+      "lastUpdated": 1777392511385,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9151,7 +9289,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1995779157624766464%2FYivWTqFm_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1995779157624766464%2FYivWTqFm_400x400.jpg"
     },
     {
       "title": "arXiv AI (cs.AI) New Papers",
@@ -10309,7 +10447,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777388912084,
+      "lastUpdated": 1777392511529,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10823,7 +10961,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777388912893,
+      "lastUpdated": 1777392512319,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10979,7 +11117,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777388914355,
+      "lastUpdated": 1777392514021,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11031,7 +11169,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777388914489,
+      "lastUpdated": 1777392514174,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11049,10 +11187,30 @@
       "folder": "RSS",
       "items": [
         {
+          "title": "NVIDIA Nemotron 3 Nano Omni Powers Multimodal Agent Reasoning in a Single Efficient Open Model",
+          "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/",
+          "description": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Decoratove image showing mult-modal processing.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni.webp 1920w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"Nemotron-3-Nano-Omni\" />Agentic systems often reason across screens, documents, audio, video, and text within a single perception‑to‑action loop. However, they still rely on...",
+          "content": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Decoratove image showing mult-modal processing.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni.webp 1920w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"Nemotron-3-Nano-Omni\" />Agentic systems often reason across screens, documents, audio, video, and text within a single perception‑to‑action loop. However, they still rely on...<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Decoratove image showing mult-modal processing.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni.webp 1920w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"Nemotron-3-Nano-Omni\" /><p>Agentic systems often reason across screens, documents, audio, video, and text within a single perception‑to‑action loop. However, they still rely on fragmented model chains—separate stacks for vision, audio, and text. This increases inference hops and orchestration complexity, driving up inference costs while weakening cross-modal context consistency. NVIDIA Nemotron 3 Nano Omni…</p> <p><a href=\"https://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/\" rel=\"nofollow\" data-wpel-link=\"internal\" target=\"_self\">Source</a></p>",
+          "pubDate": "2026-04-28T16:01:12Z",
+          "guid": "https://developer.nvidia.com/blog/?p=116077",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "NVIDIA Technical Blog",
+          "feedUrl": "https://developer.nvidia.com/blog/feed/",
+          "coverImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-768x432.png",
+          "summary": "Agentic systems often reason across screens, documents, audio, video, and text within a single perception‑to‑action loop. However, they still rely on...Agentic systems often reason across screens, documents, audio, video...",
+          "author": "Anjali Shah",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/Nemotron-3-Nano-Omni-768x432.png"
+        },
+        {
           "title": "24/7 Simulation Loops: How Agentic AI Keeps Subsurface Engineering Moving",
           "link": "https://developer.nvidia.com/blog/24-7-simulation-loops-how-agentic-ai-keeps-subsurface-engineering-moving/",
-          "description": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-768x432.gif\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-768x432.gif 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-300x169.gif 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-625x352.gif 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-179x101.gif 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-645x363.gif 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-660x370.gif 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-500x281.gif 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-160x90.gif 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-362x204.gif 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-196x110.gif 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-960x540.gif 960w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"geological-cross-section\" />The subsurface industry is at a critical point in its digital evolution. For decades, unlocking reservoir potential has relied on experts performing essential...",
-          "content": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-768x432.gif\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-768x432.gif 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-300x169.gif 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-625x352.gif 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-179x101.gif 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-645x363.gif 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-660x370.gif 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-500x281.gif 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-160x90.gif 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-362x204.gif 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-196x110.gif 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-960x540.gif 960w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"geological-cross-section\" />The subsurface industry is at a critical point in its digital evolution. For decades, unlocking reservoir potential has relied on experts performing essential...<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-768x432.gif\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-768x432.gif 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-300x169.gif 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-625x352.gif 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-179x101.gif 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-645x363.gif 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-660x370.gif 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-500x281.gif 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-160x90.gif 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-362x204.gif 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-196x110.gif 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-960x540.gif 960w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"geological-cross-section\" /><p>The subsurface industry is at a critical point in its digital evolution. For decades, unlocking reservoir potential has relied on experts performing essential and time-intensive manual workflows. As data complexity grows, the gap between machine speed and human bandwidth has become a primary bottleneck. On-demand simulation workflows are currently hampered by both manual data overhead…</p> <p><a href=\"https://developer.nvidia.com/blog/24-7-simulation-loops-how-agentic-ai-keeps-subsurface-engineering-moving/\" rel=\"nofollow\" data-wpel-link=\"internal\" target=\"_self\">Source</a></p>",
+          "description": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-768x432.gif\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-768x432.gif 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-300x169.gif 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-625x352.gif 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-179x101.gif 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-645x363.gif 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-660x370.gif 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-500x281.gif 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-160x90.gif 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-362x204.gif 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-196x110.gif 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-960x540.gif 960w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"geological-cross-section\" />The subsurface industry is at a critical point in its digital evolution. For decades, unlocking reservoir potential has relied on experts performing essential...",
+          "content": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-768x432.gif\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-768x432.gif 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-300x169.gif 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-625x352.gif 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-179x101.gif 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-645x363.gif 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-660x370.gif 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-500x281.gif 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-160x90.gif 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-362x204.gif 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-196x110.gif 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-960x540.gif 960w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"geological-cross-section\" />The subsurface industry is at a critical point in its digital evolution. For decades, unlocking reservoir potential has relied on experts performing essential...<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-768x432.gif\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-768x432.gif 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-300x169.gif 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-625x352.gif 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-179x101.gif 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-645x363.gif 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-660x370.gif 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-500x281.gif 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-160x90.gif 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-362x204.gif 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-196x110.gif 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/geological-cross-section-1-960x540.gif 960w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"geological-cross-section\" /><p>The subsurface industry is at a critical point in its digital evolution. For decades, unlocking reservoir potential has relied on experts performing essential and time-intensive manual workflows. As data complexity grows, the gap between machine speed and human bandwidth has become a primary bottleneck. On-demand simulation workflows are currently hampered by both manual data overhead…</p> <p><a href=\"https://developer.nvidia.com/blog/24-7-simulation-loops-how-agentic-ai-keeps-subsurface-engineering-moving/\" rel=\"nofollow\" data-wpel-link=\"internal\" target=\"_self\">Source</a></p>",
           "pubDate": "2026-04-28T15:00:00Z",
           "guid": "https://developer.nvidia.com/blog/?p=116079",
           "read": false,
@@ -11669,7 +11827,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777388915004,
+      "lastUpdated": 1777392514598,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12838,7 +12996,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777388915932,
+      "lastUpdated": 1777392515152,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13273,7 +13431,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777388916079,
+      "lastUpdated": 1777392515303,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13604,7 +13762,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777388916241,
+      "lastUpdated": 1777392515453,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14329,7 +14487,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777388916392,
+      "lastUpdated": 1777392515620,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14370,7 +14528,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777388916392,
+  "lastRefreshTimestamp": 1777392515621,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
