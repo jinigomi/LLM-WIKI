@@ -230,6 +230,7 @@
   },
   "active": "8345a98a51aa78c3",
   "lastOpenFiles": [
+    "entities/app-blueprint-prompt.md",
     "comparisons/note-wiki-vibe-coding-beginner-methodology.md",
     "concepts/vibe-coding-beginner-methodology.md",
     "comparisons/hermes-vs-boop.md",
@@ -257,7 +258,6 @@
     "concepts/harness-engineering.md",
     "YOLO",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "docs/research-reports",
