@@ -4,6 +4,17 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
+## [2026-04-28] ingest | raw/papers/ — vibe coding 연구 논문 6편
+- arXiv API로 vibe coding 관련 논문 6편 수집, raw/papers/에 마크다운 저장
+- 2512.02750v1: 초보자 vibe coding 탐구 (Gama et al.)
+- 2604.22604v1: 임상의를 위한 vibe coding (Ong et al.)
+- 2510.00328v1: Vibe Coding in Practice — grey literature review (Fawzy et al.)
+- 2508.00952v1: Academic Vibe Coding (Crowson & Celi)
+- 2604.22747v1: 교육 해커톤 응용 (Chen et al.)
+- 2507.22085v2: BOOP — Write Right Code (Goenka & Thakkar)
+- nlwflow note-wiki 파이프라인 시도했으나 notebooklm auth 필요 (미해결)
+- obscura fetch + DuckDuckGo HTML로 소스 URL 수집 성공
+
 ## [2026-04-27] create | Research Agent 설계 계획
 - **문서**: `entities/research-agent-설계-계획.md`
 - **내용**: 연구 에이전트 도구 분류, Design Patterns, 6단계 워크플로우, 구현 태스크 5개
@@ -137,3 +148,15 @@ HermesBrain/
 - "Code for All: Vibe Coding" 논문 PDF 추출하여 초보자 협업 패턴 분석
 - AI Agent 비용 최적화 연구 — 토큰 소비 패턴 분석
 - Research Agent 구현 시작 (writing-plans → subagent-driven-development)
+
+## [2026-04-28] ingest | vibe-coding-beginner-methodology
+- NotebookLM notebook created and artifacts exported
+- Notebook ID: baff70f1-595f-486a-8d34-c4a1b3984e26
+- Files created:
+  - raw/articles/note-wiki-vibe-coding-beginner-methodology-sources-2026-04-28.md
+  - raw/articles/notebooklm-note-wiki-vibe-coding-beginner-methodology-report-2026-04-28.md
+  - comparisons/note-wiki-vibe-coding-beginner-methodology.md
+  - queries/note-wiki-vibe-coding-beginner-methodology-checklist.md
+- Files updated:
+  - index.md
+  - log.md
