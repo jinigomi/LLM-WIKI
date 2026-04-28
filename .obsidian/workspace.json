@@ -55,8 +55,7 @@
               "title": "vibe-coding-beginner-methodology"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,13 +188,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/vibe-coding-beginner-methodology.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "vibe-coding-beginner-methodology 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -257,8 +255,9 @@
       "yolo:Open chat": false
     }
   },
-  "active": "8345a98a51aa78c3",
+  "active": "c9d86e8fcd5a8a94",
   "lastOpenFiles": [
+    "concepts/vibe-coding-beginner-methodology.md",
     "comparisons/hermes-vs-boop.md",
     "entities/boop-agent.md",
     "000-Inbox/vibe-coding-beginner-methodology_2026-04-28.md",
@@ -266,7 +265,6 @@
     "concepts/바이브코딩-책-개요.md",
     "concepts/에러-에스컬레이션.md",
     "queries/vibe-coding-beginner-checklist.md",
-    "concepts/vibe-coding-beginner-methodology.md",
     "concepts/anthropic-claude-think-tool.md",
     "000-Inbox",
     "queries/note-wiki-vibe-coding-beginner-methodology-checklist.md",
