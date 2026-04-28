@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777374502378,
+      "lastUpdated": 1777378102305,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -188,7 +188,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777374502494,
+      "lastUpdated": 1777378102567,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -913,7 +913,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777374502654,
+      "lastUpdated": 1777378102712,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1166,7 +1166,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777374502804,
+      "lastUpdated": 1777378102871,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1891,7 +1891,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777374502947,
+      "lastUpdated": 1777378103023,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1909,6 +1909,32 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA",
       "folder": "Videos",
       "items": [
+        {
+          "title": "테슬라 수익모델 확바뀐다! 매달 1억달러씩 꽂힌다! 10억달러도 금새 확장된다! 테슬라 유럽 매출이 달아 오른다! 엔비디아 250달러 돌파는 시간문제! 구글도 날아간다.",
+          "link": "https://www.youtube.com/watch?v=4vK_kkvTKtk",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-28T11:38:50+00:00",
+          "guid": "yt:video:4vK_kkvTKtk",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "LA 정교수 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA",
+          "coverImage": "https://img.youtube.com/vi/4vK_kkvTKtk/maxresdefault.jpg",
+          "summary": "",
+          "author": "LA 정교수 TV",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "4vK_kkvTKtk"
+        },
         {
           "title": "대박) 테슬라 FSD 스웨덴 승인!! 유럽전역 확장 임박! 자율주행 매출 급상승 하나? 엔비디아 아직도 저평가! 구글이 미쳤다! AI 기업들 미친상승이 온다! 테슬라 세미트럭 인기",
           "link": "https://www.youtube.com/watch?v=rl8Jvw_iNNw",
@@ -2326,7 +2352,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777374503100,
+      "lastUpdated": 1777378103181,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2553,7 +2579,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777374503245,
+      "lastUpdated": 1777378103338,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3572,7 +3598,7 @@
           "image": ""
         }
       ],
-      "lastUpdated": 1777374504466,
+      "lastUpdated": 1777378103760,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4991,7 +5017,7 @@
           }
         }
       ],
-      "lastUpdated": 1777374505608,
+      "lastUpdated": 1777378104841,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5009,7 +5035,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777374505725,
+      "lastUpdated": 1777378104962,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5027,7 +5053,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777374505949,
+      "lastUpdated": 1777378105301,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5045,6 +5071,121 @@
       "url": "https://nitter.net/TeslaZoa/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "🚨 엑스(X), 금융 플랫폼 본격 진입… ‘연 6% 이자’ 실험 시작 1️⃣ 엑스 머니(X Money) 출시 임박 X (formerly Twitter)가 이달 중 결제·금융 서비스 ‘X Money’를 얼리 액세스로 공개 예정 → 단순 SNS를 넘어 ‘슈퍼앱’ 전략 본격화 2️⃣ 핵심 기능: 고금리 + 결제 생태계 연 6% 이자 제공(테스트 기준) 3% 캐시백 + 수수료 없는 P2P 송금 비자 직불카드 발급 및 AI 소비 분석 기능 포함 → 은행·핀테크 기능을 하나의 앱으로 통합 3️⃣ 머스크의 큰 그림: 슈퍼앱 Elon Musk는 결제를 핵심 축으로 설정 → 목표 모델은 WeChat → “엑스 하나로 일상 해결” 비전 거의 완성 단계 4️⃣ 크리에이터 생태계까지 흡수 기존 Stripe 대신 X Money로 정산 유도 → 광고 수익, 송금, 소비까지 플랫폼 내부에서 순환",
+          "link": "https://nitter.net/TeslaZoa/status/2049098048236896493#m",
+          "description": "<p>🚨 엑스(X), 금융 플랫폼 본격 진입… ‘연 6% 이자’ 실험 시작<br> <br> 1️⃣ 엑스 머니(X Money) 출시 임박<br> X (formerly Twitter)가 이달 중 결제·금융 서비스 ‘X Money’를 얼리 액세스로 공개 예정<br> → 단순 SNS를 넘어 ‘슈퍼앱’ 전략 본격화<br> <br> 2️⃣ 핵심 기능: 고금리 + 결제 생태계<br> 연 6% 이자 제공(테스트 기준)<br> 3% 캐시백 + 수수료 없는 P2P 송금<br> 비자 직불카드 발급 및 AI 소비 분석 기능 포함<br> → 은행·핀테크 기능을 하나의 앱으로 통합<br> <br> 3️⃣ 머스크의 큰 그림: 슈퍼앱<br> Elon Musk는 결제를 핵심 축으로 설정<br> → 목표 모델은 WeChat<br> → “엑스 하나로 일상 해결” 비전 거의 완성 단계<br> <br> 4️⃣ 크리에이터 생태계까지 흡수<br> 기존 Stripe 대신 X Money로 정산 유도<br> → 광고 수익, 송금, 소비까지 플랫폼 내부에서 순환</p> <img src=\"https://nitter.net/pic/media%2FHG_bvZCawAErCu-.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>🚨 엑스(X), 금융 플랫폼 본격 진입… ‘연 6% 이자’ 실험 시작<br> <br> 1️⃣ 엑스 머니(X Money) 출시 임박<br> X (formerly Twitter)가 이달 중 결제·금융 서비스 ‘X Money’를 얼리 액세스로 공개 예정<br> → 단순 SNS를 넘어 ‘슈퍼앱’ 전략 본격화<br> <br> 2️⃣ 핵심 기능: 고금리 + 결제 생태계<br> 연 6% 이자 제공(테스트 기준)<br> 3% 캐시백 + 수수료 없는 P2P 송금<br> 비자 직불카드 발급 및 AI 소비 분석 기능 포함<br> → 은행·핀테크 기능을 하나의 앱으로 통합<br> <br> 3️⃣ 머스크의 큰 그림: 슈퍼앱<br> Elon Musk는 결제를 핵심 축으로 설정<br> → 목표 모델은 WeChat<br> → “엑스 하나로 일상 해결” 비전 거의 완성 단계<br> <br> 4️⃣ 크리에이터 생태계까지 흡수<br> 기존 Stripe 대신 X Money로 정산 유도<br> → 광고 수익, 송금, 소비까지 플랫폼 내부에서 순환</p> <img src=\"https://nitter.net/pic/media%2FHG_bvZCawAErCu-.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Tue, 28 Apr 2026 12:06:59 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2049098048236896493",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG_bvZCawAErCu-.jpg",
+          "summary": "🚨 엑스(X), 금융 플랫폼 본격 진입… ‘연 6% 이자’ 실험 시작 1️⃣ 엑스 머니(X Money) 출시 임박 X (formerly Twitter)가 이달 중 결제·금융 서비스 ‘X Money’를 얼리 액세스로 공개 예정 → 단순 SNS를 넘어 ‘슈퍼앱’ 전략 본격화 2️⃣ 핵심 기능: 고금리 + 결제 생태계 연 6% 이자 제공(테스트 기준) 3% 캐시백 + 수수료 없는 P2P 송금 비...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG_bvZCawAErCu-.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🚨 Giga Texas 현장 업데이트 (2026년 4월 28일 기준) 1️⃣ Cybercab 양산 신호 본격 포착 최소 15대 이상의 생산형 Cybercab이 출고장에 집결했습니다. 차량은 깊은 금빛 컬러로 완성도가 높은 상태이며, 일부에는 테스트용 스티어링 휠·페달이 장착되어 생산 라인 디버깅이 진행 중입니다. 동시에 핸들 없는 완전 무인 버전도 병행 생산되며, 공장 외부 자율주행 장면까지 확인됐습니다. 양산 램프업이 시작된 흐름입니다. 2️⃣ Optimus 전용 공장, 기초 공사 돌입 북쪽 부지에서 로봇 생산 공장 건설이 본격화됐습니다. GeoPier 기반 깊은 기초 공사와 철근 구조 작업이 진행 중이며, 기존 공장보다 촘촘한 기둥 설계가 적용된 모습입니다. 이는 로봇 조립 라인 최적화를 위한 구조로 해석됩니다. 6월 전후로 수직 구조물 공사 진입 가능성이 높습니다. 3️⃣ AI 칩 공장(Terafab), 초기 토목 단계 진행 굴착, 토양 테스트, 지반 정리 등 부지 준비 작업이 활발히 진행되고 있습니다. 기존 시설 일부는 철거 및 이전 중이며, 테슬라의 AI 칩 내재화를 위한 핵심 인프라 구축이 시작된 단계입니다. 4️⃣ 기타 주요 변화 포인트 Cortex 2.0은 냉각 구조 조립 및 부분 가동 단계에 진입했고, Megapack 생산 라인은 확장 중입니다. 테스트 트랙은 배수 시스템 공사가 진행되고 있으며, River Road 확장 공사도 병행되고 있습니다. Model Y 생산은 안정적으로 유지되는 가운데 Cybertruck 생산량은 큰 변화 없이 유지 중입니다. 한 줄 핵심 Cybercab 양산이 눈에 보이기 시작했고, 동시에 Optimus + AI 칩 공장까지 병렬로 진행되는 ‘확장 국면’에 진입했습니다.",
+          "link": "https://nitter.net/TeslaZoa/status/2049096319609016500#m",
+          "description": "<p>🚨 Giga Texas 현장 업데이트 (2026년 4월 28일 기준)<br> <br> 1️⃣ Cybercab 양산 신호 본격 포착<br> 최소 15대 이상의 생산형 Cybercab이 출고장에 집결했습니다. 차량은 깊은 금빛 컬러로 완성도가 높은 상태이며, 일부에는 테스트용 스티어링 휠·페달이 장착되어 생산 라인 디버깅이 진행 중입니다. 동시에 핸들 없는 완전 무인 버전도 병행 생산되며, 공장 외부 자율주행 장면까지 확인됐습니다. 양산 램프업이 시작된 흐름입니다.<br> <br> 2️⃣ Optimus 전용 공장, 기초 공사 돌입<br> 북쪽 부지에서 로봇 생산 공장 건설이 본격화됐습니다. GeoPier 기반 깊은 기초 공사와 철근 구조 작업이 진행 중이며, 기존 공장보다 촘촘한 기둥 설계가 적용된 모습입니다. 이는 로봇 조립 라인 최적화를 위한 구조로 해석됩니다. 6월 전후로 수직 구조물 공사 진입 가능성이 높습니다.<br> <br> 3️⃣ AI 칩 공장(Terafab), 초기 토목 단계 진행<br> 굴착, 토양 테스트, 지반 정리 등 부지 준비 작업이 활발히 진행되고 있습니다. 기존 시설 일부는 철거 및 이전 중이며, 테슬라의 AI 칩 내재화를 위한 핵심 인프라 구축이 시작된 단계입니다.<br> <br> 4️⃣ 기타 주요 변화 포인트<br> Cortex 2.0은 냉각 구조 조립 및 부분 가동 단계에 진입했고, Megapack 생산 라인은 확장 중입니다. 테스트 트랙은 배수 시스템 공사가 진행되고 있으며, River Road 확장 공사도 병행되고 있습니다. Model Y 생산은 안정적으로 유지되는 가운데 Cybertruck 생산량은 큰 변화 없이 유지 중입니다.<br> <br> 한 줄 핵심<br> Cybercab 양산이 눈에 보이기 시작했고, 동시에 Optimus + AI 칩 공장까지 병렬로 진행되는 ‘확장 국면’에 진입했습니다.</p> <img src=\"https://nitter.net/pic/media%2FHG_aNxLaIAAkXyU.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>🚨 Giga Texas 현장 업데이트 (2026년 4월 28일 기준)<br> <br> 1️⃣ Cybercab 양산 신호 본격 포착<br> 최소 15대 이상의 생산형 Cybercab이 출고장에 집결했습니다. 차량은 깊은 금빛 컬러로 완성도가 높은 상태이며, 일부에는 테스트용 스티어링 휠·페달이 장착되어 생산 라인 디버깅이 진행 중입니다. 동시에 핸들 없는 완전 무인 버전도 병행 생산되며, 공장 외부 자율주행 장면까지 확인됐습니다. 양산 램프업이 시작된 흐름입니다.<br> <br> 2️⃣ Optimus 전용 공장, 기초 공사 돌입<br> 북쪽 부지에서 로봇 생산 공장 건설이 본격화됐습니다. GeoPier 기반 깊은 기초 공사와 철근 구조 작업이 진행 중이며, 기존 공장보다 촘촘한 기둥 설계가 적용된 모습입니다. 이는 로봇 조립 라인 최적화를 위한 구조로 해석됩니다. 6월 전후로 수직 구조물 공사 진입 가능성이 높습니다.<br> <br> 3️⃣ AI 칩 공장(Terafab), 초기 토목 단계 진행<br> 굴착, 토양 테스트, 지반 정리 등 부지 준비 작업이 활발히 진행되고 있습니다. 기존 시설 일부는 철거 및 이전 중이며, 테슬라의 AI 칩 내재화를 위한 핵심 인프라 구축이 시작된 단계입니다.<br> <br> 4️⃣ 기타 주요 변화 포인트<br> Cortex 2.0은 냉각 구조 조립 및 부분 가동 단계에 진입했고, Megapack 생산 라인은 확장 중입니다. 테스트 트랙은 배수 시스템 공사가 진행되고 있으며, River Road 확장 공사도 병행되고 있습니다. Model Y 생산은 안정적으로 유지되는 가운데 Cybertruck 생산량은 큰 변화 없이 유지 중입니다.<br> <br> 한 줄 핵심<br> Cybercab 양산이 눈에 보이기 시작했고, 동시에 Optimus + AI 칩 공장까지 병렬로 진행되는 ‘확장 국면’에 진입했습니다.</p> <img src=\"https://nitter.net/pic/media%2FHG_aNxLaIAAkXyU.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Tue, 28 Apr 2026 12:00:07 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2049096319609016500",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG_aNxLaIAAkXyU.jpg",
+          "summary": "🚨 Giga Texas 현장 업데이트 (2026년 4월 28일 기준) 1️⃣ Cybercab 양산 신호 본격 포착 최소 15대 이상의 생산형 Cybercab이 출고장에 집결했습니다. 차량은 깊은 금빛 컬러로 완성도가 높은 상태이며, 일부에는 테스트용 스티어링 휠·페달이 장착되어 생산 라인 디버깅이 진행 중입니다. 동시에 핸들 없는 완전 무인 버전도 병행 생산되며, 공장 외부 자율주행 장면까...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG_aNxLaIAAkXyU.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🚨 테슬라 사이버캡, 플로리다 테스트 확대 정황 1️⃣ 플로리다 포트마이어스 및 네이플스 지역에서 사이버캡 테스트 포착 → 기존 테스트 지역 외 추가 확장 움직임 2️⃣ Tesla, 실제 도로 기반 검증을 점진적으로 확대 중 → 데이터 확보 및 운영 안정성 확보 목적",
+          "link": "https://nitter.net/TeslaZoa/status/2049090289776930922#m",
+          "description": "<p>🚨 테슬라 사이버캡, 플로리다 테스트 확대 정황<br> <br> 1️⃣ 플로리다 포트마이어스 및 네이플스 지역에서 사이버캡 테스트 포착<br> → 기존 테스트 지역 외 추가 확장 움직임<br> <br> 2️⃣ Tesla, 실제 도로 기반 검증을 점진적으로 확대 중<br> → 데이터 확보 및 운영 안정성 확보 목적</p> <a href=\"https://nitter.net/TeslaZoa/status/2049090289776930922#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048869474363990017%2Fimg%2FeNcpC8EZG9b4gz66.jpg\" style=\"max-width:250px;\" /> </a> <hr/> <blockquote> <b>Digital Daisy🌸 (@DigitalDaisyX)</b> <p> <p>Cybercab testing in Fort Meyers and Naples Florida 🔥 <br> <br> looks like <a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> is quietly ramping up real world testing in more areas</p> <a href=\"https://nitter.net/DigitalDaisyX/status/2048869537076883886#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048869474363990017%2Fimg%2FeNcpC8EZG9b4gz66.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/DigitalDaisyX/status/2048869537076883886#m\">https://nitter.net/DigitalDaisyX/status/2048869537076883886#m</a> </footer> </blockquote>",
+          "content": "<p>🚨 테슬라 사이버캡, 플로리다 테스트 확대 정황<br> <br> 1️⃣ 플로리다 포트마이어스 및 네이플스 지역에서 사이버캡 테스트 포착<br> → 기존 테스트 지역 외 추가 확장 움직임<br> <br> 2️⃣ Tesla, 실제 도로 기반 검증을 점진적으로 확대 중<br> → 데이터 확보 및 운영 안정성 확보 목적</p> <a href=\"https://nitter.net/TeslaZoa/status/2049090289776930922#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048869474363990017%2Fimg%2FeNcpC8EZG9b4gz66.jpg\" style=\"max-width:250px;\" /> </a> <hr/> <blockquote> <b>Digital Daisy🌸 (@DigitalDaisyX)</b> <p> <p>Cybercab testing in Fort Meyers and Naples Florida 🔥 <br> <br> looks like <a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> is quietly ramping up real world testing in more areas</p> <a href=\"https://nitter.net/DigitalDaisyX/status/2048869537076883886#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048869474363990017%2Fimg%2FeNcpC8EZG9b4gz66.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/DigitalDaisyX/status/2048869537076883886#m\">https://nitter.net/DigitalDaisyX/status/2048869537076883886#m</a> </footer> </blockquote>",
+          "pubDate": "Tue, 28 Apr 2026 11:36:09 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2049090289776930922",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2048869474363990017%2Fimg%2FeNcpC8EZG9b4gz66.jpg",
+          "summary": "🚨 테슬라 사이버캡, 플로리다 테스트 확대 정황 1️⃣ 플로리다 포트마이어스 및 네이플스 지역에서 사이버캡 테스트 포착 → 기존 테스트 지역 외 추가 확장 움직임 2️⃣ Tesla, 실제 도로 기반 검증을 점진적으로 확대 중 → 데이터 확보 및 운영 안정성 확보 목적 Video Digital Daisy🌸 (@DigitalDaisyX) Cybercab testing in Fort Meyer...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/amplify_video_thumb%2F2048869474363990017%2Fimg%2FeNcpC8EZG9b4gz66.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🚨 테슬라 로보택시의 심장, BMS 설계 리더 채용 시작 1️⃣ 역할 핵심 Tesla가 차세대 차량(로보택시 포함)과 에너지 제품을 위한 고전압 배터리 관리 시스템(BMS) PCB 설계를 총괄할 시니어 엔지니어를 채용 중 → 단순 설계가 아니라 “처음부터 양산까지” 전 과정 리드 역할 2️⃣ 담당 제품 범위 Cybercab(로보택시), 차세대 대중형 플랫폼 Roadster, Semi, Cybertruck 기존 S3XY 라인업 + 에너지 저장 시스템 + Optimus까지 포함 → 사실상 테슬라 전체 전력 아키텍처 핵심 포지션 3️⃣ 주요 업무 고전압 배터리 전자 시스템 설계 및 테스트 자동화된 검증 시스템 구축 (Python 기반) 양산 전환까지 직접 책임 글로벌 반도체 업체와 차세대 BMS 공동 개발 4️⃣ 요구 역량 아날로그 + 디지털 회로 설계 8년 이상 회로 해석, 시뮬레이션, 고장 분석 능력 필수 Python 기반 테스트 자동화 BMS / 전력전자 / MCU / 고속 인터페이스 경험 RF 및 무선 통신 이해도 Altium, LTSpice, CAD 설계 경험 5️⃣ 포지션 성격 이론형이 아니라 “완전 실무형 엔지니어” → 설계 + 디버깅 + 양산까지 다 하는 풀스택 하드웨어 역할 6️⃣ 보상 수준 연봉 $192K ~ $288K * 현금 보너스 + 스톡 보상 → 테슬라 엔지니어 중에서도 상위 레벨",
+          "link": "https://nitter.net/TeslaZoa/status/2049089918614565006#m",
+          "description": "<p>🚨 테슬라 로보택시의 심장, BMS 설계 리더 채용 시작<br> <br> 1️⃣ 역할 핵심<br> Tesla가 차세대 차량(로보택시 포함)과 에너지 제품을 위한<br> 고전압 배터리 관리 시스템(BMS) PCB 설계를 총괄할 시니어 엔지니어를 채용 중<br> → 단순 설계가 아니라 “처음부터 양산까지” 전 과정 리드 역할<br> <br> 2️⃣ 담당 제품 범위<br> Cybercab(로보택시), 차세대 대중형 플랫폼<br> Roadster, Semi, Cybertruck<br> 기존 S3XY 라인업 + 에너지 저장 시스템 + Optimus까지 포함<br> → 사실상 테슬라 전체 전력 아키텍처 핵심 포지션<br> <br> 3️⃣ 주요 업무<br> 고전압 배터리 전자 시스템 설계 및 테스트<br> 자동화된 검증 시스템 구축 (Python 기반)<br> 양산 전환까지 직접 책임<br> 글로벌 반도체 업체와 차세대 BMS 공동 개발<br> <br> 4️⃣ 요구 역량<br> 아날로그 + 디지털 회로 설계 8년 이상<br> 회로 해석, 시뮬레이션, 고장 분석 능력 필수<br> Python 기반 테스트 자동화<br> BMS / 전력전자 / MCU / 고속 인터페이스 경험<br> RF 및 무선 통신 이해도<br> Altium, LTSpice, CAD 설계 경험<br> <br> 5️⃣ 포지션 성격<br> 이론형이 아니라 “완전 실무형 엔지니어”<br> → 설계 + 디버깅 + 양산까지 다 하는 풀스택 하드웨어 역할<br> <br> 6️⃣ 보상 수준<br> 연봉 $192K ~ $288K<br> <br> * 현금 보너스 + 스톡 보상<br> → 테슬라 엔지니어 중에서도 상위 레벨</p> <img src=\"https://nitter.net/pic/media%2FHG_USN3aQAEH2C9.jpg\" style=\"max-width:250px;\" /> <video poster=\"https://nitter.net/pic/tweet_video_thumb%2FHG_UXETb0AAIEqL.jpg\" autoplay muted loop style=\"max-width:250px;\"> <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHG_UXETb0AAIEqL.mp4\" type=\"video/mp4\"></video>",
+          "content": "<p>🚨 테슬라 로보택시의 심장, BMS 설계 리더 채용 시작<br> <br> 1️⃣ 역할 핵심<br> Tesla가 차세대 차량(로보택시 포함)과 에너지 제품을 위한<br> 고전압 배터리 관리 시스템(BMS) PCB 설계를 총괄할 시니어 엔지니어를 채용 중<br> → 단순 설계가 아니라 “처음부터 양산까지” 전 과정 리드 역할<br> <br> 2️⃣ 담당 제품 범위<br> Cybercab(로보택시), 차세대 대중형 플랫폼<br> Roadster, Semi, Cybertruck<br> 기존 S3XY 라인업 + 에너지 저장 시스템 + Optimus까지 포함<br> → 사실상 테슬라 전체 전력 아키텍처 핵심 포지션<br> <br> 3️⃣ 주요 업무<br> 고전압 배터리 전자 시스템 설계 및 테스트<br> 자동화된 검증 시스템 구축 (Python 기반)<br> 양산 전환까지 직접 책임<br> 글로벌 반도체 업체와 차세대 BMS 공동 개발<br> <br> 4️⃣ 요구 역량<br> 아날로그 + 디지털 회로 설계 8년 이상<br> 회로 해석, 시뮬레이션, 고장 분석 능력 필수<br> Python 기반 테스트 자동화<br> BMS / 전력전자 / MCU / 고속 인터페이스 경험<br> RF 및 무선 통신 이해도<br> Altium, LTSpice, CAD 설계 경험<br> <br> 5️⃣ 포지션 성격<br> 이론형이 아니라 “완전 실무형 엔지니어”<br> → 설계 + 디버깅 + 양산까지 다 하는 풀스택 하드웨어 역할<br> <br> 6️⃣ 보상 수준<br> 연봉 $192K ~ $288K<br> <br> * 현금 보너스 + 스톡 보상<br> → 테슬라 엔지니어 중에서도 상위 레벨</p> <img src=\"https://nitter.net/pic/media%2FHG_USN3aQAEH2C9.jpg\" style=\"max-width:250px;\" /> <video poster=\"https://nitter.net/pic/tweet_video_thumb%2FHG_UXETb0AAIEqL.jpg\" autoplay muted loop style=\"max-width:250px;\"> <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHG_UXETb0AAIEqL.mp4\" type=\"video/mp4\"></video>",
+          "pubDate": "Tue, 28 Apr 2026 11:34:41 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2049089918614565006",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG_USN3aQAEH2C9.jpg",
+          "summary": "🚨 테슬라 로보택시의 심장, BMS 설계 리더 채용 시작 1️⃣ 역할 핵심 Tesla가 차세대 차량(로보택시 포함)과 에너지 제품을 위한 고전압 배터리 관리 시스템(BMS) PCB 설계를 총괄할 시니어 엔지니어를 채용 중 → 단순 설계가 아니라 “처음부터 양산까지” 전 과정 리드 역할 2️⃣ 담당 제품 범위 Cybercab(로보택시), 차세대 대중형 플랫폼 Roadster, Semi, Cy...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG_USN3aQAEH2C9.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "이런 날이 머지않아 올 것입니다. $TSLA",
+          "link": "https://nitter.net/TeslaZoa/status/2049086978327748685#m",
+          "description": "<p>이런 날이 머지않아 올 것입니다. <br> <a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a></p> <img src=\"https://nitter.net/pic/media%2FHG_RsiqbwAALxKJ.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Mars University (@MarsUniversityX)</b> <p> <p>Tesla Robovan will change the looks of streets</p> <img src=\"https://nitter.net/pic/media%2FHG8VlBVa8AAym_k.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/MarsUniversityX/status/2048880103577293026#m\">https://nitter.net/MarsUniversityX/status/2048880103577293026#m</a> </footer> </blockquote>",
+          "content": "<p>이런 날이 머지않아 올 것입니다. <br> <a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a></p> <img src=\"https://nitter.net/pic/media%2FHG_RsiqbwAALxKJ.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Mars University (@MarsUniversityX)</b> <p> <p>Tesla Robovan will change the looks of streets</p> <img src=\"https://nitter.net/pic/media%2FHG8VlBVa8AAym_k.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/MarsUniversityX/status/2048880103577293026#m\">https://nitter.net/MarsUniversityX/status/2048880103577293026#m</a> </footer> </blockquote>",
+          "pubDate": "Tue, 28 Apr 2026 11:23:00 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2049086978327748685",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG_RsiqbwAALxKJ.jpg",
+          "summary": "이런 날이 머지않아 올 것입니다. $TSLA Mars University (@MarsUniversityX) Tesla Robovan will change the looks of streets — https://nitter.net/MarsUniversityX/status/2048880103577293026#m",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG_RsiqbwAALxKJ.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "다음에 비행기 타면 한번 해봐야지.",
           "link": "https://nitter.net/TeslaZoa/status/2049075051547459620#m",
@@ -6079,124 +6220,9 @@
           "image": "",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "🚨 에미레이츠, A380에 스타링크 도입 🇦🇪 1️⃣ Emirates, Airbus A380 기단에 Starlink 탑재 추진 2️⃣ 항공기당 안테나 3개 적용, 대형 기체·다수 승객 환경 대응 3️⃣ 기내 전체 최대 2Gbps 속도 제공 → 고도 40,000피트에서도 안정적 고속 Wi-Fi 기대",
-          "link": "https://nitter.net/TeslaZoa/status/2048737116725907783#m",
-          "description": "<p>🚨 에미레이츠, A380에 스타링크 도입 🇦🇪<br> <br> 1️⃣ Emirates, Airbus A380 기단에 Starlink 탑재 추진<br> 2️⃣ 항공기당 안테나 3개 적용, 대형 기체·다수 승객 환경 대응<br> 3️⃣ 기내 전체 최대 2Gbps 속도 제공 → 고도 40,000피트에서도 안정적 고속 Wi-Fi 기대</p> <img src=\"https://nitter.net/pic/media%2FHG6ThCxaEAEwTS4.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG6ThqzasAAFxb_.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Muskonomy (@muskonomy)</b> <p> <p>NEWS: Emirates is adding Starlink to its A380 fleet to massively upgrade in flight internet<br> <br> Each A380 will use 3 Starlink antennas, built to handle the large double deck aircraft and high number of passengers.<br> <br> The system can deliver over 2 Gbps across the cabin, meaning faster and more stable WiFi at 40,000 feet.<br> <br> This could finally make airplane internet feel close to what you get at home.</p> <img src=\"https://nitter.net/pic/media%2FHG6Rv30bAAAK6VX.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG6Rv31bsAAqEuR.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/muskonomy/status/2048735143603695966#m\">https://nitter.net/muskonomy/status/2048735143603695966#m</a> </footer> </blockquote>",
-          "content": "<p>🚨 에미레이츠, A380에 스타링크 도입 🇦🇪<br> <br> 1️⃣ Emirates, Airbus A380 기단에 Starlink 탑재 추진<br> 2️⃣ 항공기당 안테나 3개 적용, 대형 기체·다수 승객 환경 대응<br> 3️⃣ 기내 전체 최대 2Gbps 속도 제공 → 고도 40,000피트에서도 안정적 고속 Wi-Fi 기대</p> <img src=\"https://nitter.net/pic/media%2FHG6ThCxaEAEwTS4.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG6ThqzasAAFxb_.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Muskonomy (@muskonomy)</b> <p> <p>NEWS: Emirates is adding Starlink to its A380 fleet to massively upgrade in flight internet<br> <br> Each A380 will use 3 Starlink antennas, built to handle the large double deck aircraft and high number of passengers.<br> <br> The system can deliver over 2 Gbps across the cabin, meaning faster and more stable WiFi at 40,000 feet.<br> <br> This could finally make airplane internet feel close to what you get at home.</p> <img src=\"https://nitter.net/pic/media%2FHG6Rv30bAAAK6VX.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG6Rv31bsAAqEuR.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/muskonomy/status/2048735143603695966#m\">https://nitter.net/muskonomy/status/2048735143603695966#m</a> </footer> </blockquote>",
-          "pubDate": "Mon, 27 Apr 2026 12:12:46 GMT",
-          "guid": "https://nitter.net/TeslaZoa/2048737116725907783",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "TeslaZoa / @TeslaZoa",
-          "feedUrl": "https://nitter.net/TeslaZoa/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHG6ThCxaEAEwTS4.jpg",
-          "summary": "🚨 에미레이츠, A380에 스타링크 도입 🇦🇪 1️⃣ Emirates, Airbus A380 기단에 Starlink 탑재 추진 2️⃣ 항공기당 안테나 3개 적용, 대형 기체·다수 승객 환경 대응 3️⃣ 기내 전체 최대 2Gbps 속도 제공 → 고도 40,000피트에서도 안정적 고속 Wi-Fi 기대 Muskonomy (@muskonomy) NEWS: Emirates is adding St...",
-          "author": "@TeslaZoa",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHG6ThCxaEAEwTS4.jpg",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "🚨 오스틴 공항 주차장에서 테슬라 사이버캡 3대 포착 🇺🇸 $TSLA 1️⃣ Tesla Cybercab 3대, 공항 주차장에서 목격 2️⃣ 차량들은 Tesla Supercharger에서 충전 중인 것으로 추정 https://x.com/tesla_archive/status/2048732929548067007/video/1",
-          "link": "https://nitter.net/TeslaZoa/status/2048733853750292480#m",
-          "description": "<p>🚨 오스틴 공항 주차장에서 테슬라 사이버캡 3대 포착 🇺🇸 <a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> <br> 1️⃣ Tesla Cybercab 3대, 공항 주차장에서 목격<br> 2️⃣ 차량들은 Tesla Supercharger에서 충전 중인 것으로 추정<br> <br> <a href=\"https://nitter.net/tesla_archive/status/2048732929548067007/video/1\">nitter.net/tesla_archive/status/2…</a></p> <a href=\"https://nitter.net/TeslaZoa/status/2048733853750292480#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048732859440254976%2Fimg%2F8sO50uZKvNLscUEV.jpg\" style=\"max-width:250px;\" /> </a>",
-          "content": "<p>🚨 오스틴 공항 주차장에서 테슬라 사이버캡 3대 포착 🇺🇸 <a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> <br> 1️⃣ Tesla Cybercab 3대, 공항 주차장에서 목격<br> 2️⃣ 차량들은 Tesla Supercharger에서 충전 중인 것으로 추정<br> <br> <a href=\"https://nitter.net/tesla_archive/status/2048732929548067007/video/1\">nitter.net/tesla_archive/status/2…</a></p> <a href=\"https://nitter.net/TeslaZoa/status/2048733853750292480#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048732859440254976%2Fimg%2F8sO50uZKvNLscUEV.jpg\" style=\"max-width:250px;\" /> </a>",
-          "pubDate": "Mon, 27 Apr 2026 11:59:49 GMT",
-          "guid": "https://nitter.net/TeslaZoa/2048733853750292480",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "TeslaZoa / @TeslaZoa",
-          "feedUrl": "https://nitter.net/TeslaZoa/rss",
-          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2048732859440254976%2Fimg%2F8sO50uZKvNLscUEV.jpg",
-          "summary": "🚨 오스틴 공항 주차장에서 테슬라 사이버캡 3대 포착 🇺🇸 $TSLA 1️⃣ Tesla Cybercab 3대, 공항 주차장에서 목격 2️⃣ 차량들은 Tesla Supercharger에서 충전 중인 것으로 추정 nitter.net/tesla_archive/status/2… Video",
-          "author": "@TeslaZoa",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/amplify_video_thumb%2F2048732859440254976%2Fimg%2F8sO50uZKvNLscUEV.jpg",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "🚨 일론 머스크, X 머니 출시 임박 1️⃣ Elon Musk, 수일 내 은행·결제 서비스 ‘X 머니’ 출시 준비 2️⃣ 저축 최대 6% 이자, 일부 결제 3% 캐시백 제공 예정 3️⃣ 미국 다수 주 라이선스 확보 및 Visa와 파트너십 체결 https://x.com/tesla_archive/status/2048726581699575930/video/1",
-          "link": "https://nitter.net/TeslaZoa/status/2048733361670336979#m",
-          "description": "<p>🚨 일론 머스크, X 머니 출시 임박<br> <br> 1️⃣ Elon Musk, 수일 내 은행·결제 서비스 ‘X 머니’ 출시 준비<br> 2️⃣ 저축 최대 6% 이자, 일부 결제 3% 캐시백 제공 예정<br> 3️⃣ 미국 다수 주 라이선스 확보 및 Visa와 파트너십 체결<br> <br> <a href=\"https://nitter.net/tesla_archive/status/2048726581699575930/video/1\">nitter.net/tesla_archive/status/2…</a></p> <a href=\"https://nitter.net/TeslaZoa/status/2048733361670336979#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048726496249081856%2Fimg%2F6r-tmrif6R6S3zxg.jpg\" style=\"max-width:250px;\" /> </a>",
-          "content": "<p>🚨 일론 머스크, X 머니 출시 임박<br> <br> 1️⃣ Elon Musk, 수일 내 은행·결제 서비스 ‘X 머니’ 출시 준비<br> 2️⃣ 저축 최대 6% 이자, 일부 결제 3% 캐시백 제공 예정<br> 3️⃣ 미국 다수 주 라이선스 확보 및 Visa와 파트너십 체결<br> <br> <a href=\"https://nitter.net/tesla_archive/status/2048726581699575930/video/1\">nitter.net/tesla_archive/status/2…</a></p> <a href=\"https://nitter.net/TeslaZoa/status/2048733361670336979#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048726496249081856%2Fimg%2F6r-tmrif6R6S3zxg.jpg\" style=\"max-width:250px;\" /> </a>",
-          "pubDate": "Mon, 27 Apr 2026 11:57:51 GMT",
-          "guid": "https://nitter.net/TeslaZoa/2048733361670336979",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "TeslaZoa / @TeslaZoa",
-          "feedUrl": "https://nitter.net/TeslaZoa/rss",
-          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2048726496249081856%2Fimg%2F6r-tmrif6R6S3zxg.jpg",
-          "summary": "🚨 일론 머스크, X 머니 출시 임박 1️⃣ Elon Musk, 수일 내 은행·결제 서비스 ‘X 머니’ 출시 준비 2️⃣ 저축 최대 6% 이자, 일부 결제 3% 캐시백 제공 예정 3️⃣ 미국 다수 주 라이선스 확보 및 Visa와 파트너십 체결 nitter.net/tesla_archive/status/2… Video",
-          "author": "@TeslaZoa",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/amplify_video_thumb%2F2048726496249081856%2Fimg%2F6r-tmrif6R6S3zxg.jpg",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "이번에 모델 Y RWD 출고 받는 분들, 진심으로 축하드립니다!",
-          "link": "https://nitter.net/TeslaZoa/status/2048733047802167701#m",
-          "description": "<p>이번에 모델 Y RWD 출고 받는 분들, 진심으로 축하드립니다!</p> <hr/> <blockquote> <b>Tsla Chan (@Tslachan)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> 🇰🇷<br> 테슬라 코리아, Model Y RWD 차량 대상 ’테슬라 지원금’ 보조 예정<br> <br> 설문에 해당 테슬라 보조금 지원 받겠다고 선택하면, RWD 구매 예정자는 170만원 지원 받아서 차량 출고할 수 있음</p> <img src=\"https://nitter.net/pic/media%2FHG6KAE5aYAAGeVU.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/Tslachan/status/2048726624066261307#m\">https://nitter.net/Tslachan/status/2048726624066261307#m</a> </footer> </blockquote>",
-          "content": "<p>이번에 모델 Y RWD 출고 받는 분들, 진심으로 축하드립니다!</p> <hr/> <blockquote> <b>Tsla Chan (@Tslachan)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> 🇰🇷<br> 테슬라 코리아, Model Y RWD 차량 대상 ’테슬라 지원금’ 보조 예정<br> <br> 설문에 해당 테슬라 보조금 지원 받겠다고 선택하면, RWD 구매 예정자는 170만원 지원 받아서 차량 출고할 수 있음</p> <img src=\"https://nitter.net/pic/media%2FHG6KAE5aYAAGeVU.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/Tslachan/status/2048726624066261307#m\">https://nitter.net/Tslachan/status/2048726624066261307#m</a> </footer> </blockquote>",
-          "pubDate": "Mon, 27 Apr 2026 11:56:36 GMT",
-          "guid": "https://nitter.net/TeslaZoa/2048733047802167701",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "TeslaZoa / @TeslaZoa",
-          "feedUrl": "https://nitter.net/TeslaZoa/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHG6KAE5aYAAGeVU.jpg",
-          "summary": "이번에 모델 Y RWD 출고 받는 분들, 진심으로 축하드립니다! Tsla Chan (@Tslachan) $TSLA 🇰🇷 테슬라 코리아, Model Y RWD 차량 대상 ’테슬라 지원금’ 보조 예정 설문에 해당 테슬라 보조금 지원 받겠다고 선택하면, RWD 구매 예정자는 170만원 지원 받아서 차량 출고할 수 있음 — https://nitter.net/Tslachan/status/20487...",
-          "author": "@TeslaZoa",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHG6KAE5aYAAGeVU.jpg",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "🚨 테슬라, 리노 산업 단지 프로젝트 허가 신청 🇺🇸 $TSLA 1️⃣ 테슬라가 리노-타호 국제공항 인근 3010 에어웨이 드라이브 소재 에어웨이 커머스 센터 내부 공간에 대해 복수의 허가를 신청함 2️⃣ 해당 부지는 톨레스 개발사가 조성한 약 89만 제곱피트 규모 산업 단지의 일부 3️⃣ 테슬라는 이 시설의 하위 임차인으로 확인됐으며, 리노-타호 공항 당국은 추가 세부 내용은 공개하지 않음",
-          "link": "https://nitter.net/TeslaZoa/status/2048731998219579846#m",
-          "description": "<p>🚨 테슬라, 리노 산업 단지 프로젝트 허가 신청 🇺🇸 <a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> <br> 1️⃣ 테슬라가 리노-타호 국제공항 인근 3010 에어웨이 드라이브 소재 에어웨이 커머스 센터 내부 공간에 대해 복수의 허가를 신청함<br> 2️⃣ 해당 부지는 톨레스 개발사가 조성한 약 89만 제곱피트 규모 산업 단지의 일부<br> 3️⃣ 테슬라는 이 시설의 하위 임차인으로 확인됐으며, 리노-타호 공항 당국은 추가 세부 내용은 공개하지 않음</p> <img src=\"https://nitter.net/pic/media%2FHG6O4M7agAA0AGW.png\" style=\"max-width:250px;\" />",
-          "content": "<p>🚨 테슬라, 리노 산업 단지 프로젝트 허가 신청 🇺🇸 <a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> <br> 1️⃣ 테슬라가 리노-타호 국제공항 인근 3010 에어웨이 드라이브 소재 에어웨이 커머스 센터 내부 공간에 대해 복수의 허가를 신청함<br> 2️⃣ 해당 부지는 톨레스 개발사가 조성한 약 89만 제곱피트 규모 산업 단지의 일부<br> 3️⃣ 테슬라는 이 시설의 하위 임차인으로 확인됐으며, 리노-타호 공항 당국은 추가 세부 내용은 공개하지 않음</p> <img src=\"https://nitter.net/pic/media%2FHG6O4M7agAA0AGW.png\" style=\"max-width:250px;\" />",
-          "pubDate": "Mon, 27 Apr 2026 11:52:26 GMT",
-          "guid": "https://nitter.net/TeslaZoa/2048731998219579846",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "TeslaZoa / @TeslaZoa",
-          "feedUrl": "https://nitter.net/TeslaZoa/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHG6O4M7agAA0AGW.png",
-          "summary": "🚨 테슬라, 리노 산업 단지 프로젝트 허가 신청 🇺🇸 $TSLA 1️⃣ 테슬라가 리노-타호 국제공항 인근 3010 에어웨이 드라이브 소재 에어웨이 커머스 센터 내부 공간에 대해 복수의 허가를 신청함 2️⃣ 해당 부지는 톨레스 개발사가 조성한 약 89만 제곱피트 규모 산업 단지의 일부 3️⃣ 테슬라는 이 시설의 하위 임차인으로 확인됐으며, 리노-타호 공항 당국은 추가 세부 내용은 공개하지...",
-          "author": "@TeslaZoa",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHG6O4M7agAA0AGW.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777374507299,
+      "lastUpdated": 1777378106258,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6206,7 +6232,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1907192609065623552%2FNkv4Z7zX_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1907192609065623552%2FNkv4Z7zX_400x400.jpg"
     },
     {
       "title": "송준 Jun Song / @songjunkr",
@@ -7203,7 +7229,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777374528496,
+      "lastUpdated": 1777378127140,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7727,7 +7753,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777374529517,
+      "lastUpdated": 1777378128770,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7744,6 +7770,29 @@
       "url": "https://nitter.net/Tslachan/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Xiaomi Unveils Humanoid Robot Cyberone Through Investor Day Event.",
+          "link": "https://nitter.net/Tslachan/status/2049081325714624749#m",
+          "description": "<p>Xiaomi Unveils Humanoid Robot Cyberone Through Investor Day Event.</p> <img src=\"https://nitter.net/pic/media%2FHG_MmoQbcAAdcCC.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>Xiaomi Unveils Humanoid Robot Cyberone Through Investor Day Event.</p> <img src=\"https://nitter.net/pic/media%2FHG_MmoQbcAAdcCC.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Tue, 28 Apr 2026 11:00:32 GMT",
+          "guid": "https://nitter.net/Tslachan/2049081325714624749",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Tsla Chan / @Tslachan",
+          "feedUrl": "https://nitter.net/Tslachan/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHG_MmoQbcAAdcCC.jpg",
+          "summary": "Xiaomi Unveils Humanoid Robot Cyberone Through Investor Day Event.",
+          "author": "@Tslachan",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHG_MmoQbcAAdcCC.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "$TSLA More Model Y Ls will enter Korea soon.",
           "link": "https://nitter.net/Tslachan/status/2049074512092905959#m",
@@ -8757,7 +8806,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777374529787,
+      "lastUpdated": 1777378129074,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8767,7 +8816,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
     },
     {
       "title": "SETI Park / @seti_park",
@@ -9649,7 +9698,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777374530935,
+      "lastUpdated": 1777378130073,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10817,7 +10866,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777374531055,
+      "lastUpdated": 1777378130223,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11331,7 +11380,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777374531842,
+      "lastUpdated": 1777378131272,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11487,7 +11536,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777374535194,
+      "lastUpdated": 1777378132838,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11539,7 +11588,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777374535338,
+      "lastUpdated": 1777378132992,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12157,7 +12206,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777374535727,
+      "lastUpdated": 1777378133366,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13326,7 +13375,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777374536271,
+      "lastUpdated": 1777378134153,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13761,7 +13810,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777374536424,
+      "lastUpdated": 1777378134289,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14092,7 +14141,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777374536570,
+      "lastUpdated": 1777378134417,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14817,7 +14866,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777374536731,
+      "lastUpdated": 1777378134541,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14858,7 +14907,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777374536731,
+  "lastRefreshTimestamp": 1777378134542,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
