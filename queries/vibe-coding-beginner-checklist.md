@@ -1,51 +1,58 @@
 ---
 title: "바이브 코딩 초보자 체크리스트"
-tags: [ai, vibe-coding, beginner, checklist, workflow]
-created: 2026-04-28
-updated: 2026-04-28
 type: query
-status: draft
-source_urls:
-  - https://codingwithvibe.com/the-complete-guide-to-vibe-coding/
-  - https://www.softr.io/blog/vibe-coding-best-practices
-  - https://interviewkickstart.com/blogs/articles/vibe-coding-best-practices
-  - https://aitoolsclub.com/the-ultimate-vibe-coding-guide-for-beginners-pros/
-  - https://github.com/analyticalrohit/awesome-vibe-coding-guide
-  - https://www.datacamp.com/blog/vibe-coding-guide-for-beginners
+created: 2026-04-28
+tags: [vibe-coding, checklist, beginner]
+related_concept: concepts/vibe-coding-beginner-methodology.md
 ---
 
-# 바이브 코딩 초보자 체크리스트
+# 바이브 코딩 초보자 실행 체크리스트
 
-## 📋 기획 단계
-- [ ] 제품 비전 2~3문장으로 정리 (무엇을·누구를 위해·왜)
-- [ ] PRD(제품 요구사항 문서) 작성 (AI 초안 → 수정)
-- [ ] 와이어프레임 스케치 (Figma/Miro 등)
-- [ ] 데이터 구조·사용자 역할 먼저 정의
-- [ ] 기술 스택 선택 (AI가 잘 아는 대중적 스택 권장)
+## 시작 전 (기획)
 
-## ⚙️ 환경 설정
-- [ ] Git/GitHub 초기화 (생명줄!)
-- [ ] `.cursorrules` (또는 유사 규칙 파일) 설정
-- [ ] `.env` 파일로 API 키·비밀번호 관리
+- [ ] 만들고 싶은 것을 한 문장으로 정의했는가?
+- [ ] 핵심 기능 3~5개를 bullet으로 목록화했는가?
+- [ ] 화면 구조를 간단히 그렸는가? (와이어프레임)
+- [ ] 필요한 데이터가 무엇인지 정의했는가?
 
-## ✍️ 프롬프트 & 구현
-- [ ] 3계층 프롬프트 구조 적용 (How → What → Care)
-- [ ] 기능을 작은 단계로 분할
-- [ ] "계획 먼저, 코드는 나중에" 패턴 사용
-- [ ] 구체적 제약 조건 명시 (버전·라이브러리 제한)
-- [ ] 마일스톤마다 Git 커밋
+## 환경 세팅
 
-## ✅ 검증 & 보안
-- [ ] 즉시 로컬 실행·테스트
-- [ ] "무엇이 잘못될 수 있을까?" → AI에 자체 비판 요청
-- [ ] 보안 감사: 하드코딩 키 확인, 입력 검증 체크
-- [ ] 에지 케이스(빈 입력·네트워크 단절) 확인
+- [ ] Next.js + Tailwind 등 스택을 결정했는가?
+- [ ] 템플릿(bolt.new / Vercel Templates)에서 시작했는가?
+- [ ] `.env` 파일을 생성했는가?
+- [ ] `.gitignore`에 `.env`, `node_modules/`를 추가했는가?
+- [ ] `git init`으로 버전 관리를 시작했는가?
 
-## 🐛 디버깅 & 마무리
-- [ ] 에러 시 콘솔 전체 AI에 전달
-- [ ] 2~3회 실패 시 되돌리기(Revert) → 프롬프트 재작성
-- [ ] 생성 → 검토 → 리팩토링 최소 2사이클
+## 프롬프트 작성
 
-## 🔗 관련
-- [[vibe-coding-beginner-methodology]] — 상세 방법론
-- [[research-agent-설계-계획]] — 초보자 AI 협업 연구
+- [ ] 1계층(HOW) — 기술적 조건을 명시했는가?
+- [ ] 2계층(WHAT) — 구현할 내용을 구체적으로 적었는가?
+- [ ] 3계층(CARE) — 중요한 맥락·제약을 전달했는가?
+- [ ] "먼저 계획만, 코드는 기다려"라고 지시했는가?
+- [ ] 예시 코드나 JSON 구조를 제공했는가?
+
+## 코드 생성 & 검증
+
+- [ ] 생성된 코드를 즉시 실행해서 동작을 확인했는가?
+- [ ] `tsc --noEmit` 또는 타입 검사를 통과했는가?
+- [ ] ESLint/Prettier로 코드 스타일을 확인했는가?
+- [ ] AI에게 "이 코드의 잠재적 문제는?"이라고 역질문했는가?
+
+## 보안 검토
+
+- [ ] API 키가 코드에 하드코딩되어 있지 않은가?
+- [ ] 사용자 입력 검증이 포함되어 있는가?
+- [ ] `npm audit`으로 의존성 취약점을 확인했는가?
+- [ ] 인증/인가 로직이 안전한가?
+
+## 배포 전
+
+- [ ] 모든 기능이 정상 동작하는지 테스트했는가?
+- [ ] 모바일에서도 UI가 깨지지 않는지 확인했는가?
+- [ ] `git commit`으로 최종 버전을 저장했는가?
+
+## 사후 개선
+
+- [ ] 사용자 피드백을 받을 채널이 있는가?
+- [ ] 다음 개선 포인트를 1~2개로 좁혔는가?
+- [ ] AI에게 리팩토링을 요청할 부분을 기록했는가?

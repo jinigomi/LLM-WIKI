@@ -1,11 +1,13 @@
 ---
-title: Anthropic vs OpenAI 정책 비교 - 교육 Vertical AI
+title: 바이브 코딩 초보자 방법론 리서치
 tags:
   - anthropic
   - openai
   - education
   - vertical-ai
   - policy
+  - vibe-coding
+  - methodology
   - notebooklm
   - llm-wiki
 date: 2026-04-28
