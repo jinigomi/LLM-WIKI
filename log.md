@@ -169,6 +169,14 @@ HermesBrain/
   - index.md
   - log.md
 
+## [2026-04-28] ingest | Boop Agent 분석
+- Source: https://github.com/raroque/boop-agent
+- Files created:
+  - entities/boop-agent.md
+  - comparisons/hermes-vs-boop.md
+- Files updated:
+  - index.md (Entities +1, Comparisons +1, Total pages 24→26)
+
 ## [2026-04-28] ingest | vibe-coding-beginner-methodology
 - NotebookLM notebook created and artifacts exported
 - Notebook ID: 7ebb8346-3fa1-4f7a-9809-baa38faca430

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-28 | Total pages: 24
+> Last updated: 2026-04-28 | Total pages: 26
 
 ## Concepts (8)
 - [[vibe-coding-beginner-methodology]] — 바이브 코딩 초보자 방법론: 5단계 워크플로우·3계층 프롬프트·보안·한계 종합 가이드 (2026-04-28, NotebookLM 6소스 분석)
@@ -12,7 +12,8 @@
 - [[prompt-engineering-systematic]] — 체계적 프롬프트 엔지니어링: Chain-of-Thought, Few-Shot, Constraint Specification
 - [[beginners-systematic-ai-methodology]] — 초보자 체계적 AI 협업 방법론 (연구 초안)
 
-## Entities (12)
+## Entities (13)
+- [[boop-agent]] — Boop Agent: iMessage 기반 오픈소스 개인 비서. Claude Agent SDK + Dispatcher-Worker 아키텍처 (2026-04-28)
 - [[research-agent-설계-계획]] — 바이브코딩+Senior-level AI 협업 연구 설계 (2026-04-27, 2-Stage Review 완료)
 - [[hyperagents-meta-agent-analysis]] — HyperAgents 프레임워크 심층 분석 (2026-04-27)
 - [[smart-video-speed-bug]] — YouTube DVR 라이브 감지 버그 (LiveSync.ts, 2026-04-26)
@@ -26,7 +27,8 @@
 - [[karpathy-guidelines-skill]] — Karpathy Guidelines: Think→Simple→Surgical→Goal-Driven (2026-04-26)
 - [[subagent-driven-dev-pattern]] — Subagent-Driven Development 패턴 (2026-04-26)
 
-## Comparisons (1)
+## Comparisons (2)
+- [[hermes-vs-boop]] — Hermes Agent vs Boop Agent: 아키텍처·Memory·통합·안전장치 전방위 비교 (2026-04-28)
 - [[note-wiki-vibe-coding-beginner-methodology]] — 바이브 코딩 6개 소스 비교분석 (대상·강점·도구 추천·연구 간극)
 
 ## Queries (3)

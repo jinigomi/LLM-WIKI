@@ -259,6 +259,8 @@
   },
   "active": "8345a98a51aa78c3",
   "lastOpenFiles": [
+    "comparisons/hermes-vs-boop.md",
+    "entities/boop-agent.md",
     "000-Inbox/vibe-coding-beginner-methodology_2026-04-28.md",
     "comparisons/note-wiki-vibe-coding-beginner-methodology.md",
     "concepts/바이브코딩-책-개요.md",
@@ -285,8 +287,6 @@
     "YOLO",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "docs/research-reports",
