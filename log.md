@@ -4,7 +4,22 @@
      4|> Format: `## [YYYY-MM-DD] action | subject`
      5|> Actions: ingest, update, query, lint, create, archive, delete
      6|
-     7|## [2026-04-29] ingest | Superpowers GitHub 레포 분석
+     7|## [2026-04-29] delete | Wiki 중복/불필요 데이터 정리 (lint)
+
+- **삭제:** 12개 파일
+  - `000-Inbox/vibe-coding-beginner-methodology_2026-04-28.md` — concepts로 이미 처리된 중복 인덱스
+  - `docs/anthropic-harness-comparison.md` — concepts/harness-engineering.md에 흡수됨
+  - `docs/hyperagents-meta-agent-analysis.md` — entities/research-agent-설계-계획.md에 흡수됨
+  - `docs/human-in-the-loop-checkpoints.md` — 미사용 템플릿
+  - `docs/structured-memory-template.md` — 미사용 양식
+  - `docs/research-sop.md` — SCHEMA.md로 대체된 임시 SOP
+  - `raw/Ch.1~3, Ch.20` (4개) — 바이브코딩 책 원본, entities/챕터-요약.md에 요약 정리됨
+  - `raw/바이브코딩은 왜 실패하는가...md` — 1KB 미만 스텁
+  - `AGENTS.md` — graphify용 빈 템플릿
+- **이동:** `docs/research-reports/*.md` → `raw/research-reports/`
+- **결과:** docs/ 폴더 삭제됨. 전체 .md 파일 69→54개
+
+## [2026-04-29] ingest | Superpowers GitHub 레포 분석
 
 - **소스:** https://github.com/obra/superpowers (v5.0.7)
 - **분석 방식:** Graphify AST + 15개 SKILL.md 수동 심층 분석

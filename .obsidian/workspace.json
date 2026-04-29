@@ -230,6 +230,10 @@
   },
   "active": "4dddf79ec05508af",
   "lastOpenFiles": [
+    "raw/research-reports/2026-04-29-research-progress.md",
+    "raw/research-reports/2026-04-28-research-progress.md",
+    "raw/research-reports/2026-04-27-research-progress.md",
+    "raw/research-reports",
     "docs/research-reports/2026-04-29-research-progress.md",
     "raw/articles/superpowers-github.md",
     "raw/바이브코딩은 왜 실패하는가 -AI 협업 가이드북.md",
@@ -254,9 +258,6 @@
     "concepts/에러-에스컬레이션.md",
     "concepts/바이브코딩-책-개요.md",
     "concepts/vibe-coding-blueprint-pattern.md",
-    "concepts/vibe-coding-beginner-methodology.md",
-    "concepts/rss-브리핑-파이프라인.md",
-    "concepts/mcp-프로토콜.md",
     "raw/articles/ai-에이전트-연구-도구-grok-2026-04-27.pdf",
     "raw/tweets",
     "000-Inbox",
@@ -264,7 +265,6 @@
     "copilot",
     "docs/research-reports",
     "docs",
-    "raw/books",
-    "Clippings"
+    "raw/books"
   ]
 }

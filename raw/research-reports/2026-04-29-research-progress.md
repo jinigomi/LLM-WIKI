@@ -32,6 +32,43 @@
 - **불필요 페이지 5개 삭제**: 중복 비교/쿼리 페이지, 세션 로그, 개인 TODO, Discord 채널 메모
 - **Orphan 해소**: 9개 오펀 중 8개 inbound wikilink 추가로 해결 (1개 허용)
 
+### 5. 🔬 스킬 업그레이드: Awareness 계층 추가 (2026-04-29)
+- **refinement-methodology v1.3.2 → v1.4.0**: 3계층(HOW-WHAT-CARE) → 4계층(HOW-WHAT-CARE-AWARENESS) 프레임워크로 업그레이드
+- **핵심 통찰**: Potts & Sudhof의 "Paradox of AI Fluency"에서 발견된 **invisible failure** 개념을 품질 평가에 통합
+- **Awareness 계층**: 사용자가 자신의 산출물 성공/실패를 스스로 판단할 수 있는가를 측정
+  - 성공 조건이 명시되었는가?
+  - 실패 신호가 감지 가능한가?
+  - 검증 도구가 내장되었는가?
+  - 사용자가 "충분히 좋은가?"를 객관적으로 판단 가능한가?
+- **meta-evolution-pattern v1.3.2 → v1.4.0**: CHANGELOG 추가, 두 스킬 항상 함께 버전 업 규칙 유지
+
+### 6. 📚 신규 논문 발견 (2026-04-28~29 추가분)
+
+- **2604.25806v1 - "MAIC-UI: Making Interactive Courseware with Generative UI"**
+  - AI로 대화형 STEM 코스웨어를 만드는 도구 — 초보자 교육과 AI 협업 방법론의 실전 응용 사례
+  - 비전문가 교육자도 코딩 없이 인터랙티브 학습 자료 생성 가능
+  - 시사점: 초보자도 "코드 쓰기"가 아닌 "의도 표현"으로 복잡한 결과물을 만들 수 있다는 가능성 입증
+
+- **2604.25648v1 - "Curiosity and Metacognition: Towards a Unified Framework for Learning and Education in the Age of AI"**
+  - AI 시대의 학습과 교육을 위한 호기심-메타인지 통합 프레임워크
+  - 호기심(탐구의 추진력) + 메타인지(자신의 지식 상태 모니터링) = 자율학습의 핵심
+  - 시사점: 우리의 "Awareness 계층"이 메타인지(métacognition) 개념과 정확히 일치 — 학계에서 검증된 이론적 근거 확보
+
+- **2604.25345v1 - "Plausible but Wrong: Agentic Failures in Astrophysical Workflows"**
+  - 과학 워크플로우에서 AI 에이전트의 "그럴듯하지만 틀린" 실패 패턴 분석
+  - AI가 전문 지식 없이 자신감 있게 틀린 답을 생성하는 문제
+  - 시사점: "invisible failure"의 구체적 사례 — 초보자는 더 취약. Awareness 계층의 필요성 재확인
+
+- **2604.25256v1 - "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery"**
+  - 과학 문헌 발견을 위한 AI 에이전트 벤치마크
+  - 우리의 Research Agent와 직접적 연관 — 연구 자동화의 평가 기준으로 활용 가능
+
+- **2604.25850v1 - "Agentic Harness Engineering"**: 코딩 에이전트 하네스의 자동 진화
+  - 우리의 harness-engineering 연구와 연계 — 하네스 엔지니어링의 최전선
+
+- **2604.25899v1 - "Pythia"**: 예측 가능성 중심의 에이전트 네이티브 LLM 서빙
+  - 멀티 에이전트 아키텍처의 실제 운영 인프라 — Research Agent 구현 시 참고
+
 ## 현재 상태
 
 | 영역 | 상태 | 비고 |
@@ -46,8 +83,8 @@
 | **신규 논문** "Paradox of AI Fluency" | ✅ 발견 (2026-04-29) | 연구 과제 직접 연관, Wiki 저장 필요 |
 | **신규 논문** "RecursiveMAS" | ✅ 발견 (2026-04-29) | Multi-agent 패턴 참고 |
 | **스킬 체계** | | |
-| refinement-methodology | v1.3.2 | 3계층 품질 프레임워크 (How-What-Care) |
-| meta-evolution-pattern | v1.3.2 | Blueprint Pattern, Multi-Perspective Evaluation |
+| refinement-methodology | v1.4.0 ↑ | 4계층 품질 프레임워크 (How-What-Care-Awareness) |
+| meta-evolution-pattern | v1.4.0 ↑ | Invisible Failure 패턴, CHANGELOG 추가 |
 
 ## 다음 단계
 
