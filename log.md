@@ -335,5 +335,6 @@
 
 - **생성:** `entities/openspec.md` — OpenSpec 도구 전체 분석 (Graphify 기반 774노드 코드그래프 포함)
 - **생성:** `concepts/spec-driven-development.md` — Spec-Driven Development 개념, Delta Specs, OPSX 워크플로우
+- **생성:** `comparisons/openspec-vs-superpowers.md` — OpenSpec vs Superpowers 전방위 비교 분석
 - **분석 파이프라인:** GitHub clone → Graphify AST 추출 (212파일, 36개 커뮤니티) → 관찰 → Wiki 작성
 - **소스:** https://github.com/Fission-AI/OpenSpec

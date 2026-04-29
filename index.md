@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-30 | Total pages: 28
+> Last updated: 2026-04-30 | Total pages: 29
 
 ## Concepts (10)
 - [[spec-driven-development]] — Spec-Driven Development: 코드 전에 명세 합의 — Delta Specs, OPSX 워크플로우, AI 협업 패턴
@@ -38,8 +38,9 @@
 - [[챕터-요약]] — 바이브코딩 책 챕터별 요약
 - [[프로젝트-개요]] — Engineering Mindset 프로젝트 개요
 
-## Comparisons (1)
+## Comparisons (2)
 - [[hermes-vs-boop]] — Hermes Agent vs Boop Agent: 아키텍처·Memory·통합·안전장치 전방위 비교
+- [[comparisons/openspec-vs-superpowers|openspec-vs-superpowers]] — OpenSpec vs Superpowers: Spec-first vs Process-first AI 협업 프레임워크 전방위 비교
 
 ## Queries (1)
 - [[vibe-coding-beginner-checklist]] — 바이브 코딩 초보자 실행 체크리스트 (시작→환경→프롬프트→검증→보안→배포→개선)
