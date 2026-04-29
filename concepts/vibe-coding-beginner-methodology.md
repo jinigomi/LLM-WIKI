@@ -181,6 +181,5 @@ notebook_id: 7ebb8346-3fa1-4f7a-9809-baa38faca430
 
 ## 관련 Wiki 페이지
 
-- `queries/vibe-coding-beginner-checklist.md` — 실행 체크리스트
-- `comparisons/note-wiki-vibe-coding-beginner-methodology.md` — 소스별 비교분석
+- [[vibe-coding-beginner-checklist]] — 실행 체크리스트
 - NotebookLM 아티팩트: `/Users/bricoleur/artifacts/7ebb8346-3fa1-4f7a-9809-baa38faca430/`

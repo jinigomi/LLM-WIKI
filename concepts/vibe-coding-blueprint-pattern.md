@@ -53,6 +53,5 @@ tags: [methodology, vibe-coding, blueprint, plan-first, AI-collaboration]
 ## 연관 노트
 
 - [[app-blueprint-prompt]] — 실제 메타프롬프트 원문
-- plan-before-code — 코딩 전 계획의 일반 원칙
-- AI-협업-방법론-체크리스트 — 초보자를 위한 전체 로드맵
-- vibe-coding-senior-advisor-prompt — 시니어 엔지니어 페르소나 패턴
+- [[vibe-coding-beginner-methodology]] — 초보자 바이브 코딩 방법론 전체
+- [[vibe-coding-beginner-checklist]] — 초보자 실행 체크리스트

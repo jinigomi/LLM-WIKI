@@ -134,7 +134,8 @@ s3://bucket/deep-insight/fargate_sessions/{session_id}/
 
 ## 관련 개념
 
+- [[harness-engineering-wikidocs]] — 위키독스 입문서
 - context-window — Context Engineering (Part 2)
 - multi-agent — Deep Insight의 Multi-Agent 설계
 - agentic-ai — Agentic AI 시스템 설계 패턴
-- 오케스트레이션 — 지휘자/현장책임자 분업으로 에이전트 행동을 통제하는 패턴
+- [[오케스트레이션]] — 지휘자/현장책임자 분업으로 에이전트 행동을 통제하는 패턴

@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "990c8ed814c5237a",
+            "id": "4dddf79ec05508af",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -228,8 +228,10 @@
       "yolo:Open chat": false
     }
   },
-  "active": "990c8ed814c5237a",
+  "active": "4dddf79ec05508af",
   "lastOpenFiles": [
+    "raw/articles/context-rot.md",
+    "YOLO",
     "raw/articles/anthropic-desktop-extensions.md",
     "raw/archived-stubs/anthropic-building-c-compiler.md",
     "raw/archived-stubs/anthropic-ai-resistant-evals.md",
@@ -255,11 +257,9 @@
     "concepts/harness-engineering.md",
     "concepts/anthropic-claude-think-tool.md",
     "docs/research-sop.md",
-    "docs/hyperagents-meta-agent-analysis.md",
     "raw/articles/ai-에이전트-연구-도구-grok-2026-04-27.pdf",
     "raw/tweets",
     "000-Inbox",
-    "YOLO",
     "copilot/copilot-custom-prompts",
     "copilot",
     "docs/research-reports",

@@ -240,3 +240,15 @@
 - Files updated:
   - index.md — 5개 항목 제거, 카운트 28→23
   - entities/telegram-bot-techbriefinghermes-bot.md — 깨진 wikilink 수정
+
+## [2026-04-29] lint | 9 orphans → 8 fixed, 1 stub fortified
+
+- 9 orphans identified; 8 resolved with inbound wikilinks.
+- Files updated:
+  - concepts/바이브코딩-책-개요.md — [[vibe-coding-beginner-methodology]], [[기억하는-개발]] wikilinks added
+  - concepts/vibe-coding-blueprint-pattern.md — [[vibe-coding-beginner-methodology]], [[vibe-coding-beginner-checklist]] wikilinks added (broken plain-text links removed)
+  - concepts/harness-engineering.md — [[harness-engineering-wikidocs]] wikilink added
+  - concepts/rss-브리핑-파이프라인.md — 모든 관련 개념 plain-text → [[wikilinks]] 변환, 삭제된 discord-채널 링크 제거
+  - concepts/vibe-coding-beginner-methodology.md — [[vibe-coding-beginner-checklist]] wikilink added, 삭제된 comparisons 링크 제거
+  - entities/context-rot.md — [[wikilinks]] 변환 + 본문 보강 (479→500+ bytes)
+- Remaining orphan: anthropic-claude-think-tool (독립 개념, 오펀 허용)
