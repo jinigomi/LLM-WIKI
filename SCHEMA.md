@@ -60,14 +60,14 @@ contradictions: [other-page-slug]
 
 ## Tag Taxonomy
 
-- **AI/LLM**: model, architecture, training, fine-tuning, inference, alignment, reasoning
+- **AI/LLM**: model, architecture, training, fine-tuning, inference, alignment, reasoning, prompt, prompt-engineering, AI, LLM
 - **Evaluation**: benchmark, eval, harness, swe-bench, postmortem, evaluation
-- **Collaboration**: orchestration, agent, multi-agent, context-engineering, tool-use
+- **Collaboration**: orchestration, agent, multi-agent, context-engineering, tool-use, AI-collaboration, ai-assisted-development
 - **Tools/infra**: mcp, claude-code, obsidian, hermes, rss, cron
-- **Development**: engineering-thinking, vibe-coding, error-escalation, memory-driven
+- **Development**: engineering-thinking, vibe-coding, error-escalation, memory-driven, engineering, methodology, blueprint, plan-first, checklist, SaaS, software-development, technology
 - **People/Orgs**: person, company, lab, open-source
 - **Meta**: comparison, timeline, controversy, prediction, limitation
-- **Domain**: reading, research, project, session
+- **Domain**: reading, research, project, session, beginner, education, question, sources
 - **Platform**: telegram, discord, delivery, bot
 - **Techniques**: rag, embedding
 

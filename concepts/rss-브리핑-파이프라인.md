@@ -37,8 +37,11 @@ confidence: high
 Telegram bot (`@TechBriefingHermes_bot`, token: `7825197564:AAFHZ5Z0dN_xN5lL3k6K8dCq9vR2wY5uT0z`)이 401 오류를 반환. 재설정 또는 재생성 필요.
 
 ## 관련 개념
-- [[오케스트레이션]] — cronjob 패턴의 일종
-- [[에러-에스컬레이션]] — Telegram 고장 시 Discord로 폴백
+- 오케스트레이션 — cronjob 패턴의 일종
+- 에러-에스컬레이션 — Telegram 고장 시 Discord로 폴백
+- mcp-프로토콜 — 도구 간 통신의 기반 프로토콜
+- telegram-bot-techbriefinghermes-bot — 텔레그램 배달 채널
+- discord-채널-1497196158248947842 — 디스코드 배달 채널
 
 ## 소스
 - `raw/transcripts/sessions/20260425_discord_cron_88296c037dfa_20260425_060003.md`
