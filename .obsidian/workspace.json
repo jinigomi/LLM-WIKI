@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9d86e8fcd5a8a94",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          },
-          {
             "id": "8345a98a51aa78c3",
             "type": "leaf",
             "state": {
@@ -25,6 +15,20 @@
               "state": {},
               "icon": "rss",
               "title": "RSS dashboard"
+            }
+          },
+          {
+            "id": "d264e99f199d2377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCHEMA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SCHEMA"
             }
           }
         ],
@@ -85,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "77b6492654a44288",
@@ -162,12 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "SCHEMA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "SCHEMA 의 개요"
             }
           },
           {
@@ -229,41 +233,41 @@
       "yolo:Open chat": false
     }
   },
-  "active": "8345a98a51aa78c3",
+  "active": "d264e99f199d2377",
   "lastOpenFiles": [
-    "AGENTS.md",
-    "concepts/hermes-15-hidden-features.md",
-    "raw/articles/sharbel-15-hermes-features-2026-04-29.md",
-    "docs/research-reports/2026-04-28-research-progress.md",
-    "raw/tweets/2026-04-28-lucas-flatwhite-blueprint-prompt.md",
-    "raw/tweets",
-    "concepts/vibe-coding-blueprint-pattern.md",
-    "entities/app-blueprint-prompt.md",
-    "comparisons/note-wiki-vibe-coding-beginner-methodology.md",
-    "concepts/vibe-coding-beginner-methodology.md",
-    "comparisons/hermes-vs-boop.md",
-    "entities/boop-agent.md",
-    "000-Inbox/vibe-coding-beginner-methodology_2026-04-28.md",
-    "concepts/바이브코딩-책-개요.md",
-    "concepts/에러-에스컬레이션.md",
-    "queries/vibe-coding-beginner-checklist.md",
-    "concepts/anthropic-claude-think-tool.md",
-    "000-Inbox",
-    "queries/note-wiki-vibe-coding-beginner-methodology-checklist.md",
-    "raw/articles/notebooklm-note-wiki-vibe-coding-beginner-methodology-report-2026-04-28.md",
-    "raw/articles/note-wiki-vibe-coding-beginner-methodology-sources-2026-04-28.md",
-    "raw/papers/2507.22085v2-boop-write-right-code.md",
-    "raw/papers/2604.22747v1-code-for-all-educational-applications-of-the-vibe-coding-hac.md",
-    "raw/papers/2508.00952v1-academic-vibe-coding-opportunities-for-accelerating-research.md",
-    "raw/papers/2510.00328v1-vibe-coding-in-practice-motivations,-challenges,-and-a-futur.md",
-    "raw/papers/2604.22604v1-vibe-coding-for-clinicians-democratising-bespoke-software-de.md",
-    "raw/papers/2512.02750v1-can-you-feel-the-vibes-an-exploration-of-novice-programmer-e.md",
+    "log.md",
     "index.md",
+    "AGENTS.md",
+    "000-Inbox/vibe-coding-beginner-methodology_2026-04-28.md",
+    "comparisons/hermes-vs-boop.md",
+    "concepts/에러-에스컬레이션.md",
+    "concepts/바이브코딩-책-개요.md",
+    "concepts/vibe-coding-blueprint-pattern.md",
+    "concepts/vibe-coding-beginner-methodology.md",
+    "concepts/rss-브리핑-파이프라인.md",
+    "concepts/mcp-프로토콜.md",
+    "concepts/hermes-15-hidden-features.md",
+    "concepts/harness-engineering.md",
+    "concepts/anthropic-claude-think-tool.md",
+    "docs/research-sop.md",
+    "docs/hyperagents-meta-agent-analysis.md",
+    "docs/human-in-the-loop-checkpoints.md",
+    "docs/anthropic-harness-comparison.md",
+    "entities/context-rot.md",
+    "entities/boop-agent.md",
+    "entities/app-blueprint-prompt.md",
+    "raw/바이브코딩은 왜 실패하는가 -AI 협업 가이드북.md",
+    "raw/tweets/2026-04-28-lucas-flatwhite-blueprint-prompt.md",
+    "raw/papers/2604.22604v1-vibe-coding-for-clinicians-democratising-bespoke-software-de.md",
+    "raw/papers/2508.00952v1-academic-vibe-coding-opportunities-for-accelerating-research.md",
+    "raw/papers/2507.22085v2-boop-write-right-code.md",
+    "raw/articles/ai-에이전트-연구-도구-grok-2026-04-27.pdf",
+    "raw/tweets",
+    "000-Inbox",
     "YOLO",
     "copilot/copilot-custom-prompts",
     "copilot",
     "docs/research-reports",
-    "raw/articles/ai-에이전트-연구-도구-grok-2026-04-27.pdf",
     "docs",
     "raw/books",
     "Clippings"

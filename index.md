@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-29 | Total pages: 28
+> Last updated: 2026-04-29 | Total pages: 23
 
 ## Concepts (11)
 - [[anthropic-claude-think-tool]] — Anthropic의 "think" tool: 복잡한 도구 사용 상황에서 Claude가 멈추고 생각하게 하는 메커니즘
@@ -17,8 +17,7 @@
 - [[바이브코딩-책-개요]] — 바이브코딩 책 (박경태, wikidocs) 전체 개요 및 구조
 - [[에러-에스컬레이션]] — AI 코딩에서 에러가 발생했을 때 상위 지원으로 에스컬레이션하는 패턴
 
-## Entities (12)
-- [[2026-04-26]] — 2026-04-26 세션 로그
+## Entities (9)
 - [[app-blueprint-prompt]] — APP_BLUEPRINT.md 생성 메타프롬프트 (@DeRonin_ 제작)
 - [[boop-agent]] — Boop Agent: iMessage 기반 오픈소스 개인 비서. Claude Agent SDK + Dispatcher-Worker 아키텍처
 - [[discord-채널-1497196158248947842]] — Discord 채널 #1497196158248947842 정보
