@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777478900747,
+      "lastUpdated": 1777482500774,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -214,7 +214,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777478900880,
+      "lastUpdated": 1777482501070,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -675,7 +675,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777478900962,
+      "lastUpdated": 1777482501151,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -954,7 +954,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777478901129,
+      "lastUpdated": 1777482501316,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1415,7 +1415,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777478901293,
+      "lastUpdated": 1777482501477,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1928,7 +1928,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777478901477,
+      "lastUpdated": 1777482501632,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2181,7 +2181,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777478901630,
+      "lastUpdated": 1777482501787,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3200,7 +3200,7 @@
           "image": ""
         }
       ],
-      "lastUpdated": 1777478903159,
+      "lastUpdated": 1777482503152,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4619,7 +4619,7 @@
           }
         }
       ],
-      "lastUpdated": 1777478904274,
+      "lastUpdated": 1777482504312,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4637,7 +4637,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777478904400,
+      "lastUpdated": 1777482504457,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4655,7 +4655,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777478904758,
+      "lastUpdated": 1777482504816,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5824,7 +5824,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777478905725,
+      "lastUpdated": 1777482505912,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6992,7 +6992,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777478906940,
+      "lastUpdated": 1777482506921,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7608,7 +7608,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777478908538,
+      "lastUpdated": 1777482508377,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8776,7 +8776,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777478909501,
+      "lastUpdated": 1777482509290,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8794,6 +8794,52 @@
       "folder": "RSS",
       "items": [
         {
+          "title": "RT by @seti_park: now we just need a SoTA model... ⏳",
+          "link": "https://nitter.net/synthwavedd/status/2049519795465236949#m",
+          "description": "<p>now we just need a SoTA model... <br> <br> ⏳</p> <hr/> <blockquote> <b>Google Gemini (@GeminiApp)</b> <p> <p>You can now generate a variety of downloadable files, including PDFs, <a href=\"https://nitter.net/GoogleWorkspace\" title=\"Google Workspace\">@GoogleWorkspace</a> files, Microsoft Word & Excel, and more directly in your chats with Gemini.<br> <br> Tell Gemini what content to create and the file format you want when you prompt without having to upload a template.</p> </p> <footer> — <cite><a href=\"https://nitter.net/GeminiApp/status/2049519416698683514#m\">https://nitter.net/GeminiApp/status/2049519416698683514#m</a> </footer> </blockquote>",
+          "content": "<p>now we just need a SoTA model... <br> <br> ⏳</p> <hr/> <blockquote> <b>Google Gemini (@GeminiApp)</b> <p> <p>You can now generate a variety of downloadable files, including PDFs, <a href=\"https://nitter.net/GoogleWorkspace\" title=\"Google Workspace\">@GoogleWorkspace</a> files, Microsoft Word & Excel, and more directly in your chats with Gemini.<br> <br> Tell Gemini what content to create and the file format you want when you prompt without having to upload a template.</p> </p> <footer> — <cite><a href=\"https://nitter.net/GeminiApp/status/2049519416698683514#m\">https://nitter.net/GeminiApp/status/2049519416698683514#m</a> </footer> </blockquote>",
+          "pubDate": "Wed, 29 Apr 2026 16:02:52 GMT",
+          "guid": "https://nitter.net/seti_park/2049519795465236949",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "",
+          "summary": "now we just need a SoTA model... ⏳ Google Gemini (@GeminiApp) You can now generate a variety of downloadable files, including PDFs, @GoogleWorkspace files, Microsoft Word & Excel, and more directly in your chats with Gem...",
+          "author": "@synthwavedd",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "RT by @seti_park: You can now ask Gemini to create Docs, Sheets, Slides, PDFs, and more directly in your chat. No more copying, pasting, or reformatting, just prompt and download. Available globally for all @GeminiApp users.",
+          "link": "https://nitter.net/sundarpichai/status/2049519281600373159#m",
+          "description": "<p>You can now ask Gemini to create Docs, Sheets, Slides, PDFs, and more directly in your chat. No more copying, pasting, or reformatting, just prompt and download.<br> <br> Available globally for all <a href=\"https://nitter.net/GeminiApp\" title=\"Google Gemini\">@GeminiApp</a> users.</p> <a href=\"https://nitter.net/sundarpichai/status/2049519281600373159#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049517283140337664%2Fimg%2FW0b7Wb1TB-KtpQTr.jpg\" style=\"max-width:250px;\" /> </a>",
+          "content": "<p>You can now ask Gemini to create Docs, Sheets, Slides, PDFs, and more directly in your chat. No more copying, pasting, or reformatting, just prompt and download.<br> <br> Available globally for all <a href=\"https://nitter.net/GeminiApp\" title=\"Google Gemini\">@GeminiApp</a> users.</p> <a href=\"https://nitter.net/sundarpichai/status/2049519281600373159#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049517283140337664%2Fimg%2FW0b7Wb1TB-KtpQTr.jpg\" style=\"max-width:250px;\" /> </a>",
+          "pubDate": "Wed, 29 Apr 2026 16:00:49 GMT",
+          "guid": "https://nitter.net/seti_park/2049519281600373159",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2049517283140337664%2Fimg%2FW0b7Wb1TB-KtpQTr.jpg",
+          "summary": "You can now ask Gemini to create Docs, Sheets, Slides, PDFs, and more directly in your chat. No more copying, pasting, or reformatting, just prompt and download. Available globally for all @GeminiApp users. Video",
+          "author": "@sundarpichai",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/amplify_video_thumb%2F2049517283140337664%2Fimg%2FW0b7Wb1TB-KtpQTr.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
           "title": "RT by @seti_park: Intel is such a horse. I have NO bear case",
           "link": "https://nitter.net/jimcramer/status/2049504487748849981#m",
           "description": "<p>Intel is such a horse. I have NO bear case</p>",
@@ -8808,6 +8854,29 @@
           "coverImage": "",
           "summary": "Intel is such a horse. I have NO bear case",
           "author": "@jimcramer",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "RT by @seti_park: BREAKING: Half of planned US data center builds have been delayed or canceled",
+          "link": "https://nitter.net/Hedgeye/status/2049501790161248586#m",
+          "description": "<p>BREAKING: Half of planned US data center builds have been delayed or canceled</p>",
+          "content": "<p>BREAKING: Half of planned US data center builds have been delayed or canceled</p>",
+          "pubDate": "Wed, 29 Apr 2026 14:51:19 GMT",
+          "guid": "https://nitter.net/seti_park/2049501790161248586",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "",
+          "summary": "BREAKING: Half of planned US data center builds have been delayed or canceled",
+          "author": "@Hedgeye",
           "saved": false,
           "mediaType": "article",
           "duration": "",
@@ -9873,78 +9942,9 @@
           "image": "https://nitter.net/pic/media%2FHG7G0mYaoAAiMgA.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "RT by @seti_park: 22 days until Google I/O ⏳ Can you feel it yet? 🔵🔴🟡🟢",
-          "link": "https://nitter.net/jacalulu/status/2048771240836657569#m",
-          "description": "<p>22 days until Google I/O ⏳<br> Can you feel it yet? 🔵🔴🟡🟢</p>",
-          "content": "<p>22 days until Google I/O ⏳<br> Can you feel it yet? 🔵🔴🟡🟢</p>",
-          "pubDate": "Mon, 27 Apr 2026 14:28:22 GMT",
-          "guid": "https://nitter.net/seti_park/2048771240836657569",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "SETI Park / @seti_park",
-          "feedUrl": "https://nitter.net/seti_park/rss",
-          "coverImage": "",
-          "summary": "22 days until Google I/O ⏳ Can you feel it yet? 🔵🔴🟡🟢",
-          "author": "@jacalulu",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "RT by @seti_park: 헐",
-          "link": "https://nitter.net/GONOGO_Korea/status/2048753902619922864#m",
-          "description": "<p>헐</p> <img src=\"https://nitter.net/pic/media%2FHG6ixWBaoAAyC3-.jpg\" style=\"max-width:250px;\" />",
-          "content": "<p>헐</p> <img src=\"https://nitter.net/pic/media%2FHG6ixWBaoAAyC3-.jpg\" style=\"max-width:250px;\" />",
-          "pubDate": "Mon, 27 Apr 2026 13:19:29 GMT",
-          "guid": "https://nitter.net/seti_park/2048753902619922864",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "SETI Park / @seti_park",
-          "feedUrl": "https://nitter.net/seti_park/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHG6ixWBaoAAyC3-.jpg",
-          "summary": "헐",
-          "author": "@GONOGO_Korea",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHG6ixWBaoAAyC3-.jpg",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "RT by @seti_park: Shaping the future of AI requires global collaboration! Excited to see @GoogleDeepMind and South Korea working together to accelerate scientific breakthroughs and build AI responsibly. 🏫 New AI Campus at Google's Seoul offices 🧬 AlphaFold already used by 85,000+ researchers in Korea 🎓 Internship opportunities for Korean students at DeepMind 🛡️ Collaboration with Korean AI Safety Institute",
-          "link": "https://nitter.net/_philschmid/status/2048750592760164400#m",
-          "description": "<p>Shaping the future of AI requires global collaboration! Excited to see <a href=\"https://nitter.net/GoogleDeepMind\" title=\"Google DeepMind\">@GoogleDeepMind</a> and South Korea working together to accelerate scientific breakthroughs and build AI responsibly.<br> <br> 🏫 New AI Campus at Google's Seoul offices<br> 🧬 AlphaFold already used by 85,000+ researchers in Korea<br> 🎓 Internship opportunities for Korean students at DeepMind<br> 🛡️ Collaboration with Korean AI Safety Institute</p> <img src=\"https://nitter.net/pic/media%2FHG6ftgwbUAASaQR.jpg\" style=\"max-width:250px;\" />",
-          "content": "<p>Shaping the future of AI requires global collaboration! Excited to see <a href=\"https://nitter.net/GoogleDeepMind\" title=\"Google DeepMind\">@GoogleDeepMind</a> and South Korea working together to accelerate scientific breakthroughs and build AI responsibly.<br> <br> 🏫 New AI Campus at Google's Seoul offices<br> 🧬 AlphaFold already used by 85,000+ researchers in Korea<br> 🎓 Internship opportunities for Korean students at DeepMind<br> 🛡️ Collaboration with Korean AI Safety Institute</p> <img src=\"https://nitter.net/pic/media%2FHG6ftgwbUAASaQR.jpg\" style=\"max-width:250px;\" />",
-          "pubDate": "Mon, 27 Apr 2026 13:06:19 GMT",
-          "guid": "https://nitter.net/seti_park/2048750592760164400",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "SETI Park / @seti_park",
-          "feedUrl": "https://nitter.net/seti_park/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHG6ftgwbUAASaQR.jpg",
-          "summary": "Shaping the future of AI requires global collaboration! Excited to see @GoogleDeepMind and South Korea working together to accelerate scientific breakthroughs and build AI responsibly. 🏫 New AI Campus at Google's Seoul ...",
-          "author": "@_philschmid",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHG6ftgwbUAASaQR.jpg",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777478910633,
+      "lastUpdated": 1777482510423,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11112,7 +11112,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777478910748,
+      "lastUpdated": 1777482510541,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11659,7 +11659,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777478911547,
+      "lastUpdated": 1777482511316,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11815,7 +11815,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777478913051,
+      "lastUpdated": 1777482512947,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11867,7 +11867,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777478913184,
+      "lastUpdated": 1777482513065,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11885,10 +11885,30 @@
       "folder": "RSS",
       "items": [
         {
+          "title": "Powering AI Factories with NVIDIA Enterprise Reference Architectures",
+          "link": "https://developer.nvidia.com/blog/powering-ai-factories-with-nvidia-enterprise-reference-architectures/",
+          "description": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A person working on a data center rack.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory.webp 1920w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"AI-Factory\" />The next wave of enterprise productivity is being built on AI factories. As organizations deploy agentic AI systems capable of reasoning, automation, and...",
+          "content": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A person working on a data center rack.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory.webp 1920w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"AI-Factory\" />The next wave of enterprise productivity is being built on AI factories. As organizations deploy agentic AI systems capable of reasoning, automation, and...<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A person working on a data center rack.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory.webp 1920w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"AI-Factory\" /><p>The next wave of enterprise productivity is being built on AI factories. As organizations deploy agentic AI systems capable of reasoning, automation, and real-time decision-making at scale, competitive advantage increasingly depends on the infrastructure that supports them. Success requires more than raw compute. It demands a scalable, predictable foundation that can orchestrate intelligent…</p> <p><a href=\"https://developer.nvidia.com/blog/powering-ai-factories-with-nvidia-enterprise-reference-architectures/\" rel=\"nofollow\" data-wpel-link=\"internal\" target=\"_self\">Source</a></p>",
+          "pubDate": "2026-04-29T16:41:57Z",
+          "guid": "https://developer.nvidia.com/blog/?p=116222",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "NVIDIA Technical Blog",
+          "feedUrl": "https://developer.nvidia.com/blog/feed/",
+          "coverImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-768x432.png",
+          "summary": "The next wave of enterprise productivity is being built on AI factories. As organizations deploy agentic AI systems capable of reasoning, automation, and...The next wave of enterprise productivity is being built on AI fa...",
+          "author": "Shashank Sabhlok",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/AI-Factory-768x432.png"
+        },
+        {
           "title": "Scaling Biomolecular Modeling Using Context Parallelism in NVIDIA BioNeMo",
           "link": "https://developer.nvidia.com/blog/scaling-biomolecular-modeling-using-context-parallelism-in-nvidia-bionemo/",
-          "description": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1.webp 1600w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"biomolecule\" />For decades, computational biology has operated under a reductionist compromise. To fit complex biological systems into the limited memory of a single GPU,...",
-          "content": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1.webp 1600w\" sizes=\"(max-width: 768px) 100vw, 768px\" title=\"biomolecule\" />For decades, computational biology has operated under a reductionist compromise. To fit complex biological systems into the limited memory of a single GPU,...<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1.webp 1600w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"biomolecule\" /><p>For decades, computational biology has operated under a reductionist compromise. To fit complex biological systems into the limited memory of a single GPU, researchers have had to deconstruct them into isolated fragments—single proteins or small domains. This created a context gap, where larger proteins or complexes could not be folded zero-shot due to GPU hardware memory constraints. Now…</p> <p><a href=\"https://developer.nvidia.com/blog/scaling-biomolecular-modeling-using-context-parallelism-in-nvidia-bionemo/\" rel=\"nofollow\" data-wpel-link=\"internal\" target=\"_self\">Source</a></p>",
+          "description": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1.webp 1600w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"biomolecule\" />For decades, computational biology has operated under a reductionist compromise. To fit complex biological systems into the limited memory of a single GPU,...",
+          "content": "<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1.webp 1600w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"biomolecule\" />For decades, computational biology has operated under a reductionist compromise. To fit complex biological systems into the limited memory of a single GPU,...<img width=\"768\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-768x432.png 768w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-179x101.png 179w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-300x169.png 300w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-625x352.png 625w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-1536x864.png 1536w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-645x363.png 645w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-660x370.png 660w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-500x281.png 500w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-160x90.png 160w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-362x204.png 362w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-196x110.png 196w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-1024x576.png 1024w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-960x540.png 960w, https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1.webp 1600w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" title=\"biomolecule\" /><p>For decades, computational biology has operated under a reductionist compromise. To fit complex biological systems into the limited memory of a single GPU, researchers have had to deconstruct them into isolated fragments—single proteins or small domains. This created a context gap, where larger proteins or complexes could not be folded zero-shot due to GPU hardware memory constraints. Now…</p> <p><a href=\"https://developer.nvidia.com/blog/scaling-biomolecular-modeling-using-context-parallelism-in-nvidia-bionemo/\" rel=\"nofollow\" data-wpel-link=\"internal\" target=\"_self\">Source</a></p>",
           "pubDate": "2026-04-28T19:00:00Z",
           "guid": "https://developer.nvidia.com/blog/?p=115250",
           "read": false,
@@ -12545,7 +12565,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777478913390,
+      "lastUpdated": 1777482513320,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13714,7 +13734,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777478913887,
+      "lastUpdated": 1777482513973,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14175,7 +14195,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777478914061,
+      "lastUpdated": 1777482514051,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14506,7 +14526,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777478914241,
+      "lastUpdated": 1777482514195,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15231,7 +15251,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777478914432,
+      "lastUpdated": 1777482514342,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15272,7 +15292,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777478914432,
+  "lastRefreshTimestamp": 1777482514342,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
