@@ -229,3 +229,14 @@
    229|- Files updated:
    230|  - index.md
    231|  - log.md
+
+## [2026-04-29] delete | 중복/불필요 페이지 정리
+- Files deleted:
+  - comparisons/note-wiki-vibe-coding-beginner-methodology.md — 본편(vibe-coding-beginner-methodology)에 흡수
+  - queries/note-wiki-vibe-coding-beginner-methodology-checklist.md — 빈 체크리스트 (본편으로 대체)
+  - entities/2026-04-26.md — 세션 로그 (위키 지식 아님)
+  - entities/체크리스트.md — 개인 TODO (위키 지식 아님)
+  - entities/discord-채널-1497196158248947842.md — 채널 ID 메모 (설정값, 위키 지식 아님)
+- Files updated:
+  - index.md — 5개 항목 제거, 카운트 28→23
+  - entities/telegram-bot-techbriefinghermes-bot.md — 깨진 wikilink 수정

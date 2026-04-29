@@ -20,7 +20,6 @@
 ## Entities (9)
 - [[app-blueprint-prompt]] — APP_BLUEPRINT.md 생성 메타프롬프트 (@DeRonin_ 제작)
 - [[boop-agent]] — Boop Agent: iMessage 기반 오픈소스 개인 비서. Claude Agent SDK + Dispatcher-Worker 아키텍처
-- [[discord-채널-1497196158248947842]] — Discord 채널 #1497196158248947842 정보
 - [[harness-engineering-wikidocs]] — 하네스 엔지니어링 입문 — 위키독스 요약
 - [[research-agent-설계-계획]] — 바이브코딩+Senior-level AI 협업 연구 설계 (2-Stage Review 완료)
 - [[telegram-bot-techbriefinghermes-bot]] — Telegram Bot @TechBriefingHermes_bot 설정 및 운영 정보
@@ -28,16 +27,13 @@
 - [[엔지니어링-사고-초보자]] — 초보자를 위한 엔지니어링 사고: AI 협업에서 필요한 사고방식
 - [[오케스트레이션]] — 오케스트레이션: AI 에이전트 간 작업 조율과 협업 패턴
 - [[챕터-요약]] — 바이브코딩 책 챕터별 요약
-- [[체크리스트]] — Engineering Mindset 실행 체크리스트
 - [[프로젝트-개요]] — Engineering Mindset 프로젝트 개요
 
-## Comparisons (2)
+## Comparisons (1)
 - [[hermes-vs-boop]] — Hermes Agent vs Boop Agent: 아키텍처·Memory·통합·안전장치 전방위 비교
-- [[note-wiki-vibe-coding-beginner-methodology]] — 바이브 코딩 6개 소스 비교분석 (대상·강점·도구 추천·연구 간극)
 
-## Queries (3)
+## Queries (1)
 - [[vibe-coding-beginner-checklist]] — 바이브 코딩 초보자 실행 체크리스트 (시작→환경→프롬프트→검증→보안→배포→개선)
-- [[note-wiki-vibe-coding-beginner-methodology-checklist]] — nlwflow 자동 생성 체크리스트
 
 ## Raw Sources
 - `raw/papers/ai-novice-to-senior-research` — 초보자 AI 협업 논문 12편
