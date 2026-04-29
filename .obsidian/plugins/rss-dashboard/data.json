@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777482500774,
+      "lastUpdated": 1777486100620,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -214,7 +214,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777482501070,
+      "lastUpdated": 1777486100750,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -675,7 +675,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777482501151,
+      "lastUpdated": 1777486100894,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -954,7 +954,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777482501316,
+      "lastUpdated": 1777486101064,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1415,7 +1415,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777482501477,
+      "lastUpdated": 1777486101228,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1928,7 +1928,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777482501632,
+      "lastUpdated": 1777486101377,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2181,7 +2181,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777482501787,
+      "lastUpdated": 1777486101527,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2199,6 +2199,26 @@
       "url": "https://feeds.feedburner.com/geeknews-feed",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Warp가 이제 오픈소스가 됨",
+          "link": "https://news.hada.io/topic?id=29020",
+          "description": "",
+          "content": "<ul> <li><strong>오픈소스 전환</strong>으로 Warp client 개발에 커뮤니티가 참여할 수 있게 됐고, Oz 기반의 <strong>agent-first 워크플로우</strong>로 에이전트와 함께 기여할 수 있게 바뀜</li> <li>개발의 병목이 코드 작성보다 <strong>명세 수립과 검증</strong> 같은 human-in-the-loop 작업으로 옮겨가면서,...</p>",
+          "pubDate": "2026-04-30T02:34:11+09:00",
+          "guid": "https://news.hada.io/topic?id=29020",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
+          "coverImage": "",
+          "summary": "오픈소스 전환으로 Warp client 개발에 커뮤니티가 참여할 수 있게 됐고, Oz 기반의 agent-first 워크플로우로 에이전트와 함께 기여할 수 있게 바뀜 개발의 병목이 코드 작성보다 명세 수립과 검증 같은 human-in-the-loop 작업으로 옮겨가면서,...",
+          "author": "neo",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": ""
+        },
         {
           "title": "생리 추적 앱 Flo, 사용자 데이터를 Meta에 판매한 사실 확인돼",
           "link": "https://news.hada.io/topic?id=29019",
@@ -3178,29 +3198,9 @@
           "mediaType": "article",
           "explicit": false,
           "image": ""
-        },
-        {
-          "title": "pgbackrest는 더 이상 유지보수 되지 않음",
-          "link": "https://news.hada.io/topic?id=28965",
-          "description": "",
-          "content": "<ul> <li>PostgreSQL용 <strong>백업·복구 도구</strong>로서 대규모 환경까지 확장되도록 설계됐지만, 이제 <strong>유지보수를 종료</strong> 함</li> <li>bug fix, PR review, 이슈 대응, 신규 기능 개발이 모두 중단됐고, 불규칙하게 끌고 가기보다 명확히 멈추는 쪽을 택함</li> <li>전체·differential·incremental...</p>",
-          "pubDate": "2026-04-28T09:56:12+09:00",
-          "guid": "https://news.hada.io/topic?id=28965",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
-          "coverImage": "",
-          "summary": "PostgreSQL용 백업·복구 도구로서 대규모 환경까지 확장되도록 설계됐지만, 이제 유지보수를 종료 함 bug fix, PR review, 이슈 대응, 신규 기능 개발이 모두 중단됐고, 불규칙하게 끌고 가기보다 명확히 멈추는 쪽을 택함 전체·differential·incremental...",
-          "author": "neo",
-          "saved": false,
-          "mediaType": "article",
-          "explicit": false,
-          "image": ""
         }
       ],
-      "lastUpdated": 1777482503152,
+      "lastUpdated": 1777486102933,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3210,7 +3210,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "siteUrl": "https://news.hada.io/topic?id=29019",
+      "siteUrl": "https://news.hada.io/topic?id=29020",
       "iconUrl": "https://social.news.hada.io/WideLogo500.png"
     },
     {
@@ -4619,7 +4619,7 @@
           }
         }
       ],
-      "lastUpdated": 1777482504312,
+      "lastUpdated": 1777486104053,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4637,7 +4637,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777482504457,
+      "lastUpdated": 1777486104170,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4655,7 +4655,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777482504816,
+      "lastUpdated": 1777486104477,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5824,7 +5824,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777482505912,
+      "lastUpdated": 1777486105531,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6992,7 +6992,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777482506921,
+      "lastUpdated": 1777486106387,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7002,7 +7002,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
     },
     {
       "title": "Cognac(꼬냑) / @supernovajunn",
@@ -7608,7 +7608,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777482508377,
+      "lastUpdated": 1777486107477,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8776,7 +8776,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777482509290,
+      "lastUpdated": 1777486108387,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9944,7 +9944,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777482510423,
+      "lastUpdated": 1777486109412,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11112,7 +11112,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777482510541,
+      "lastUpdated": 1777486109530,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11659,7 +11659,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777482511316,
+      "lastUpdated": 1777486110341,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11815,7 +11815,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777482512947,
+      "lastUpdated": 1777486111882,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11867,7 +11867,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777482513065,
+      "lastUpdated": 1777486112011,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12565,7 +12565,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777482513320,
+      "lastUpdated": 1777486112235,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13734,7 +13734,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777482513973,
+      "lastUpdated": 1777486113015,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14195,7 +14195,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777482514051,
+      "lastUpdated": 1777486113176,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14526,7 +14526,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777482514195,
+      "lastUpdated": 1777486113322,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15251,7 +15251,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777482514342,
+      "lastUpdated": 1777486113476,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15292,7 +15292,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777482514342,
+  "lastRefreshTimestamp": 1777486113477,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
