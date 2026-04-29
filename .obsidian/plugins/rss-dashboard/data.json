@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777450063721,
+      "lastUpdated": 1777453663562,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -214,7 +214,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777450064012,
+      "lastUpdated": 1777453663671,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -649,7 +649,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777450064091,
+      "lastUpdated": 1777453663849,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -928,7 +928,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777450064242,
+      "lastUpdated": 1777453663993,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1389,7 +1389,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777450064389,
+      "lastUpdated": 1777453664161,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1876,7 +1876,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777450064601,
+      "lastUpdated": 1777453664312,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1894,6 +1894,32 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN3f7GVo5wnMrek0uN_7EJQ",
       "folder": "Videos",
       "items": [
+        {
+          "title": "무엇이 테슬라 투자자를 이렇게 힘들게 할까?",
+          "link": "https://www.youtube.com/watch?v=tHjZ5twaLko",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-29T08:30:00+00:00",
+          "guid": "yt:video:tHjZ5twaLko",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "인생은실전이다",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN3f7GVo5wnMrek0uN_7EJQ",
+          "coverImage": "https://img.youtube.com/vi/tHjZ5twaLko/maxresdefault.jpg",
+          "summary": "",
+          "author": "인생은실전이다",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "tHjZ5twaLko"
+        },
         {
           "title": "테슬라 주가 대폭발 직전 우리가 해야 할 것들",
           "link": "https://www.youtube.com/watch?v=mt-7fd63hSY",
@@ -2103,7 +2129,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777450064764,
+      "lastUpdated": 1777453664480,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2121,6 +2147,26 @@
       "url": "https://feeds.feedburner.com/geeknews-feed",
       "folder": "RSS",
       "items": [
+        {
+          "title": "GitHub 가용성에 대한 업데이트",
+          "link": "https://news.hada.io/topic?id=29010",
+          "description": "",
+          "content": "<ul> <li><strong>최근 두 차례 장애</strong> 이후 GitHub는 가용성을 최우선에 두고, 급증한 개발 워크로드와 <strong>agentic development workflows</strong>에 맞춰 인프라와 구조를 다시 손보고 있음</li> <li>pull request 하나도 Git 저장소, Actions, 검색, 알림, 권한, webhooks, APIs, 백그라운드 작업, 캐시...</p>",
+          "pubDate": "2026-04-29T16:35:01+09:00",
+          "guid": "https://news.hada.io/topic?id=29010",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
+          "coverImage": "",
+          "summary": "최근 두 차례 장애 이후 GitHub는 가용성을 최우선에 두고, 급증한 개발 워크로드와 agentic development workflows에 맞춰 인프라와 구조를 다시 손보고 있음 pull request 하나도 Git 저장소, Actions, 검색, 알림, 권한, webhooks, APIs, 백그라운드 작업, 캐시...",
+          "author": "neo",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": ""
+        },
         {
           "title": "YC의 Requests for Startups - 2026년 여름",
           "link": "https://news.hada.io/topic?id=29009",
@@ -3100,29 +3146,9 @@
           "mediaType": "article",
           "explicit": false,
           "image": ""
-        },
-        {
-          "title": "Show GN: Athena - AI에게 가짜 한국인 5천명을 투표시켜본 실험 (2026 지방선거 시도지사)",
-          "link": "https://news.hada.io/topic?id=28957",
-          "description": "",
-          "content": "<p><a href=\"https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea\">Nemotron-Personas-Korea</a> 에 LLM 붙여서 2026 지방선거<br /> 시도지사 시뮬을 돌려봤습니다.</p> <p>NEC에서 후보 8,300명 크롤링 → 페르소나 시도별 300명씩 5,100명 샘플링 → Gemma 4 e4b로 4,800표 시뮬 (RTX 5060, 3시간).</p>",
-          "pubDate": "2026-04-28T09:00:27+09:00",
-          "guid": "https://news.hada.io/topic?id=28957",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
-          "coverImage": "",
-          "summary": "Nemotron-Personas-Korea 에 LLM 붙여서 2026 지방선거 시도지사 시뮬을 돌려봤습니다. NEC에서 후보 8,300명 크롤링 → 페르소나 시도별 300명씩 5,100명 샘플링 → Gemma 4 e4b로 4,800표 시뮬 (RTX 5060, 3시간).",
-          "author": "kimchi",
-          "saved": false,
-          "mediaType": "article",
-          "explicit": false,
-          "image": ""
         }
       ],
-      "lastUpdated": 1777450066086,
+      "lastUpdated": 1777453664901,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3132,7 +3158,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "siteUrl": "https://news.hada.io/topic?id=29009",
+      "siteUrl": "https://news.hada.io/topic?id=29010",
       "iconUrl": "https://social.news.hada.io/WideLogo500.png"
     },
     {
@@ -4541,7 +4567,7 @@
           }
         }
       ],
-      "lastUpdated": 1777450067147,
+      "lastUpdated": 1777453665897,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4559,7 +4585,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777450067275,
+      "lastUpdated": 1777453666014,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4577,7 +4603,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777450067622,
+      "lastUpdated": 1777453666333,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4595,6 +4621,52 @@
       "url": "https://nitter.net/TeslaZoa/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "한국에서 테슬라 모델 S/Y/CT에서 FSD가 되고, 미국산 모델3/Y에서 FSD가 되는데, 중국산 차량에서는 FSD가 안된다? 암청난 소외감들을 느낄듯.",
+          "link": "https://nitter.net/TeslaZoa/status/2049411692396937561#m",
+          "description": "<p>한국에서 테슬라 모델 S/Y/CT에서 FSD가 되고, 미국산 모델3/Y에서 FSD가 되는데, 중국산 차량에서는 FSD가 안된다?<br> <br> 암청난 소외감들을 느낄듯.</p>",
+          "content": "<p>한국에서 테슬라 모델 S/Y/CT에서 FSD가 되고, 미국산 모델3/Y에서 FSD가 되는데, 중국산 차량에서는 FSD가 안된다?<br> <br> 암청난 소외감들을 느낄듯.</p>",
+          "pubDate": "Wed, 29 Apr 2026 08:53:18 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2049411692396937561",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "",
+          "summary": "한국에서 테슬라 모델 S/Y/CT에서 FSD가 되고, 미국산 모델3/Y에서 FSD가 되는데, 중국산 차량에서는 FSD가 안된다? 암청난 소외감들을 느낄듯.",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "$TSLA hw3용 FSD v14 lite 버전이 나와도 중국산 모델3/Y 차량들은 기다려야 하겠죠?",
+          "link": "https://nitter.net/TeslaZoa/status/2049400987316863306#m",
+          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> hw3용 FSD v14 lite 버전이 나와도 중국산 모델3/Y 차량들은 기다려야 하겠죠?</p>",
+          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> hw3용 FSD v14 lite 버전이 나와도 중국산 모델3/Y 차량들은 기다려야 하겠죠?</p>",
+          "pubDate": "Wed, 29 Apr 2026 08:10:46 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2049400987316863306",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "",
+          "summary": "$TSLA hw3용 FSD v14 lite 버전이 나와도 중국산 모델3/Y 차량들은 기다려야 하겠죠?",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "다시 중국에서 한국으로 모델 Y L 약 1천대 정도를 다른 트림 물량과 함께 보낸다는 이야기가 있음.",
           "link": "https://nitter.net/TeslaZoa/status/2049399160055710177#m",
@@ -5698,55 +5770,9 @@
           "image": "https://nitter.net/pic/media%2FHG_yb1saAAE8zyt.jpg",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "2026년 1분기 국민연금 주식 평가 증가액 순위",
-          "link": "https://nitter.net/TeslaZoa/status/2049122253401673949#m",
-          "description": "<p>2026년 1분기 국민연금 주식 평가 증가액 순위</p> <img src=\"https://nitter.net/pic/media%2FHG_x01DbIAAZ4vS.jpg\" style=\"max-width:250px;\" />",
-          "content": "<p>2026년 1분기 국민연금 주식 평가 증가액 순위</p> <img src=\"https://nitter.net/pic/media%2FHG_x01DbIAAZ4vS.jpg\" style=\"max-width:250px;\" />",
-          "pubDate": "Tue, 28 Apr 2026 13:43:10 GMT",
-          "guid": "https://nitter.net/TeslaZoa/2049122253401673949",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "TeslaZoa / @TeslaZoa",
-          "feedUrl": "https://nitter.net/TeslaZoa/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHG_x01DbIAAZ4vS.jpg",
-          "summary": "2026년 1분기 국민연금 주식 평가 증가액 순위",
-          "author": "@TeslaZoa",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHG_x01DbIAAZ4vS.jpg",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "🚨 테슬라 센트리 모드, 결국 피해를 막았다 1️⃣ 근무 중, 무음 상태였던 워치에 긴급 알림 수신 2️⃣ 알림을 확인하지 않았다면 상황을 놓칠 뻔 3️⃣ 즉시 대응하며 경찰 신고까지 진행 4️⃣ 센트리 모드 덕분에 수천 달러 규모의 피해 예방",
-          "link": "https://nitter.net/TeslaZoa/status/2049121194402861289#m",
-          "description": "<p>🚨 테슬라 센트리 모드, 결국 피해를 막았다<br> <br> 1️⃣ 근무 중, 무음 상태였던 워치에 긴급 알림 수신<br> 2️⃣ 알림을 확인하지 않았다면 상황을 놓칠 뻔<br> 3️⃣ 즉시 대응하며 경찰 신고까지 진행<br> 4️⃣ 센트리 모드 덕분에 수천 달러 규모의 피해 예방</p> <a href=\"https://nitter.net/TeslaZoa/status/2049121194402861289#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049119078455889920%2Fimg%2FWCyFh70O4W44yWnn.jpg\" style=\"max-width:250px;\" /> </a> <hr/> <blockquote> <b>TeslaGirl (@TeslaLoverGirls)</b> <p> <p>PSA: SentryMode is a must. Thank you Tesla <br> <br> In the middle of work today and get this emergent push notification on my watch (which was on silent). If I hadn't seen this and gone out and found the car parked on the other side of the parking lot and called the police, it would have cost me thousands. Hurts to have my new Tesla juniper immediately depreciated. Shitty people doing shitty things. <a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a></p> <a href=\"https://nitter.net/TeslaLoverGirls/status/2049119138895757363#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049119078455889920%2Fimg%2FWCyFh70O4W44yWnn.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/TeslaLoverGirls/status/2049119138895757363#m\">https://nitter.net/TeslaLoverGirls/status/2049119138895757363#m</a> </footer> </blockquote>",
-          "content": "<p>🚨 테슬라 센트리 모드, 결국 피해를 막았다<br> <br> 1️⃣ 근무 중, 무음 상태였던 워치에 긴급 알림 수신<br> 2️⃣ 알림을 확인하지 않았다면 상황을 놓칠 뻔<br> 3️⃣ 즉시 대응하며 경찰 신고까지 진행<br> 4️⃣ 센트리 모드 덕분에 수천 달러 규모의 피해 예방</p> <a href=\"https://nitter.net/TeslaZoa/status/2049121194402861289#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049119078455889920%2Fimg%2FWCyFh70O4W44yWnn.jpg\" style=\"max-width:250px;\" /> </a> <hr/> <blockquote> <b>TeslaGirl (@TeslaLoverGirls)</b> <p> <p>PSA: SentryMode is a must. Thank you Tesla <br> <br> In the middle of work today and get this emergent push notification on my watch (which was on silent). If I hadn't seen this and gone out and found the car parked on the other side of the parking lot and called the police, it would have cost me thousands. Hurts to have my new Tesla juniper immediately depreciated. Shitty people doing shitty things. <a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a></p> <a href=\"https://nitter.net/TeslaLoverGirls/status/2049119138895757363#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049119078455889920%2Fimg%2FWCyFh70O4W44yWnn.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/TeslaLoverGirls/status/2049119138895757363#m\">https://nitter.net/TeslaLoverGirls/status/2049119138895757363#m</a> </footer> </blockquote>",
-          "pubDate": "Tue, 28 Apr 2026 13:38:58 GMT",
-          "guid": "https://nitter.net/TeslaZoa/2049121194402861289",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "TeslaZoa / @TeslaZoa",
-          "feedUrl": "https://nitter.net/TeslaZoa/rss",
-          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2049119078455889920%2Fimg%2FWCyFh70O4W44yWnn.jpg",
-          "summary": "🚨 테슬라 센트리 모드, 결국 피해를 막았다 1️⃣ 근무 중, 무음 상태였던 워치에 긴급 알림 수신 2️⃣ 알림을 확인하지 않았다면 상황을 놓칠 뻔 3️⃣ 즉시 대응하며 경찰 신고까지 진행 4️⃣ 센트리 모드 덕분에 수천 달러 규모의 피해 예방 Video TeslaGirl (@TeslaLoverGirls) PSA: SentryMode is a must. Thank you Tesla In t...",
-          "author": "@TeslaZoa",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/amplify_video_thumb%2F2049119078455889920%2Fimg%2FWCyFh70O4W44yWnn.jpg",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777450068691,
+      "lastUpdated": 1777453669291,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5756,13 +5782,36 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1907192609065623552%2FNkv4Z7zX_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1907192609065623552%2FNkv4Z7zX_400x400.jpg"
     },
     {
       "title": "송준 Jun Song / @songjunkr",
       "url": "https://nitter.net/songjunkr/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "좋아요! 로컬 LLM을 쉽게 사용하는 방법을 더 늘려야해요.",
+          "link": "https://nitter.net/songjunkr/status/2049411757677203731#m",
+          "description": "<p>좋아요!<br> <br> 로컬 LLM을 쉽게 사용하는 방법을 더 늘려야해요.</p> <hr/> <blockquote> <b>sabesh 📟 (@sabeshbharathi)</b> <p> <p>Introducing ModelHub! 📦<br> <br> So I had been experimenting with a lot of local LLMs and was having an insanely difficult time managing the models and my laptop's storage!<br> <br> So I built ModelHub - It helps you discover, download, and manage LLMs from huggingface, Im studio, ollama, mlx, and Ilama.cpp - without ever leaving your menu bar.</p> <a href=\"https://nitter.net/sabeshbharathi/status/2049156712565977257#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049156097211293697%2Fimg%2FjjrC5lH8rsTwEFAW.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/sabeshbharathi/status/2049156712565977257#m\">https://nitter.net/sabeshbharathi/status/2049156712565977257#m</a> </footer> </blockquote>",
+          "content": "<p>좋아요!<br> <br> 로컬 LLM을 쉽게 사용하는 방법을 더 늘려야해요.</p> <hr/> <blockquote> <b>sabesh 📟 (@sabeshbharathi)</b> <p> <p>Introducing ModelHub! 📦<br> <br> So I had been experimenting with a lot of local LLMs and was having an insanely difficult time managing the models and my laptop's storage!<br> <br> So I built ModelHub - It helps you discover, download, and manage LLMs from huggingface, Im studio, ollama, mlx, and Ilama.cpp - without ever leaving your menu bar.</p> <a href=\"https://nitter.net/sabeshbharathi/status/2049156712565977257#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049156097211293697%2Fimg%2FjjrC5lH8rsTwEFAW.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/sabeshbharathi/status/2049156712565977257#m\">https://nitter.net/sabeshbharathi/status/2049156712565977257#m</a> </footer> </blockquote>",
+          "pubDate": "Wed, 29 Apr 2026 08:53:33 GMT",
+          "guid": "https://nitter.net/songjunkr/2049411757677203731",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2049156097211293697%2Fimg%2FjjrC5lH8rsTwEFAW.jpg",
+          "summary": "좋아요! 로컬 LLM을 쉽게 사용하는 방법을 더 늘려야해요. sabesh 📟 (@sabeshbharathi) Introducing ModelHub! 📦 So I had been experimenting with a lot of local LLMs and was having an insanely difficult time managing the models and my laptop's st...",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/amplify_video_thumb%2F2049156097211293697%2Fimg%2FjjrC5lH8rsTwEFAW.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "Codex의 computer-use를 사용해서 ChatGPT 웹사이트에서 GPT-5.5-Pro를 사용하는것은 약관 위반인가요? GPT Pro도 정답을 모른다고 하네요.",
           "link": "https://nitter.net/songjunkr/status/2049398794526290016#m",
@@ -6889,32 +6938,9 @@
           "image": "https://nitter.net/pic/media%2FHG2Fzg4bUAAXN5S.jpg",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "로컬LLM : MLX vs GGUF vs nvfp MLX는 애플 실리콘(맥)의 네이티브 지원 포맷 - 맥에서 실행 시 모든 포맷중에 속도가 제일 빠름 - 양자화 손실이 크게 발생하기때문에, 6bit 이상 사용이 좋음 GGUF는 범용 포맷으로 양자화 손실률이 적습니다. - 다만 맥에서는 속도가 MLX보다 30프로 정도 느림 🧵",
-          "link": "https://nitter.net/songjunkr/status/2048506963584307507#m",
-          "description": "<p>로컬LLM : MLX vs GGUF vs nvfp<br> <br> MLX는 애플 실리콘(맥)의 네이티브 지원 포맷<br> - 맥에서 실행 시 모든 포맷중에 속도가 제일 빠름<br> - 양자화 손실이 크게 발생하기때문에, 6bit 이상 사용이 좋음<br> <br> GGUF는 범용 포맷으로 양자화 손실률이 적습니다.<br> - 다만 맥에서는 속도가 MLX보다 30프로 정도 느림<br> <br> 🧵</p>",
-          "content": "<p>로컬LLM : MLX vs GGUF vs nvfp<br> <br> MLX는 애플 실리콘(맥)의 네이티브 지원 포맷<br> - 맥에서 실행 시 모든 포맷중에 속도가 제일 빠름<br> - 양자화 손실이 크게 발생하기때문에, 6bit 이상 사용이 좋음<br> <br> GGUF는 범용 포맷으로 양자화 손실률이 적습니다.<br> - 다만 맥에서는 속도가 MLX보다 30프로 정도 느림<br> <br> 🧵</p>",
-          "pubDate": "Sun, 26 Apr 2026 20:58:14 GMT",
-          "guid": "https://nitter.net/songjunkr/2048506963584307507",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "송준 Jun Song / @songjunkr",
-          "feedUrl": "https://nitter.net/songjunkr/rss",
-          "coverImage": "",
-          "summary": "로컬LLM : MLX vs GGUF vs nvfp MLX는 애플 실리콘(맥)의 네이티브 지원 포맷 - 맥에서 실행 시 모든 포맷중에 속도가 제일 빠름 - 양자화 손실이 크게 발생하기때문에, 6bit 이상 사용이 좋음 GGUF는 범용 포맷으로 양자화 손실률이 적습니다. - 다만 맥에서는 속도가 MLX보다 30프로 정도 느림 🧵",
-          "author": "@songjunkr",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777450069597,
+      "lastUpdated": 1777453670596,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7530,7 +7556,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777450069935,
+      "lastUpdated": 1777453671689,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7547,6 +7573,52 @@
       "url": "https://nitter.net/Tslachan/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "$TSLA 테슬라 코리아는 Model Y L 차량의 전용 악세사리를 판매하기 시작하였음",
+          "link": "https://nitter.net/Tslachan/status/2049405142529962168#m",
+          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> 테슬라 코리아는 Model Y L 차량의 전용 악세사리를 판매하기 시작하였음</p> <img src=\"https://nitter.net/pic/media%2FHHDzHUkbUAAeLkU.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHHDzHUhbYAA-NHv.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> 테슬라 코리아는 Model Y L 차량의 전용 악세사리를 판매하기 시작하였음</p> <img src=\"https://nitter.net/pic/media%2FHHDzHUkbUAAeLkU.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHHDzHUhbYAA-NHv.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Wed, 29 Apr 2026 08:27:16 GMT",
+          "guid": "https://nitter.net/Tslachan/2049405142529962168",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Tsla Chan / @Tslachan",
+          "feedUrl": "https://nitter.net/Tslachan/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHDzHUkbUAAeLkU.jpg",
+          "summary": "$TSLA 테슬라 코리아는 Model Y L 차량의 전용 악세사리를 판매하기 시작하였음",
+          "author": "@Tslachan",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHDzHUkbUAAeLkU.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "$TSLA 올 연말은 어떤 분위기일지 궁금해지네요. 테슬라는 분명 V14 라이트 버전을 올해 내 한국에 배포할 것 입니다.",
+          "link": "https://nitter.net/Tslachan/status/2049404445520429321#m",
+          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> 올 연말은 어떤 분위기일지 궁금해지네요. 테슬라는 분명 V14 라이트 버전을 올해 내 한국에 배포할 것 입니다.</p> <img src=\"https://nitter.net/pic/media%2FHHDyerVasAAgEiJ.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> 올 연말은 어떤 분위기일지 궁금해지네요. 테슬라는 분명 V14 라이트 버전을 올해 내 한국에 배포할 것 입니다.</p> <img src=\"https://nitter.net/pic/media%2FHHDyerVasAAgEiJ.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Wed, 29 Apr 2026 08:24:30 GMT",
+          "guid": "https://nitter.net/Tslachan/2049404445520429321",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Tsla Chan / @Tslachan",
+          "feedUrl": "https://nitter.net/Tslachan/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHDyerVasAAgEiJ.jpg",
+          "summary": "$TSLA 올 연말은 어떤 분위기일지 궁금해지네요. 테슬라는 분명 V14 라이트 버전을 올해 내 한국에 배포할 것 입니다.",
+          "author": "@Tslachan",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHDyerVasAAgEiJ.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "$TSLA 퇴근길 추천곡 올립니다. “조용필 - 꿈”",
           "link": "https://nitter.net/Tslachan/status/2049392935108784589#m",
@@ -8650,55 +8722,9 @@
           "image": "https://nitter.net/pic/amplify_video_thumb%2F2048764815401971712%2Fimg%2FjTcymfkDQ8Gr2B7y.jpg",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "$TSLA 🇰🇷 테슬라 코리아, Model Y RWD 차량 대상 ’테슬라 지원금’ 보조 예정 설문에 해당 테슬라 보조금 지원 받겠다고 선택하면, RWD 구매 예정자는 170만원 지원 받아서 차량 출고할 수 있음",
-          "link": "https://nitter.net/Tslachan/status/2048726624066261307#m",
-          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> 🇰🇷<br> 테슬라 코리아, Model Y RWD 차량 대상 ’테슬라 지원금’ 보조 예정<br> <br> 설문에 해당 테슬라 보조금 지원 받겠다고 선택하면, RWD 구매 예정자는 170만원 지원 받아서 차량 출고할 수 있음</p> <img src=\"https://nitter.net/pic/media%2FHG6KAE5aYAAGeVU.jpg\" style=\"max-width:250px;\" />",
-          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> 🇰🇷<br> 테슬라 코리아, Model Y RWD 차량 대상 ’테슬라 지원금’ 보조 예정<br> <br> 설문에 해당 테슬라 보조금 지원 받겠다고 선택하면, RWD 구매 예정자는 170만원 지원 받아서 차량 출고할 수 있음</p> <img src=\"https://nitter.net/pic/media%2FHG6KAE5aYAAGeVU.jpg\" style=\"max-width:250px;\" />",
-          "pubDate": "Mon, 27 Apr 2026 11:31:05 GMT",
-          "guid": "https://nitter.net/Tslachan/2048726624066261307",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Tsla Chan / @Tslachan",
-          "feedUrl": "https://nitter.net/Tslachan/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHG6KAE5aYAAGeVU.jpg",
-          "summary": "$TSLA 🇰🇷 테슬라 코리아, Model Y RWD 차량 대상 ’테슬라 지원금’ 보조 예정 설문에 해당 테슬라 보조금 지원 받겠다고 선택하면, RWD 구매 예정자는 170만원 지원 받아서 차량 출고할 수 있음",
-          "author": "@Tslachan",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHG6KAE5aYAAGeVU.jpg",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "R to @Tslachan: Tesla Korea has already imported more than 63% of last year's sales numbers in *2026.",
-          "link": "https://nitter.net/Tslachan/status/2048721502871384439#m",
-          "description": "<p>Tesla Korea has already imported more than 63% of last year's sales numbers in *2026.</p>",
-          "content": "<p>Tesla Korea has already imported more than 63% of last year's sales numbers in *2026.</p>",
-          "pubDate": "Mon, 27 Apr 2026 11:10:44 GMT",
-          "guid": "https://nitter.net/Tslachan/2048721502871384439",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Tsla Chan / @Tslachan",
-          "feedUrl": "https://nitter.net/Tslachan/rss",
-          "coverImage": "",
-          "summary": "Tesla Korea has already imported more than 63% of last year's sales numbers in *2026.",
-          "author": "@Tslachan",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777450081742,
+      "lastUpdated": 1777453671969,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9866,7 +9892,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777450082762,
+      "lastUpdated": 1777453673267,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11034,7 +11060,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777450082871,
+      "lastUpdated": 1777453673381,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11581,7 +11607,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777450083665,
+      "lastUpdated": 1777453676158,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11737,7 +11763,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777450085292,
+      "lastUpdated": 1777453679717,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11789,7 +11815,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777450085418,
+      "lastUpdated": 1777453679837,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12467,7 +12493,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777450085668,
+      "lastUpdated": 1777453680331,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13636,7 +13662,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777450086453,
+      "lastUpdated": 1777453681212,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14097,7 +14123,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777450086642,
+      "lastUpdated": 1777453681361,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14428,7 +14454,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777450086795,
+      "lastUpdated": 1777453681564,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15153,7 +15179,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777450086946,
+      "lastUpdated": 1777453681725,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15194,7 +15220,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777450086947,
+  "lastRefreshTimestamp": 1777453681725,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
