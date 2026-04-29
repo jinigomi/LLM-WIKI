@@ -16,8 +16,19 @@
               "icon": "rss",
               "title": "RSS dashboard"
             }
+          },
+          {
+            "id": "990c8ed814c5237a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,13 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/archived-stubs/anthropic-building-c-compiler.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "anthropic-building-c-compiler 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -218,8 +228,10 @@
       "yolo:Open chat": false
     }
   },
-  "active": "770c6032a0223a1d",
+  "active": "990c8ed814c5237a",
   "lastOpenFiles": [
+    "raw/articles/anthropic-desktop-extensions.md",
+    "raw/archived-stubs/anthropic-building-c-compiler.md",
     "raw/archived-stubs/anthropic-ai-resistant-evals.md",
     "raw/바이브코딩은 왜 실패하는가 -AI 협업 가이드북.md",
     "raw/archived/smart-video-wizard.md",
@@ -244,8 +256,6 @@
     "concepts/anthropic-claude-think-tool.md",
     "docs/research-sop.md",
     "docs/hyperagents-meta-agent-analysis.md",
-    "docs/human-in-the-loop-checkpoints.md",
-    "docs/anthropic-harness-comparison.md",
     "raw/articles/ai-에이전트-연구-도구-grok-2026-04-27.pdf",
     "raw/tweets",
     "000-Inbox",
