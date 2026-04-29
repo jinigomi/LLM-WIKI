@@ -93,5 +93,5 @@ confidence: high
 
 ## 관련 페이지
 - [[boop-agent]] — Boop Agent 상세 분석
-- [[agent-memory-systems]] — 에이전트 메모리 설계 패턴
-- [[subagent-driven-dev-pattern]] — Subagent-Driven Development 패턴
+- agent-memory-systems — 에이전트 메모리 설계 패턴
+- subagent-driven-dev-pattern — Subagent-Driven Development 패턴

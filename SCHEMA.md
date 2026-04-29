@@ -36,7 +36,7 @@ Layer 3 (SCHEMA, index, log)은 메타.
 
 - File names: lowercase, hyphens, no spaces (e.g., `contextual-retrieval.md`)
 - Every wiki page starts with YAML frontmatter
-- Use `[[wikilinks]]` to link between pages (minimum 2 outbound links per page)
+- Use `wikilinks` to link between pages (minimum 2 outbound links per page)
 - When updating a page, always bump the `updated` date
 - Every new page must be added to `index.md` under the correct section
 - Every action must be appended to `log.md`
@@ -86,7 +86,7 @@ contradictions: [other-page-slug]
 One page per notable entity. Include:
 - Overview / what it is
 - Key facts and dates
-- Relationships to other entities ([[wikilinks]])
+- Relationships to other entities (wikilinks)
 - Source references
 
 ## Concept Pages
@@ -95,7 +95,7 @@ One page per concept or topic. Include:
 - Definition / explanation
 - Current state of knowledge
 - Open questions or debates
-- Related concepts ([[wikilinks]])
+- Related concepts (wikilinks)
 
 ## Update Policy
 

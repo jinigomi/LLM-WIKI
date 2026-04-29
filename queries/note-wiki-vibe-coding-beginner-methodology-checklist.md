@@ -24,4 +24,4 @@ source_urls:
 - [ ] 디버깅 및 마무리
 
 ## Related
-[[anthropic]], [[openai]], [[llm-wiki]]
+anthropic, openai, llm-wiki

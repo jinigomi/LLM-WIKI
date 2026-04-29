@@ -1,5 +1,7 @@
 ---
+title: APP_BLUEPRINT.md 메타프롬프트
 created: 2026-04-28
+type: entity
 source: "https://x.com/lucas_flatwhite/status/2049016697005437229"
 source_author: "@DeRonin_"
 shared_by: "@lucas_flatwhite"
@@ -125,10 +127,10 @@ tags: [prompt, vibe-coding, blueprint, methodology, SaaS]
 - **출시** (Launch Checklist, Distribution & Growth)
 - **실행** (Build Sequence — 주차별 마일스톤)
 
-코드를 쓰기 **전에** 모든 걸 정리한다는 점에서 [[plan-before-code]] 패턴의 결정판.
+코드를 쓰기 **전에** 모든 걸 정리한다는 점에서 plan-before-code 패턴의 결정판.
 
 ## 연관 노트
 
 - [[vibe-coding-blueprint-pattern]] — 이 프롬프트의 방법론적 의미
-- [[karpathy-vibe-coding-pitfalls]] — 카파시의 vibe coding 함정 분석
-- [[AI-협업-방법론-체크리스트]] — 초보자 AI 협업 로드맵
+- karpathy-vibe-coding-pitfalls — 카파시의 vibe coding 함정 분석
+- AI-협업-방법론-체크리스트 — 초보자 AI 협업 로드맵

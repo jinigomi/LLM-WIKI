@@ -206,6 +206,10 @@ HermesBrain/
 - Files updated:
   - index.md (Entities +1, Comparisons +1, Total pages 24→26)
 
+## [2026-04-29] lint | Full wiki health check
+- 27 wiki pages, 34 broken wikilinks, 20 index misses, 7 frontmatter issues, 8 orphans, 49 tags outside taxonomy, 1 oversized page (설계.md 234 lines), 0 source drift
+- Summary: Frontmatter (3 files), Index (20/27 missing), Broken links (34 total — Engineering - Anthropic top at 18 refs)
+
 ## [2026-04-28] ingest | vibe-coding-beginner-methodology
 - NotebookLM notebook created and artifacts exported
 - Notebook ID: 7ebb8346-3fa1-4f7a-9809-baa38faca430

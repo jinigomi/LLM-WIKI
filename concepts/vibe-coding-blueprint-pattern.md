@@ -1,5 +1,7 @@
 ---
+title: Vibe Coding 블루프린트 패턴
 created: 2026-04-28
+type: concept
 source: "[[app-blueprint-prompt]]"
 tags: [methodology, vibe-coding, blueprint, plan-first, AI-collaboration]
 ---
@@ -33,7 +35,7 @@ tags: [methodology, vibe-coding, blueprint, plan-first, AI-collaboration]
 3. **Production-Level Only** — "튜토리얼 수준" 금지, 실제 에러 핸들링/로깅/확장성 포함
 4. **Single Prompt Rule** — 하나의 프롬프트로 모든 계획을 AI에게 맡김
 
-## [[karpathy-vibe-coding-pitfalls]]와의 관계
+## karpathy-vibe-coding-pitfalls와의 관계
 
 카파시가 지적한 vibe coding 함정:
 - "LLM이 내가 생각한 것과 다른 걸 만든다" → 블루프린트가 공유된 정신 모델 역할
@@ -51,6 +53,6 @@ tags: [methodology, vibe-coding, blueprint, plan-first, AI-collaboration]
 ## 연관 노트
 
 - [[app-blueprint-prompt]] — 실제 메타프롬프트 원문
-- [[plan-before-code]] — 코딩 전 계획의 일반 원칙
-- [[AI-협업-방법론-체크리스트]] — 초보자를 위한 전체 로드맵
-- [[vibe-coding-senior-advisor-prompt]] — 시니어 엔지니어 페르소나 패턴
+- plan-before-code — 코딩 전 계획의 일반 원칙
+- AI-협업-방법론-체크리스트 — 초보자를 위한 전체 로드맵
+- vibe-coding-senior-advisor-prompt — 시니어 엔지니어 페르소나 패턴

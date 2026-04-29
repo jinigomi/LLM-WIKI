@@ -134,6 +134,6 @@ s3://bucket/deep-insight/fargate_sessions/{session_id}/
 
 ## 관련 개념
 
-- [[context-window]] — Context Engineering (Part 2)
-- [[multi-agent]] — Deep Insight의 Multi-Agent 설계
-- [[agentic-ai]] — Agentic AI 시스템 설계 패턴
+- context-window — Context Engineering (Part 2)
+- multi-agent — Deep Insight의 Multi-Agent 설계
+- agentic-ai — Agentic AI 시스템 설계 패턴
