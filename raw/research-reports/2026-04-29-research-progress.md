@@ -112,8 +112,11 @@
 ## 연구 동향
 
 - **AI Fluency Gap의 과학적 입증**: Potts & Sudhof (2026-04-28)의 "Paradox of AI Fluency"는 초보자-전문가 간극이 단순한 기술 차이가 아니라 **상호작용 모드의 근본적 차이**(수동적 vs. 적극적)임을 실증. 이는 우리 연구의 핵심 가설을 뒷받침.
+- **메타인지(métacognition)와 AI 협업의 융합**: "Curiosity and Metacognition" 논문은 AI 시대의 핵심 학습 능력이 메타인지임을 강조 — 우리의 Awareness 계층이 정확히 이 지점을 타겟팅
+- **Invisible Failure가 학계의 주목을 받기 시작**: "Plausible but Wrong", "Paradox of AI Fluency" 등 AI의 invisible failure가 독립적 연구 주제로 부상
 - **Vibe Coding 연구 급증**: 2026년 4월 arXiv에만 8편 이상의 vibe coding 관련 논문. 초보자 접근성과 교육적 응용이 주류 화두로 정착.
 - **Multi-Agent 시스템의 재귀적 확장**: RecursiveMAS는 단순한 "에이전트 여러 개 쓰기"를 넘어, 협업 자체를 scaling axis로 보는 새로운 관점 제시.
+- **AI 교육 기술의 전환**: MAIC-UI 등 코딩 없이 AI로 대화형 교육 자료를 만드는 도구의 등장 — "코드 작성 능력"이 아닌 "의도 표현 능력"이 새로운 리터러시로 부상
 
 ## 스킬 업그레이드 기록
 
@@ -129,6 +132,22 @@
 - **2604.25917v1**: "Recursive Multi-Agent Systems" — Yang, Zou et al. (UIUC/Stanford/MIT)
   - 링크: https://arxiv.org/abs/2604.25917
   - 코드: https://recursivemas.github.io
+- **2604.25806v1**: "MAIC-UI: Making Interactive Courseware with Generative UI"
+  - 링크: https://arxiv.org/abs/2604.25806
+  - 초보자 교육과 AI 협업의 실전 응용
+- **2604.25648v1**: "Curiosity and Metacognition" — AI 시대 학습 프레임워크
+  - 링크: https://arxiv.org/abs/2604.25648
+  - Awareness 계층의 이론적 근거 (메타인지)
+- **2604.25345v1**: "Plausible but Wrong: Agentic Failures"
+  - 링크: https://arxiv.org/abs/2604.25345
+  - Invisible failure의 구체적 사례 연구
+- **2604.25256v1**: "AutoResearchBench" — AI 에이전트 문헌 발견 벤치마크
+  - 링크: https://arxiv.org/abs/2604.25256
+  - Research Agent 평가 기준으로 활용
+- **2604.25850v1**: "Agentic Harness Engineering"
+  - 링크: https://arxiv.org/abs/2604.25850
+- **2604.25899v1**: "Pythia" — Agent-Native LLM 서빙
+  - 링크: https://arxiv.org/abs/2604.25899
 
 ### 기존 Wiki 페이지
 - `concepts/vibe-coding-beginner-methodology.md` — 초보자 바이브 코딩 방법론

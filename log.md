@@ -30,6 +30,31 @@
 - **업데이트:** index.md (+2 entities → 총 25페이지), log.md
 - **크로스레퍼런스:** [[superpowers]] ↔ [[subagent-driven-development]], [[오케스트레이션]], [[기억하는-개발]], [[vibe-coding-blueprint-pattern]], [[에러-에스컬레이션]], [[context-rot]]
 
+## [2026-04-29] meta-evolution | 스킬 업그레이드 완료: refinement-methodology v1.4.0, meta-evolution-pattern v1.4.0
+
+### 개선 내용
+- **refinement-methodology** v1.3.2 → v1.4.0: 3계층(HOW-WHAT-CARE) → 4계층(HOW-WHAT-CARE-AWARENESS) 프레임워크로 업그레이드
+- **meta-evolution-pattern** v1.3.2 → v1.4.0: CHANGELOG 섹션 추가, Awareness 패턴 문서화
+- **핵심 통찰**: Potts & Sudhof (2026) "A Paradox of AI Fluency"의 invisible failure 개념을 품질 평가에 통합
+
+### 구조화된 메모리 (Meta-Evolution)
+**Goal**: 초보자 Senior-level AI 협업 방법론 연구 + Research Agent 구현
+
+**Decisions**:
+1. Awareness 계층을 품질 프레임워크의 4번째 계층으로 추가 — invisible failure 검출이 시니어 수준의 핵심 요소
+2. Invisible Failure 탐지 패턴을 명시적 설계 원칙으로 채택 (검증 체크리스트, 독립적 검증 수단 제공)
+3. Fluent user의 행동 패턴(반복적 협업, 비판적 평가, 목표 정제)을 초보자용 명시적 가이드로 변환
+
+**Learned Patterns**:
+- 성공: "Paradox of AI Fluency" 논문이 우리 연구의 핵심 가설(invisible failure가 초보자의 최대 장벽)을 과학적으로 입증
+- 성공: "Curiosity and Metacognition" 논문이 Awareness 계층의 이론적 근거(메타인지) 제공
+- 발견: 4월 28-29일 사이 6편의 신규 관련 논문 발견 → 연구 영역의 빠른 성장 확인
+
+**Next Improvement**:
+- Invisible Failure 탐지 도구 구체화: 초보자가 자신의 AI 결과물을 자가진단할 수 있는 체크리스트/툴킷 설계
+- metacognition(메타인지) 개념과 Awareness 계층의 학문적 연결 심화
+- Research Agent 구현 시 Awareness 계층을 평가 모듈로 내장
+
 ## [2026-04-28] meta-evolution | 스킬 업그레이드 완료: refinement-methodology v1.3, meta-evolution-pattern v1.3
      8|
      9|### 개선 내용
