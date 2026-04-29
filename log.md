@@ -4,7 +4,18 @@
      4|> Format: `## [YYYY-MM-DD] action | subject`
      5|> Actions: ingest, update, query, lint, create, archive, delete
      6|
-     7|## [2026-04-28] meta-evolution | 스킬 업그레이드 완료: refinement-methodology v1.3, meta-evolution-pattern v1.3
+     7|## [2026-04-29] ingest | Superpowers GitHub 레포 분석
+
+- **소스:** https://github.com/obra/superpowers (v5.0.7)
+- **분석 방식:** Graphify AST + 15개 SKILL.md 수동 심층 분석
+- **생성 파일:**
+  - `entities/superpowers.md` — 전체 플러그인 개요, 아키텍처, 철학, Hermes 연계
+  - `entities/subagent-driven-development.md` — 핵심 패턴 상세 (Two-Stage Review, subagent isolation)
+  - `raw/articles/superpowers-github.md` — 원본 분석 데이터
+- **업데이트:** index.md (+2 entities → 총 25페이지), log.md
+- **크로스레퍼런스:** [[superpowers]] ↔ [[subagent-driven-development]], [[오케스트레이션]], [[기억하는-개발]], [[vibe-coding-blueprint-pattern]], [[에러-에스컬레이션]], [[context-rot]]
+
+## [2026-04-28] meta-evolution | 스킬 업그레이드 완료: refinement-methodology v1.3, meta-evolution-pattern v1.3
      8|
      9|### 개선 내용
     10|- **refinement-methodology** v1.2 → v1.3: Plan-First 원칙 추가, Multi-Source Convergence Analysis 패턴, 3계층 품질 프레임워크 (How-What-Care)

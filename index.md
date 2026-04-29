@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-29 | Total pages: 23
+> Last updated: 2026-04-29 | Total pages: 25
 
 ## Concepts (11)
 - [[anthropic-claude-think-tool]] — Anthropic의 "think" tool: 복잡한 도구 사용 상황에서 Claude가 멈추고 생각하게 하는 메커니즘
@@ -17,11 +17,13 @@
 - [[바이브코딩-책-개요]] — 바이브코딩 책 (박경태, wikidocs) 전체 개요 및 구조
 - [[에러-에스컬레이션]] — AI 코딩에서 에러가 발생했을 때 상위 지원으로 에스컬레이션하는 패턴
 
-## Entities (9)
+## Entities (11)
 - [[app-blueprint-prompt]] — APP_BLUEPRINT.md 생성 메타프롬프트 (@DeRonin_ 제작)
 - [[boop-agent]] — Boop Agent: iMessage 기반 오픈소스 개인 비서. Claude Agent SDK + Dispatcher-Worker 아키텍처
 - [[harness-engineering-wikidocs]] — 하네스 엔지니어링 입문 — 위키독스 요약
 - [[research-agent-설계-계획]] — 바이브코딩+Senior-level AI 협업 연구 설계 (2-Stage Review 완료)
+- [[subagent-driven-development]] — Superpowers의 핵심 패턴: 멀티 에이전트 병렬 구현 + Two-Stage Review
+- [[superpowers]] — obra/superpowers: AI 코딩 에이전트 방법론 플러그인 (Jesse Vincent, Anthropic)
 - [[telegram-bot-techbriefinghermes-bot]] — Telegram Bot @TechBriefingHermes_bot 설정 및 운영 정보
 - [[설계]] — smart-video-speed 프로젝트 설계 문서
 - [[엔지니어링-사고-초보자]] — 초보자를 위한 엔지니어링 사고: AI 협업에서 필요한 사고방식

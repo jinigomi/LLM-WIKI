@@ -21,10 +21,14 @@
             "id": "4dddf79ec05508af",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "raw/articles/superpowers-github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "superpowers-github"
             }
           }
         ],
@@ -161,12 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "raw/articles/superpowers-github.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "superpowers-github 의 개요"
             }
           },
           {
@@ -230,17 +235,20 @@
   },
   "active": "4dddf79ec05508af",
   "lastOpenFiles": [
+    "raw/바이브코딩은 왜 실패하는가 -AI 협업 가이드북.md",
+    "raw/Ch.1 AI가 만들어준 코드, 왜 내가 이해를 못하지?.md",
+    "raw/articles/superpowers-github.md",
+    "entities/subagent-driven-development.md",
+    "entities/superpowers.md",
     "raw/articles/context-rot.md",
     "YOLO",
     "raw/articles/anthropic-desktop-extensions.md",
     "raw/archived-stubs/anthropic-building-c-compiler.md",
     "raw/archived-stubs/anthropic-ai-resistant-evals.md",
-    "raw/바이브코딩은 왜 실패하는가 -AI 협업 가이드북.md",
     "raw/archived/smart-video-wizard.md",
     "raw/Ch.20 노트 템플릿 고도화.md",
     "raw/Ch.3 \"기억하는 개발\"이라는 해법.md",
     "raw/Ch.2 컨텍스트의 문제 — AI도 까먹고, 나도 까먹는다.md",
-    "raw/Ch.1 AI가 만들어준 코드, 왜 내가 이해를 못하지?.md",
     "SCHEMA.md",
     "log.md",
     "index.md",
@@ -254,9 +262,6 @@
     "concepts/rss-브리핑-파이프라인.md",
     "concepts/mcp-프로토콜.md",
     "concepts/hermes-15-hidden-features.md",
-    "concepts/harness-engineering.md",
-    "concepts/anthropic-claude-think-tool.md",
-    "docs/research-sop.md",
     "raw/articles/ai-에이전트-연구-도구-grok-2026-04-27.pdf",
     "raw/tweets",
     "000-Inbox",
