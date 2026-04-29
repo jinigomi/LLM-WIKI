@@ -4,7 +4,23 @@
      4|> Format: `## [YYYY-MM-DD] action | subject`
      5|> Actions: ingest, update, query, lint, create, archive, delete
      6|
-     7|## [2026-04-29] delete | Wiki 중복/불필요 데이터 정리 (lint)
+     7|## [2026-04-30] lint | 자동 정리
+
+- **삭제:** 5개 파일
+  - `raw/books/하네스-엔지니어링-입문-wikidocs.md` — entities/harness-engineering-wikidocs.md 요약본 존재
+  - `raw/articles/superpowers-github.md` — entities/superpowers.md에 분석 결과 포함
+  - `raw/articles/warp-github-repo-analysis.md` — entities/warp.md에 분석 결과 포함
+  - `raw/articles/note-wiki-vibe-coding-beginner-methodology-sources-2026-04-28.md` — URL 목록만, report에 통합됨
+  - `raw/papers/engineering-thinking-agent.md` — 내용 부실 (992 bytes, placeholder 수준)
+- **index.md 수정:**
+  - 깨진 위키링크 수정: `[[flashqla]]` → `[[Qwen-FlashQLA]]`, `[[learn-harness-engineering]]` → `[[Learn-Harness-Engineering]]`
+  - type 오분류 정정: `[[context-rot]]`, `[[기억하는-개발]]` → Concepts → Entities로 이동
+  - orphan 등록: entities/context-rot.md, entities/기억하는-개발.md 추가
+  - 페이지 수 업데이트: 27 → 28, Concepts 9, Entities 17
+- **Vault 상태:** 53 .md files (root 3, concepts 9, entities 17, queries 1, comparisons 1, raw 22), 12 .txt files
+- **주의:** `raw/articles/sharbel-15-hermes-features-2026-04-29.md`, `raw/articles/notebooklm-note-wiki-vibe-coding-beginner-methodology-report-2026-04-28.md`는 entities/concepts에 요약이 있지만 양호한 참고자료로 보존. `raw/papers/ai-novice-to-senior-research.md` (16KB)도 보존.
+
+## [2026-04-29] delete | Wiki 중복/불필요 데이터 정리 (lint)
 
 - **삭제:** 12개 파일
   - `000-Inbox/vibe-coding-beginner-methodology_2026-04-28.md` — concepts로 이미 처리된 중복 인덱스
