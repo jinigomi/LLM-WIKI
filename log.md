@@ -12,6 +12,8 @@
 - **index.md:** Entities 18 → 20, Concepts 9 → 10, Total 29 → 32
 - **Graphify 분석:** don-cheli-sdd (TypeScript, Docker-wrapped TDD 강제 SDD), cc-sdd (TypeScript, Boundary-first, 8개 에이전트 통합)
 - **소스:** https://github.com/doncheli/don-cheli-sdd, https://github.com/gotalab/cc-sdd
+- **비교 페이지:** `comparisons/don-cheli-vs-cc-sdd.md`
+- **개념 페이지 업데이트:** `concepts/spec-driven-development.md` — SDD 구현체 스펙트럼 테이블 추가 (OpenSpec/cc-sdd/Don Cheli)
 
 ## [2026-04-30] lint | 자동 정리
      8|

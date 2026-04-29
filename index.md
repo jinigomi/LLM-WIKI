@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-30 | Total pages: 32
+> Last updated: 2026-04-30 | Total pages: 33
 
 ## Concepts (10)
 - [[anthropic-claude-think-tool]] — Anthropic의 "think" tool: 복잡한 도구 사용 상황에서 Claude가 멈추고 생각하게 하는 메커니즘
@@ -38,7 +38,8 @@
 - [[챕터-요약]] — 바이브코딩 책 챕터별 요약
 - [[프로젝트-개요]] — Engineering Mindset 프로젝트 개요
 
-## Comparisons (2)
+## Comparisons (3)
+- [[comparisons/don-cheli-vs-cc-sdd|don-cheli-vs-cc-sdd]] — Don Cheli vs cc-sdd: Docker 파이프라인 SDD vs Boundary-first Skills SDD
 - [[hermes-vs-boop]] — Hermes Agent vs Boop Agent: 아키텍처·Memory·통합·안전장치 전방위 비교
 - [[comparisons/openspec-vs-superpowers|openspec-vs-superpowers]] — OpenSpec vs Superpowers: Spec-first vs Process-first AI 협업 프레임워크 전방위 비교
 

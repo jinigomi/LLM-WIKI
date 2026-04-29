@@ -78,6 +78,23 @@ Human provides intent/cotext/constraints
 
 ## 다른 Spec 프레임워크와 비교
 
+### SDD 구현체 스펙트럼
+
+| | OpenSpec | cc-sdd | Don Cheli |
+|---|---|---|---|
+| 무게 | 경량 | 중간 | 중량 |
+| 설치 | `npm i -g` | `npx cc-sdd@latest` | `npm i -g` + `don-cheli install` |
+| 에이전트 | 25+ | 8개 | 7개 |
+| 격리 | 없음 | Agent Skills (프로세스) | Docker + worktree |
+| TDD | 선택 | 선택 (/kiro-impl 내장) | **강제** (게이트 통과 필수) |
+| 설계 철학 | Fluid, iterative | Boundary-first | Docker-wrapped pipeline |
+| 브라운필드 | Delta specs | 가능 | 가능 |
+| 언어 | TypeScript (Node) | TypeScript (Node) | TypeScript (Node) |
+| 라이선스 | Apache 2.0 | MIT | Apache 2.0 |
+| God Node | — | runPlanExecution | orchestrator.ts |
+
+### 핵심 차이
+
 | | OpenSpec | Spec Kit (GitHub) | Kiro (AWS) |
 |---|---|---|---|
 | 무게 | 경량 | 중량 (Phase gate) | 중간 |
