@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777475300917,
+      "lastUpdated": 1777478900747,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -214,7 +214,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777475301049,
+      "lastUpdated": 1777478900880,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -675,7 +675,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777475301206,
+      "lastUpdated": 1777478900962,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -954,7 +954,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777475301375,
+      "lastUpdated": 1777478901129,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1415,7 +1415,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777475301559,
+      "lastUpdated": 1777478901293,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1928,7 +1928,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777475301644,
+      "lastUpdated": 1777478901477,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2181,7 +2181,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777475301816,
+      "lastUpdated": 1777478901630,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2199,6 +2199,26 @@
       "url": "https://feeds.feedburner.com/geeknews-feed",
       "folder": "RSS",
       "items": [
+        {
+          "title": "생리 추적 앱 Flo, 사용자 데이터를 Meta에 판매한 사실 확인돼",
+          "link": "https://news.hada.io/topic?id=29019",
+          "description": "",
+          "content": "<ul> <li><strong>생리 추적과 임신 관련 정보</strong>를 다루는 Flo는 프라이버시 보호를 내세웠지만, 실제로는 월경 주기, 배란, 임신 관련 데이터를 Meta 등 제3자와 상업적으로 공유한 책임이 인정됨</li> <li>민감한 정보 유출은 외부 침입이 아니라 <strong>제품 내부 설계와 프라이버시 결정</strong>을 통해 이...</p>",
+          "pubDate": "2026-04-29T23:34:19+09:00",
+          "guid": "https://news.hada.io/topic?id=29019",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
+          "coverImage": "",
+          "summary": "생리 추적과 임신 관련 정보를 다루는 Flo는 프라이버시 보호를 내세웠지만, 실제로는 월경 주기, 배란, 임신 관련 데이터를 Meta 등 제3자와 상업적으로 공유한 책임이 인정됨 민감한 정보 유출은 외부 침입이 아니라 제품 내부 설계와 프라이버시 결정을 통해 이...",
+          "author": "neo",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": ""
+        },
         {
           "title": "VibeVoice - 오픈소스 프런티어 음성 AI",
           "link": "https://news.hada.io/topic?id=29018",
@@ -3178,29 +3198,9 @@
           "mediaType": "article",
           "explicit": false,
           "image": ""
-        },
-        {
-          "title": "Mercor에서 AI 계약자 4만 명의 음성 샘플 4TB 유출",
-          "link": "https://news.hada.io/topic?id=28964",
-          "description": "",
-          "content": "<ul> <li><strong>음성 생체정보</strong>와 <strong>정부 발급 신분증</strong>이 한 줄의 데이터로 묶인 대규모 유출이 발생했고, 유출된 샘플 인덱스 기준으로 4만 명이 넘는 AI 계약자가 포함됨</li> <li>계약자당 평균 <strong>2~5분 분량</strong>의 깨끗한 녹음이 담겨 있어, 약 15초 참조 오디오만으로도 가능한...</p>",
-          "pubDate": "2026-04-28T09:53:12+09:00",
-          "guid": "https://news.hada.io/topic?id=28964",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
-          "coverImage": "",
-          "summary": "음성 생체정보와 정부 발급 신분증이 한 줄의 데이터로 묶인 대규모 유출이 발생했고, 유출된 샘플 인덱스 기준으로 4만 명이 넘는 AI 계약자가 포함됨 계약자당 평균 2~5분 분량의 깨끗한 녹음이 담겨 있어, 약 15초 참조 오디오만으로도 가능한...",
-          "author": "neo",
-          "saved": false,
-          "mediaType": "article",
-          "explicit": false,
-          "image": ""
         }
       ],
-      "lastUpdated": 1777475302441,
+      "lastUpdated": 1777478903159,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3210,7 +3210,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "siteUrl": "https://news.hada.io/topic?id=29018",
+      "siteUrl": "https://news.hada.io/topic?id=29019",
       "iconUrl": "https://social.news.hada.io/WideLogo500.png"
     },
     {
@@ -4619,7 +4619,7 @@
           }
         }
       ],
-      "lastUpdated": 1777475303532,
+      "lastUpdated": 1777478904274,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4637,7 +4637,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777475303648,
+      "lastUpdated": 1777478904400,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4655,7 +4655,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777475303977,
+      "lastUpdated": 1777478904758,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5824,7 +5824,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777475305101,
+      "lastUpdated": 1777478905725,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6992,7 +6992,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777475305399,
+      "lastUpdated": 1777478906940,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7608,7 +7608,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777475306583,
+      "lastUpdated": 1777478908538,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8776,7 +8776,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777475307555,
+      "lastUpdated": 1777478909501,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8793,6 +8793,29 @@
       "url": "https://nitter.net/seti_park/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "RT by @seti_park: Intel is such a horse. I have NO bear case",
+          "link": "https://nitter.net/jimcramer/status/2049504487748849981#m",
+          "description": "<p>Intel is such a horse. I have NO bear case</p>",
+          "content": "<p>Intel is such a horse. I have NO bear case</p>",
+          "pubDate": "Wed, 29 Apr 2026 15:02:02 GMT",
+          "guid": "https://nitter.net/seti_park/2049504487748849981",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "",
+          "summary": "Intel is such a horse. I have NO bear case",
+          "author": "@jimcramer",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "RT by @seti_park: Thank God they’re not going to keep up this trend of multiple separate AI factories. One super cloud on earth and one in orbit. Or do we need the one in orbit now? He’s shooting for 1 million processors. Is it redundant?",
           "link": "https://nitter.net/ScienceGuy2718/status/2049495364773015914#m",
@@ -9342,6 +9365,29 @@
           "duration": "",
           "explicit": false,
           "image": "https://nitter.net/pic/media%2FHHCAsO2aQAAEKxI.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "RT by @seti_park: AI 네이티브를 일하면서 드는 생각 1. 생산성은 확실히 증가했다. 2. 문제는 내가 만든 output이나 과정을 따라가기가 벅차다. 3. 생산성의 증가가 내 월급과 비례하지 않는 것이 슬프다. 4. 기업 입장에서 생산성이 이윤으로 치환되는가 생각하면 그것도 의문이다. 경쟁 상대도 소비자의 눈높이도 같이 올라간 상황 5. 결론은 일만 힘들어지고 크게 달라진게 없다.",
+          "link": "https://nitter.net/PcIOvebbCbTdSTb/status/2049272719045529804#m",
+          "description": "<p>AI 네이티브를 일하면서 드는 생각<br> <br> 1. 생산성은 확실히 증가했다.<br> 2. 문제는 내가 만든 output이나 과정을 따라가기가 벅차다.<br> 3. 생산성의 증가가 내 월급과 비례하지 않는 것이 슬프다.<br> 4. 기업 입장에서 생산성이 이윤으로 치환되는가 생각하면 그것도 의문이다. 경쟁 상대도 소비자의 눈높이도 같이 올라간 상황<br> 5. 결론은 일만 힘들어지고 크게 달라진게 없다.</p>",
+          "content": "<p>AI 네이티브를 일하면서 드는 생각<br> <br> 1. 생산성은 확실히 증가했다.<br> 2. 문제는 내가 만든 output이나 과정을 따라가기가 벅차다.<br> 3. 생산성의 증가가 내 월급과 비례하지 않는 것이 슬프다.<br> 4. 기업 입장에서 생산성이 이윤으로 치환되는가 생각하면 그것도 의문이다. 경쟁 상대도 소비자의 눈높이도 같이 올라간 상황<br> 5. 결론은 일만 힘들어지고 크게 달라진게 없다.</p>",
+          "pubDate": "Tue, 28 Apr 2026 23:41:04 GMT",
+          "guid": "https://nitter.net/seti_park/2049272719045529804",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "",
+          "summary": "AI 네이티브를 일하면서 드는 생각 1. 생산성은 확실히 증가했다. 2. 문제는 내가 만든 output이나 과정을 따라가기가 벅차다. 3. 생산성의 증가가 내 월급과 비례하지 않는 것이 슬프다. 4. 기업 입장에서 생산성이 이윤으로 치환되는가 생각하면 그것도 의문이다. 경쟁 상대도 소비자의 눈높이도 같이 올라간 상황 5. 결론은 일만 힘들어지고 크게 달라진게 없다.",
+          "author": "@PcIOvebbCbTdSTb",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
           "category": "",
           "episodeType": ""
         },
@@ -9896,55 +9942,9 @@
           "image": "https://nitter.net/pic/media%2FHG6ftgwbUAASaQR.jpg",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "광학은 어렵네요 😵",
-          "link": "https://nitter.net/seti_park/status/2048740179658383790#m",
-          "description": "<p>광학은 어렵네요 😵</p> <hr/> <blockquote> <b>SETI Park (@seti_park)</b> <p> <p><a href=\"http://x.com/i/article/2048731154833129472\">x.com/i/article/204873115483…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/seti_park/status/2048733562514337992#m\">https://nitter.net/seti_park/status/2048733562514337992#m</a> </footer> </blockquote>",
-          "content": "<p>광학은 어렵네요 😵</p> <hr/> <blockquote> <b>SETI Park (@seti_park)</b> <p> <p><a href=\"http://x.com/i/article/2048731154833129472\">x.com/i/article/204873115483…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/seti_park/status/2048733562514337992#m\">https://nitter.net/seti_park/status/2048733562514337992#m</a> </footer> </blockquote>",
-          "pubDate": "Mon, 27 Apr 2026 12:24:57 GMT",
-          "guid": "https://nitter.net/seti_park/2048740179658383790",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "SETI Park / @seti_park",
-          "feedUrl": "https://nitter.net/seti_park/rss",
-          "coverImage": "",
-          "summary": "광학은 어렵네요 😵 SETI Park (@seti_park) x.com/i/article/204873115483… — https://nitter.net/seti_park/status/2048733562514337992#m",
-          "author": "@seti_park",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "R to @seti_park: 이걸 DeepMind가 ... 다크호스로 치고 나가네요. 🤓",
-          "link": "https://nitter.net/seti_park/status/2048736392931611134#m",
-          "description": "<p>이걸 DeepMind가 ... 다크호스로 치고 나가네요. 🤓</p> <hr/> <blockquote> <b>SETI Park (@seti_park)</b> <p> <p>사실 누가 먼저 Hive Mind를 구축하느냐가 게임의 승자를 가를 것 같은데, 저는 Tesla가 될 것이라고 생각하고 있습니다.<br> <br> Nvidia + 개별 기업 조합은 너무 파편화된 경향이 있다고 생각해서요. 다 공유한다고 치면 개별 기업들이 반대할 것 같고 ... 🤔</p> </p> <footer> — <cite><a href=\"https://nitter.net/seti_park/status/2007515996685513024#m\">https://nitter.net/seti_park/status/2007515996685513024#m</a> </footer> </blockquote>",
-          "content": "<p>이걸 DeepMind가 ... 다크호스로 치고 나가네요. 🤓</p> <hr/> <blockquote> <b>SETI Park (@seti_park)</b> <p> <p>사실 누가 먼저 Hive Mind를 구축하느냐가 게임의 승자를 가를 것 같은데, 저는 Tesla가 될 것이라고 생각하고 있습니다.<br> <br> Nvidia + 개별 기업 조합은 너무 파편화된 경향이 있다고 생각해서요. 다 공유한다고 치면 개별 기업들이 반대할 것 같고 ... 🤔</p> </p> <footer> — <cite><a href=\"https://nitter.net/seti_park/status/2007515996685513024#m\">https://nitter.net/seti_park/status/2007515996685513024#m</a> </footer> </blockquote>",
-          "pubDate": "Mon, 27 Apr 2026 12:09:54 GMT",
-          "guid": "https://nitter.net/seti_park/2048736392931611134",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "SETI Park / @seti_park",
-          "feedUrl": "https://nitter.net/seti_park/rss",
-          "coverImage": "",
-          "summary": "이걸 DeepMind가 ... 다크호스로 치고 나가네요. 🤓 SETI Park (@seti_park) 사실 누가 먼저 Hive Mind를 구축하느냐가 게임의 승자를 가를 것 같은데, 저는 Tesla가 될 것이라고 생각하고 있습니다. Nvidia + 개별 기업 조합은 너무 파편화된 경향이 있다고 생각해서요. 다 공유한다고 치면 개별 기업들이 반대할 것 같고 ... 🤔 — https://ni...",
-          "author": "@seti_park",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777475308583,
+      "lastUpdated": 1777478910633,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11112,7 +11112,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777475308703,
+      "lastUpdated": 1777478910748,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11659,7 +11659,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777475309527,
+      "lastUpdated": 1777478911547,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11815,7 +11815,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777475311107,
+      "lastUpdated": 1777478913051,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11867,7 +11867,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777475311236,
+      "lastUpdated": 1777478913184,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12545,7 +12545,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777475311395,
+      "lastUpdated": 1777478913390,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13714,7 +13714,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777475312100,
+      "lastUpdated": 1777478913887,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14175,7 +14175,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777475312252,
+      "lastUpdated": 1777478914061,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14506,7 +14506,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777475312421,
+      "lastUpdated": 1777478914241,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15231,7 +15231,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777475312619,
+      "lastUpdated": 1777478914432,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15272,7 +15272,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777475312619,
+  "lastRefreshTimestamp": 1777478914432,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
