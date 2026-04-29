@@ -4,7 +4,9 @@
 > Read this first to find relevant pages for any query.
 > Last updated: 2026-04-30 | Total pages: 28
 
-## Concepts (9)
+## Concepts (10)
+- [[spec-driven-development]] — Spec-Driven Development: 코드 전에 명세 합의 — Delta Specs, OPSX 워크플로우, AI 협업 패턴
+## Concepts
 - [[anthropic-claude-think-tool]] — Anthropic의 "think" tool: 복잡한 도구 사용 상황에서 Claude가 멈추고 생각하게 하는 메커니즘
 - [[harness-engineering]] — Harness Engineering: AI 에이전트 행동을 예측/통제 가능하게 만드는 소프트웨어 엔지니어링 분야
 - [[hermes-15-hidden-features]] — Hermes Agent의 잘 알려지지 않은 15가지 기능 (Sharbel, 2026-04-28)
@@ -15,7 +17,9 @@
 - [[바이브코딩-책-개요]] — 바이브코딩 책 (박경태, wikidocs) 전체 개요 및 구조
 - [[에러-에스컬레이션]] — AI 코딩에서 에러가 발생했을 때 상위 지원으로 에스컬레이션하는 패턴
 
-## Entities (17)
+## Entities (18)
+- [[openspec]] — OpenSpec: Fission AI의 AI-native spec-driven 프레임워크 (TypeScript, 25+ AI 도구 지원, Graphify 분석)
+## Entities
 - [[app-blueprint-prompt]] — APP_BLUEPRINT.md 생성 메타프롬프트 (@DeRonin_ 제작)
 - [[boop-agent]] — Boop Agent: iMessage 기반 오픈소스 개인 비서. Claude Agent SDK + Dispatcher-Worker 아키텍처
 - [[context-rot]] — Context Rot: LLM 대화가 길어질수록 컨텍스트 품질이 저하되는 현상과 대응 전략

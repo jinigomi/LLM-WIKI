@@ -230,6 +230,8 @@
   },
   "active": "4dddf79ec05508af",
   "lastOpenFiles": [
+    "concepts/spec-driven-development.md",
+    "entities/openspec.md",
     "raw/articles/warp-github-repo-analysis.md",
     "entities/warp.md",
     "entities/Learn-Harness-Engineering.md",
@@ -256,8 +258,6 @@
     "SCHEMA.md",
     "log.md",
     "index.md",
-    "AGENTS.md",
-    "000-Inbox/vibe-coding-beginner-methodology_2026-04-28.md",
     "raw/articles/ai-에이전트-연구-도구-grok-2026-04-27.pdf",
     "raw/tweets",
     "000-Inbox",
