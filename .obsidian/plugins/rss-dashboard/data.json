@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777486100620,
+      "lastUpdated": 1777489700743,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -214,7 +214,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777486100750,
+      "lastUpdated": 1777489700882,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -675,7 +675,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777486100894,
+      "lastUpdated": 1777489700967,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -954,7 +954,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777486101064,
+      "lastUpdated": 1777489701112,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1415,7 +1415,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777486101228,
+      "lastUpdated": 1777489701259,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1928,7 +1928,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777486101377,
+      "lastUpdated": 1777489701413,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2181,7 +2181,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777486101527,
+      "lastUpdated": 1777489701580,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3200,7 +3200,7 @@
           "image": ""
         }
       ],
-      "lastUpdated": 1777486102933,
+      "lastUpdated": 1777489703058,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4619,7 +4619,7 @@
           }
         }
       ],
-      "lastUpdated": 1777486104053,
+      "lastUpdated": 1777489704281,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4637,7 +4637,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777486104170,
+      "lastUpdated": 1777489704471,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4655,7 +4655,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777486104477,
+      "lastUpdated": 1777489704780,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5824,7 +5824,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777486105531,
+      "lastUpdated": 1777489705875,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6992,7 +6992,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777486106387,
+      "lastUpdated": 1777489706843,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7002,7 +7002,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
     },
     {
       "title": "Cognac(꼬냑) / @supernovajunn",
@@ -7608,7 +7608,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777486107477,
+      "lastUpdated": 1777489707941,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7618,7 +7618,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F2024378974298943489%2FvoBO3RCH_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2024378974298943489%2FvoBO3RCH_400x400.jpg"
     },
     {
       "title": "Tsla Chan / @Tslachan",
@@ -8776,7 +8776,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777486108387,
+      "lastUpdated": 1777489708944,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8786,7 +8786,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
     },
     {
       "title": "SETI Park / @seti_park",
@@ -9944,7 +9944,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777486109412,
+      "lastUpdated": 1777489710177,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11112,7 +11112,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777486109530,
+      "lastUpdated": 1777489710295,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11659,7 +11659,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777486110341,
+      "lastUpdated": 1777489711104,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11815,7 +11815,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777486111882,
+      "lastUpdated": 1777489712805,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11867,7 +11867,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777486112011,
+      "lastUpdated": 1777489712924,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12565,7 +12565,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777486112235,
+      "lastUpdated": 1777489713083,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13734,7 +13734,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777486113015,
+      "lastUpdated": 1777489713860,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14195,7 +14195,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777486113176,
+      "lastUpdated": 1777489713939,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14526,7 +14526,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777486113322,
+      "lastUpdated": 1777489714101,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15251,7 +15251,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777486113476,
+      "lastUpdated": 1777489714258,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15292,7 +15292,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777486113477,
+  "lastRefreshTimestamp": 1777489714258,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
