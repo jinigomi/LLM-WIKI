@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777464463524,
+      "lastUpdated": 1777468101678,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -214,7 +214,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777464463814,
+      "lastUpdated": 1777468101918,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -675,7 +675,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777464463891,
+      "lastUpdated": 1777468102003,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -954,7 +954,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777464463973,
+      "lastUpdated": 1777468102180,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1415,7 +1415,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777464464133,
+      "lastUpdated": 1777468102347,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1928,7 +1928,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777464464212,
+      "lastUpdated": 1777468102532,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2181,7 +2181,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777464464288,
+      "lastUpdated": 1777468102681,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2199,6 +2199,26 @@
       "url": "https://feeds.feedburner.com/geeknews-feed",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Show GN: HomeButler – 홈서버를 챙겨주는 작은 집사 CLI",
+          "link": "https://news.hada.io/topic?id=29015",
+          "description": "",
+          "content": "<p>한 달 전 소개 이후, 단순 홈서버 관리 CLI에서 \"홈서버 운영 집사\" 방향으로 계속 발전시키고 있습니다.</p> <p>HomeButler는 작은 홈서버를 위한 Go 싱글 바이너리 CLI입니다. 처음엔 <code>status</code>, <code>docker</code>, <code>ports</code> 같은 자주 쓰는 명령을 한곳에 모으는 도구였는데, 만",
+          "pubDate": "2026-04-29T21:36:12+09:00",
+          "guid": "https://news.hada.io/topic?id=29015",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
+          "coverImage": "",
+          "summary": "한 달 전 소개 이후, 단순 홈서버 관리 CLI에서 \"홈서버 운영 집사\" 방향으로 계속 발전시키고 있습니다. HomeButler는 작은 홈서버를 위한 Go 싱글 바이너리 CLI입니다. 처음엔 status, docker, ports 같은 자주 쓰는 명령을 한곳에 모으는 도구였는데, 만",
+          "author": "swq115",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": ""
+        },
         {
           "title": "GitHub 장애 - Incomplete pull request results in repositories Incident Report for GitHub",
           "link": "https://news.hada.io/topic?id=29013",
@@ -3178,29 +3198,9 @@
           "mediaType": "article",
           "explicit": false,
           "image": ""
-        },
-        {
-          "title": "Microsoft와 OpenAI, 독점 및 매출 공유 계약 종료",
-          "link": "https://news.hada.io/topic?id=28960",
-          "description": "",
-          "content": "<ul> <li>OpenAI 제품 판매가 <strong>단일 클라우드 파트너</strong>에 묶이지 않게 바뀌며, Microsoft의 독점 판매권이 사라짐</li> <li>OpenAI는 <strong>Amazon 같은 경쟁 클라우드</strong>와도 계약을 추진할 수 있게 되고, 유통 경로를 더 넓힐 수 있음</li> <li>Microsoft는 자사 클라우드에서 재판매하는 OpenA...</p>",
-          "pubDate": "2026-04-28T09:44:11+09:00",
-          "guid": "https://news.hada.io/topic?id=28960",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
-          "coverImage": "",
-          "summary": "OpenAI 제품 판매가 단일 클라우드 파트너에 묶이지 않게 바뀌며, Microsoft의 독점 판매권이 사라짐 OpenAI는 Amazon 같은 경쟁 클라우드와도 계약을 추진할 수 있게 되고, 유통 경로를 더 넓힐 수 있음 Microsoft는 자사 클라우드에서 재판매하는 OpenA...",
-          "author": "neo",
-          "saved": false,
-          "mediaType": "article",
-          "explicit": false,
-          "image": ""
         }
       ],
-      "lastUpdated": 1777464465587,
+      "lastUpdated": 1777468103942,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3210,7 +3210,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "siteUrl": "https://news.hada.io/topic?id=29013",
+      "siteUrl": "https://news.hada.io/topic?id=29015",
       "iconUrl": "https://social.news.hada.io/WideLogo500.png"
     },
     {
@@ -4619,7 +4619,7 @@
           }
         }
       ],
-      "lastUpdated": 1777464466723,
+      "lastUpdated": 1777468105026,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4637,7 +4637,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777464466844,
+      "lastUpdated": 1777468105145,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4655,7 +4655,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777464467126,
+      "lastUpdated": 1777468105450,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4673,6 +4673,75 @@
       "url": "https://nitter.net/TeslaZoa/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "🚨기가 베를린 생산 데이터로 본 모델 구성 추정 1️⃣ 누적 생산: 드라이브 유닛 100만 개, 차량 약 74만 대 2️⃣ 모든 드라이브 유닛이 내부 사용 기준으로 가정 3️⃣ 단일 모터(RWD) 약 48만 대 추정 4️⃣ 듀얼 모터(AWD) 약 26만 대 추정 5️⃣ 생산 구조상 RWD 비중이 더 높은 것으로 해석 가능",
+          "link": "https://nitter.net/TeslaZoa/status/2049469583887839262#m",
+          "description": "<p>🚨기가 베를린 생산 데이터로 본 모델 구성 추정<br> <br> 1️⃣ 누적 생산: 드라이브 유닛 100만 개, 차량 약 74만 대<br> 2️⃣ 모든 드라이브 유닛이 내부 사용 기준으로 가정<br> 3️⃣ 단일 모터(RWD) 약 48만 대 추정<br> 4️⃣ 듀얼 모터(AWD) 약 26만 대 추정<br> 5️⃣ 생산 구조상 RWD 비중이 더 높은 것으로 해석 가능</p> <img src=\"https://nitter.net/pic/media%2FHHEtuHtbIAAqJAu.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Roland Pircher (@piloly)</b> <p> <p>1 million drive units and about 740k cars have been produced at Giga Berlin. If all the drive units were used inhouse this would suggest 480k RWD and 260k AWD.</p> </p> <footer> — <cite><a href=\"https://nitter.net/piloly/status/2049428064380010699#m\">https://nitter.net/piloly/status/2049428064380010699#m</a> </footer> </blockquote>",
+          "content": "<p>🚨기가 베를린 생산 데이터로 본 모델 구성 추정<br> <br> 1️⃣ 누적 생산: 드라이브 유닛 100만 개, 차량 약 74만 대<br> 2️⃣ 모든 드라이브 유닛이 내부 사용 기준으로 가정<br> 3️⃣ 단일 모터(RWD) 약 48만 대 추정<br> 4️⃣ 듀얼 모터(AWD) 약 26만 대 추정<br> 5️⃣ 생산 구조상 RWD 비중이 더 높은 것으로 해석 가능</p> <img src=\"https://nitter.net/pic/media%2FHHEtuHtbIAAqJAu.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Roland Pircher (@piloly)</b> <p> <p>1 million drive units and about 740k cars have been produced at Giga Berlin. If all the drive units were used inhouse this would suggest 480k RWD and 260k AWD.</p> </p> <footer> — <cite><a href=\"https://nitter.net/piloly/status/2049428064380010699#m\">https://nitter.net/piloly/status/2049428064380010699#m</a> </footer> </blockquote>",
+          "pubDate": "Wed, 29 Apr 2026 12:43:20 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2049469583887839262",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHEtuHtbIAAqJAu.jpg",
+          "summary": "🚨기가 베를린 생산 데이터로 본 모델 구성 추정 1️⃣ 누적 생산: 드라이브 유닛 100만 개, 차량 약 74만 대 2️⃣ 모든 드라이브 유닛이 내부 사용 기준으로 가정 3️⃣ 단일 모터(RWD) 약 48만 대 추정 4️⃣ 듀얼 모터(AWD) 약 26만 대 추정 5️⃣ 생산 구조상 RWD 비중이 더 높은 것으로 해석 가능 Roland Pircher (@piloly) 1 million dri...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHEtuHtbIAAqJAu.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "🚨이탈리아 상원의원, 테슬라 자율주행 승인 촉구 1️⃣ 칼로 칼렌다 상원의원, 그동안 머스크를 비판해왔지만 이번엔 다른 행보 2️⃣ 상원 질의서(4-02971)를 통해 테슬라 감독형 자율주행 가이드라인의 신속 승인 요구 3️⃣ 도로 안전 개선 효과와 네덜란드 승인 사례를 근거로 제시 4️⃣ 유럽 내 경쟁에서 뒤처지지 않기 위한 필요성 강조 5️⃣ 야당에서 나온 이례적이면서도 주목할 만한 움직임",
+          "link": "https://nitter.net/TeslaZoa/status/2049469226516348928#m",
+          "description": "<p>🚨이탈리아 상원의원, 테슬라 자율주행 승인 촉구<br> <br> 1️⃣ 칼로 칼렌다 상원의원, 그동안 머스크를 비판해왔지만 이번엔 다른 행보<br> 2️⃣ 상원 질의서(4-02971)를 통해 테슬라 감독형 자율주행 가이드라인의 신속 승인 요구<br> 3️⃣ 도로 안전 개선 효과와 네덜란드 승인 사례를 근거로 제시<br> 4️⃣ 유럽 내 경쟁에서 뒤처지지 않기 위한 필요성 강조<br> 5️⃣ 야당에서 나온 이례적이면서도 주목할 만한 움직임</p> <hr/> <blockquote> <b>Andrea Stroppa 🐺 Claudius Nero's Legion 🐺 (@andst7)</b> <p> <p>Il Senatore Carlo Calenda critica spesso Musk, ma questo suo atto al Senato è notevole: con l’interrogazione 4-02971 spinge per l’approvazione rapida della guida autonoma supervisionata di Tesla in Italia. Cita i benefici per la sicurezza stradale, l’approvazione già arrivata nei Paesi Bassi e l’esigenza di non restare indietro rispetto al resto d’Europa. Un’iniziativa interessante che arriva dall’opposizione. <a href=\"https://www.senato.it/show-doc?leg=19&tipodoc=Sindisp&id=1504520&idoggetto=0\">senato.it/show-doc?leg=19&ti…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/andst7/status/2049412794429100508#m\">https://nitter.net/andst7/status/2049412794429100508#m</a> </footer> </blockquote>",
+          "content": "<p>🚨이탈리아 상원의원, 테슬라 자율주행 승인 촉구<br> <br> 1️⃣ 칼로 칼렌다 상원의원, 그동안 머스크를 비판해왔지만 이번엔 다른 행보<br> 2️⃣ 상원 질의서(4-02971)를 통해 테슬라 감독형 자율주행 가이드라인의 신속 승인 요구<br> 3️⃣ 도로 안전 개선 효과와 네덜란드 승인 사례를 근거로 제시<br> 4️⃣ 유럽 내 경쟁에서 뒤처지지 않기 위한 필요성 강조<br> 5️⃣ 야당에서 나온 이례적이면서도 주목할 만한 움직임</p> <hr/> <blockquote> <b>Andrea Stroppa 🐺 Claudius Nero's Legion 🐺 (@andst7)</b> <p> <p>Il Senatore Carlo Calenda critica spesso Musk, ma questo suo atto al Senato è notevole: con l’interrogazione 4-02971 spinge per l’approvazione rapida della guida autonoma supervisionata di Tesla in Italia. Cita i benefici per la sicurezza stradale, l’approvazione già arrivata nei Paesi Bassi e l’esigenza di non restare indietro rispetto al resto d’Europa. Un’iniziativa interessante che arriva dall’opposizione. <a href=\"https://www.senato.it/show-doc?leg=19&tipodoc=Sindisp&id=1504520&idoggetto=0\">senato.it/show-doc?leg=19&ti…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/andst7/status/2049412794429100508#m\">https://nitter.net/andst7/status/2049412794429100508#m</a> </footer> </blockquote>",
+          "pubDate": "Wed, 29 Apr 2026 12:41:55 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2049469226516348928",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "",
+          "summary": "🚨이탈리아 상원의원, 테슬라 자율주행 승인 촉구 1️⃣ 칼로 칼렌다 상원의원, 그동안 머스크를 비판해왔지만 이번엔 다른 행보 2️⃣ 상원 질의서(4-02971)를 통해 테슬라 감독형 자율주행 가이드라인의 신속 승인 요구 3️⃣ 도로 안전 개선 효과와 네덜란드 승인 사례를 근거로 제시 4️⃣ 유럽 내 경쟁에서 뒤처지지 않기 위한 필요성 강조 5️⃣ 야당에서 나온 이례적이면서도 주목할 만한 움...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "예전에는 주로 한국 분들께서 팔로우해주셨는데, 요즘은 미국과 일본 분들까지 팔로우해주시네요!! 😍 진심으로 감사드립니다. 🙇‍♂️",
+          "link": "https://nitter.net/TeslaZoa/status/2049468247746240530#m",
+          "description": "<p>예전에는 주로 한국 분들께서 팔로우해주셨는데, 요즘은 미국과 일본 분들까지 팔로우해주시네요!! 😍<br> <br> 진심으로 감사드립니다. 🙇‍♂️</p>",
+          "content": "<p>예전에는 주로 한국 분들께서 팔로우해주셨는데, 요즘은 미국과 일본 분들까지 팔로우해주시네요!! 😍<br> <br> 진심으로 감사드립니다. 🙇‍♂️</p>",
+          "pubDate": "Wed, 29 Apr 2026 12:38:02 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2049468247746240530",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "",
+          "summary": "예전에는 주로 한국 분들께서 팔로우해주셨는데, 요즘은 미국과 일본 분들까지 팔로우해주시네요!! 😍 진심으로 감사드립니다. 🙇‍♂️",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "한국에서 테슬라 모델 S/Y/CT에서 FSD가 되고, 미국산 모델3/Y에서 FSD가 되는데, 중국산 차량에서는 FSD가 안된다? 암청난 소외감들을 느낄듯.",
           "link": "https://nitter.net/TeslaZoa/status/2049411692396937561#m",
@@ -5753,78 +5822,9 @@
           "image": "https://nitter.net/pic/media%2FHHBgmnMa0AAS85y.jpg",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "🚨일론 : OpenAI 재판서 1시간 40분 증언…“AI 내년 인간 지능 초월 가능, 잘못된 통제 시 전 세계 위험” 1️⃣ 머스크는 이번 재판이 단순한 기업 분쟁이 아니라 미국 자선 시스템 전반에 영향을 미칠 수 있는 중대한 사건이라고 주장하며, 비영리 사명 훼손이 용인될 경우 위험한 선례가 될 수 있다고 강조함 2️⃣ OpenAI는 원래 비영리·오픈소스 기반으로 설립되어 AI 안전과 인류 이익을 목표로 했으며, 이는 구글에 대응하기 위한 취지였다고 설명함 3️⃣ 현재의 영리 중심 구조 전환은 초기 설립 취지를 위반한 것이라고 비판하며, 핵심은 “이익이 아닌 인류를 위한 AI”였다고 재차 강조함 4️⃣ AI에 대한 우려는 과거 Larry Page와의 대화에서 시작되었으며, 당시 페이지는 AI 위험을 심각하게 받아들이지 않았다고 주장함 5️⃣ 또한 과거 Barack Obama에게 AI 위험성을 전달하려 했으나, 당시에는 AI가 충분히 발전하지 않아 위협적으로 보이지 않았다고 설명하며 현재는 완전히 다른 수준에 도달했다고 언급함 6️⃣ AI가 이르면 내년에 인간 지능을 초월할 가능성을 언급하며, 신뢰할 수 없는 주체가 이를 통제할 경우 전 세계적 실존 위험이 될 수 있다고 경고함 7️⃣ 자신의 기업들인 SpaceX, Neuralink, xAI를 인류의 장기적 생존과 안전을 위한 전략적 프로젝트로 설명함 8️⃣ OpenAI 초기 구조는 501(c)(3) 비영리 단체를 중심으로 설계되었으며, 소규모 영리 조직이 이를 지원하는 형태는 허용 가능하지만 “영리가 비영리를 지배해서는 안 된다”는 입장을 밝힘 9️⃣ Ilya Sutskever를 구글에서 영입한 이후, 래리 페이지와의 관계가 단절되었으며, 그는 일리야를 당시 구글에서 가장 가치 있는 인재로 평가했다고 언급함 🔟 핵심 결론으로, OpenAI가 창립 원칙을 포기한 것이 사실이라면 이는 단순한 기업 문제가 아니라 AI 거버넌스와 글로벌 자선 신뢰 구조 자체를 재편할 수 있는 중대한 선례가 될 수 있다고 주장함",
-          "link": "https://nitter.net/TeslaZoa/status/2049243723993878738#m",
-          "description": "<p>🚨일론 : OpenAI 재판서 1시간 40분 증언…“AI 내년 인간 지능 초월 가능, 잘못된 통제 시 전 세계 위험” <br> <br> 1️⃣ 머스크는 이번 재판이 단순한 기업 분쟁이 아니라 미국 자선 시스템 전반에 영향을 미칠 수 있는 중대한 사건이라고 주장하며, 비영리 사명 훼손이 용인될 경우 위험한 선례가 될 수 있다고 강조함<br> <br> 2️⃣ OpenAI는 원래 비영리·오픈소스 기반으로 설립되어 AI 안전과 인류 이익을 목표로 했으며, 이는 구글에 대응하기 위한 취지였다고 설명함<br> <br> 3️⃣ 현재의 영리 중심 구조 전환은 초기 설립 취지를 위반한 것이라고 비판하며, 핵심은 “이익이 아닌 인류를 위한 AI”였다고 재차 강조함<br> <br> 4️⃣ AI에 대한 우려는 과거 Larry Page와의 대화에서 시작되었으며, 당시 페이지는 AI 위험을 심각하게 받아들이지 않았다고 주장함<br> <br> 5️⃣ 또한 과거 Barack Obama에게 AI 위험성을 전달하려 했으나, 당시에는 AI가 충분히 발전하지 않아 위협적으로 보이지 않았다고 설명하며 현재는 완전히 다른 수준에 도달했다고 언급함<br> <br> 6️⃣ AI가 이르면 내년에 인간 지능을 초월할 가능성을 언급하며, 신뢰할 수 없는 주체가 이를 통제할 경우 전 세계적 실존 위험이 될 수 있다고 경고함<br> <br> 7️⃣ 자신의 기업들인 SpaceX, Neuralink, xAI를 인류의 장기적 생존과 안전을 위한 전략적 프로젝트로 설명함<br> <br> 8️⃣ OpenAI 초기 구조는 501(c)(3) 비영리 단체를 중심으로 설계되었으며, 소규모 영리 조직이 이를 지원하는 형태는 허용 가능하지만 “영리가 비영리를 지배해서는 안 된다”는 입장을 밝힘<br> <br> 9️⃣ Ilya Sutskever를 구글에서 영입한 이후, 래리 페이지와의 관계가 단절되었으며, 그는 일리야를 당시 구글에서 가장 가치 있는 인재로 평가했다고 언급함<br> <br> 🔟 핵심 결론으로, OpenAI가 창립 원칙을 포기한 것이 사실이라면 이는 단순한 기업 문제가 아니라 AI 거버넌스와 글로벌 자선 신뢰 구조 자체를 재편할 수 있는 중대한 선례가 될 수 있다고 주장함</p> <img src=\"https://nitter.net/pic/media%2FHHBgDZRaIAAfNCP.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Sawyer Merritt (@SawyerMerritt)</b> <p> <p>Here's a rough summary of Elon Musk’s 1 hour and 40 minute long testimony today during the OpenAI trial. He will resume his testimony tomorrow.<br> <br> • Argues the case has huge implications: \"It is not ok to steal a charity. If the defendants are found not guilty, this case will become caselaw. It’ll give license to looting every charity in America. The consequences of this case go far beyond me or everyone here. The entire foundation of charitable giving in America will be destroyed.\"<br> <br> • Says OpenAI was founded as a nonprofit, open-source counterweight to Google, focused on AI safety.<br> <br> • Claims the shift to a for-profit structure violated that mission.<br> <br> • Says his AI concerns date back to conversations with Larry Page, who he felt wasn’t taking AI risk seriously.<br> <br> • Elon says he tried to warn Obama about AI, but that Obama felt AI was not good enough (back then) to seem scary smart. \"Here we are in 2026, AI is very smart.\"<br> <br> • Believes AI could surpass human intelligence as soon as next year and poses existential risk in the hands of the wrong people: “If you have someone who’s not very trustworthy in charge of AI, that’s very dangerous for the whole world.”<br> <br> • Elon framed his companies (SpaceX, Neuralink, xAI) as part of a broader mission to protect humanity’s future.<br> <br> • Emphasized OpenAI’s original goal: AI for the good of humanity, not profit-driven control.<br> <br> • Elon's main argument is that OpenAI abandoned its founding principles, and that precedent could reshape both AI governance and charitable trust.<br> <br> • Larry Page refused to speak to Elon Musk again after Elon recruited Ilya Sutskever to join OpenAI. Elon viewed Ilya as the “number one” most valuable member at Google.<br> <br> • Elon thought in the early days, OpenAI's corporate structure would be a nonprofit funded initially with donations, but there could potentially be a parallel for-profit that is owned by the nonprofit and funds the nonprofit: “We (Sam Altman and Elon) were in agreement that OpenAI would be a 501c3 charity. <br> <br> • Elon was not opposed to there being a small for-profit that provided funding to the nonprofit, as long as \"the tail didn’t wag the dog.\"<br> <br> • Elon: “there are very few people who understand venture capital in Silicon Valley like I do.\"</p> <img src=\"https://nitter.net/pic/media%2FHHBSpRiWIAA9TiS.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/SawyerMerritt/status/2049228704455262493#m\">https://nitter.net/SawyerMerritt/status/2049228704455262493#m</a> </footer> </blockquote>",
-          "content": "<p>🚨일론 : OpenAI 재판서 1시간 40분 증언…“AI 내년 인간 지능 초월 가능, 잘못된 통제 시 전 세계 위험” <br> <br> 1️⃣ 머스크는 이번 재판이 단순한 기업 분쟁이 아니라 미국 자선 시스템 전반에 영향을 미칠 수 있는 중대한 사건이라고 주장하며, 비영리 사명 훼손이 용인될 경우 위험한 선례가 될 수 있다고 강조함<br> <br> 2️⃣ OpenAI는 원래 비영리·오픈소스 기반으로 설립되어 AI 안전과 인류 이익을 목표로 했으며, 이는 구글에 대응하기 위한 취지였다고 설명함<br> <br> 3️⃣ 현재의 영리 중심 구조 전환은 초기 설립 취지를 위반한 것이라고 비판하며, 핵심은 “이익이 아닌 인류를 위한 AI”였다고 재차 강조함<br> <br> 4️⃣ AI에 대한 우려는 과거 Larry Page와의 대화에서 시작되었으며, 당시 페이지는 AI 위험을 심각하게 받아들이지 않았다고 주장함<br> <br> 5️⃣ 또한 과거 Barack Obama에게 AI 위험성을 전달하려 했으나, 당시에는 AI가 충분히 발전하지 않아 위협적으로 보이지 않았다고 설명하며 현재는 완전히 다른 수준에 도달했다고 언급함<br> <br> 6️⃣ AI가 이르면 내년에 인간 지능을 초월할 가능성을 언급하며, 신뢰할 수 없는 주체가 이를 통제할 경우 전 세계적 실존 위험이 될 수 있다고 경고함<br> <br> 7️⃣ 자신의 기업들인 SpaceX, Neuralink, xAI를 인류의 장기적 생존과 안전을 위한 전략적 프로젝트로 설명함<br> <br> 8️⃣ OpenAI 초기 구조는 501(c)(3) 비영리 단체를 중심으로 설계되었으며, 소규모 영리 조직이 이를 지원하는 형태는 허용 가능하지만 “영리가 비영리를 지배해서는 안 된다”는 입장을 밝힘<br> <br> 9️⃣ Ilya Sutskever를 구글에서 영입한 이후, 래리 페이지와의 관계가 단절되었으며, 그는 일리야를 당시 구글에서 가장 가치 있는 인재로 평가했다고 언급함<br> <br> 🔟 핵심 결론으로, OpenAI가 창립 원칙을 포기한 것이 사실이라면 이는 단순한 기업 문제가 아니라 AI 거버넌스와 글로벌 자선 신뢰 구조 자체를 재편할 수 있는 중대한 선례가 될 수 있다고 주장함</p> <img src=\"https://nitter.net/pic/media%2FHHBgDZRaIAAfNCP.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Sawyer Merritt (@SawyerMerritt)</b> <p> <p>Here's a rough summary of Elon Musk’s 1 hour and 40 minute long testimony today during the OpenAI trial. He will resume his testimony tomorrow.<br> <br> • Argues the case has huge implications: \"It is not ok to steal a charity. If the defendants are found not guilty, this case will become caselaw. It’ll give license to looting every charity in America. The consequences of this case go far beyond me or everyone here. The entire foundation of charitable giving in America will be destroyed.\"<br> <br> • Says OpenAI was founded as a nonprofit, open-source counterweight to Google, focused on AI safety.<br> <br> • Claims the shift to a for-profit structure violated that mission.<br> <br> • Says his AI concerns date back to conversations with Larry Page, who he felt wasn’t taking AI risk seriously.<br> <br> • Elon says he tried to warn Obama about AI, but that Obama felt AI was not good enough (back then) to seem scary smart. \"Here we are in 2026, AI is very smart.\"<br> <br> • Believes AI could surpass human intelligence as soon as next year and poses existential risk in the hands of the wrong people: “If you have someone who’s not very trustworthy in charge of AI, that’s very dangerous for the whole world.”<br> <br> • Elon framed his companies (SpaceX, Neuralink, xAI) as part of a broader mission to protect humanity’s future.<br> <br> • Emphasized OpenAI’s original goal: AI for the good of humanity, not profit-driven control.<br> <br> • Elon's main argument is that OpenAI abandoned its founding principles, and that precedent could reshape both AI governance and charitable trust.<br> <br> • Larry Page refused to speak to Elon Musk again after Elon recruited Ilya Sutskever to join OpenAI. Elon viewed Ilya as the “number one” most valuable member at Google.<br> <br> • Elon thought in the early days, OpenAI's corporate structure would be a nonprofit funded initially with donations, but there could potentially be a parallel for-profit that is owned by the nonprofit and funds the nonprofit: “We (Sam Altman and Elon) were in agreement that OpenAI would be a 501c3 charity. <br> <br> • Elon was not opposed to there being a small for-profit that provided funding to the nonprofit, as long as \"the tail didn’t wag the dog.\"<br> <br> • Elon: “there are very few people who understand venture capital in Silicon Valley like I do.\"</p> <img src=\"https://nitter.net/pic/media%2FHHBSpRiWIAA9TiS.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/SawyerMerritt/status/2049228704455262493#m\">https://nitter.net/SawyerMerritt/status/2049228704455262493#m</a> </footer> </blockquote>",
-          "pubDate": "Tue, 28 Apr 2026 21:45:51 GMT",
-          "guid": "https://nitter.net/TeslaZoa/2049243723993878738",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "TeslaZoa / @TeslaZoa",
-          "feedUrl": "https://nitter.net/TeslaZoa/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHHBgDZRaIAAfNCP.jpg",
-          "summary": "🚨일론 : OpenAI 재판서 1시간 40분 증언…“AI 내년 인간 지능 초월 가능, 잘못된 통제 시 전 세계 위험” 1️⃣ 머스크는 이번 재판이 단순한 기업 분쟁이 아니라 미국 자선 시스템 전반에 영향을 미칠 수 있는 중대한 사건이라고 주장하며, 비영리 사명 훼손이 용인될 경우 위험한 선례가 될 수 있다고 강조함 2️⃣ OpenAI는 원래 비영리·오픈소스 기반으로 설립되어 AI 안전과 인...",
-          "author": "@TeslaZoa",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHHBgDZRaIAAfNCP.jpg",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "RT by @TeslaZoa: Actually Smart Summon now reacts a lot faster",
-          "link": "https://nitter.net/Tesla/status/2049150833422647689#m",
-          "description": "<p>Actually Smart Summon now reacts a lot faster</p> <hr/> <blockquote> <b>Scott Dembraski (@SDembraski)</b> <p> <p>I. Love. Smart Summons. <br> <br> I am going to use it as much as I can now. <br> <br> It truly is usable. <br> <br> Here are some examples. <br> <br> Go test it out. I think you will be very impressed.</p> <a href=\"https://nitter.net/SDembraski/status/2048982667039821868#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048982022308380672%2Fimg%2FDCLbiX63QW9GJ8kk.jpg\" style=\"max-width:250px;\" /> </a> <a href=\"https://nitter.net/SDembraski/status/2048982667039821868#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048982022501416960%2Fimg%2FmMNQudZVnWgMvzaU.jpg\" style=\"max-width:250px;\" /> </a> <a href=\"https://nitter.net/SDembraski/status/2048982667039821868#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048982022388068352%2Fimg%2FeUKs2k2MrWbEER1X.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/SDembraski/status/2048982667039821868#m\">https://nitter.net/SDembraski/status/2048982667039821868#m</a> </footer> </blockquote>",
-          "content": "<p>Actually Smart Summon now reacts a lot faster</p> <hr/> <blockquote> <b>Scott Dembraski (@SDembraski)</b> <p> <p>I. Love. Smart Summons. <br> <br> I am going to use it as much as I can now. <br> <br> It truly is usable. <br> <br> Here are some examples. <br> <br> Go test it out. I think you will be very impressed.</p> <a href=\"https://nitter.net/SDembraski/status/2048982667039821868#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048982022308380672%2Fimg%2FDCLbiX63QW9GJ8kk.jpg\" style=\"max-width:250px;\" /> </a> <a href=\"https://nitter.net/SDembraski/status/2048982667039821868#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048982022501416960%2Fimg%2FmMNQudZVnWgMvzaU.jpg\" style=\"max-width:250px;\" /> </a> <a href=\"https://nitter.net/SDembraski/status/2048982667039821868#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048982022388068352%2Fimg%2FeUKs2k2MrWbEER1X.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/SDembraski/status/2048982667039821868#m\">https://nitter.net/SDembraski/status/2048982667039821868#m</a> </footer> </blockquote>",
-          "pubDate": "Tue, 28 Apr 2026 15:36:44 GMT",
-          "guid": "https://nitter.net/TeslaZoa/2049150833422647689",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "TeslaZoa / @TeslaZoa",
-          "feedUrl": "https://nitter.net/TeslaZoa/rss",
-          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2048982022308380672%2Fimg%2FDCLbiX63QW9GJ8kk.jpg",
-          "summary": "Actually Smart Summon now reacts a lot faster Scott Dembraski (@SDembraski) I. Love. Smart Summons. I am going to use it as much as I can now. It truly is usable. Here are some examples. Go test it out. I think you will ...",
-          "author": "@Tesla",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/amplify_video_thumb%2F2048982022308380672%2Fimg%2FDCLbiX63QW9GJ8kk.jpg",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "국민연금 2026년 1분기 주식 대량 보유 내역 중 코스닥사 국민연금이 올해 1분기 코스닥 소부장(소재·부품·장비) 기업 지분을 늘린 것으로 나타났다.",
-          "link": "https://nitter.net/TeslaZoa/status/2049122923911565379#m",
-          "description": "<p>국민연금 2026년 1분기 주식 대량 보유 내역 중 코스닥사<br> <br> 국민연금이 올해 1분기 코스닥 소부장(소재·부품·장비) 기업 지분을 늘린 것으로 나타났다.</p> <img src=\"https://nitter.net/pic/media%2FHG_yb1saAAE8zyt.jpg\" style=\"max-width:250px;\" />",
-          "content": "<p>국민연금 2026년 1분기 주식 대량 보유 내역 중 코스닥사<br> <br> 국민연금이 올해 1분기 코스닥 소부장(소재·부품·장비) 기업 지분을 늘린 것으로 나타났다.</p> <img src=\"https://nitter.net/pic/media%2FHG_yb1saAAE8zyt.jpg\" style=\"max-width:250px;\" />",
-          "pubDate": "Tue, 28 Apr 2026 13:45:50 GMT",
-          "guid": "https://nitter.net/TeslaZoa/2049122923911565379",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "TeslaZoa / @TeslaZoa",
-          "feedUrl": "https://nitter.net/TeslaZoa/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHG_yb1saAAE8zyt.jpg",
-          "summary": "국민연금 2026년 1분기 주식 대량 보유 내역 중 코스닥사 국민연금이 올해 1분기 코스닥 소부장(소재·부품·장비) 기업 지분을 늘린 것으로 나타났다.",
-          "author": "@TeslaZoa",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHG_yb1saAAE8zyt.jpg",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777464468202,
+      "lastUpdated": 1777468106525,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6992,7 +6992,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777464469225,
+      "lastUpdated": 1777468107418,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7608,7 +7608,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777464470960,
+      "lastUpdated": 1777468108655,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7618,13 +7618,59 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F2024378974298943489%2FvoBO3RCH_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2024378974298943489%2FvoBO3RCH_400x400.jpg"
     },
     {
       "title": "Tsla Chan / @Tslachan",
       "url": "https://nitter.net/Tslachan/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "$TSLA 테슬라 코리아, 5월 중순부터 사이버트럭을 고객에게 인도하기 시작할 예정 1분기 판매 물량이 거의 없었어서, 사실상 유의미한 규모의 올해 첫 배송으로 보여짐",
+          "link": "https://nitter.net/Tslachan/status/2049472453718782405#m",
+          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> 테슬라 코리아, 5월 중순부터 사이버트럭을 고객에게 인도하기 시작할 예정<br> <br> 1분기 판매 물량이 거의 없었어서, 사실상 유의미한 규모의 올해 첫 배송으로 보여짐</p> <img src=\"https://nitter.net/pic/media%2FHHEwVURbsAA_u1l.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> 테슬라 코리아, 5월 중순부터 사이버트럭을 고객에게 인도하기 시작할 예정<br> <br> 1분기 판매 물량이 거의 없었어서, 사실상 유의미한 규모의 올해 첫 배송으로 보여짐</p> <img src=\"https://nitter.net/pic/media%2FHHEwVURbsAA_u1l.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Wed, 29 Apr 2026 12:54:44 GMT",
+          "guid": "https://nitter.net/Tslachan/2049472453718782405",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Tsla Chan / @Tslachan",
+          "feedUrl": "https://nitter.net/Tslachan/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHEwVURbsAA_u1l.jpg",
+          "summary": "$TSLA 테슬라 코리아, 5월 중순부터 사이버트럭을 고객에게 인도하기 시작할 예정 1분기 판매 물량이 거의 없었어서, 사실상 유의미한 규모의 올해 첫 배송으로 보여짐",
+          "author": "@Tslachan",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHEwVURbsAA_u1l.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "스타링크 부속품 쇼핑을 해보자🔥",
+          "link": "https://nitter.net/Tslachan/status/2049467829792194691#m",
+          "description": "<p>스타링크 부속품 쇼핑을 해보자🔥</p> <img src=\"https://nitter.net/pic/media%2FHHEsIDbagAAGAaK.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHHEsIDda8AAMxIe.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>스타링크 부속품 쇼핑을 해보자🔥</p> <img src=\"https://nitter.net/pic/media%2FHHEsIDbagAAGAaK.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHHEsIDda8AAMxIe.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Wed, 29 Apr 2026 12:36:22 GMT",
+          "guid": "https://nitter.net/Tslachan/2049467829792194691",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Tsla Chan / @Tslachan",
+          "feedUrl": "https://nitter.net/Tslachan/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHEsIDbagAAGAaK.jpg",
+          "summary": "스타링크 부속품 쇼핑을 해보자🔥",
+          "author": "@Tslachan",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHEsIDbagAAGAaK.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "RT by @Tslachan: 한미 FTA로 인한 SX사트 FSD 허용: 5천대 역시 한미 FTA로 인해 AI3 미국산 테슬라 차주 FSD허용: 5만대 라이트버전까지 배포된다면 우리나라에서 FSD 가능한 차량은 5.5만대 가량 된다 과연 한국정부는 중국산 테슬라의 FSD 허용을 끝까지 막을 것인가? 라이트버전이 배포되면 많은 사람들이 FSD를 경험할 것이며 같은 브랜드와 차종임에도 이를 경험하지 못하는 사람들의 허탈감은 상당할 것이다. 그 화살은 결국 테코와 정부로 향하겠지... 5천대가 아닌 5.5만대에 FSD가 풀리면 남은 대부분의 중국산 차주들의 허탈감은 커진다 테슬라 코리아에서는 일단 유럽승인이 날때까지는 기다릴 것이다. 유럽에서 FSD가 본격적으로 풀리면 UNECE를 따르는 우리나라 역시 이를 막을 명분이 없다 이때 테슬라에서는 적극적으로 한국에 FSD를 도입하기 위해 움직일 것으로 본다 그런 상황에서도 한국정부가 만약 FSD를 허용하지 않거나 지연전략을 쓴다면....말이지... 결국 테슬라는 미국산을 한국으로 보내는 강수를 둘 것이다. 그전까지는 최대한 한국정부에 협조하면서 중국산 테슬라에도 FSD를 도입하고자 할 것이다. 테슬라에서 아무런 조치도 취하지 않을 것이라고 보는 사람들도 있지만 내 생각은 다르다 테슬라에게 한국시장은 상당히 중요하다 FSD구독율이 86%를 기록한 크레이지한 곳이다. 거기다가 현재 테슬라 판매는 폭발적으로 늘고 있다 포기할수가 없는 곳이라는 이야기이다.. 인구는 적지만 인구와 구매력 대비 한국인의 테슬라 사랑은 미국의 2배, 중국의 4배 수준인 엄청난 국가이다 ㅋ 미국산이 수입되어 FSD를 단 채로 판매되면 결국 한국정부는 중국산에도 FSD를 허용하게 될 것이다. 그럴 수 밖에 없다 미국산을 수입하게 되면 자국기업을 육성하고 보호하고자 하는 목적은 의미를 상실하기 때문이다. 매년 수만대의 테슬라가 미국으로부터 건너오고 있는 상황에서 중국산만 막을 이유가 없다 민원만 폭주할 것이다... 한미FTA로 인해 댐에 구멍이 났고 라이트버전의 개발로 인해 댐에 구멍은 더욱 커졌다 댐은 결국 무너질 것이다. 시간문제일 뿐이다... 버티다가 늦게 무너지냐 빨리 무너지냐의 차이일 뿐이다..",
           "link": "https://nitter.net/StarLight_Tsla/status/2049423729055457575#m",
@@ -8728,55 +8774,9 @@
           "image": "https://nitter.net/pic/media%2FHG83B-BaYAAl6Ls.png",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "$TSLA [테슬라 일론이 직접 밝힌 'AI4.1' 업그레이드 내용 총정리 (2027년 생산)] https://www.youtube.com/watch?v=ymDmY4SjeCs&t=2s",
-          "link": "https://nitter.net/Tslachan/status/2048911080450351451#m",
-          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> [테슬라 일론이 직접 밝힌 'AI4.1' 업그레이드 내용 총정리 (2027년 생산)]<br> <br> <a href=\"https://piped.video/watch?v=ymDmY4SjeCs&t=2s\">piped.video/watch?v=ymDmY4Sj…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048907122994515968%2FaplM7NoD%3Fformat%3Djpg%26name%3D1200x627\" style=\"max-width:250px;\" />",
-          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> [테슬라 일론이 직접 밝힌 'AI4.1' 업그레이드 내용 총정리 (2027년 생산)]<br> <br> <a href=\"https://piped.video/watch?v=ymDmY4SjeCs&t=2s\">piped.video/watch?v=ymDmY4Sj…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048907122994515968%2FaplM7NoD%3Fformat%3Djpg%26name%3D1200x627\" style=\"max-width:250px;\" />",
-          "pubDate": "Mon, 27 Apr 2026 23:44:03 GMT",
-          "guid": "https://nitter.net/Tslachan/2048911080450351451",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Tsla Chan / @Tslachan",
-          "feedUrl": "https://nitter.net/Tslachan/rss",
-          "coverImage": "https://nitter.net/pic/card_img%2F2048907122994515968%2FaplM7NoD%3Fformat%3Djpg%26name%3D1200x627",
-          "summary": "$TSLA [테슬라 일론이 직접 밝힌 'AI4.1' 업그레이드 내용 총정리 (2027년 생산)] piped.video/watch?v=ymDmY4Sj…",
-          "author": "@Tslachan",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/card_img%2F2048907122994515968%2FaplM7NoD%3Fformat%3Djpg%26name%3D1200x627",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "I can't wait for them to start driving without steering wheels.",
-          "link": "https://nitter.net/Tslachan/status/2048871097299509306#m",
-          "description": "<p>I can't wait for them to start driving without steering wheels.</p> <img src=\"https://nitter.net/pic/media%2FHG8NZosa8AAOpb4.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Joe Tegtmeyer 🚀 🤠🛸😎 (@JoeTegtmeyer)</b> <p> <p>At least 15 more glossy & deep gold Cybercabs at the Giga Texas outbound lot today, with more working their way over from the main factory. <br> <br> These all appear to be equipped with the Steering wheel & pedal kits, so probably headed out to more locations around the country for testing … I’m sure we will see more images of these on the roads soon!</p> <a href=\"https://nitter.net/JoeTegtmeyer/status/2048795599189725580#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048795270582779904%2Fimg%2FK07ACAK9w1jLKAvq.jpg\" style=\"max-width:250px;\" /> </a> <img src=\"https://nitter.net/pic/media%2FHG7IcZfbEAAv3c-.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG7IcZia0AAVLJj.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG7IcZiaYAA95nz.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/JoeTegtmeyer/status/2048795599189725580#m\">https://nitter.net/JoeTegtmeyer/status/2048795599189725580#m</a> </footer> </blockquote>",
-          "content": "<p>I can't wait for them to start driving without steering wheels.</p> <img src=\"https://nitter.net/pic/media%2FHG8NZosa8AAOpb4.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Joe Tegtmeyer 🚀 🤠🛸😎 (@JoeTegtmeyer)</b> <p> <p>At least 15 more glossy & deep gold Cybercabs at the Giga Texas outbound lot today, with more working their way over from the main factory. <br> <br> These all appear to be equipped with the Steering wheel & pedal kits, so probably headed out to more locations around the country for testing … I’m sure we will see more images of these on the roads soon!</p> <a href=\"https://nitter.net/JoeTegtmeyer/status/2048795599189725580#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048795270582779904%2Fimg%2FK07ACAK9w1jLKAvq.jpg\" style=\"max-width:250px;\" /> </a> <img src=\"https://nitter.net/pic/media%2FHG7IcZfbEAAv3c-.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG7IcZia0AAVLJj.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG7IcZiaYAA95nz.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/JoeTegtmeyer/status/2048795599189725580#m\">https://nitter.net/JoeTegtmeyer/status/2048795599189725580#m</a> </footer> </blockquote>",
-          "pubDate": "Mon, 27 Apr 2026 21:05:10 GMT",
-          "guid": "https://nitter.net/Tslachan/2048871097299509306",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Tsla Chan / @Tslachan",
-          "feedUrl": "https://nitter.net/Tslachan/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHG8NZosa8AAOpb4.jpg",
-          "summary": "I can't wait for them to start driving without steering wheels. Joe Tegtmeyer 🚀 🤠🛸😎 (@JoeTegtmeyer) At least 15 more glossy & deep gold Cybercabs at the Giga Texas outbound lot today, with more working their way over...",
-          "author": "@Tslachan",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHG8NZosa8AAOpb4.jpg",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777464471997,
+      "lastUpdated": 1777468109583,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8786,13 +8786,36 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
     },
     {
       "title": "SETI Park / @seti_park",
       "url": "https://nitter.net/seti_park/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "RT by @seti_park: $TSLA (XLY) $GOOGL (XLC) $UBER (XLI) $AMZN(XLY) $NVDA(XLK) 이번 월드컵은 미국의 첨단기술 쇼케이스이자 각축장이 될 예정임 특히 '로보택시'도 그중에 하나가 될거고 실사용자들의 평점(?) 뭐 이딴걸로도 주가가 크게 오르고 내릴 수도 있음 ㅋㅋ ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 2026 FIFA 북중미 월드컵은 2026년 6월 11일부터 7월 19일(현지 기준)까지 미국, 멕시코, 캐나다 사상 최초 3개국에서 공동 개최됩니다 대회 기간: 2026. 06. 11 ~ 07. 19 (약 39일간) 개최지: 미국, 멕시코, 캐나다 (16개 도시) 특징: 역대 최다인 48개국 참가, 104경기 진행 개막전: 6월 11일 예정 결승전: 7월 19일 예정",
+          "link": "https://nitter.net/holzzak777/status/2049439471708283277#m",
+          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> (XLY) <a href=\"https://nitter.net/search?f=tweets&q=%23GOOGL\">$GOOGL</a> (XLC) <a href=\"https://nitter.net/search?f=tweets&q=%23UBER\">$UBER</a> (XLI) <br> <a href=\"https://nitter.net/search?f=tweets&q=%23AMZN\">$AMZN</a>(XLY) <a href=\"https://nitter.net/search?f=tweets&q=%23NVDA\">$NVDA</a>(XLK) <br> <br> 이번 월드컵은 미국의 첨단기술 쇼케이스이자 각축장이 될 예정임<br> 특히 '로보택시'도 그중에 하나가 될거고 <br> 실사용자들의 평점(?) 뭐 이딴걸로도 주가가 크게 오르고 내릴 수도 있음 ㅋㅋ<br> ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ<br> 2026 FIFA 북중미 월드컵은 2026년 6월 11일부터 7월 19일(현지 기준)까지 미국, 멕시코, 캐나다 사상 최초 3개국에서 공동 개최됩니다<br> <br> 대회 기간: 2026. 06. 11 ~ 07. 19 (약 39일간)<br> 개최지: 미국, 멕시코, 캐나다 (16개 도시)<br> 특징: 역대 최다인 48개국 참가, 104경기 진행<br> <br> 개막전: 6월 11일 예정<br> 결승전: 7월 19일 예정</p> <img src=\"https://nitter.net/pic/media%2FHHEOmzIbgAA-unt.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHHERPbabQAAoQLC.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> (XLY) <a href=\"https://nitter.net/search?f=tweets&q=%23GOOGL\">$GOOGL</a> (XLC) <a href=\"https://nitter.net/search?f=tweets&q=%23UBER\">$UBER</a> (XLI) <br> <a href=\"https://nitter.net/search?f=tweets&q=%23AMZN\">$AMZN</a>(XLY) <a href=\"https://nitter.net/search?f=tweets&q=%23NVDA\">$NVDA</a>(XLK) <br> <br> 이번 월드컵은 미국의 첨단기술 쇼케이스이자 각축장이 될 예정임<br> 특히 '로보택시'도 그중에 하나가 될거고 <br> 실사용자들의 평점(?) 뭐 이딴걸로도 주가가 크게 오르고 내릴 수도 있음 ㅋㅋ<br> ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ<br> 2026 FIFA 북중미 월드컵은 2026년 6월 11일부터 7월 19일(현지 기준)까지 미국, 멕시코, 캐나다 사상 최초 3개국에서 공동 개최됩니다<br> <br> 대회 기간: 2026. 06. 11 ~ 07. 19 (약 39일간)<br> 개최지: 미국, 멕시코, 캐나다 (16개 도시)<br> 특징: 역대 최다인 48개국 참가, 104경기 진행<br> <br> 개막전: 6월 11일 예정<br> 결승전: 7월 19일 예정</p> <img src=\"https://nitter.net/pic/media%2FHHEOmzIbgAA-unt.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHHERPbabQAAoQLC.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Wed, 29 Apr 2026 10:43:41 GMT",
+          "guid": "https://nitter.net/seti_park/2049439471708283277",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHEOmzIbgAA-unt.jpg",
+          "summary": "$TSLA (XLY) $GOOGL (XLC) $UBER (XLI) $AMZN(XLY) $NVDA(XLK) 이번 월드컵은 미국의 첨단기술 쇼케이스이자 각축장이 될 예정임 특히 '로보택시'도 그중에 하나가 될거고 실사용자들의 평점(?) 뭐 이딴걸로도 주가가 크게 오르고 내릴 수도 있음 ㅋㅋ ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 2026 FIFA 북중미 월드컵은 2026년 6월 1...",
+          "author": "@holzzak777",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHEOmzIbgAA-unt.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "WHILE STARGATE BUILDS A 10-GIGAWATT MEGA-CAMPUS, GOOGLE JUST SAID IT CAN NOW TRAIN ACROSS MULTIPLE DATA CENTERS AT THE SAME TIME The five largest hyperscalers will spend between $660 and $690 billion on AI infrastructure this year. Stargate has committed another $500 billion over four years toward roughly 10 gigawatts of contiguous campus capacity. Project Rainier consolidates Anthropic’s Claude training onto a 1,200-acre Indiana campus with high-bandwidth networking that does not cross availability zones. The shared assumption underneath these bets is that frontier AI training requires colocation in a single mega-campus. At Cloud Next 2026 last week, Google said something that quietly contradicts the assumption. Sundar Pichai’s keynote framed it as performance. The actual sentence is in the Virgo Network blog: “We can now turn months of training into weeks with the power of 1 million+ TPU chips in a single cluster, orchestrated by Pathways and JAX.” Read it again. In a single cluster. Across multiple sites. This was not a routine infrastructure update. A traditional approach to scaling AI compute is a post-process operation. You build mega-campuses. You concentrate power. You install high-bandwidth fabrics within a region and you accept that a single training job lives on a single contiguous chip array. AWS’s UltraCluster architecture cannot cross availability zones, by AWS’s own documentation. Microsoft’s Azure does not publicize a multi-region equivalent. The buildout race that has consumed the last eighteen months of industry headlines is operating inside this constraint. Google has been outside it for nearly four years, and the patent record shows the timeline. US 2025/0245565 A1 was filed in April 2022. The inventor field lists two people: Aakanksha Chowdhery and Paul Ronald Barham. The same two names appear as the first two authors of the original Pathways system paper, published a month earlier at MLSys 2022. The patent describes how to coordinate gradient updates across two physically separated clusters, with the specification reporting near-perfect linear scaling — 1.95 times the throughput of a single cluster. This is Google admitting, in its own patent, that the cluster does not need to be one place. The algorithm record runs alongside the patent. DiLoCo, posted to arXiv in November 2023, demonstrated that 8 distributed workers could match the perplexity of synchronous training while communicating 500 times less. The paper stated the design intent in plain language: “Each replica can be trained in different locations of the world, with different accelerators.” Streaming DiLoCo followed in January 2025. Decoupled DiLoCo, the April 23 paper this year, removed the last lock-step synchronization barrier — one localized hardware failure no longer stalls the entire job. Three papers in three years, each one closing a remaining gap between the patent’s filing date and a working production system. Then look at who wrote them. DiLoCo in 2023 has nine authors from Google DeepMind. Arthur Douillard and team. No Pathways people on the paper. Streaming DiLoCo in 2025 has fifteen authors. The last name on the list is Paul Barham. The system architect who filed the cross-cluster patent has now joined the algorithm work. Decoupled DiLoCo in April 2026 has seventeen authors. The last name on the list is Jeff Dean. Google’s Chief Scientist, who was on the original 2022 Pathways system paper. Across four years, the named contributors converge from two separate teams — DeepMind’s algorithm group and Google Research’s systems group — onto the same papers. By the final paper in the sequence, the algorithm work and the system work share a roof. This is not how a buildout looks. This is how a strategic program looks when the same room owns the architecture, the patent, and the algorithm. Cloud Next 2026 was the surfacing of that program, not the announcement of it. The patent that protects the architecture expires in May 2042. Sixteen years of legal protection from now, and the algorithm record is already three years old. Stargate’s $500 billion buildout is still being poured. Project Rainier’s 500,000 Trainium2 chips are still being installed. Microsoft just took over a Crusoe-developed expansion site in Abilene that OpenAI declined to pursue, then took over a Nscale-built facility in Norway that OpenAI had branded as Stargate Norway. The buyers of mega-campus capacity are starting to walk away from previously stated plans. Sam Altman cut OpenAI’s eight-year infrastructure target from $1.4 trillion to $600 billion in February. The hyperscalers betting on consistency are visibly adjusting. The hyperscaler betting on availability has been quiet about it for four years. The room that decided multi-cluster training would be Google’s bet — in 2022, with Chowdhery and Barham filing the patent and the Pathways system paper in the same month — is the room whose output is now visible at Cloud Next. What that room produces is the architecture the others are still building toward.",
           "link": "https://nitter.net/seti_park/status/2049429134775058533#m",
@@ -9919,32 +9942,9 @@
           "image": "",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "딥마인드 🤝 한국 👀❗️ @spaceastrium",
-          "link": "https://nitter.net/seti_park/status/2048691698935681085#m",
-          "description": "<p>딥마인드 🤝 한국 👀❗️<br> <br> <a href=\"https://nitter.net/spaceastrium\" title=\"𝑹𝒐𝑪𝒐𝑪𝒐🥷\">@spaceastrium</a></p> <hr/> <blockquote> <b>Mafinacc (@Mafinacc)</b> <p> <p>[속보] 김용범 정책실장 ＂구글 AI캠퍼스, 세계 최초 한국에 세운다＂ (출처 : 네이버 뉴스) <a href=\"https://naver.me/Fc6IDPcm\">naver.me/Fc6IDPcm</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048670489313419264%2FFxYvRMZZ%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/Mafinacc/status/2048684239097618922#m\">https://nitter.net/Mafinacc/status/2048684239097618922#m</a> </footer> </blockquote>",
-          "content": "<p>딥마인드 🤝 한국 👀❗️<br> <br> <a href=\"https://nitter.net/spaceastrium\" title=\"𝑹𝒐𝑪𝒐𝑪𝒐🥷\">@spaceastrium</a></p> <hr/> <blockquote> <b>Mafinacc (@Mafinacc)</b> <p> <p>[속보] 김용범 정책실장 ＂구글 AI캠퍼스, 세계 최초 한국에 세운다＂ (출처 : 네이버 뉴스) <a href=\"https://naver.me/Fc6IDPcm\">naver.me/Fc6IDPcm</a></p> <img src=\"https://nitter.net/pic/card_img%2F2048670489313419264%2FFxYvRMZZ%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/Mafinacc/status/2048684239097618922#m\">https://nitter.net/Mafinacc/status/2048684239097618922#m</a> </footer> </blockquote>",
-          "pubDate": "Mon, 27 Apr 2026 09:12:18 GMT",
-          "guid": "https://nitter.net/seti_park/2048691698935681085",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "SETI Park / @seti_park",
-          "feedUrl": "https://nitter.net/seti_park/rss",
-          "coverImage": "https://nitter.net/pic/card_img%2F2048670489313419264%2FFxYvRMZZ%3Fformat%3Djpg%26name%3D800x419",
-          "summary": "딥마인드 🤝 한국 👀❗️ @spaceastrium Mafinacc (@Mafinacc) [속보] 김용범 정책실장 ＂구글 AI캠퍼스, 세계 최초 한국에 세운다＂ (출처 : 네이버 뉴스) naver.me/Fc6IDPcm — https://nitter.net/Mafinacc/status/2048684239097618922#m",
-          "author": "@seti_park",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/card_img%2F2048670489313419264%2FFxYvRMZZ%3Fformat%3Djpg%26name%3D800x419",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777464473307,
+      "lastUpdated": 1777468111111,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11112,7 +11112,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777464473406,
+      "lastUpdated": 1777468111349,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11659,7 +11659,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777464474184,
+      "lastUpdated": 1777468112138,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11815,7 +11815,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777464475696,
+      "lastUpdated": 1777468113741,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11867,7 +11867,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777464475818,
+      "lastUpdated": 1777468113881,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12545,7 +12545,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777464476185,
+      "lastUpdated": 1777468114232,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13714,7 +13714,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777464476969,
+      "lastUpdated": 1777468114827,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14175,7 +14175,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777464477041,
+      "lastUpdated": 1777468114993,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14506,7 +14506,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777464477225,
+      "lastUpdated": 1777468115184,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15231,7 +15231,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777464477362,
+      "lastUpdated": 1777468115360,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15272,7 +15272,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777464477362,
+  "lastRefreshTimestamp": 1777468115360,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
