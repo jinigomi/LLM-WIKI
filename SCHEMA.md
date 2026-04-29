@@ -63,7 +63,7 @@ contradictions: [other-page-slug]
 - **AI/LLM**: model, architecture, training, fine-tuning, inference, alignment, reasoning, prompt, prompt-engineering, AI, LLM
 - **Evaluation**: benchmark, eval, harness, swe-bench, postmortem, evaluation
 - **Collaboration**: orchestration, agent, multi-agent, context-engineering, tool-use, AI-collaboration, ai-assisted-development
-- **Tools/infra**: mcp, claude-code, obsidian, hermes, rss, cron
+- **Tools/infra**: mcp, claude-code, obsidian, hermes, hermes-agent, slash-commands, agent-workflow, rss, cron
 - **Development**: engineering-thinking, vibe-coding, error-escalation, memory-driven, engineering, methodology, blueprint, plan-first, checklist, SaaS, software-development, technology
 - **People/Orgs**: person, company, lab, open-source
 - **Meta**: comparison, timeline, controversy, prediction, limitation

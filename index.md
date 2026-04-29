@@ -2,12 +2,13 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-29 | Total pages: 27
+> Last updated: 2026-04-29 | Total pages: 28
 
-## Concepts (8)
+## Concepts (9)
 - [[anthropic-claude-think-tool]] — Anthropic의 "think" tool: 복잡한 도구 사용 상황에서 Claude가 멈추고 생각하게 하는 메커니즘
 - [[context-rot]] — Context Rot: LLM 대화가 길어질수록 컨텍스트 품질이 저하되는 현상과 대응 전략
 - [[harness-engineering]] — Harness Engineering: AI 에이전트 행동을 예측/통제 가능하게 만드는 소프트웨어 엔지니어링 분야
+- [[hermes-15-hidden-features]] — Hermes Agent의 잘 알려지지 않은 15가지 기능 (Sharbel, 2026-04-28)
 - [[mcp-프로토콜]] — MCP (Model Context Protocol): AI 모델과 외부 도구/데이터소스 간 표준 통신 프로토콜
 - [[rss-브리핑-파이프라인]] — RSS → LLM 번역 → Telegram/Discord 전송 자동화 파이프라인
 - [[vibe-coding-beginner-methodology]] — 바이브 코딩 초보자 방법론: 5단계 워크플로우·3계층 프롬프트·보안·한계 종합 가이드
