@@ -303,3 +303,14 @@
   - concepts/vibe-coding-beginner-methodology.md — [[vibe-coding-beginner-checklist]] wikilink added, 삭제된 comparisons 링크 제거
   - entities/context-rot.md — [[wikilinks]] 변환 + 본문 보강 (479→500+ bytes)
 - Remaining orphan: anthropic-claude-think-tool (독립 개념, 오펀 허용)
+
+
+## [2026-04-29] ingest | graphify-analysis
+- entities/Qwen-FlashQLA.md — Qwen FlashQLA 분석 (TileLang linear attention kernel, 23 files, graphify v2)
+- entities/Learn-Harness-Engineering.md — WalkingLabs harness engineering 과정 분석 (343 files, 12강의+6프로젝트, graphify v2)
+- index.md — Entities 11→13, total pages 25→27
+
+## [2026-04-29] ingest | graphify-analysis
+- entities/warp.md — Warp IDE 분석 (Rust, 자체 UI 프레임워크, 내장 AI 에이전트, 6,718 files, graphify v2)
+- index.md — Entities 13→14, total pages 27→28
+
