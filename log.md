@@ -2,9 +2,18 @@
      2|     2|
      3|     3|> Chronological record of all wiki actions. Append-only.
      4|     4|> Format: `## [YYYY-MM-DD] action | subject`
-     5|     5|> Actions: ingest, update, query, lint, create, archive, delete
-     6|     6|
-     7|     7|## [2026-04-30] lint | 자동 정리
+> Actions: ingest, update, query, lint, create, archive, delete
+
+## [2026-04-30] ingest | don-cheli-sdd + cc-sdd (Graphify + Wiki)
+
+- **신규 엔티티 페이지:**
+  - `entities/don-cheli-sdd.md` — Don Cheli SDD 프레임워크 (138 노드·212 엣지·12 커뮤니티, Apache 2.0)
+  - `entities/cc-sdd.md` — cc-sdd Kiro-style Agentic SDLC (214 노드·340 엣지·44 커뮤니티, MIT)
+- **index.md:** Entities 18 → 20, Concepts 9 → 10, Total 29 → 32
+- **Graphify 분석:** don-cheli-sdd (TypeScript, Docker-wrapped TDD 강제 SDD), cc-sdd (TypeScript, Boundary-first, 8개 에이전트 통합)
+- **소스:** https://github.com/doncheli/don-cheli-sdd, https://github.com/gotalab/cc-sdd
+
+## [2026-04-30] lint | 자동 정리
      8|
      9|- **삭제:** 5개 파일
     10|  - `raw/books/하네스-엔지니어링-입문-wikidocs.md` — entities/harness-engineering-wikidocs.md 요약본 존재

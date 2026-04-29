@@ -230,6 +230,8 @@
   },
   "active": "4dddf79ec05508af",
   "lastOpenFiles": [
+    "entities/cc-sdd.md",
+    "entities/don-cheli-sdd.md",
     "comparisons/openspec-vs-superpowers.md",
     "entities/hermes-memory-architecture-analysis.md",
     "raw/articles/manthan-gupta-hermes-memory-analysis-2026-03-20.md",
@@ -256,8 +258,6 @@
     "raw/archived-stubs/anthropic-ai-resistant-evals.md",
     "raw/archived/smart-video-wizard.md",
     "raw/Ch.20 노트 템플릿 고도화.md",
-    "raw/Ch.3 \"기억하는 개발\"이라는 해법.md",
-    "raw/Ch.2 컨텍스트의 문제 — AI도 까먹고, 나도 까먹는다.md",
     "raw/articles/ai-에이전트-연구-도구-grok-2026-04-27.pdf",
     "raw/tweets",
     "000-Inbox",
