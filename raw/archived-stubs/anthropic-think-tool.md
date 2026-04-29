@@ -15,7 +15,7 @@ tags:
 
 > The think tool: Enabling Claude to stop and think in complex tool use situations
 
-*이 기사는 아직 스크래핑되지 않았습니다. [[Engineering - Anthropic]]에서 확인하세요.*
+*이 기사는 아직 스크래핑되지 않았습니다. Engineering - Anthropic에서 확인하세요.*
 
 ## 출처
 

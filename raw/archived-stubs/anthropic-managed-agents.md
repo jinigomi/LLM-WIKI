@@ -15,7 +15,7 @@ tags:
 
 > Scaling Managed Agents: Decoupling the brain from the hands
 
-*이 기사는 아직 스크래핑되지 않았습니다. [[Engineering - Anthropic]]에서 확인하세요.*
+*이 기사는 아직 스크래핑되지 않았습니다. Engineering - Anthropic에서 확인하세요.*
 
 ## 출처
 
