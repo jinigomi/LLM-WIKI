@@ -4,7 +4,7 @@
 > Read this first to find relevant pages for any query.
 > Last updated: 2026-04-29 | Total pages: 28
 
-## Concepts (9)
+## Concepts (11)
 - [[anthropic-claude-think-tool]] — Anthropic의 "think" tool: 복잡한 도구 사용 상황에서 Claude가 멈추고 생각하게 하는 메커니즘
 - [[context-rot]] — Context Rot: LLM 대화가 길어질수록 컨텍스트 품질이 저하되는 현상과 대응 전략
 - [[harness-engineering]] — Harness Engineering: AI 에이전트 행동을 예측/통제 가능하게 만드는 소프트웨어 엔지니어링 분야
@@ -14,6 +14,8 @@
 - [[vibe-coding-beginner-methodology]] — 바이브 코딩 초보자 방법론: 5단계 워크플로우·3계층 프롬프트·보안·한계 종합 가이드
 - [[vibe-coding-blueprint-pattern]] — Vibe Coding 블루프린트 패턴: 코드보다 설계를 먼저 생성하는 AI 협업 패턴
 - [[기억하는-개발]] — 기억하는 개발: 세션·컨텍스트·지식을 축적하며 발전하는 AI 협업 개발 방식
+- [[바이브코딩-책-개요]] — 바이브코딩 책 (박경태, wikidocs) 전체 개요 및 구조
+- [[에러-에스컬레이션]] — AI 코딩에서 에러가 발생했을 때 상위 지원으로 에스컬레이션하는 패턴
 
 ## Entities (12)
 - [[2026-04-26]] — 2026-04-26 세션 로그

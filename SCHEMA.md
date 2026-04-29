@@ -60,16 +60,16 @@ contradictions: [other-page-slug]
 
 ## Tag Taxonomy
 
-- **AI/LLM**: model, architecture, training, fine-tuning, inference, alignment, reasoning, prompt, prompt-engineering, AI, LLM
+- **AI/LLM**: model, architecture, training, fine-tuning, inference, alignment, reasoning, prompt, prompt-engineering, AI, LLM, agentic-ai, ai-ml
 - **Evaluation**: benchmark, eval, harness, swe-bench, postmortem, evaluation
 - **Collaboration**: orchestration, agent, multi-agent, context-engineering, tool-use, AI-collaboration, ai-assisted-development
-- **Tools/infra**: mcp, claude-code, obsidian, hermes, hermes-agent, slash-commands, agent-workflow, rss, cron
-- **Development**: engineering-thinking, vibe-coding, error-escalation, memory-driven, engineering, methodology, blueprint, plan-first, checklist, SaaS, software-development, technology
+- **Tools/infra**: mcp, claude-code, claude-desktop, obsidian, hermes, hermes-agent, slash-commands, agent-workflow, rss, cron, aws, infrastructure
+- **Development**: engineering-thinking, vibe-coding, error-escalation, memory-driven, engineering, methodology, blueprint, plan-first, checklist, SaaS, software-development, technology, skills, productivity
 - **People/Orgs**: person, company, lab, open-source
 - **Meta**: comparison, timeline, controversy, prediction, limitation
 - **Domain**: reading, research, project, session, beginner, education, question, sources
 - **Platform**: telegram, discord, delivery, bot
-- **Techniques**: rag, embedding
+- **Techniques**: rag, embedding, deep-insight
 
 **Rule:** 새 태그 사용 전 반드시 여기서 먼저 추가.
 
