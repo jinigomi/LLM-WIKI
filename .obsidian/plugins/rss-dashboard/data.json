@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777493300504,
+      "lastUpdated": 1777496900533,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -214,7 +214,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777493300715,
+      "lastUpdated": 1777496900671,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -675,7 +675,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777493300803,
+      "lastUpdated": 1777496900819,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -954,7 +954,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777493300950,
+      "lastUpdated": 1777496900966,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1415,7 +1415,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777493301100,
+      "lastUpdated": 1777496901120,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1928,7 +1928,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777493301251,
+      "lastUpdated": 1777496901279,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2181,7 +2181,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777493301416,
+      "lastUpdated": 1777496901447,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3200,7 +3200,7 @@
           "image": ""
         }
       ],
-      "lastUpdated": 1777493302852,
+      "lastUpdated": 1777496902901,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4619,7 +4619,7 @@
           }
         }
       ],
-      "lastUpdated": 1777493303927,
+      "lastUpdated": 1777496903989,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4637,7 +4637,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777493304074,
+      "lastUpdated": 1777496904144,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4655,7 +4655,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777493304388,
+      "lastUpdated": 1777496904463,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5824,7 +5824,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777493305443,
+      "lastUpdated": 1777496905784,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -5841,6 +5841,75 @@
       "url": "https://nitter.net/songjunkr/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "이것이 유럽과 중국의 AI 규제 여부의 차이입니다. 128B dense 모델에 128k 컨텍스트와 높은 가격 늦게 시작한 중국의 새로운 35b A3B MoE보다 낮은 성능 유럽에서 가장 기술력있는 회사가 이렇다니 정말 슬퍼요🥲",
+          "link": "https://nitter.net/songjunkr/status/2049595126750781947#m",
+          "description": "<p>이것이 유럽과 중국의 AI 규제 여부의 차이입니다.<br> <br> 128B dense 모델에 128k 컨텍스트와 높은 가격<br> <br> 늦게 시작한 중국의 새로운 35b A3B MoE보다 낮은 성능<br> <br> 유럽에서 가장 기술력있는 회사가 이렇다니<br> <br> 정말 슬퍼요🥲</p> <hr/> <blockquote> <b>elie (@eliebakouch)</b> <p> <p>new mistral model: 128B dense with an arch from 3 years ago (llama 2), very low context (128k), priced higher than deepseek v4 pro (1.6T total params, 1M context) and every other oss model that outperforms it<br> <br> this is very sad</p> <img src=\"https://nitter.net/pic/media%2FHHFe48KboAAxLG9.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/eliebakouch/status/2049523829358162027#m\">https://nitter.net/eliebakouch/status/2049523829358162027#m</a> </footer> </blockquote>",
+          "content": "<p>이것이 유럽과 중국의 AI 규제 여부의 차이입니다.<br> <br> 128B dense 모델에 128k 컨텍스트와 높은 가격<br> <br> 늦게 시작한 중국의 새로운 35b A3B MoE보다 낮은 성능<br> <br> 유럽에서 가장 기술력있는 회사가 이렇다니<br> <br> 정말 슬퍼요🥲</p> <hr/> <blockquote> <b>elie (@eliebakouch)</b> <p> <p>new mistral model: 128B dense with an arch from 3 years ago (llama 2), very low context (128k), priced higher than deepseek v4 pro (1.6T total params, 1M context) and every other oss model that outperforms it<br> <br> this is very sad</p> <img src=\"https://nitter.net/pic/media%2FHHFe48KboAAxLG9.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/eliebakouch/status/2049523829358162027#m\">https://nitter.net/eliebakouch/status/2049523829358162027#m</a> </footer> </blockquote>",
+          "pubDate": "Wed, 29 Apr 2026 21:02:12 GMT",
+          "guid": "https://nitter.net/songjunkr/2049595126750781947",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHFe48KboAAxLG9.jpg",
+          "summary": "이것이 유럽과 중국의 AI 규제 여부의 차이입니다. 128B dense 모델에 128k 컨텍스트와 높은 가격 늦게 시작한 중국의 새로운 35b A3B MoE보다 낮은 성능 유럽에서 가장 기술력있는 회사가 이렇다니 정말 슬퍼요🥲 elie (@eliebakouch) new mistral model: 128B dense with an arch from 3 years ago (llama 2), v...",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHFe48KboAAxLG9.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "Another open source AI dropped AGAIN!! Ernie-5.1 Can’t event count on those new models😳",
+          "link": "https://nitter.net/songjunkr/status/2049591403643392432#m",
+          "description": "<p>Another open source AI dropped AGAIN!!<br> <br> Ernie-5.1<br> <br> Can’t event count on those new models😳</p> <hr/> <blockquote> <b>ERNIE for Developers (@ErnieforDevs)</b> <p> <p>Introducing ERNIE 5.1 Preview — now live! 🚀<br> Ranked #13 globally and #1 among Chinese labs on <a href=\"https://nitter.net/arena\" title=\"Arena.ai\">@arena</a> 's Text Arena.<br> Top-10 worldwide across:<br> 📐 Math — #9<br> ⚖️ Legal & Government — #1<br> 💼 Business, Management & Financial Ops — #4<br> 💻 Software & IT Services — #7<br> <br> Built on the strong pre-training foundation of ERNIE 5.0, ERNIE 5.1 Preview compresses total parameters to ~1/3 and activated parameters to ~1/2 of its predecessor, while using only ~6% of the pre-training cost of comparable models — delivering leading foundational performance at its scale.<br> <br> Try it now 👉 <a href=\"https://ernie.baidu.com/\">ernie.baidu.com/</a><br> More new models are on the way — stay tuned 👀</p> <img src=\"https://nitter.net/pic/media%2FHHFXiyDbgAAG0bM.png\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/ErnieforDevs/status/2049516018557706650#m\">https://nitter.net/ErnieforDevs/status/2049516018557706650#m</a> </footer> </blockquote>",
+          "content": "<p>Another open source AI dropped AGAIN!!<br> <br> Ernie-5.1<br> <br> Can’t event count on those new models😳</p> <hr/> <blockquote> <b>ERNIE for Developers (@ErnieforDevs)</b> <p> <p>Introducing ERNIE 5.1 Preview — now live! 🚀<br> Ranked #13 globally and #1 among Chinese labs on <a href=\"https://nitter.net/arena\" title=\"Arena.ai\">@arena</a> 's Text Arena.<br> Top-10 worldwide across:<br> 📐 Math — #9<br> ⚖️ Legal & Government — #1<br> 💼 Business, Management & Financial Ops — #4<br> 💻 Software & IT Services — #7<br> <br> Built on the strong pre-training foundation of ERNIE 5.0, ERNIE 5.1 Preview compresses total parameters to ~1/3 and activated parameters to ~1/2 of its predecessor, while using only ~6% of the pre-training cost of comparable models — delivering leading foundational performance at its scale.<br> <br> Try it now 👉 <a href=\"https://ernie.baidu.com/\">ernie.baidu.com/</a><br> More new models are on the way — stay tuned 👀</p> <img src=\"https://nitter.net/pic/media%2FHHFXiyDbgAAG0bM.png\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/ErnieforDevs/status/2049516018557706650#m\">https://nitter.net/ErnieforDevs/status/2049516018557706650#m</a> </footer> </blockquote>",
+          "pubDate": "Wed, 29 Apr 2026 20:47:24 GMT",
+          "guid": "https://nitter.net/songjunkr/2049591403643392432",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHFXiyDbgAAG0bM.png",
+          "summary": "Another open source AI dropped AGAIN!! Ernie-5.1 Can’t event count on those new models😳 ERNIE for Developers (@ErnieforDevs) Introducing ERNIE 5.1 Preview — now live! 🚀 Ranked #13 globally and #1 among Chinese labs on ...",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHFXiyDbgAAG0bM.png",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "RT by @songjunkr: Mistral Medium 3.5 is out and it's a dense 128B model",
+          "link": "https://nitter.net/scaling01/status/2049508126081077678#m",
+          "description": "<p>Mistral Medium 3.5 is out<br> <br> and it's a dense 128B model</p> <img src=\"https://nitter.net/pic/media%2FHHFQx1xbAAEXgbv.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHHFQx4NXUAAtxKe.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>Mistral Medium 3.5 is out<br> <br> and it's a dense 128B model</p> <img src=\"https://nitter.net/pic/media%2FHHFQx1xbAAEXgbv.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHHFQx4NXUAAtxKe.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Wed, 29 Apr 2026 15:16:29 GMT",
+          "guid": "https://nitter.net/songjunkr/2049508126081077678",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHFQx1xbAAEXgbv.jpg",
+          "summary": "Mistral Medium 3.5 is out and it's a dense 128B model",
+          "author": "@scaling01",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHFQx1xbAAEXgbv.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "좋아요! 로컬 LLM을 쉽게 사용하는 방법을 더 늘려야해요.",
           "link": "https://nitter.net/songjunkr/status/2049411757677203731#m",
@@ -6921,78 +6990,9 @@
           "image": "",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "My current favorite model on a 128GB Mac is Deepseek V4 Flash. I think the next model will be Minimax M3.0. For Macs with smaller RAM: Qwen3.6 35b For fast NVIDIA GPUs: Qwen3.6 27b This is how I plan to use them.",
-          "link": "https://nitter.net/songjunkr/status/2048530795023962358#m",
-          "description": "<p>My current favorite model on a 128GB Mac is Deepseek V4 Flash.<br> <br> I think the next model will be Minimax M3.0.<br> <br> For Macs with smaller RAM: Qwen3.6 35b<br> For fast NVIDIA GPUs: Qwen3.6 27b<br> <br> This is how I plan to use them.</p>",
-          "content": "<p>My current favorite model on a 128GB Mac is Deepseek V4 Flash.<br> <br> I think the next model will be Minimax M3.0.<br> <br> For Macs with smaller RAM: Qwen3.6 35b<br> For fast NVIDIA GPUs: Qwen3.6 27b<br> <br> This is how I plan to use them.</p>",
-          "pubDate": "Sun, 26 Apr 2026 22:32:56 GMT",
-          "guid": "https://nitter.net/songjunkr/2048530795023962358",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "송준 Jun Song / @songjunkr",
-          "feedUrl": "https://nitter.net/songjunkr/rss",
-          "coverImage": "",
-          "summary": "My current favorite model on a 128GB Mac is Deepseek V4 Flash. I think the next model will be Minimax M3.0. For Macs with smaller RAM: Qwen3.6 35b For fast NVIDIA GPUs: Qwen3.6 27b This is how I plan to use them.",
-          "author": "@songjunkr",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "If you are using a Mac with 96GB RAM or more: Do not use Qwen3.6 27b. • Minimax M2.7 • Deepseek V4 Flash These two are much faster and smarter. Take advantage of the unified memory.",
-          "link": "https://nitter.net/songjunkr/status/2048523906747928757#m",
-          "description": "<p>If you are using a Mac with 96GB RAM or more:<br> <br> Do not use Qwen3.6 27b.<br> <br> • Minimax M2.7<br> • Deepseek V4 Flash<br> <br> These two are much faster and smarter.<br> <br> Take advantage of the unified memory.</p>",
-          "content": "<p>If you are using a Mac with 96GB RAM or more:<br> <br> Do not use Qwen3.6 27b.<br> <br> • Minimax M2.7<br> • Deepseek V4 Flash<br> <br> These two are much faster and smarter.<br> <br> Take advantage of the unified memory.</p>",
-          "pubDate": "Sun, 26 Apr 2026 22:05:33 GMT",
-          "guid": "https://nitter.net/songjunkr/2048523906747928757",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "송준 Jun Song / @songjunkr",
-          "feedUrl": "https://nitter.net/songjunkr/rss",
-          "coverImage": "",
-          "summary": "If you are using a Mac with 96GB RAM or more: Do not use Qwen3.6 27b. • Minimax M2.7 • Deepseek V4 Flash These two are much faster and smarter. Take advantage of the unified memory.",
-          "author": "@songjunkr",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "터무니 없는 가격. 이제 미국 프론티어 모델과 수백배의 가격차이가 발생하네요. 성능은 분명히 부족하지만, 가격은 비교가 불가능한 수준.",
-          "link": "https://nitter.net/songjunkr/status/2048515005117825113#m",
-          "description": "<p>터무니 없는 가격.<br> <br> 이제 미국 프론티어 모델과 수백배의 가격차이가 발생하네요.<br> <br> 성능은 분명히 부족하지만, 가격은 비교가 불가능한 수준.</p> <hr/> <blockquote> <b>DeepSeek (@deepseek_ai)</b> <p> <p>🔥DeepSeek Input Cache Price Drop!<br> <br> Effective immediately, the price for input cache hits across the ENTIRE DeepSeek API series is reduced to just 1/10th of the original price! Build more efficiently for less.<br> <br> 📌Reminder: The DeepSeek-V4-Pro 75% OFF promotion is still active until May 5th, 2026, 15:59 (UTC Time).</p> <img src=\"https://nitter.net/pic/media%2FHG2Fzg4bUAAXN5S.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/deepseek_ai/status/2048440764368347611#m\">https://nitter.net/deepseek_ai/status/2048440764368347611#m</a> </footer> </blockquote>",
-          "content": "<p>터무니 없는 가격.<br> <br> 이제 미국 프론티어 모델과 수백배의 가격차이가 발생하네요.<br> <br> 성능은 분명히 부족하지만, 가격은 비교가 불가능한 수준.</p> <hr/> <blockquote> <b>DeepSeek (@deepseek_ai)</b> <p> <p>🔥DeepSeek Input Cache Price Drop!<br> <br> Effective immediately, the price for input cache hits across the ENTIRE DeepSeek API series is reduced to just 1/10th of the original price! Build more efficiently for less.<br> <br> 📌Reminder: The DeepSeek-V4-Pro 75% OFF promotion is still active until May 5th, 2026, 15:59 (UTC Time).</p> <img src=\"https://nitter.net/pic/media%2FHG2Fzg4bUAAXN5S.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/deepseek_ai/status/2048440764368347611#m\">https://nitter.net/deepseek_ai/status/2048440764368347611#m</a> </footer> </blockquote>",
-          "pubDate": "Sun, 26 Apr 2026 21:30:11 GMT",
-          "guid": "https://nitter.net/songjunkr/2048515005117825113",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "송준 Jun Song / @songjunkr",
-          "feedUrl": "https://nitter.net/songjunkr/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHG2Fzg4bUAAXN5S.jpg",
-          "summary": "터무니 없는 가격. 이제 미국 프론티어 모델과 수백배의 가격차이가 발생하네요. 성능은 분명히 부족하지만, 가격은 비교가 불가능한 수준. DeepSeek (@deepseek_ai) 🔥DeepSeek Input Cache Price Drop! Effective immediately, the price for input cache hits across the ENTIRE DeepSeek API ...",
-          "author": "@songjunkr",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHG2Fzg4bUAAXN5S.jpg",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777493306567,
+      "lastUpdated": 1777496907107,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7002,7 +7002,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
     },
     {
       "title": "Cognac(꼬냑) / @supernovajunn",
@@ -7357,8 +7357,8 @@
         {
           "title": "GPT 5.5가 대중들에게 호평을 받으면서 OAI가 인수한 OpenClaw도 다시 한번 봐야 한다는 생각이드네요. 초반에 잘 나가다가 잦은 패치 버그로 많이 힘들었고, 헤르메스라는 업그레이드된 경쟁자도 나타나,몇주간 많이 힘들었다고 생각이 드는데 샘이 OpenClaw를 괜히 사간것은 아닐거라고 생각을 합니다. 철저한 자본주의자인 그가 순수한 오픈모델로 남겨둘까? OAI팀이 각잡고 만지면 오픈AI전용 에이전트가 되지 않을까 계속 그 생각만 머릿속에 멤도네요",
           "link": "https://nitter.net/supernovajunn/status/2047965555945259461#m",
-          "description": "<p>GPT 5.5가 대중들에게 호평을 받으면서<br> <br> OAI가 인수한 OpenClaw도 다시 한번 봐야 한다는 생각이드네요. <br> <br> 초반에 잘 나가다가 잦은 패치 버그로 많이 힘들었고,<br> <br> 헤르메스라는 업그레이드된 경쟁자도 나타나,몇주간 많이 힘들었다고 생각이 드는데<br> <br> 샘이 OpenClaw를 괜히 사간것은 아닐거라고 생각을 합니다.<br> 철저한 자본주의자인 그가 순수한 오픈모델로 남겨둘까?<br> <br> OAI팀이 각잡고 만지면 오픈AI전용 에이전트가 되지 않을까<br> 계속 그 생각만 머릿속에 멤도네요</p> <img src=\"https://nitter.net/pic/media%2FHGvVDmuagAE6LTh.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>OpenClaw🦞 (@openclaw)</b> <p> <p>OpenClaw 2026.4.23 🦞<br> <br> 🧠 GPT-5.5 lands<br> 🎨 Image gen/editing: Codex OAuth + OpenRouter<br> 🧵 Forked-context subagents<br> 💬 Telegram, Slack + WhatsApp polish<br> 🛠️ Install/update fixes<br> <br> Sharper models, smoother claws.<br> <a href=\"https://github.com/openclaw/openclaw/releases/tag/v2026.4.23\">github.com/openclaw/openclaw…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/openclaw/status/2047722880939511885#m\">https://nitter.net/openclaw/status/2047722880939511885#m</a> </footer> </blockquote>",
-          "content": "<p>GPT 5.5가 대중들에게 호평을 받으면서<br> <br> OAI가 인수한 OpenClaw도 다시 한번 봐야 한다는 생각이드네요. <br> <br> 초반에 잘 나가다가 잦은 패치 버그로 많이 힘들었고,<br> <br> 헤르메스라는 업그레이드된 경쟁자도 나타나,몇주간 많이 힘들었다고 생각이 드는데<br> <br> 샘이 OpenClaw를 괜히 사간것은 아닐거라고 생각을 합니다.<br> 철저한 자본주의자인 그가 순수한 오픈모델로 남겨둘까?<br> <br> OAI팀이 각잡고 만지면 오픈AI전용 에이전트가 되지 않을까<br> 계속 그 생각만 머릿속에 멤도네요</p> <img src=\"https://nitter.net/pic/media%2FHGvVDmuagAE6LTh.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>OpenClaw🦞 (@openclaw)</b> <p> <p>OpenClaw 2026.4.23 🦞<br> <br> 🧠 GPT-5.5 lands<br> 🎨 Image gen/editing: Codex OAuth + OpenRouter<br> 🧵 Forked-context subagents<br> 💬 Telegram, Slack + WhatsApp polish<br> 🛠️ Install/update fixes<br> <br> Sharper models, smoother claws.<br> <a href=\"https://github.com/openclaw/openclaw/releases/tag/v2026.4.23\">github.com/openclaw/openclaw…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/openclaw/status/2047722880939511885#m\">https://nitter.net/openclaw/status/2047722880939511885#m</a> </footer> </blockquote>",
+          "description": "<p>GPT 5.5가 대중들에게 호평을 받으면서<br> <br> OAI가 인수한 OpenClaw도 다시 한번 봐야 한다는 생각이드네요. <br> <br> 초반에 잘 나가다가 잦은 패치 버그로 많이 힘들었고,<br> <br> 헤르메스라는 업그레이드된 경쟁자도 나타나,몇주간 많이 힘들었다고 생각이 드는데<br> <br> 샘이 OpenClaw를 괜히 사간것은 아닐거라고 생각을 합니다.<br> 철저한 자본주의자인 그가 순수한 오픈모델로 남겨둘까?<br> <br> OAI팀이 각잡고 만지면 오픈AI전용 에이전트가 되지 않을까<br> 계속 그 생각만 머릿속에 멤도네요</p> <img src=\"https://nitter.net/pic/media%2FHGvVDmuagAE6LTh.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>OpenClaw🦞 (@openclaw)</b> <p> <p>OpenClaw 2026.4.23 🦞<br> <br> 🧠 GPT-5.5 lands<br> 🎨 Image gen/editing: Codex OAuth + OpenRouter<br> 🧵 Forked-context subagents<br> 💬 Telegram, Slack + WhatsApp polish<br> 🛠️ Install/update fixes<br> <br> Sharper models, smoother claws.<br> <a href=\"https://github.com/openclaw/openclaw/releases/tag/v2026.4.23\">github.com/openclaw/openclaw…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2047701764816719872%2F0F0sKrFI%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/openclaw/status/2047722880939511885#m\">https://nitter.net/openclaw/status/2047722880939511885#m</a> </footer> </blockquote>",
+          "content": "<p>GPT 5.5가 대중들에게 호평을 받으면서<br> <br> OAI가 인수한 OpenClaw도 다시 한번 봐야 한다는 생각이드네요. <br> <br> 초반에 잘 나가다가 잦은 패치 버그로 많이 힘들었고,<br> <br> 헤르메스라는 업그레이드된 경쟁자도 나타나,몇주간 많이 힘들었다고 생각이 드는데<br> <br> 샘이 OpenClaw를 괜히 사간것은 아닐거라고 생각을 합니다.<br> 철저한 자본주의자인 그가 순수한 오픈모델로 남겨둘까?<br> <br> OAI팀이 각잡고 만지면 오픈AI전용 에이전트가 되지 않을까<br> 계속 그 생각만 머릿속에 멤도네요</p> <img src=\"https://nitter.net/pic/media%2FHGvVDmuagAE6LTh.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>OpenClaw🦞 (@openclaw)</b> <p> <p>OpenClaw 2026.4.23 🦞<br> <br> 🧠 GPT-5.5 lands<br> 🎨 Image gen/editing: Codex OAuth + OpenRouter<br> 🧵 Forked-context subagents<br> 💬 Telegram, Slack + WhatsApp polish<br> 🛠️ Install/update fixes<br> <br> Sharper models, smoother claws.<br> <a href=\"https://github.com/openclaw/openclaw/releases/tag/v2026.4.23\">github.com/openclaw/openclaw…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2047701764816719872%2F0F0sKrFI%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/openclaw/status/2047722880939511885#m\">https://nitter.net/openclaw/status/2047722880939511885#m</a> </footer> </blockquote>",
           "pubDate": "Sat, 25 Apr 2026 09:06:52 GMT",
           "guid": "https://nitter.net/supernovajunn/2047965555945259461",
           "read": false,
@@ -7608,7 +7608,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777493307598,
+      "lastUpdated": 1777496908764,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8776,7 +8776,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777493308932,
+      "lastUpdated": 1777496909039,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8786,7 +8786,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
     },
     {
       "title": "SETI Park / @seti_park",
@@ -9944,7 +9944,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777493310319,
+      "lastUpdated": 1777496910363,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9954,7 +9954,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1995779157624766464%2FYivWTqFm_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1995779157624766464%2FYivWTqFm_400x400.jpg"
     },
     {
       "title": "arXiv AI (cs.AI) New Papers",
@@ -11112,7 +11112,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777493310437,
+      "lastUpdated": 1777496910618,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11659,7 +11659,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777493311265,
+      "lastUpdated": 1777496911379,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11815,7 +11815,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777493312988,
+      "lastUpdated": 1777496912849,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11867,7 +11867,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777493313123,
+      "lastUpdated": 1777496912987,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12565,7 +12565,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777493313377,
+      "lastUpdated": 1777496913267,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13734,7 +13734,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777493314269,
+      "lastUpdated": 1777496914084,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14195,7 +14195,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777493314425,
+      "lastUpdated": 1777496914235,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14526,7 +14526,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777493314572,
+      "lastUpdated": 1777496914396,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15251,7 +15251,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777493314725,
+      "lastUpdated": 1777496914554,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15292,7 +15292,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777493314726,
+  "lastRefreshTimestamp": 1777496914555,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
