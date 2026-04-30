@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-30 | Total pages: 33
+> Last updated: 2026-04-30 | Total pages: 38
 
 ## Concepts (10)
 - [[anthropic-claude-think-tool]] — Anthropic의 "think" tool: 복잡한 도구 사용 상황에서 Claude가 멈추고 생각하게 하는 메커니즘
@@ -16,7 +16,7 @@
 - [[바이브코딩-책-개요]] — 바이브코딩 책 (박경태, wikidocs) 전체 개요 및 구조
 - [[에러-에스컬레이션]] — AI 코딩에서 에러가 발생했을 때 상위 지원으로 에스컬레이션하는 패턴
 
-## Entities (20)
+## Entities (26)
 - [[app-blueprint-prompt]] — APP_BLUEPRINT.md 생성 메타프롬프트 (@DeRonin_ 제작)
 - [[boop-agent]] — Boop Agent: iMessage 기반 오픈소스 개인 비서. Claude Agent SDK + Dispatcher-Worker 아키텍처
 - [[cc-sdd]] — cc-sdd: Kiro 스타일 SDD — 8개 AI 에이전트 통합, Boundary-first 설계, 경량 npx 설치
@@ -25,6 +25,12 @@
 - [[Qwen-FlashQLA]] — Qwen FlashQLA: TileLang 기반 고속 linear attention kernel (GDR forward 2-3×, backward 2× speedup)
 - [[harness-engineering-wikidocs]] — 하네스 엔지니어링 입문 — 위키독스 요약
 - [[learn-harness-engineering]] — WalkingLabs: AI 코딩 에이전트를 위한 Harness Engineering 프로젝트 기반 과정 (12강의 + 6프로젝트)
+- [[matt-pocock-caveman]] — 초압축 커뮤니케이션 모드. 토큰 사용량 ~75% 절감, 전체 기술 정확성 유지
+- [[matt-pocock-grill-me]] — relentlessly 인터뷰로 설계 의사결정 트리 완전 해결 (비코드용)
+- [[matt-pocock-grill-with-docs]] — grill-me + 공유 언어(CONTEXT.md) 구축 + ADR 기록 (코드용)
+- [[matt-pocock-improve-codebase-architecture]] — 코드베이스 deepening 기회 발굴 (삭제 테스트, 모듈 깊이 분석)
+- [[matt-pocock-skills]] — Matt Pocock의 Skills For Real Engineers: AI 에이전트용 실용 엔지니어링 스킬 모음
+- [[matt-pocock-tdd]] — Red-Green-Refactor + 수직 슬라이스 TDD. 안티패턴 명시적 금지
 - [[openspec]] — OpenSpec: Fission AI의 AI-native spec-driven 프레임워크 (TypeScript, 25+ AI 도구 지원, Graphify 분석)
 - [[research-agent-설계-계획]] — 바이브코딩+Senior-level AI 협업 연구 설계 (2-Stage Review 완료)
 - [[subagent-driven-development]] — Superpowers의 핵심 패턴: 멀티 에이전트 병렬 구현 + Two-Stage Review

@@ -4,6 +4,20 @@
      4|     4|> Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
+## [2026-04-30] ingest | mattpocock/skills (Manual Analysis + Wiki)
+
+- **소스:** https://github.com/mattpocock/skills
+- **Graphify 분석:** 코드 파일 없음 (Markdown-only 레포) → 수동 분석으로 대체
+- **설치:** 15개 스킬을 `~/.hermes/skills/mattpocock/`에 설치 완료
+- **신규 엔티티 페이지 (6):**
+  - `entities/matt-pocock-skills.md` — 전체 프레임워크 개요 (4대 실패 모드, 스킬 카탈로그, 공유 언어)
+  - `entities/matt-pocock-grill-with-docs.md` — 가장 인기 있는 스킬: 그릴링 + 공유 언어 + ADR
+  - `entities/matt-pocock-tdd.md` — Red-Green-Refactor + 수직 슬라이스 TDD
+  - `entities/matt-pocock-improve-codebase-architecture.md` — Deepening 기회 발굴 (Ousterhout 기반)
+  - `entities/matt-pocock-grill-me.md` — 비코드 그릴링
+  - `entities/matt-pocock-caveman.md` — 초압축 모드 (~75% 토큰 절감)
+- **index.md:** Entities 20 → 26, Total 33 → 38
+
 ## [2026-04-30] ingest | don-cheli-sdd + cc-sdd (Graphify + Wiki)
 
 - **신규 엔티티 페이지:**
