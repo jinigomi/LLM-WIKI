@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777511262834,
+      "lastUpdated": 1777514900370,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -214,7 +214,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777511284800,
+      "lastUpdated": 1777514905921,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -259,6 +259,35 @@
           "videoId": "zkg7FAW7288"
         },
         {
+          "title": "테슬라 전세계가 기다렸던 그소식 발표됐다",
+          "link": "https://www.youtube.com/watch?v=zkg7FAW7288",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-29 11:49:25",
+          "guid": "https://www.youtube.com/watch?v=zkg7FAW7288",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "준이츠 JOONITS",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXHqMzeT6P3_pH2U2ftXNzA",
+          "coverImage": "https://img.youtube.com/vi/zkg7FAW7288/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "zkg7FAW7288"
+        },
+        {
           "title": "한국 테슬라 FSD 대체 언제? 국토부 \"막은 적 없다\"",
           "link": "https://www.youtube.com/watch?v=94vGK7JjeYk",
           "description": "",
@@ -282,6 +311,35 @@
           "mediaType": "video",
           "explicit": false,
           "image": "",
+          "videoId": "94vGK7JjeYk"
+        },
+        {
+          "title": "한국 테슬라 FSD 대체 언제? 국토부 \"막은 적 없다\"",
+          "link": "https://www.youtube.com/watch?v=94vGK7JjeYk",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-28 08:21:20",
+          "guid": "https://www.youtube.com/watch?v=94vGK7JjeYk",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "준이츠 JOONITS",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXHqMzeT6P3_pH2U2ftXNzA",
+          "coverImage": "https://img.youtube.com/vi/94vGK7JjeYk/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
           "videoId": "94vGK7JjeYk"
         },
         {
@@ -311,6 +369,35 @@
           "videoId": "KKoLTAZsxok"
         },
         {
+          "title": "테슬라가 1년만에 드디어 풀어준 기능",
+          "link": "https://www.youtube.com/watch?v=KKoLTAZsxok",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-26 12:15:58",
+          "guid": "https://www.youtube.com/watch?v=KKoLTAZsxok",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "준이츠 JOONITS",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXHqMzeT6P3_pH2U2ftXNzA",
+          "coverImage": "https://img.youtube.com/vi/KKoLTAZsxok/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "KKoLTAZsxok"
+        },
+        {
           "title": "테슬라 모두가 기다려온 그것이 시작되었다!",
           "link": "https://www.youtube.com/watch?v=t8ahQjckq08",
           "description": "",
@@ -334,6 +421,35 @@
           "mediaType": "video",
           "explicit": false,
           "image": "",
+          "videoId": "t8ahQjckq08"
+        },
+        {
+          "title": "테슬라 모두가 기다려온 그것이 시작되었다!",
+          "link": "https://www.youtube.com/watch?v=t8ahQjckq08",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-25 12:42:44",
+          "guid": "https://www.youtube.com/watch?v=t8ahQjckq08",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "준이츠 JOONITS",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXHqMzeT6P3_pH2U2ftXNzA",
+          "coverImage": "https://img.youtube.com/vi/t8ahQjckq08/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
           "videoId": "t8ahQjckq08"
         },
         {
@@ -363,6 +479,35 @@
           "videoId": "RBTWI8OcstU"
         },
         {
+          "title": "테슬라 지긋지긋한 논쟁, 드디어 종결되었다!",
+          "link": "https://www.youtube.com/watch?v=RBTWI8OcstU",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-24 10:20:22",
+          "guid": "https://www.youtube.com/watch?v=RBTWI8OcstU",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "준이츠 JOONITS",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXHqMzeT6P3_pH2U2ftXNzA",
+          "coverImage": "https://img.youtube.com/vi/RBTWI8OcstU/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "RBTWI8OcstU"
+        },
+        {
           "title": "테슬라 구형 HW3 고객에게 AI4로 전격 교체 해준다",
           "link": "https://www.youtube.com/shorts/f4_0deFvC-8",
           "description": "",
@@ -386,6 +531,35 @@
           "mediaType": "video",
           "explicit": false,
           "image": "",
+          "videoId": "f4_0deFvC-8"
+        },
+        {
+          "title": "테슬라 구형 HW3 고객에게 AI4로 전격 교체 해준다",
+          "link": "https://www.youtube.com/shorts/f4_0deFvC-8",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-24 00:38:54",
+          "guid": "https://www.youtube.com/shorts/f4_0deFvC-8",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "준이츠 JOONITS",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXHqMzeT6P3_pH2U2ftXNzA",
+          "coverImage": "https://img.youtube.com/vi/f4_0deFvC-8/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
           "videoId": "f4_0deFvC-8"
         },
         {
@@ -415,6 +589,35 @@
           "videoId": "nu9YxUBc7uU"
         },
         {
+          "title": "테슬라 26년 1분기 실적, 생각보다 잘 나왔네!",
+          "link": "https://www.youtube.com/watch?v=nu9YxUBc7uU",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-23 05:36:41",
+          "guid": "https://www.youtube.com/watch?v=nu9YxUBc7uU",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "준이츠 JOONITS",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXHqMzeT6P3_pH2U2ftXNzA",
+          "coverImage": "https://img.youtube.com/vi/nu9YxUBc7uU/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "nu9YxUBc7uU"
+        },
+        {
           "title": "테슬라 올인투자자 인터뷰 '숫자맹신론자'편 1/2",
           "link": "https://www.youtube.com/watch?v=PjueYijJxLU",
           "description": "",
@@ -438,6 +641,35 @@
           "mediaType": "video",
           "explicit": false,
           "image": "",
+          "videoId": "PjueYijJxLU"
+        },
+        {
+          "title": "테슬라 올인투자자 인터뷰 '숫자맹신론자'편 1/2",
+          "link": "https://www.youtube.com/watch?v=PjueYijJxLU",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-22 01:43:34",
+          "guid": "https://www.youtube.com/watch?v=PjueYijJxLU",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "준이츠 JOONITS",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXHqMzeT6P3_pH2U2ftXNzA",
+          "coverImage": "https://img.youtube.com/vi/PjueYijJxLU/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
           "videoId": "PjueYijJxLU"
         },
         {
@@ -467,6 +699,35 @@
           "videoId": "vaiQ7uzMcHQ"
         },
         {
+          "title": "테슬라 이런 날도 오다니, 오래살고 볼 일이네!",
+          "link": "https://www.youtube.com/watch?v=vaiQ7uzMcHQ",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-21 11:28:29",
+          "guid": "https://www.youtube.com/watch?v=vaiQ7uzMcHQ",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "준이츠 JOONITS",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXHqMzeT6P3_pH2U2ftXNzA",
+          "coverImage": "https://img.youtube.com/vi/vaiQ7uzMcHQ/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "vaiQ7uzMcHQ"
+        },
+        {
           "title": "모두를 충격에 빠뜨린 일론머스크의 작심 발언",
           "link": "https://www.youtube.com/watch?v=ZBlAhgmT7Rg",
           "description": "",
@@ -490,6 +751,35 @@
           "mediaType": "video",
           "explicit": false,
           "image": "",
+          "videoId": "ZBlAhgmT7Rg"
+        },
+        {
+          "title": "모두를 충격에 빠뜨린 일론머스크의 작심 발언",
+          "link": "https://www.youtube.com/watch?v=ZBlAhgmT7Rg",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-20 06:58:01",
+          "guid": "https://www.youtube.com/watch?v=ZBlAhgmT7Rg",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "준이츠 JOONITS",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXHqMzeT6P3_pH2U2ftXNzA",
+          "coverImage": "https://img.youtube.com/vi/ZBlAhgmT7Rg/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
           "videoId": "ZBlAhgmT7Rg"
         },
         {
@@ -675,7 +965,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777511292265,
+      "lastUpdated": 1777514908878,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -954,7 +1244,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777511305234,
+      "lastUpdated": 1777514929140,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -999,6 +1289,35 @@
           "videoId": "MxBJRfx7sCQ"
         },
         {
+          "title": "속보! 테슬라와 스페이스X 합병 없다! / 미국 4월 FOMC 핵심! / 4대 빅테크 실적 발표!",
+          "link": "https://www.youtube.com/watch?v=MxBJRfx7sCQ",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-29 22:07:10",
+          "guid": "https://www.youtube.com/watch?v=MxBJRfx7sCQ",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "아트라온 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGQd6nRgbPenEigRfkYegsw",
+          "coverImage": "https://img.youtube.com/vi/MxBJRfx7sCQ/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "MxBJRfx7sCQ"
+        },
+        {
           "title": "속보! 테슬라 모델Y L인도 시작! 그 의미는? / 나스닥 하락! 반도체 하락! 미국장 하락 시작?",
           "link": "https://www.youtube.com/watch?v=WvxoFja9Uiw",
           "description": "",
@@ -1022,6 +1341,35 @@
           "mediaType": "video",
           "explicit": false,
           "image": "",
+          "videoId": "WvxoFja9Uiw"
+        },
+        {
+          "title": "속보! 테슬라 모델Y L인도 시작! 그 의미는? / 나스닥 하락! 반도체 하락! 미국장 하락 시작?",
+          "link": "https://www.youtube.com/watch?v=WvxoFja9Uiw",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-28 22:00:36",
+          "guid": "https://www.youtube.com/watch?v=WvxoFja9Uiw",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "아트라온 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGQd6nRgbPenEigRfkYegsw",
+          "coverImage": "https://img.youtube.com/vi/WvxoFja9Uiw/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
           "videoId": "WvxoFja9Uiw"
         },
         {
@@ -1051,6 +1399,35 @@
           "videoId": "s4gdR_SHJmw"
         },
         {
+          "title": "속보! 테슬라 투자는 올해가 최적의 기회! / 금주 빅테크 5개 기업 실적 발표!",
+          "link": "https://www.youtube.com/watch?v=s4gdR_SHJmw",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-27 22:02:54",
+          "guid": "https://www.youtube.com/watch?v=s4gdR_SHJmw",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "아트라온 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGQd6nRgbPenEigRfkYegsw",
+          "coverImage": "https://img.youtube.com/vi/s4gdR_SHJmw/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "s4gdR_SHJmw"
+        },
+        {
           "title": "속보! 사이버캡 생산 공식 스타트! / 테슬라 시작이다! 견디고 또 견뎌라!",
           "link": "https://www.youtube.com/watch?v=cJoEw5QZ_2o",
           "description": "",
@@ -1074,6 +1451,35 @@
           "mediaType": "video",
           "explicit": false,
           "image": "",
+          "videoId": "cJoEw5QZ_2o"
+        },
+        {
+          "title": "속보! 사이버캡 생산 공식 스타트! / 테슬라 시작이다! 견디고 또 견뎌라!",
+          "link": "https://www.youtube.com/watch?v=cJoEw5QZ_2o",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-24 23:02:39",
+          "guid": "https://www.youtube.com/watch?v=cJoEw5QZ_2o",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "아트라온 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGQd6nRgbPenEigRfkYegsw",
+          "coverImage": "https://img.youtube.com/vi/cJoEw5QZ_2o/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
           "videoId": "cJoEw5QZ_2o"
         },
         {
@@ -1103,6 +1509,35 @@
           "videoId": "aYHhuhENFE4"
         },
         {
+          "title": "충격! 테슬라 호실적에도 주가 하락! 그 이유는? / 테슬라 미래 아직도 밝을까?",
+          "link": "https://www.youtube.com/watch?v=aYHhuhENFE4",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-23 22:12:47",
+          "guid": "https://www.youtube.com/watch?v=aYHhuhENFE4",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "아트라온 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGQd6nRgbPenEigRfkYegsw",
+          "coverImage": "https://img.youtube.com/vi/aYHhuhENFE4/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "aYHhuhENFE4"
+        },
+        {
           "title": "속보! 테슬라 1분기실적 발표! 서프라이즈! / 테슬라 실적 꼭 알아야 할 3가지!",
           "link": "https://www.youtube.com/watch?v=XR1lCQ3H2Uw",
           "description": "",
@@ -1126,6 +1561,35 @@
           "mediaType": "video",
           "explicit": false,
           "image": "",
+          "videoId": "XR1lCQ3H2Uw"
+        },
+        {
+          "title": "속보! 테슬라 1분기실적 발표! 서프라이즈! / 테슬라 실적 꼭 알아야 할 3가지!",
+          "link": "https://www.youtube.com/watch?v=XR1lCQ3H2Uw",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-22 22:21:25",
+          "guid": "https://www.youtube.com/watch?v=XR1lCQ3H2Uw",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "아트라온 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGQd6nRgbPenEigRfkYegsw",
+          "coverImage": "https://img.youtube.com/vi/XR1lCQ3H2Uw/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
           "videoId": "XR1lCQ3H2Uw"
         },
         {
@@ -1155,6 +1619,35 @@
           "videoId": "2ynaC9X1SjU"
         },
         {
+          "title": "속보! 트럼프 휴전연장! 테슬라 내일 실적 발표! / 빅테크 실적 첫 테이프! 오리무중 미국증시!",
+          "link": "https://www.youtube.com/watch?v=2ynaC9X1SjU",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-21 22:07:02",
+          "guid": "https://www.youtube.com/watch?v=2ynaC9X1SjU",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "아트라온 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGQd6nRgbPenEigRfkYegsw",
+          "coverImage": "https://img.youtube.com/vi/2ynaC9X1SjU/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "2ynaC9X1SjU"
+        },
+        {
           "title": "속보! 테슬라 로보택시 새로운 도시 확장! / 내일 증시 운명을 가를 소식 나온다!",
           "link": "https://www.youtube.com/watch?v=R6aBIdiNItw",
           "description": "",
@@ -1178,6 +1671,35 @@
           "mediaType": "video",
           "explicit": false,
           "image": "",
+          "videoId": "R6aBIdiNItw"
+        },
+        {
+          "title": "속보! 테슬라 로보택시 새로운 도시 확장! / 내일 증시 운명을 가를 소식 나온다!",
+          "link": "https://www.youtube.com/watch?v=R6aBIdiNItw",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-20 21:52:36",
+          "guid": "https://www.youtube.com/watch?v=R6aBIdiNItw",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "아트라온 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGQd6nRgbPenEigRfkYegsw",
+          "coverImage": "https://img.youtube.com/vi/R6aBIdiNItw/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
           "videoId": "R6aBIdiNItw"
         },
         {
@@ -1207,6 +1729,35 @@
           "videoId": "peFu0XHtunI"
         },
         {
+          "title": "충격! 유가 80불대 급락! 테슬라 400불 회복! / 테슬라 1분기 실적 프리뷰",
+          "link": "https://www.youtube.com/watch?v=peFu0XHtunI",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-18 02:35:43",
+          "guid": "https://www.youtube.com/watch?v=peFu0XHtunI",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "아트라온 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGQd6nRgbPenEigRfkYegsw",
+          "coverImage": "https://img.youtube.com/vi/peFu0XHtunI/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "peFu0XHtunI"
+        },
+        {
           "title": "충격! 테슬라 로보택시 사고율 ‘O’ 기록 시작! / 트럼프, 2차회담 예고!",
           "link": "https://www.youtube.com/watch?v=4K1gaWOo8mQ",
           "description": "",
@@ -1230,6 +1781,35 @@
           "mediaType": "video",
           "explicit": false,
           "image": "",
+          "videoId": "4K1gaWOo8mQ"
+        },
+        {
+          "title": "충격! 테슬라 로보택시 사고율 ‘O’ 기록 시작! / 트럼프, 2차회담 예고!",
+          "link": "https://www.youtube.com/watch?v=4K1gaWOo8mQ",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-16 22:07:20",
+          "guid": "https://www.youtube.com/watch?v=4K1gaWOo8mQ",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "아트라온 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGQd6nRgbPenEigRfkYegsw",
+          "coverImage": "https://img.youtube.com/vi/4K1gaWOo8mQ/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
           "videoId": "4K1gaWOo8mQ"
         },
         {
@@ -1441,7 +2021,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777511305545,
+      "lastUpdated": 1777514951198,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1954,7 +2534,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777511308120,
+      "lastUpdated": 1777514997312,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2468,7 +3048,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777511312470,
+      "lastUpdated": 1777515015847,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3487,7 +4067,7 @@
           "image": ""
         }
       ],
-      "lastUpdated": 1777511313900,
+      "lastUpdated": 1777515017325,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4906,7 +5486,7 @@
           }
         }
       ],
-      "lastUpdated": 1777511315368,
+      "lastUpdated": 1777515018420,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4924,7 +5504,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777511315647,
+      "lastUpdated": 1777515018548,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4942,7 +5522,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777511316106,
+      "lastUpdated": 1777515018865,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6111,7 +6691,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777511317517,
+      "lastUpdated": 1777515019950,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6128,6 +6708,52 @@
       "url": "https://nitter.net/songjunkr/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "The era of Personal Sovereign AI is coming. We're going to use personal hardware to build personal SaaS. We stop handing our data over to corporations and start owning our own intelligence. People are already waking up to this and spinning up Local LLMs. As Big AI adds more guardrails and raises prices, the push for AI sovereignty will only explode. Bookmark this tweet.",
+          "link": "https://nitter.net/songjunkr/status/2049666624601624887#m",
+          "description": "<p>The era of Personal Sovereign AI is coming.<br> <br> We're going to use personal hardware to build personal SaaS. <br> We stop handing our data over to corporations and start owning our own intelligence. <br> People are already waking up to this and spinning up Local LLMs.<br> <br> As Big AI adds more guardrails and raises prices, the push for AI sovereignty will only explode.<br> <br> Bookmark this tweet.</p>",
+          "content": "<p>The era of Personal Sovereign AI is coming.<br> <br> We're going to use personal hardware to build personal SaaS. <br> We stop handing our data over to corporations and start owning our own intelligence. <br> People are already waking up to this and spinning up Local LLMs.<br> <br> As Big AI adds more guardrails and raises prices, the push for AI sovereignty will only explode.<br> <br> Bookmark this tweet.</p>",
+          "pubDate": "Thu, 30 Apr 2026 01:46:18 GMT",
+          "guid": "https://nitter.net/songjunkr/2049666624601624887",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "",
+          "summary": "The era of Personal Sovereign AI is coming. We're going to use personal hardware to build personal SaaS. We stop handing our data over to corporations and start owning our own intelligence. People are already waking up t...",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "This is not a good sign.",
+          "link": "https://nitter.net/songjunkr/status/2049661301438517299#m",
+          "description": "<p>This is not a good sign.</p> <hr/> <blockquote> <b>Hedgeye (@Hedgeye)</b> <p> <p>BREAKING: Half of planned US data center builds have been delayed or canceled</p> </p> <footer> — <cite><a href=\"https://nitter.net/Hedgeye/status/2049501790161248586#m\">https://nitter.net/Hedgeye/status/2049501790161248586#m</a> </footer> </blockquote>",
+          "content": "<p>This is not a good sign.</p> <hr/> <blockquote> <b>Hedgeye (@Hedgeye)</b> <p> <p>BREAKING: Half of planned US data center builds have been delayed or canceled</p> </p> <footer> — <cite><a href=\"https://nitter.net/Hedgeye/status/2049501790161248586#m\">https://nitter.net/Hedgeye/status/2049501790161248586#m</a> </footer> </blockquote>",
+          "pubDate": "Thu, 30 Apr 2026 01:25:09 GMT",
+          "guid": "https://nitter.net/songjunkr/2049661301438517299",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "송준 Jun Song / @songjunkr",
+          "feedUrl": "https://nitter.net/songjunkr/rss",
+          "coverImage": "",
+          "summary": "This is not a good sign. Hedgeye (@Hedgeye) BREAKING: Half of planned US data center builds have been delayed or canceled — https://nitter.net/Hedgeye/status/2049501790161248586#m",
+          "author": "@songjunkr",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "R to @songjunkr: @sama @elonmusk we need solutions for this please",
           "link": "https://nitter.net/songjunkr/status/2049643381954134032#m",
@@ -7231,55 +7857,9 @@
           "image": "",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "제생각에는 GPT-5.5는 현시점 최고의 모델인듯 합니다. 가격으로는 Deepseek V4 Pro. Claude는 이제 장점이 무엇인지 정말 모르겠어요.",
-          "link": "https://nitter.net/songjunkr/status/2048559552698995053#m",
-          "description": "<p>제생각에는 GPT-5.5는 현시점 최고의 모델인듯 합니다.<br> <br> 가격으로는 Deepseek V4 Pro.<br> <br> Claude는 이제 장점이 무엇인지 정말 모르겠어요.</p>",
-          "content": "<p>제생각에는 GPT-5.5는 현시점 최고의 모델인듯 합니다.<br> <br> 가격으로는 Deepseek V4 Pro.<br> <br> Claude는 이제 장점이 무엇인지 정말 모르겠어요.</p>",
-          "pubDate": "Mon, 27 Apr 2026 00:27:12 GMT",
-          "guid": "https://nitter.net/songjunkr/2048559552698995053",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "송준 Jun Song / @songjunkr",
-          "feedUrl": "https://nitter.net/songjunkr/rss",
-          "coverImage": "",
-          "summary": "제생각에는 GPT-5.5는 현시점 최고의 모델인듯 합니다. 가격으로는 Deepseek V4 Pro. Claude는 이제 장점이 무엇인지 정말 모르겠어요.",
-          "author": "@songjunkr",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "R to @songjunkr: @dealignai 가 만드는 중인 JANGTQ는 80gb에서 구동 가능합니다. HF에는 업로드 되어있지만, 아직 포스팅을 안한것 보니 수정중인듯 합니다.",
-          "link": "https://nitter.net/songjunkr/status/2048547651445227600#m",
-          "description": "<p><a href=\"https://nitter.net/dealignai\" title=\"dealign.ai\">@dealignai</a> 가 만드는 중인 JANGTQ는 80gb에서 구동 가능합니다.<br> HF에는 업로드 되어있지만, 아직 포스팅을 안한것 보니 수정중인듯 합니다.</p>",
-          "content": "<p><a href=\"https://nitter.net/dealignai\" title=\"dealign.ai\">@dealignai</a> 가 만드는 중인 JANGTQ는 80gb에서 구동 가능합니다.<br> HF에는 업로드 되어있지만, 아직 포스팅을 안한것 보니 수정중인듯 합니다.</p>",
-          "pubDate": "Sun, 26 Apr 2026 23:39:54 GMT",
-          "guid": "https://nitter.net/songjunkr/2048547651445227600",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "송준 Jun Song / @songjunkr",
-          "feedUrl": "https://nitter.net/songjunkr/rss",
-          "coverImage": "",
-          "summary": "@dealignai 가 만드는 중인 JANGTQ는 80gb에서 구동 가능합니다. HF에는 업로드 되어있지만, 아직 포스팅을 안한것 보니 수정중인듯 합니다.",
-          "author": "@songjunkr",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777511318672,
+      "lastUpdated": 1777515020275,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7895,7 +8475,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777511320023,
+      "lastUpdated": 1777515020636,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7912,6 +8492,29 @@
       "url": "https://nitter.net/Tslachan/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "$TSLA 테슬라 세미, 너무 멋있음!",
+          "link": "https://nitter.net/Tslachan/status/2049662676020936963#m",
+          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> 테슬라 세미, 너무 멋있음!</p> <img src=\"https://nitter.net/pic/media%2FHHHdTHsbQAAoN2N.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> 테슬라 세미, 너무 멋있음!</p> <img src=\"https://nitter.net/pic/media%2FHHHdTHsbQAAoN2N.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Thu, 30 Apr 2026 01:30:37 GMT",
+          "guid": "https://nitter.net/Tslachan/2049662676020936963",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Tsla Chan / @Tslachan",
+          "feedUrl": "https://nitter.net/Tslachan/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHHdTHsbQAAoN2N.jpg",
+          "summary": "$TSLA 테슬라 세미, 너무 멋있음!",
+          "author": "@Tslachan",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHHdTHsbQAAoN2N.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "$TSLA Tesla's aesthetic is very good. Elon's company sometimes takes the line of science and art.",
           "link": "https://nitter.net/Tslachan/status/2049654253086732472#m",
@@ -9038,32 +9641,9 @@
           "image": "https://nitter.net/pic/amplify_video_thumb%2F2048957575279108096%2Fimg%2FNfYcbw_RYoYowxIQ.jpg",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "$TSLA 🇰🇷 NEWS: Customer delivery for Tesla's Model Y L vehicles has just officially started in Korea! The vehicle is a 6-seater, which will be very popular with many consumers in Korea because it has bigger and more space, and has several new features! Congratulations to everyone who has become the owner of Tesla! 🥳",
-          "link": "https://nitter.net/Tslachan/status/2048952843680501829#m",
-          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> 🇰🇷<br> NEWS: Customer delivery for Tesla's Model Y L vehicles has just officially started in Korea!<br> <br> The vehicle is a 6-seater, which will be very popular with many consumers in Korea because it has bigger and more space, and has several new features!<br> <br> Congratulations to everyone who has become the owner of Tesla! 🥳</p> <img src=\"https://nitter.net/pic/media%2FHG9QF5bb0AASUBZ.jpg\" style=\"max-width:250px;\" />",
-          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> 🇰🇷<br> NEWS: Customer delivery for Tesla's Model Y L vehicles has just officially started in Korea!<br> <br> The vehicle is a 6-seater, which will be very popular with many consumers in Korea because it has bigger and more space, and has several new features!<br> <br> Congratulations to everyone who has become the owner of Tesla! 🥳</p> <img src=\"https://nitter.net/pic/media%2FHG9QF5bb0AASUBZ.jpg\" style=\"max-width:250px;\" />",
-          "pubDate": "Tue, 28 Apr 2026 02:30:00 GMT",
-          "guid": "https://nitter.net/Tslachan/2048952843680501829",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Tsla Chan / @Tslachan",
-          "feedUrl": "https://nitter.net/Tslachan/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHG9QF5bb0AASUBZ.jpg",
-          "summary": "$TSLA 🇰🇷 NEWS: Customer delivery for Tesla's Model Y L vehicles has just officially started in Korea! The vehicle is a 6-seater, which will be very popular with many consumers in Korea because it has bigger and more sp...",
-          "author": "@Tslachan",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHG9QF5bb0AASUBZ.jpg",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777511320996,
+      "lastUpdated": 1777515021611,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10231,7 +10811,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777511322039,
+      "lastUpdated": 1777515022646,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11399,7 +11979,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777511323068,
+      "lastUpdated": 1777515022895,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11979,7 +12559,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777511325159,
+      "lastUpdated": 1777515023742,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12135,7 +12715,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777511326971,
+      "lastUpdated": 1777515025179,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12187,7 +12767,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777511327791,
+      "lastUpdated": 1777515025348,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12885,7 +13465,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777511328313,
+      "lastUpdated": 1777515026066,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14054,7 +14634,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777511329406,
+      "lastUpdated": 1777515026602,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14072,6 +14652,32 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
       "folder": "Videos",
       "items": [
+        {
+          "title": "테슬라 주가 부진은 머스크의 치밀한 함정일까?",
+          "link": "https://www.youtube.com/watch?v=KfRTbYKcFTw",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-04-30T01:59:41+00:00",
+          "guid": "yt:video:KfRTbYKcFTw",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "제이디드월드",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg",
+          "coverImage": "https://img.youtube.com/vi/KfRTbYKcFTw/maxresdefault.jpg",
+          "summary": "",
+          "author": "제이디드월드",
+          "saved": false,
+          "mediaType": "video",
+          "explicit": false,
+          "image": "",
+          "videoId": "KfRTbYKcFTw"
+        },
         {
           "title": "우리가 테슬라를 차마 놓지 못하는 이유",
           "link": "https://www.youtube.com/watch?v=a6JPXXoNcis",
@@ -14515,7 +15121,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777511360420,
+      "lastUpdated": 1777515044729,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15571,7 +16177,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777511364916,
+      "lastUpdated": 1777515057470,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15612,7 +16218,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777511364917,
+  "lastRefreshTimestamp": 1777515057471,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
