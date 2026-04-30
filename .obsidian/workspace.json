@@ -230,6 +230,7 @@
   },
   "active": "4dddf79ec05508af",
   "lastOpenFiles": [
+    "entities/matt-pocock-skills.md",
     "raw/papers/2512.02750v1-can-you-feel-the-vibes-an-exploration-of-novice-programmer-e.md",
     "comparisons/openspec-vs-superpowers.md",
     "comparisons/hermes-vs-boop.md",
@@ -255,7 +256,6 @@
     "entities/subagent-driven-development.md",
     "entities/research-agent-설계-계획.md",
     "entities/superpowers.md",
-    "entities/warp.md",
     "raw/research-reports",
     "YOLO",
     "raw/articles/ai-에이전트-연구-도구-grok-2026-04-27.pdf",
