@@ -35,8 +35,8 @@
 - [[설계]] — smart-video-speed 프로젝트 설계 문서
 - [[엔지니어링-사고-초보자]] — 초보자를 위한 엔지니어링 사고: AI 협업에서 필요한 사고방식
 - [[오케스트레이션]] — 오케스트레이션: AI 에이전트 간 작업 조율과 협업 패턴
-- [[챕터-요약]] — 바이브코딩 책 챕터별 요약
-- [[프로젝트-개요]] — Engineering Mindset 프로젝트 개요
+- [[바이브 코딩이 실패하는 이유]] — 바이브코딩 책 챕터별 요약
+- [[Engineering Mindset]] — Engineering Mindset 프로젝트 개요
 
 ## Comparisons (3)
 - [[comparisons/don-cheli-vs-cc-sdd|don-cheli-vs-cc-sdd]] — Don Cheli vs cc-sdd: Docker 파이프라인 SDD vs Boundary-first Skills SDD

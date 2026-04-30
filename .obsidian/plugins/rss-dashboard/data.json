@@ -39,7 +39,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1777504100777,
+      "lastUpdated": 1777507663364,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -214,7 +214,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1777504101072,
+      "lastUpdated": 1777507663486,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -675,7 +675,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1777504101224,
+      "lastUpdated": 1777507663648,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -954,7 +954,7 @@
           "videoId": "-WYqqF7vXUQ"
         }
       ],
-      "lastUpdated": 1777504101365,
+      "lastUpdated": 1777507663796,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1441,7 +1441,7 @@
           "videoId": "YkNbNzCCxrU"
         }
       ],
-      "lastUpdated": 1777504101523,
+      "lastUpdated": 1777507663952,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1954,7 +1954,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1777504101679,
+      "lastUpdated": 1777507664095,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2207,7 +2207,7 @@
           "videoId": "VwEoMMkd45c"
         }
       ],
-      "lastUpdated": 1777504101829,
+      "lastUpdated": 1777507664255,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3226,7 +3226,7 @@
           "image": ""
         }
       ],
-      "lastUpdated": 1777504103264,
+      "lastUpdated": 1777507664722,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4645,7 +4645,7 @@
           }
         }
       ],
-      "lastUpdated": 1777504104338,
+      "lastUpdated": 1777507665900,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4663,7 +4663,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777504104502,
+      "lastUpdated": 1777507666017,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4681,7 +4681,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1777504104796,
+      "lastUpdated": 1777507666333,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4699,6 +4699,29 @@
       "url": "https://nitter.net/TeslaZoa/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "다시 보는 테슬라 “안돼요” 시리즈. 세미 대량 생산? 안돼요! 😂😂😂",
+          "link": "https://nitter.net/TeslaZoa/status/2049629169005494309#m",
+          "description": "<p>다시 보는 테슬라 “안돼요” 시리즈.<br> <br> 세미 대량 생산? 안돼요! <br> <br> 😂😂😂</p> <hr/> <blockquote> <b>TeslaZoa (@TeslaZoa)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> \"안돼요\" 시리즈<br> <br> 1_ 전기 자동차 대량 생산 수익성 있게? 안돼요!<br> 2_ 재사용 가능한 로켓? 안돼요!<br> 3_ FSD? 안돼요!<br> 4_ 4680 배터리? 안돼요!<br> 5_ 모델 Y를 세계 베스트셀링 차로? 안돼요!<br> 6_ 스타링크 위성 인터넷? 안돼요!<br> 7_ 뇌-컴퓨터 인터페이스 (Neuralink)? 안돼요!<br> 8_ 옵티머스 휴머노이드 로봇? 안돼요!<br> 9_ 로보택시? 안돼요!<br> 10_ 배터리 제조 미국 귀환? 안돼요!<br> 11_ 인도에서 테슬라? 안돼요!</p> </p> <footer> — <cite><a href=\"https://nitter.net/TeslaZoa/status/1943812085198336257#m\">https://nitter.net/TeslaZoa/status/1943812085198336257#m</a> </footer> </blockquote>",
+          "content": "<p>다시 보는 테슬라 “안돼요” 시리즈.<br> <br> 세미 대량 생산? 안돼요! <br> <br> 😂😂😂</p> <hr/> <blockquote> <b>TeslaZoa (@TeslaZoa)</b> <p> <p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> \"안돼요\" 시리즈<br> <br> 1_ 전기 자동차 대량 생산 수익성 있게? 안돼요!<br> 2_ 재사용 가능한 로켓? 안돼요!<br> 3_ FSD? 안돼요!<br> 4_ 4680 배터리? 안돼요!<br> 5_ 모델 Y를 세계 베스트셀링 차로? 안돼요!<br> 6_ 스타링크 위성 인터넷? 안돼요!<br> 7_ 뇌-컴퓨터 인터페이스 (Neuralink)? 안돼요!<br> 8_ 옵티머스 휴머노이드 로봇? 안돼요!<br> 9_ 로보택시? 안돼요!<br> 10_ 배터리 제조 미국 귀환? 안돼요!<br> 11_ 인도에서 테슬라? 안돼요!</p> </p> <footer> — <cite><a href=\"https://nitter.net/TeslaZoa/status/1943812085198336257#m\">https://nitter.net/TeslaZoa/status/1943812085198336257#m</a> </footer> </blockquote>",
+          "pubDate": "Wed, 29 Apr 2026 23:17:28 GMT",
+          "guid": "https://nitter.net/TeslaZoa/2049629169005494309",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "TeslaZoa / @TeslaZoa",
+          "feedUrl": "https://nitter.net/TeslaZoa/rss",
+          "coverImage": "",
+          "summary": "다시 보는 테슬라 “안돼요” 시리즈. 세미 대량 생산? 안돼요! 😂😂😂 TeslaZoa (@TeslaZoa) $TSLA \"안돼요\" 시리즈 1_ 전기 자동차 대량 생산 수익성 있게? 안돼요! 2_ 재사용 가능한 로켓? 안돼요! 3_ FSD? 안돼요! 4_ 4680 배터리? 안돼요! 5_ 모델 Y를 세계 베스트셀링 차로? 안돼요! 6_ 스타링크 위성 인터넷? 안돼요! 7_ 뇌-컴퓨터 인터페...",
+          "author": "@TeslaZoa",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "양보하며 삽시다... $TSLA",
           "link": "https://nitter.net/TeslaZoa/status/2049626224339890478#m",
@@ -5825,32 +5848,9 @@
           "image": "https://nitter.net/pic/media%2FHHDS8F1boAAnp2h.jpg",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "🚨Starlink, 이제 사람 넘어 ‘가축’까지 연결…목장 산업 판 바뀐다 1️⃣ 위성으로 직접 연결되는 스마트 목걸이 등장 뉴질랜드 농업 테크 기업 Halter가 Starlink를 활용해 가축 목걸이에 ‘직접 위성 연결’ 기능을 도입. 셀 타워나 별도 인프라 없이도 작동하는 세계 최초 수준의 기술. 2️⃣ “하늘만 보이면 관리 가능” 기존에는 통신망이 닿지 않는 지역에서는 디지털 목장 운영이 불가능했지만, 이제는 위성만 연결되면 어디서든 가축 위치, 이동, 행동 데이터를 실시간 관리 가능. 3️⃣ 시장 규모, 하루 만에 2.5배 확대 접근 불가능했던 산악·오지 목장까지 포함되며 Halter의 TAM(총 주소 가능 시장)이 급격히 확장. 사실상 ‘연결 불가 지역’이 사라지는 구조. 4️⃣ 가상 울타리·번식·초지 관리까지 통합 GPS 기반 가상 울타리, 번식 주기 추적, 방목 최적화 등 정밀 농업 기능이 위성 기반으로 완전 확장. 5️⃣ Starlink의 확장 방향 변화 사람을 연결하던 위성 인터넷이 이제 산업·동물까지 연결하는 단계로 진입. 농업 자동화·로보틱스와 결합될 경우 파급력은 훨씬 커질 가능성.",
-          "link": "https://nitter.net/TeslaZoa/status/2049367165464424569#m",
-          "description": "<p>🚨Starlink, 이제 사람 넘어 ‘가축’까지 연결…목장 산업 판 바뀐다<br> <br> 1️⃣ 위성으로 직접 연결되는 스마트 목걸이 등장<br> 뉴질랜드 농업 테크 기업 Halter가 Starlink를 활용해 가축 목걸이에 ‘직접 위성 연결’ 기능을 도입. 셀 타워나 별도 인프라 없이도 작동하는 세계 최초 수준의 기술.<br> <br> 2️⃣ “하늘만 보이면 관리 가능”<br> 기존에는 통신망이 닿지 않는 지역에서는 디지털 목장 운영이 불가능했지만, 이제는 위성만 연결되면 어디서든 가축 위치, 이동, 행동 데이터를 실시간 관리 가능.<br> <br> 3️⃣ 시장 규모, 하루 만에 2.5배 확대<br> 접근 불가능했던 산악·오지 목장까지 포함되며 Halter의 TAM(총 주소 가능 시장)이 급격히 확장. 사실상 ‘연결 불가 지역’이 사라지는 구조.<br> <br> 4️⃣ 가상 울타리·번식·초지 관리까지 통합<br> GPS 기반 가상 울타리, 번식 주기 추적, 방목 최적화 등 정밀 농업 기능이 위성 기반으로 완전 확장.<br> <br> 5️⃣ Starlink의 확장 방향 변화<br> 사람을 연결하던 위성 인터넷이 이제 산업·동물까지 연결하는 단계로 진입. 농업 자동화·로보틱스와 결합될 경우 파급력은 훨씬 커질 가능성.</p> <img src=\"https://nitter.net/pic/media%2FHHDQj3kawAAa0tg.png\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Mars University (@MarsUniversityX)</b> <p> <p>Starlink just changed how cattle ranches operate.<br> <br> Halter has launched direct-to-satellite connectivity for its smart cattle collars using Starlink — a world first that eliminates the need for cell towers or any on-ranch infrastructure entirely. If you can see the sky, you can manage your herd.<br> <br> The impact: Halter’s addressable market expands 2.5x overnight. Remote and rugged ranches that were previously unreachable can now use virtual fencing, reproduction tracking, and precision pasture management — all from a satellite connection.<br> <br> Starlink started connecting people. Now it’s connecting livestock.</p> <img src=\"https://nitter.net/pic/media%2FHHB2ZrgW4AA0ITm.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHHB2ZrhW4AADkKR.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/MarsUniversityX/status/2049268025971421585#m\">https://nitter.net/MarsUniversityX/status/2049268025971421585#m</a> </footer> </blockquote>",
-          "content": "<p>🚨Starlink, 이제 사람 넘어 ‘가축’까지 연결…목장 산업 판 바뀐다<br> <br> 1️⃣ 위성으로 직접 연결되는 스마트 목걸이 등장<br> 뉴질랜드 농업 테크 기업 Halter가 Starlink를 활용해 가축 목걸이에 ‘직접 위성 연결’ 기능을 도입. 셀 타워나 별도 인프라 없이도 작동하는 세계 최초 수준의 기술.<br> <br> 2️⃣ “하늘만 보이면 관리 가능”<br> 기존에는 통신망이 닿지 않는 지역에서는 디지털 목장 운영이 불가능했지만, 이제는 위성만 연결되면 어디서든 가축 위치, 이동, 행동 데이터를 실시간 관리 가능.<br> <br> 3️⃣ 시장 규모, 하루 만에 2.5배 확대<br> 접근 불가능했던 산악·오지 목장까지 포함되며 Halter의 TAM(총 주소 가능 시장)이 급격히 확장. 사실상 ‘연결 불가 지역’이 사라지는 구조.<br> <br> 4️⃣ 가상 울타리·번식·초지 관리까지 통합<br> GPS 기반 가상 울타리, 번식 주기 추적, 방목 최적화 등 정밀 농업 기능이 위성 기반으로 완전 확장.<br> <br> 5️⃣ Starlink의 확장 방향 변화<br> 사람을 연결하던 위성 인터넷이 이제 산업·동물까지 연결하는 단계로 진입. 농업 자동화·로보틱스와 결합될 경우 파급력은 훨씬 커질 가능성.</p> <img src=\"https://nitter.net/pic/media%2FHHDQj3kawAAa0tg.png\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Mars University (@MarsUniversityX)</b> <p> <p>Starlink just changed how cattle ranches operate.<br> <br> Halter has launched direct-to-satellite connectivity for its smart cattle collars using Starlink — a world first that eliminates the need for cell towers or any on-ranch infrastructure entirely. If you can see the sky, you can manage your herd.<br> <br> The impact: Halter’s addressable market expands 2.5x overnight. Remote and rugged ranches that were previously unreachable can now use virtual fencing, reproduction tracking, and precision pasture management — all from a satellite connection.<br> <br> Starlink started connecting people. Now it’s connecting livestock.</p> <img src=\"https://nitter.net/pic/media%2FHHB2ZrgW4AA0ITm.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHHB2ZrhW4AADkKR.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/MarsUniversityX/status/2049268025971421585#m\">https://nitter.net/MarsUniversityX/status/2049268025971421585#m</a> </footer> </blockquote>",
-          "pubDate": "Wed, 29 Apr 2026 05:56:22 GMT",
-          "guid": "https://nitter.net/TeslaZoa/2049367165464424569",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "TeslaZoa / @TeslaZoa",
-          "feedUrl": "https://nitter.net/TeslaZoa/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHHDQj3kawAAa0tg.png",
-          "summary": "🚨Starlink, 이제 사람 넘어 ‘가축’까지 연결…목장 산업 판 바뀐다 1️⃣ 위성으로 직접 연결되는 스마트 목걸이 등장 뉴질랜드 농업 테크 기업 Halter가 Starlink를 활용해 가축 목걸이에 ‘직접 위성 연결’ 기능을 도입. 셀 타워나 별도 인프라 없이도 작동하는 세계 최초 수준의 기술. 2️⃣ “하늘만 보이면 관리 가능” 기존에는 통신망이 닿지 않는 지역에서는 디지털 목장 운...",
-          "author": "@TeslaZoa",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHHDQj3kawAAa0tg.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777504106117,
+      "lastUpdated": 1777507667840,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7018,7 +7018,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777504107441,
+      "lastUpdated": 1777507668754,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7028,7 +7028,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2046816680731725825%2FDMIGj4BG_400x400.jpg"
     },
     {
       "title": "Cognac(꼬냑) / @supernovajunn",
@@ -7634,7 +7634,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777504108581,
+      "lastUpdated": 1777507669947,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7651,6 +7651,29 @@
       "url": "https://nitter.net/Tslachan/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "$TSLA It's a source of future revenue. Those who live only today do not see tomorrow. Don't worry about the slowness. There is always a change in speed when you go down a set path.",
+          "link": "https://nitter.net/Tslachan/status/2049629193231896947#m",
+          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> It's a source of future revenue. Those who live only today do not see tomorrow.<br> <br> Don't worry about the slowness. There is always a change in speed when you go down a set path.</p> <a href=\"https://nitter.net/Tslachan/status/2049629193231896947#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049627323797057536%2Fimg%2Frxx72vS87LfQQ1t-.jpg\" style=\"max-width:250px;\" /> </a>",
+          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> It's a source of future revenue. Those who live only today do not see tomorrow.<br> <br> Don't worry about the slowness. There is always a change in speed when you go down a set path.</p> <a href=\"https://nitter.net/Tslachan/status/2049629193231896947#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049627323797057536%2Fimg%2Frxx72vS87LfQQ1t-.jpg\" style=\"max-width:250px;\" /> </a>",
+          "pubDate": "Wed, 29 Apr 2026 23:17:34 GMT",
+          "guid": "https://nitter.net/Tslachan/2049629193231896947",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Tsla Chan / @Tslachan",
+          "feedUrl": "https://nitter.net/Tslachan/rss",
+          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2049627323797057536%2Fimg%2Frxx72vS87LfQQ1t-.jpg",
+          "summary": "$TSLA It's a source of future revenue. Those who live only today do not see tomorrow. Don't worry about the slowness. There is always a change in speed when you go down a set path. Video",
+          "author": "@Tslachan",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/amplify_video_thumb%2F2049627323797057536%2Fimg%2Frxx72vS87LfQQ1t-.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "제가 주문한 스타링크는 캘리포니아 롱비치에서 배송되는군요",
           "link": "https://nitter.net/Tslachan/status/2049621025089085902#m",
@@ -8777,32 +8800,9 @@
           "image": "https://nitter.net/pic/media%2FHG9L7SbaAAAfLjM.jpg",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "$TSLA Unfortunately, this video was not filmed in Korea. The only vehicles that can do FSD in Korea are Model S/X and Cybertruck.",
-          "link": "https://nitter.net/Tslachan/status/2048939528690541046#m",
-          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> Unfortunately, this video was not filmed in Korea.<br> <br> The only vehicles that can do FSD in Korea are Model S/X and Cybertruck.</p> <hr/> <blockquote> <b>Ray (@ray4tesla)</b> <p> <p>Chinese influencer Da Hu flew to Korea to test FSD v14, since it’s not yet available in China. He shared this clip showing FSD navigating a narrow country road and stopping at a T-intersection where the view to the left was blocked by a parked truck.<br> <br> FSD patiently waited until the second approaching vehicle completed its right turn and the road was fully clear before making a left turn. Even more impressively, before reaching the intersection, FSD had already detected the two vehicles from a distance and appeared to anticipate whether they would turn right or continue straight—even though, from the point where the Tesla stopped, those vehicles temporarily disappeared from view behind the truck.<br> <br> The system handled the scenario exceptionally well, showcasing strong real-world inference and prediction capabilities that left the influencer highly impressed.</p> <a href=\"https://nitter.net/ray4tesla/status/2048571296553026018#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048571099370373120%2Fimg%2FUHf4N_o8FPnKuQ3j.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/ray4tesla/status/2048571296553026018#m\">https://nitter.net/ray4tesla/status/2048571296553026018#m</a> </footer> </blockquote>",
-          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> Unfortunately, this video was not filmed in Korea.<br> <br> The only vehicles that can do FSD in Korea are Model S/X and Cybertruck.</p> <hr/> <blockquote> <b>Ray (@ray4tesla)</b> <p> <p>Chinese influencer Da Hu flew to Korea to test FSD v14, since it’s not yet available in China. He shared this clip showing FSD navigating a narrow country road and stopping at a T-intersection where the view to the left was blocked by a parked truck.<br> <br> FSD patiently waited until the second approaching vehicle completed its right turn and the road was fully clear before making a left turn. Even more impressively, before reaching the intersection, FSD had already detected the two vehicles from a distance and appeared to anticipate whether they would turn right or continue straight—even though, from the point where the Tesla stopped, those vehicles temporarily disappeared from view behind the truck.<br> <br> The system handled the scenario exceptionally well, showcasing strong real-world inference and prediction capabilities that left the influencer highly impressed.</p> <a href=\"https://nitter.net/ray4tesla/status/2048571296553026018#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048571099370373120%2Fimg%2FUHf4N_o8FPnKuQ3j.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/ray4tesla/status/2048571296553026018#m\">https://nitter.net/ray4tesla/status/2048571296553026018#m</a> </footer> </blockquote>",
-          "pubDate": "Tue, 28 Apr 2026 01:37:05 GMT",
-          "guid": "https://nitter.net/Tslachan/2048939528690541046",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Tsla Chan / @Tslachan",
-          "feedUrl": "https://nitter.net/Tslachan/rss",
-          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2048571099370373120%2Fimg%2FUHf4N_o8FPnKuQ3j.jpg",
-          "summary": "$TSLA Unfortunately, this video was not filmed in Korea. The only vehicles that can do FSD in Korea are Model S/X and Cybertruck. Ray (@ray4tesla) Chinese influencer Da Hu flew to Korea to test FSD v14, since it’s not ye...",
-          "author": "@Tslachan",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/amplify_video_thumb%2F2048571099370373120%2Fimg%2FUHf4N_o8FPnKuQ3j.jpg",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777504108918,
+      "lastUpdated": 1777507670775,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -8812,13 +8812,105 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
     },
     {
       "title": "SETI Park / @seti_park",
       "url": "https://nitter.net/seti_park/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "RT by @seti_park: 구글은 아마존보다 잉여현금흐름 측면에서 훨씬 나은데, CAPEX가 크게 늘면서 잉여현금흐름이 $10B까지 감소. 전분기 대비 59% 감소, 전년 동기 대비로는 47% 감소. 올해 $185B까지 투자한다고 했으니 Q2-Q4까지 $151B 투자가 더 집행될 예정이고, 이를 감당하려면 $141B 이상의 영업현금흐름을 창출해야해야 연간 기준으로 $0B의 현금흐름을 창출하는 것이 됨. 참고로 Q4.25가 아래 표에서 보시다시피 $52B이었고, 이번 1분기는 $46B.",
+          "link": "https://nitter.net/bogusjack/status/2049636554646393067#m",
+          "description": "<p>구글은 아마존보다 잉여현금흐름 측면에서 훨씬 나은데, CAPEX가 크게 늘면서 잉여현금흐름이 $10B까지 감소. 전분기 대비 59% 감소, 전년 동기 대비로는 47% 감소.<br> <br> 올해 $185B까지 투자한다고 했으니 Q2-Q4까지 $151B 투자가 더 집행될 예정이고, 이를 감당하려면 $141B 이상의 영업현금흐름을 창출해야해야 연간 기준으로 $0B의 현금흐름을 창출하는 것이 됨.<br> <br> 참고로 Q4.25가 아래 표에서 보시다시피 $52B이었고, 이번 1분기는 $46B.</p> <img src=\"https://nitter.net/pic/media%2FHHHEndraoAAa5y_.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Xber J (@bogusjack)</b> <p> <p>구글은 영업활동도 괜찮게 잘했지만, 영업외 활동을 더 잘했군. 거기서 수익이 많이 늘었네. 이래서 Net Income 기반에 EPS를 잘 안 봄.</p> <img src=\"https://nitter.net/pic/media%2FHHHDv7ybYAA8huS.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/bogusjack/status/2049634762701361597#m\">https://nitter.net/bogusjack/status/2049634762701361597#m</a> </footer> </blockquote>",
+          "content": "<p>구글은 아마존보다 잉여현금흐름 측면에서 훨씬 나은데, CAPEX가 크게 늘면서 잉여현금흐름이 $10B까지 감소. 전분기 대비 59% 감소, 전년 동기 대비로는 47% 감소.<br> <br> 올해 $185B까지 투자한다고 했으니 Q2-Q4까지 $151B 투자가 더 집행될 예정이고, 이를 감당하려면 $141B 이상의 영업현금흐름을 창출해야해야 연간 기준으로 $0B의 현금흐름을 창출하는 것이 됨.<br> <br> 참고로 Q4.25가 아래 표에서 보시다시피 $52B이었고, 이번 1분기는 $46B.</p> <img src=\"https://nitter.net/pic/media%2FHHHEndraoAAa5y_.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Xber J (@bogusjack)</b> <p> <p>구글은 영업활동도 괜찮게 잘했지만, 영업외 활동을 더 잘했군. 거기서 수익이 많이 늘었네. 이래서 Net Income 기반에 EPS를 잘 안 봄.</p> <img src=\"https://nitter.net/pic/media%2FHHHDv7ybYAA8huS.jpg\" style=\"max-width:250px;\" /> </p> <footer> — <cite><a href=\"https://nitter.net/bogusjack/status/2049634762701361597#m\">https://nitter.net/bogusjack/status/2049634762701361597#m</a> </footer> </blockquote>",
+          "pubDate": "Wed, 29 Apr 2026 23:46:49 GMT",
+          "guid": "https://nitter.net/seti_park/2049636554646393067",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHHEndraoAAa5y_.jpg",
+          "summary": "구글은 아마존보다 잉여현금흐름 측면에서 훨씬 나은데, CAPEX가 크게 늘면서 잉여현금흐름이 $10B까지 감소. 전분기 대비 59% 감소, 전년 동기 대비로는 47% 감소. 올해 $185B까지 투자한다고 했으니 Q2-Q4까지 $151B 투자가 더 집행될 예정이고, 이를 감당하려면 $141B 이상의 영업현금흐름을 창출해야해야 연간 기준으로 $0B의 현금흐름을 창출하는 것이 됨. 참고로 Q4.2...",
+          "author": "@bogusjack",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHHEndraoAAa5y_.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "RT by @seti_park: Q1 earnings are in: 2026 is off to a terrific start. Our AI investments and full stack approach are lighting up every part of the business: Search queries are at an all-time high with AI continuing to drive usage. Google Cloud revenue grew 63%, Gemini models have incredible momentum, and it was our strongest quarter ever for consumer AI subs, driven by @GeminiApp. Thanks to our partners + employees around the world. Much more to share on our earnings call in 20 minutes… and at Google I/O in 20 days!",
+          "link": "https://nitter.net/sundarpichai/status/2049581838260461916#m",
+          "description": "<p>Q1 earnings are in: 2026 is off to a terrific start.<br> <br> Our AI investments and full stack approach are lighting up every part of the business: Search queries are at an all-time high with AI continuing to drive usage. Google Cloud revenue grew 63%, Gemini models have incredible momentum, and it was our strongest quarter ever for consumer AI subs, driven by <a href=\"https://nitter.net/GeminiApp\" title=\"Google Gemini\">@GeminiApp</a>.<br> <br> Thanks to our partners + employees around the world. Much more to share on our earnings call in 20 minutes… and at Google I/O in 20 days!</p> <img src=\"https://nitter.net/pic/media%2FHHGTvZTbgAAbFhO.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>Q1 earnings are in: 2026 is off to a terrific start.<br> <br> Our AI investments and full stack approach are lighting up every part of the business: Search queries are at an all-time high with AI continuing to drive usage. Google Cloud revenue grew 63%, Gemini models have incredible momentum, and it was our strongest quarter ever for consumer AI subs, driven by <a href=\"https://nitter.net/GeminiApp\" title=\"Google Gemini\">@GeminiApp</a>.<br> <br> Thanks to our partners + employees around the world. Much more to share on our earnings call in 20 minutes… and at Google I/O in 20 days!</p> <img src=\"https://nitter.net/pic/media%2FHHGTvZTbgAAbFhO.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Wed, 29 Apr 2026 20:09:24 GMT",
+          "guid": "https://nitter.net/seti_park/2049581838260461916",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHGTvZTbgAAbFhO.jpg",
+          "summary": "Q1 earnings are in: 2026 is off to a terrific start. Our AI investments and full stack approach are lighting up every part of the business: Search queries are at an all-time high with AI continuing to drive usage. Google...",
+          "author": "@sundarpichai",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHGTvZTbgAAbFhO.jpg",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "RT by @seti_park: 미친 대박사건 ㅋㅋㅋㅋㅋㅋ 의장이 바로 퇴임 안하는건 1948년 이후 처음임",
+          "link": "https://nitter.net/holzzak777/status/2049559510063468753#m",
+          "description": "<p>미친 대박사건 ㅋㅋㅋㅋㅋㅋ<br> 의장이 바로 퇴임 안하는건 1948년 이후 처음임</p> <hr/> <blockquote> <b>*Walter Bloomberg (@DeItaone)</b> <p> <p>POWELL: WILL STAY ON AFTER MAY 15</p> </p> <footer> — <cite><a href=\"https://nitter.net/DeItaone/status/2049558792329744461#m\">https://nitter.net/DeItaone/status/2049558792329744461#m</a> </footer> </blockquote>",
+          "content": "<p>미친 대박사건 ㅋㅋㅋㅋㅋㅋ<br> 의장이 바로 퇴임 안하는건 1948년 이후 처음임</p> <hr/> <blockquote> <b>*Walter Bloomberg (@DeItaone)</b> <p> <p>POWELL: WILL STAY ON AFTER MAY 15</p> </p> <footer> — <cite><a href=\"https://nitter.net/DeItaone/status/2049558792329744461#m\">https://nitter.net/DeItaone/status/2049558792329744461#m</a> </footer> </blockquote>",
+          "pubDate": "Wed, 29 Apr 2026 18:40:40 GMT",
+          "guid": "https://nitter.net/seti_park/2049559510063468753",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "",
+          "summary": "미친 대박사건 ㅋㅋㅋㅋㅋㅋ 의장이 바로 퇴임 안하는건 1948년 이후 처음임 *Walter Bloomberg (@DeItaone) POWELL: WILL STAY ON AFTER MAY 15 — https://nitter.net/DeItaone/status/2049558792329744461#m",
+          "author": "@holzzak777",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "RT by @seti_park: x.com/i/article/204954614493…",
+          "link": "https://nitter.net/GoogleAI/status/2049546885371670895#m",
+          "description": "<p><a href=\"http://x.com/i/article/2049546144930275328\">x.com/i/article/204954614493…</a></p>",
+          "content": "<p><a href=\"http://x.com/i/article/2049546144930275328\">x.com/i/article/204954614493…</a></p>",
+          "pubDate": "Wed, 29 Apr 2026 17:50:30 GMT",
+          "guid": "https://nitter.net/seti_park/2049546885371670895",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "",
+          "summary": "x.com/i/article/204954614493…",
+          "author": "@GoogleAI",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "RT by @seti_park: now we just need a SoTA model... ⏳",
           "link": "https://nitter.net/synthwavedd/status/2049519795465236949#m",
@@ -9876,101 +9968,9 @@
           "image": "",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "R to @seti_park: @bogusjack @BSPK_ @spaceastrium @lucas_flatwhite",
-          "link": "https://nitter.net/seti_park/status/2048817457125843106#m",
-          "description": "<p><a href=\"https://nitter.net/bogusjack\" title=\"Xber J\">@bogusjack</a> <br> <a href=\"https://nitter.net/BSPK_\" title=\"BSPK\">@BSPK_</a> <br> <a href=\"https://nitter.net/spaceastrium\" title=\"𝑹𝒐𝑪𝒐𝑪𝒐🥷\">@spaceastrium</a> <br> <a href=\"https://nitter.net/lucas_flatwhite\" title=\"lucas\">@lucas_flatwhite</a></p>",
-          "content": "<p><a href=\"https://nitter.net/bogusjack\" title=\"Xber J\">@bogusjack</a> <br> <a href=\"https://nitter.net/BSPK_\" title=\"BSPK\">@BSPK_</a> <br> <a href=\"https://nitter.net/spaceastrium\" title=\"𝑹𝒐𝑪𝒐𝑪𝒐🥷\">@spaceastrium</a> <br> <a href=\"https://nitter.net/lucas_flatwhite\" title=\"lucas\">@lucas_flatwhite</a></p>",
-          "pubDate": "Mon, 27 Apr 2026 17:32:01 GMT",
-          "guid": "https://nitter.net/seti_park/2048817457125843106",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "SETI Park / @seti_park",
-          "feedUrl": "https://nitter.net/seti_park/rss",
-          "coverImage": "",
-          "summary": "@bogusjack @BSPK_ @spaceastrium @lucas_flatwhite",
-          "author": "@seti_park",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "Google DeepMind가 개발한 이 기술은 \"Stargate\" 같은 mega-campus 배팅에 치명상을 입힐 수 있다는 생각이 드네요. 굳이 최신 칩을 단일 AI 데이터센터에 집중하지 않아도, 다양한 세대의 TPUs로 구성된, 기존의 (구글의) 데이터 센터들을 총 동원하여 프론티어 AI 모델을 pre-training 할 수 있으니까요. 👀",
-          "link": "https://nitter.net/seti_park/status/2048817315572269421#m",
-          "description": "<p>Google DeepMind가 개발한 이 기술은 \"Stargate\" 같은 mega-campus 배팅에 치명상을 입힐 수 있다는 생각이 드네요. 굳이 최신 칩을 단일 AI 데이터센터에 집중하지 않아도, 다양한 세대의 TPUs로 구성된, 기존의 (구글의) 데이터 센터들을 총 동원하여 프론티어 AI 모델을 pre-training 할 수 있으니까요. 👀</p> <hr/> <blockquote> <b>Arthur Douillard (@Ar_Douillard)</b> <p> <p>The DiLoCo team at Google DeepMind and Google Research is proud to release Decoupled DiLoCo, the next frontier for resilient AI pre-training.<br> <br> Decoupled DiLoCo enables training with datacenters across the world, using heterogeneous hardware, and never halting the system despite hardware failures.</p> <video poster=\"https://nitter.net/pic/tweet_video_thumb%2FHGmTt3CXQAAv2DG.jpg\" autoplay muted loop style=\"max-width:250px;\"> <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHGmTt3CXQAAv2DG.mp4\" type=\"video/mp4\"></video> </p> <footer> — <cite><a href=\"https://nitter.net/Ar_Douillard/status/2047329942547968171#m\">https://nitter.net/Ar_Douillard/status/2047329942547968171#m</a> </footer> </blockquote>",
-          "content": "<p>Google DeepMind가 개발한 이 기술은 \"Stargate\" 같은 mega-campus 배팅에 치명상을 입힐 수 있다는 생각이 드네요. 굳이 최신 칩을 단일 AI 데이터센터에 집중하지 않아도, 다양한 세대의 TPUs로 구성된, 기존의 (구글의) 데이터 센터들을 총 동원하여 프론티어 AI 모델을 pre-training 할 수 있으니까요. 👀</p> <hr/> <blockquote> <b>Arthur Douillard (@Ar_Douillard)</b> <p> <p>The DiLoCo team at Google DeepMind and Google Research is proud to release Decoupled DiLoCo, the next frontier for resilient AI pre-training.<br> <br> Decoupled DiLoCo enables training with datacenters across the world, using heterogeneous hardware, and never halting the system despite hardware failures.</p> <video poster=\"https://nitter.net/pic/tweet_video_thumb%2FHGmTt3CXQAAv2DG.jpg\" autoplay muted loop style=\"max-width:250px;\"> <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHGmTt3CXQAAv2DG.mp4\" type=\"video/mp4\"></video> </p> <footer> — <cite><a href=\"https://nitter.net/Ar_Douillard/status/2047329942547968171#m\">https://nitter.net/Ar_Douillard/status/2047329942547968171#m</a> </footer> </blockquote>",
-          "pubDate": "Mon, 27 Apr 2026 17:31:27 GMT",
-          "guid": "https://nitter.net/seti_park/2048817315572269421",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "SETI Park / @seti_park",
-          "feedUrl": "https://nitter.net/seti_park/rss",
-          "coverImage": "",
-          "summary": "Google DeepMind가 개발한 이 기술은 \"Stargate\" 같은 mega-campus 배팅에 치명상을 입힐 수 있다는 생각이 드네요. 굳이 최신 칩을 단일 AI 데이터센터에 집중하지 않아도, 다양한 세대의 TPUs로 구성된, 기존의 (구글의) 데이터 센터들을 총 동원하여 프론티어 AI 모델을 pre-training 할 수 있으니까요. 👀 Arthur Douillard (@Ar_Do...",
-          "author": "@seti_park",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "Google Simula 👀❗️",
-          "link": "https://nitter.net/seti_park/status/2048813521476141396#m",
-          "description": "<p>Google Simula 👀❗️</p> <hr/> <blockquote> <b>Google Research (@GoogleResearch)</b> <p> <p>How can we address the scarcity of data required for specialized AI?<br> <br> Learn about Simula, a framework that reframes synthetic data generation as dataset-level mechanism design. By using reasoning to architect datasets from first principles, Simula enables fine-grained control over coverage, complexity, and quality.<br> <br> More →<a href=\"https://goo.gle/4cf15iV\">goo.gle/4cf15iV</a></p> <a href=\"https://nitter.net/GoogleResearch/status/2044857082722288102#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2044856961758638080%2Fimg%2Fm91Xpcy1cRp8avXN.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/GoogleResearch/status/2044857082722288102#m\">https://nitter.net/GoogleResearch/status/2044857082722288102#m</a> </footer> </blockquote>",
-          "content": "<p>Google Simula 👀❗️</p> <hr/> <blockquote> <b>Google Research (@GoogleResearch)</b> <p> <p>How can we address the scarcity of data required for specialized AI?<br> <br> Learn about Simula, a framework that reframes synthetic data generation as dataset-level mechanism design. By using reasoning to architect datasets from first principles, Simula enables fine-grained control over coverage, complexity, and quality.<br> <br> More →<a href=\"https://goo.gle/4cf15iV\">goo.gle/4cf15iV</a></p> <a href=\"https://nitter.net/GoogleResearch/status/2044857082722288102#m\"> <br>Video<br> <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2044856961758638080%2Fimg%2Fm91Xpcy1cRp8avXN.jpg\" style=\"max-width:250px;\" /> </a> </p> <footer> — <cite><a href=\"https://nitter.net/GoogleResearch/status/2044857082722288102#m\">https://nitter.net/GoogleResearch/status/2044857082722288102#m</a> </footer> </blockquote>",
-          "pubDate": "Mon, 27 Apr 2026 17:16:23 GMT",
-          "guid": "https://nitter.net/seti_park/2048813521476141396",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "SETI Park / @seti_park",
-          "feedUrl": "https://nitter.net/seti_park/rss",
-          "coverImage": "https://nitter.net/pic/amplify_video_thumb%2F2044856961758638080%2Fimg%2Fm91Xpcy1cRp8avXN.jpg",
-          "summary": "Google Simula 👀❗️ Google Research (@GoogleResearch) How can we address the scarcity of data required for specialized AI? Learn about Simula, a framework that reframes synthetic data generation as dataset-level mechanism...",
-          "author": "@seti_park",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/amplify_video_thumb%2F2044856961758638080%2Fimg%2Fm91Xpcy1cRp8avXN.jpg",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "I found it 🤓 I found it 🤓 I found it 🤓 @lucas_flatwhite @spaceastrium @tokamakbot @BSPK_",
-          "link": "https://nitter.net/seti_park/status/2048793703687545071#m",
-          "description": "<p>I found it 🤓<br> I found it 🤓<br> I found it 🤓<br> <br> <a href=\"https://nitter.net/lucas_flatwhite\" title=\"lucas\">@lucas_flatwhite</a> <br> <a href=\"https://nitter.net/spaceastrium\" title=\"𝑹𝒐𝑪𝒐𝑪𝒐🥷\">@spaceastrium</a> <br> <a href=\"https://nitter.net/tokamakbot\" title=\"𝐊𝐚𝐥𝐭𝐳\">@tokamakbot</a> <br> <a href=\"https://nitter.net/BSPK_\" title=\"BSPK\">@BSPK_</a></p> <img src=\"https://nitter.net/pic/media%2FHG7G0mYaoAAiMgA.png\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG7G0mYaAAAXEXN.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Arthur Douillard (@Ar_Douillard)</b> <p> <p>The DiLoCo team at Google DeepMind and Google Research is proud to release Decoupled DiLoCo, the next frontier for resilient AI pre-training.<br> <br> Decoupled DiLoCo enables training with datacenters across the world, using heterogeneous hardware, and never halting the system despite hardware failures.</p> <video poster=\"https://nitter.net/pic/tweet_video_thumb%2FHGmTt3CXQAAv2DG.jpg\" autoplay muted loop style=\"max-width:250px;\"> <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHGmTt3CXQAAv2DG.mp4\" type=\"video/mp4\"></video> </p> <footer> — <cite><a href=\"https://nitter.net/Ar_Douillard/status/2047329942547968171#m\">https://nitter.net/Ar_Douillard/status/2047329942547968171#m</a> </footer> </blockquote>",
-          "content": "<p>I found it 🤓<br> I found it 🤓<br> I found it 🤓<br> <br> <a href=\"https://nitter.net/lucas_flatwhite\" title=\"lucas\">@lucas_flatwhite</a> <br> <a href=\"https://nitter.net/spaceastrium\" title=\"𝑹𝒐𝑪𝒐𝑪𝒐🥷\">@spaceastrium</a> <br> <a href=\"https://nitter.net/tokamakbot\" title=\"𝐊𝐚𝐥𝐭𝐳\">@tokamakbot</a> <br> <a href=\"https://nitter.net/BSPK_\" title=\"BSPK\">@BSPK_</a></p> <img src=\"https://nitter.net/pic/media%2FHG7G0mYaoAAiMgA.png\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHG7G0mYaAAAXEXN.jpg\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>Arthur Douillard (@Ar_Douillard)</b> <p> <p>The DiLoCo team at Google DeepMind and Google Research is proud to release Decoupled DiLoCo, the next frontier for resilient AI pre-training.<br> <br> Decoupled DiLoCo enables training with datacenters across the world, using heterogeneous hardware, and never halting the system despite hardware failures.</p> <video poster=\"https://nitter.net/pic/tweet_video_thumb%2FHGmTt3CXQAAv2DG.jpg\" autoplay muted loop style=\"max-width:250px;\"> <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHGmTt3CXQAAv2DG.mp4\" type=\"video/mp4\"></video> </p> <footer> — <cite><a href=\"https://nitter.net/Ar_Douillard/status/2047329942547968171#m\">https://nitter.net/Ar_Douillard/status/2047329942547968171#m</a> </footer> </blockquote>",
-          "pubDate": "Mon, 27 Apr 2026 15:57:38 GMT",
-          "guid": "https://nitter.net/seti_park/2048793703687545071",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "SETI Park / @seti_park",
-          "feedUrl": "https://nitter.net/seti_park/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHG7G0mYaoAAiMgA.png",
-          "summary": "I found it 🤓 I found it 🤓 I found it 🤓 @lucas_flatwhite @spaceastrium @tokamakbot @BSPK_ Arthur Douillard (@Ar_Douillard) The DiLoCo team at Google DeepMind and Google Research is proud to release Decoupled DiLoCo, th...",
-          "author": "@seti_park",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHG7G0mYaoAAiMgA.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1777504110081,
+      "lastUpdated": 1777507671705,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11138,7 +11138,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777504110199,
+      "lastUpdated": 1777507671878,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11156,6 +11156,39 @@
       "url": "https://anchor.fm/s/f06031a0/podcast/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "Musk vs. Altman Updates and Analysis",
+          "link": "",
+          "description": "In this episode, we analyze the Musk-Altman trial's latest updates. The episode will also touch on Stanford's struggles with transparency. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+          "content": "In this episode, we analyze the Musk-Altman trial's latest updates. The episode will also touch on Stanford's struggles with transparency. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+          "pubDate": "Wed, 29 Apr 2026 23:28:57 -0000",
+          "guid": "gid://art19-episode-locator/V0/KNFfvGRSip7Xy5LLN7XRG2XtMyC3pWTP9QpubBT5nPc",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "Podcast",
+              "color": "#8e44ad"
+            }
+          ],
+          "feedTitle": "Data Skeptic",
+          "feedUrl": "https://anchor.fm/s/f06031a0/podcast/rss",
+          "coverImage": "",
+          "summary": "In this episode, we analyze the Musk-Altman trial's latest updates. The episode will also touch on Stanford's struggles with transparency. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at ...",
+          "author": "Data Skeptic AI",
+          "saved": false,
+          "mediaType": "podcast",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://rss.art19.com/episodes/db2d1876-f8bd-4100-adcf-dbbb53c16c79.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+            "type": "audio/mpeg",
+            "length": "14122004"
+          },
+          "audioUrl": "https://rss.art19.com/episodes/db2d1876-f8bd-4100-adcf-dbbb53c16c79.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
+        },
         {
           "title": "OpenAI Leadership Dispute: The Altman Affair",
           "link": "",
@@ -11685,7 +11718,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1777504111004,
+      "lastUpdated": 1777507673529,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11841,7 +11874,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777504112628,
+      "lastUpdated": 1777507674982,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11893,7 +11926,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1777504112759,
+      "lastUpdated": 1777507675123,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -12591,7 +12624,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1777504113029,
+      "lastUpdated": 1777507675422,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13760,7 +13793,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1777504113807,
+      "lastUpdated": 1777507675853,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14221,7 +14254,7 @@
           "videoId": "6mjl2_i-tIU"
         }
       ],
-      "lastUpdated": 1777504113955,
+      "lastUpdated": 1777507675993,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14552,7 +14585,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1777504114107,
+      "lastUpdated": 1777507676140,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15277,7 +15310,7 @@
           "videoId": "QPmtfwJHh4U"
         }
       ],
-      "lastUpdated": 1777504114264,
+      "lastUpdated": 1777507676289,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15318,7 +15351,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1777504114264,
+  "lastRefreshTimestamp": 1777507676290,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
