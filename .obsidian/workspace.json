@@ -80,6 +80,16 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "730059cac20fad40",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
+            }
           }
         ]
       }
@@ -209,6 +219,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "surfing:surfing-bookmark-manager": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -222,9 +233,6 @@
       "terminal:Open terminal": false,
       "marp-slides:Show Slide Preview": false,
       "rss-dashboard:RSS dashboard": false,
-      "ai-bot:Ask AI": false,
-      "copilot:Open Copilot Chat": false,
-      "smart-second-brain:S2B 채팅 열기": false,
       "yolo:Open chat": false
     }
   },

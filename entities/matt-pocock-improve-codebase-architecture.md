@@ -58,5 +58,5 @@ CONTEXT.md(도메인 용어)와 ADR(기존 설계 결정)을 먼저 읽은 후, 
 
 - [[matt-pocock-skills]] — 이 스킬이 속한 전체 프레임워크
 - [[matt-pocock-tdd]] — TDD로 만든 코드의 아키텍처 개선
-- [[matt-pocock-zoom-out]] — 전체 시스템 맥락에서 코드 이해 (개선 전 탐색 단계)
+- matt-pocock-zoom-out — 전체 시스템 맥락에서 코드 이해 (개선 전 탐색 단계) (별도 페이지 없음)
 - [[기억하는-개발]] — 세션 간 지식 축적. CONTEXT.md가 아키텍처 이해의 기반

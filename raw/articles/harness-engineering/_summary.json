@@ -1,0 +1,140 @@
+{
+  "book": "하네스 엔지니어링 - Harness Engineering Agentic AI Coding",
+  "book_url": "https://wikidocs.net/book/19712",
+  "total_pages": 22,
+  "total_chars": 334597,
+  "pages": [
+    {
+      "id": "347217",
+      "title": "0. 표지",
+      "chars": 977,
+      "file": "347217_0__표지.json"
+    },
+    {
+      "id": "347218",
+      "title": "1. 이 책의 구조를 먼저 읽어라",
+      "chars": 10773,
+      "file": "347218_1__이_책의_구조를_먼저_읽어라.json"
+    },
+    {
+      "id": "347219",
+      "title": "2. 서문",
+      "chars": 5557,
+      "file": "347219_2__서문.json"
+    },
+    {
+      "id": "347220",
+      "title": "3. 일러두기",
+      "chars": 3092,
+      "file": "347220_3__일러두기.json"
+    },
+    {
+      "id": "347221",
+      "title": "4. 제0부 — 에이전틱 AI의 맥락과 이 책의 기초",
+      "chars": 20334,
+      "file": "347221_4__제0부___에이전틱_AI의_맥락과_이_책의_기초.json"
+    },
+    {
+      "id": "347078",
+      "title": "5. 제1부 — 구조를 먼저 이해하라",
+      "chars": 873,
+      "file": "347078_5__제1부___구조를_먼저_이해하라.json"
+    },
+    {
+      "id": "347079",
+      "title": "Part 01. 왜 Harness인가",
+      "chars": 17341,
+      "file": "347079_Part_01__왜_Harness인가.json"
+    },
+    {
+      "id": "347080",
+      "title": "Part 02. Planner",
+      "chars": 16694,
+      "file": "347080_Part_02__Planner.json"
+    },
+    {
+      "id": "347081",
+      "title": "Part 03. Generator",
+      "chars": 17923,
+      "file": "347081_Part_03__Generator.json"
+    },
+    {
+      "id": "347082",
+      "title": "Part 04. Evaluator",
+      "chars": 25390,
+      "file": "347082_Part_04__Evaluator.json"
+    },
+    {
+      "id": "347083",
+      "title": "6. 제2부 — 구조를 실행하라",
+      "chars": 730,
+      "file": "347083_6__제2부___구조를_실행하라.json"
+    },
+    {
+      "id": "347084",
+      "title": "Part 05. 세 역할을 잇는 매개체",
+      "chars": 25548,
+      "file": "347084_Part_05__세_역할을_잇는_매개체.json"
+    },
+    {
+      "id": "347085",
+      "title": "Part 06. 위임 수준",
+      "chars": 20618,
+      "file": "347085_Part_06__위임_수준.json"
+    },
+    {
+      "id": "347086",
+      "title": "Part 07. 프로젝트별 조정",
+      "chars": 25128,
+      "file": "347086_Part_07__프로젝트별_조정.json"
+    },
+    {
+      "id": "347087",
+      "title": "Part 08. 실패 모드와 회복 전략",
+      "chars": 39814,
+      "file": "347087_Part_08__실패_모드와_회복_전략.json"
+    },
+    {
+      "id": "347088",
+      "title": "7. 제3부 — 구조를 도구로 구현하라",
+      "chars": 968,
+      "file": "347088_7__제3부___구조를_도구로_구현하라.json"
+    },
+    {
+      "id": "347172",
+      "title": "Part 09. Claude Code",
+      "chars": 20532,
+      "file": "347172_Part_09__Claude_Code.json"
+    },
+    {
+      "id": "347173",
+      "title": "Part 10. Claude Code 하네스 플러그인",
+      "chars": 57988,
+      "file": "347173_Part_10__Claude_Code_하네스_플러그인.json"
+    },
+    {
+      "id": "347090",
+      "title": "8. 제4부 — 구조를 참조하라",
+      "chars": 686,
+      "file": "347090_8__제4부___구조를_참조하라.json"
+    },
+    {
+      "id": "347174",
+      "title": "Part 11. 참조",
+      "chars": 11665,
+      "file": "347174_Part_11__참조.json"
+    },
+    {
+      "id": "347175",
+      "title": "Part 12. 기존 방법론과의 매핑",
+      "chars": 8691,
+      "file": "347175_Part_12__기존_방법론과의_매핑.json"
+    },
+    {
+      "id": "347093",
+      "title": "9. 마치며",
+      "chars": 3275,
+      "file": "347093_9__마치며.json"
+    }
+  ]
+}

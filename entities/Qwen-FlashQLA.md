@@ -3,7 +3,15 @@ title: Qwen FlashQLA
 created: 2026-04-29
 updated: 2026-04-29
 type: entity
-tags: [entity, llm-inference, linear-attention, kernel, tilelang, qwen, cuda, hopper, gdn]
+tags:
+- llm-inference
+- linear-attention
+- kernel
+- tilelang
+- qwen
+- cuda
+- hopper
+- gdn
 confidence: high
 source: https://github.com/QwenLM/FlashQLA
 source-type: github-repo
@@ -107,6 +115,6 @@ dq, dk, dv, db, dg, dh0 = chunk_gated_delta_rule_bwd(...)
 
 ## 관련 링크
 
-- [[TileLang]] - 기반 커널 DSL
-- [[FlashLinearAttention]] - 비교 대상 (FLA Triton kernel)
-- [[GDN-Gated-DeltaNet]] - underlying architecture
+- TileLang - 기반 커널 DSL
+- FlashLinearAttention - 비교 대상 (FLA Triton kernel)
+- GDN-Gated-DeltaNet - underlying architecture

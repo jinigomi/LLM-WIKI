@@ -56,7 +56,7 @@ Plan → [Task1 → Implementer → SpecReview → CodeQualityReview]
 
 ## Hermes와의 관계
 
-[[Hermes]]의 `delegate_task`가 이 패턴의 직접적 구현체다. Superpowers의 subagent-driven-dev는 `delegate_task` + two-stage review + plan 연동을 하나의 skill로 패키징한 것.
+Hermes의 `delegate_task`가 이 패턴의 직접적 구현체다. Superpowers의 subagent-driven-dev는 `delegate_task` + two-stage review + plan 연동을 하나의 skill로 패키징한 것.
 
 ## 참고
 
@@ -64,3 +64,8 @@ Plan → [Task1 → Implementer → SpecReview → CodeQualityReview]
 - [[오케스트레이션]] — multi-agent orchestration 일반론
 - [[vibe-coding-blueprint-pattern]] — Plan-First 철학의 공통점
 - [[context-rot]] — subagent isolation으로 해결하는 문제
+- [[openspec]] — AI-native spec-driven (LangGraph 대안)
+- [[agentic-ai-engineering]] — Framework vs Architecture 원칙
+- [[에러-에스컬레이션]] — Multi-Agent에서 실패 전파
+- mihomo-rust-claude-code-porting ⚠️ 페이지 미생성 — Claude Code Agent Team 실전 사례 (PM/Architect/Engineer/QA)
+- [[long-running-agents]] — 교대(shift) 기반의 장기 실행 Subagent 패턴; Ralph loop로 자체 품질 검증

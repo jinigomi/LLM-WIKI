@@ -3,7 +3,14 @@ title: Warp
 created: 2026-04-29
 updated: 2026-04-29
 type: entity
-tags: [terminal, agent, rust, open-source, developer-tools, ai-native, tool]
+tags:
+- terminal
+- agent
+- rust
+- open-source
+- developer-tools
+- ai-native
+- tool-use
 sources: [raw/articles/warp-github-repo-analysis.md]
 confidence: high
 ---
@@ -99,7 +106,7 @@ Warp의 핵심 차별점 — 터미널 안에서 직접 AI 에이전트 실행:
 
 ### Facts / Skills
 
-- **Facts:** `facts/` — 지속적 메모리 시스템. [[llm-wiki]]의 raw/articles 개념과 유사
+- **Facts:** `facts/` — 지속적 메모리 시스템. LLM Wiki의 raw/articles 개념과 유사
 - **Skills:** `skills/` — Claude Code 스타일의 스킬 정의 + 파싱
 
 ---

@@ -3,7 +3,18 @@ title: Learn Harness Engineering
 created: 2026-04-29
 updated: 2026-04-29
 type: entity
-tags: [entity, agent-engineering, harness, coding-agent, course, electron, claude-code, codex, progressive-disclosure, verification, scope-control, session-lifecycle]
+tags:
+- agent-engineering
+- harness
+- coding-agent
+- course
+- electron
+- claude-code
+- codex
+- progressive-disclosure
+- verification
+- scope-control
+- session-lifecycle
 confidence: high
 source: https://github.com/walkinglabs/learn-harness-engineering
 source-type: github-repo
@@ -201,5 +212,5 @@ project-root/
 - [OpenAI: Harness engineering](https://openai.com/index/harness-engineering/)
 - [Anthropic: Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 - [Anthropic: Harness design for long-running app dev](https://www.anthropic.com/engineering/harness-design-long-running-apps)
-- [[VibeCoding-Beginner-Research|바이브코딩 연구]] — 연관된 초보자 AI 협업 방법론 연구
-- [[Karpathy-Guidelines|Karpathy Guidelines]] — 코딩 시 따라야 할 행동 지침
+[[vibe-coding-beginner-methodology|바이브코딩 연구]]
+Karpathy Guidelines

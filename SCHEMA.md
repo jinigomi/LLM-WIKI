@@ -60,15 +60,24 @@ contradictions: [other-page-slug]
 
 ## Tag Taxonomy
 
-- **AI/LLM**: model, architecture, training, fine-tuning, inference, alignment, reasoning, prompt, prompt-engineering, AI, LLM, agentic-ai, ai-ml
-- **Evaluation**: benchmark, eval, harness, swe-bench, postmortem, evaluation
-- **Collaboration**: orchestration, agent, multi-agent, context-engineering, tool-use, AI-collaboration, ai-assisted-development
-- **Tools/infra**: mcp, claude-code, claude-desktop, obsidian, hermes, hermes-agent, slash-commands, agent-workflow, rss, cron, aws, infrastructure
-- **Development**: engineering-thinking, vibe-coding, error-escalation, memory-driven, engineering, methodology, blueprint, plan-first, checklist, SaaS, software-development, technology, skills, productivity
-- **People/Orgs**: person, company, lab, open-source
-- **Meta**: comparison, timeline, controversy, prediction, limitation
+- **AI/LLM**: model, architecture, training, fine-tuning, inference, alignment, reasoning, prompt, prompt-engineering, AI, LLM, agentic-ai, ai-ml, spec-driven-development, qwen, gdn, tilelang, linear-attention, llm-inference, kernel, cuda, hopper
+- **Evaluation**: benchmark, eval, harness, swe-bench, postmortem, evaluation, analysis, memory, verification, source-analysis
+- **Collaboration**: orchestration, agent, multi-agent, context-engineering, tool-use, AI-collaboration, ai-assisted-development, subagent, subagent-development, agent-engineering, agent-framework, session-lifecycle
+- **Tools/infra**: mcp, claude-code, claude-desktop, obsidian, hermes, hermes-agent, slash-commands, agent-workflow, rss, cron, aws, infrastructure, codex, terminal, rust, ollama, developer-tools, ai-native, electron, cursor, typescript
+- **Development**: engineering-thinking, vibe-coding, error-escalation, memory-driven, engineering, methodology, blueprint, plan-first, checklist, SaaS, software-development, technology, skills, productivity, sdlc, code-quality, tdd, testing, coding-agent, prompt-caching, CLI, progressive-disclosure, scope-control, session-lifecycle
+- **People/Orgs**: person, company, lab, open-source, kiro, openspec, superpowers
+- **Meta**: comparison, timeline, controversy, prediction, limitation, ai-workflow
+- **Domain**: reading, research, project, session, beginner, education, question, sources, course
 - **Domain**: reading, research, project, session, beginner, education, question, sources
 - **Platform**: telegram, discord, delivery, bot
+- **Git/Version Control**: git, maintenance, commit-graph, midx, gc, partial-clone, sparse-checkout, monorepo, large-repo, large-repos, lfs, worktree, notes, range-diff, agent-loop, mirroring, relay, go, tool, internals
+- **Performance & Diagnostics**: performance, diagnosis, trace
+- **Languages/Libraries**: python, javascript, css, svg, web, animation, engine, library, waapi
+- **Platform/Tools**: github, google, postgres, pgvector, visualization, tutorial, book, nlp, medical-nlp, extraction, transformers, optimization, claude-skill, tools-infra
+- **Code Intelligence**: knowledge-graph, code-intelligence, static-analysis, tree-sitter, call-resolution, scope-resolution, language-provider, mro, llm-tooling
+- **Agent & Collaboration**: agent-collaboration, agent-context, project-management, consolidation, summarization, privacy, self-hosted
+- **Quality & Testing**: ai-coding, sd-sdd, test-quality
+
 - **Techniques**: rag, embedding, deep-insight
 
 **Rule:** 새 태그 사용 전 반드시 여기서 먼저 추가.

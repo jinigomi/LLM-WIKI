@@ -57,5 +57,5 @@ RIGHT (vertical):
 
 - [[matt-pocock-skills]] — 이 스킬이 속한 전체 프레임워크
 - [[matt-pocock-improve-codebase-architecture]] — TDD로 만든 코드의 아키텍처 개선
-- [[matt-pocock-diagnose]] — TDD로 예방하지 못한 버그의 디버깅
+- matt-pocock-diagnose — TDD로 예방하지 못한 버그의 디버깅 (별도 페이지 없음)
 - [[openspec]] — Spec-first 접근. TDD와는 다른 축 (spec → test → code)

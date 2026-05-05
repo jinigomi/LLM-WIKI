@@ -1,141 +1,99 @@
 ---
-title: Harness Engineering
-created: 2026-04-27
-updated: 2026-04-27
+title: 하네스 엔지니어링 (Harness Engineering)
 type: concept
-tags:
-- agentic-ai
-- aws
-- infrastructure
-- deep-insight
-- multi-agent
-sources:
-- https://aws.amazon.com/ko/blogs/tech/harness-engineering-from-deep-insight/
-confidence: high
+tags: [harness, agentic-ai, gan, planner, generator, evaluator]
+created: 2026-05-04
+source: "wikidocs.net/book/19712 - 하네스 엔지니어링 by Sunny Park, Danny Seo"
 ---
 
-# Harness Engineering
+# 하네스 엔지니어링
 
-## Overview
+**Agentic AI 코딩에서 발생하는 구조적 실패를 방지하기 위한 아키텍처 패턴.** GAN(Generative Adversarial Network)의 Generator-Discriminator 분리 원리를 코드 생성 영역에 적용하여, Planner·Generator·Evaluator 세 역할을 분리하는 방법론.
 
-AI 에이전트를 **로컬 개발에서 프로덕션 운영까지** 안정적으로 동작하게 하는 엔지니어링 분야. "마구(馬具)"처럼 에이전트의 행동을 묶고, 방향을 잡고, 안전하게 제어하는 구조를 설계하는 것.
+## 핵심 원리
 
-## 등장 배경
+코드 생성과 평가를 **같은 시스템이 담당하면 자기 평가 편향(self-evaluation bias)이 구조적으로 발생**한다. 더 큰 모델을 쓰거나 더 긴 컨텍스트를 줘도 이 문제는 해결되지 않는다 — 이는 능력(ability) 문제가 아니라 **구조(structure) 문제**다.
 
-2024년 하반기 ~ 2026년 상반기, AI 에이전트가 PoC를 넘어 프로덕션 배포의 현실적 과제에 직면한 시기.
+### GAN에서 출발한 계보
 
-- Gartner 전망: 2028년까지 기업 소프트웨어의 33%가 Agentic AI 포함
-- Anthropic의 "Building Effective Agents"가 7가지 설계 패턴 제시
-- MCP, A2A 등 상호운용성 표준 등장
-- **그러나**: 에이전트의 추론/오케스트레이션에 집중, **인프라 설계와 운영 엔지니어링은 공백**으로 남아있었음
+- **Generator** — 노이즈에서 가짜 이미지 생성
+- **Discriminator** — 진짜/가짜 판정
+- **핵심 통찰**: 두 모델 분리 → 적대적 학습으로 상호 개선
 
-### 학계/산업계 동향
+이 원리를 코드 생성에 적용하면:
+- 하나의 LLM이 코드를 만들고 자기가 평가 → 자기 출력에 관대해짐 → 품질 정체
+- 같은 모델이 Planner·Generator·Evaluator를 모두 수행 → 역할 융합으로 편향 주입
 
-- LLM 시스템 성능이 **모델보다 주변 하네스 코드에 더 크게 좌우**된다는 실증 결과
-- 프롬프트 인젝션 공격 평균 성공률 **84.30%**
-- OWASP "Agentic AI Threats and Mitigations" (2025년 2월)
-- AWS Amazon Bedrock AgentCore 등 **관리형 에이전트 인프라** 경쟁적 출시
+## Harness의 구조
 
-## 하네스 엔지니어링의 정의
+3역할 분리 + 11개 매개체 + 위임 레벨 프레임워크:
 
-AI 에이전트가 실행되는 **제어 환경과 규칙 모음**. 구체적 포함 범위:
+```
+Planner ──→ Generator ──→ Evaluator
+(무엇을)    (어떻게)     (통과인가)
+   │            │              │
+   └────────────┴──────────────┘
+          11개 매개체
+    (Constitution, Feature Spec, Validation, Operations 등)
+```
 
-| 요소 | 설명 |
+### 세 역할
+
+| 역할 | 책임 | 절대 하지 말아야 할 것 |
+|------|------|----------------------|
+| **Planner** | "무엇을" + "왜" | 구현 방법, 합격 기준 |
+| **Generator** | 동작하는 증분(코드→배포→헬스체크) | validation.md 수정 |
+| **Evaluator** | 합격 기준 정의 + 판정 | plan.md 읽기(무지가 엄격성을 보장) |
+
+### 불변의 원칙 (조정 불가)
+
+1. **세 역할의 구조적 분리** — 같은 세션에서 수행 불가
+2. **매개체의 단일 오너십** — 한 파일에 한 역할만 씀
+3. **두 HITL의 구분** — 과도기적 vs 영속적
+4. **Evaluator의 plan.md 무지** — 구현 계획을 읽으면 기준이 관대해짐
+
+가변 요소: 매개체의 두께, 역할의 깊이, 운영 주기
+
+## 위임 레벨 (L1~L4)
+
+두 축이 결정:
+- **하네스 성숙도** (시간 축, 튜닝으로 증가)
+- **영속적 HITL 크기** (영역 축, 도메인·위험이 결정)
+
+| 레벨 | 설명 |
 |------|------|
-| **도구 (Tool)** | 에이전트에게 주어지는 도구 목록과 권한 범위 |
-| **Context 관리** | 에이전트에 들어가는 Context 범위 관리 |
-| **실행 환경** | 에이전트가 호출하는 API/함수의 실행 환경 |
-| **로깅/모니터링** | 감사 추적 및 성능 관측 레이어 |
+| L1 | 모든 단계 HITL (초기/고위험) |
+| L2 | Sprint 단위 HITL |
+| L3 | Feature 단위 위임 |
+| L4 | 완전 위임 (내부 도구, HITL 작은 영역만) |
 
-동일한 LLM이라도 **하네스를 어떻게 설계하느냐**에 따라 에이전트의 성능과 안정성이 크게 달라짐.
+## Claude Code 하네스 플러그인
 
-## Deep Insight 사례
+4 프리미티브 위에 구현:
+- **Subagent** — 격리된 컨텍스트로 Planner/Generator/Evaluator 실행
+- **Skill** — 워크플로 진입점(A군) + 역할 규율(B군)
+- **Hook** — PreToolUse로 매개체 오너십 강제
+- **Worktree** — 변경 단위 격리
 
-사용자가 업로드한 CSV + 분석 질문 → 최종 DOCX 리포트 생성하는 프로덕션 Multi-Agent 시스템.
+GitHub: `harness-coding-plugin`
 
-### 두 가지 설계 목적
+## 실패 모드 (6 카테고리)
 
-1. **에이전트 행동 제어** — "에이전트는 항상 올바른 결과를 도출, 검증 가능해야 함" (Part 2)
-2. **인프라 설계** — "에이전트 시스템은 안전한 환경에서 안정적으로 실행" (Part 3)
+1. **경계 침범** — 분리 원칙 위반 (가장 흔함, 연쇄 효과)
+2. **레벨 불일치** — 성숙도·HITL 오판
+3. **역할별 실패** (Planner/Generator/Evaluator)
+4. **매개체 드리프트**
+5. **HITL 운영 실패**
+6. **조직 실패**
 
-### Decision 1: 코드 실행 환경의 완전한 분리
+각 카테고리마다 증상→원인→진단→회복 4단계 패턴 + `/recover-*` 스킬 제공
 
-**문제**: 로컬에서 `subprocess.run()`로 코드 실행 → 프로덕션에서 다중 요청 시 줄줄이 실패
+## 관련 페이지
 
-**분석**:
-- 보안 위험: LLM이 생성한 악성코드/무한루프가 Runtime에 영향
-- 워크로드 불일치: Agent Runtime은 I/O-wait 지배적, CPU-heavy 분석에 부적합
-- 확장성 한계: Runtime과 코드 실행이 묶이면 개별 스케일링 불가
-
-**해결**: 코드 생성(LM 추론) → AgentCore Runtime, 코드 실행(compute) → AWS Fargate
-
-### AWS Fargate 선택 이유
-
-| 옵션 | 장점 | 제약/단점 |
-|------|------|-----------|
-| EC2 | 유연한 환경 구성 | 스케일링/패치 관리 부담 |
-| Lambda | 서버리스 간편함 | 실행 시간 15분 제한 |
-| **AWS Fargate** | **서버 관리 부담 없음, 시간 제한 없음** | — |
-
-Fargate Docker 이미지로 **한글 폰트, matplotlib, seaborn** 등 분석 환경 자유롭게 구성.
-
-### 2단계 코드 실행 구조
-
-1. **파일 쓰기** (in-process): Base64 인코딩으로 특수문자/한글/ escape 우회
-2. **코드 실행** (subprocess + timeout): `BASH:` prefix + timeout으로 무한루프 격리
-
-핵심: "파일 쓰기"와 "코드 실행" 문제를 격리 → 안전하게 LLM 코드의 불확정성 흡수
-
-### ALB + Fargate 아키텍처
-
-```
-AgentCore Runtime → ALB → Fargate Task Pool
-```
-
-- **요청 분배**: 다중 사용자 동시 분석 요청 처리
-- **Health Check 게이트**: Task 준비 완료 후에만 트래픽 전송
-- **Sticky session**: 동일 분석 세션의 후속 요청이 같은 Fargate Task로 라우팅
-
-### GlobalFargateSessionManager
-
-Fargate Task의 **전체 생명주기 관리**:
-1. 분석 요청 시 새 Fargate Task 프로비저닝
-2. ALB Target Group에 등록 + Health Check 대기
-3. 세션별 고유 HTTP Cookie 발급 (Sticky session)
-4. 분석 완료 후 Target Group에서 제거 + 컨테이너 종료
-
-→ Runtime은 에이전트 추론에만 집중, 무거운 compute는 Fargate에 위임
-
-### Decision 2: S3를 중간 저장소로 활용
-
-S3 선택 이유: 99.999999999% 내구성, 무제한 확장성, VPC Endpoint, 저렴한 비용
-
-**S3 prefix 구조** (세션별 격리):
-```
-s3://bucket/deep-insight/fargate_sessions/{session_id}/
-├── input/        # 원본 데이터
-├── artifacts/    # 생성된 분석 산출물 (all_results.txt, citations.json, 차트 PNG)
-├── debug/        # 실행별 로그
-└── output/       # 세션 메타데이터 (token_usage.json)
-```
-
-**S3의 세 가지 용도**:
-
-1. **Fargate 결과물 보존**: matplotlib 그래프, 전처리 CSV 등 → 세션 완료 시 S3 일괄 업로드
-2. **Context 외부화 (외부 메모리)**: 에이전트 생성 정보를 artifacts/ 파일로 저장 → Context는 "N단계 완료, 상세 내용은 파일 참조" 수준으로 가볍게 유지
-3. **Human-in-the-loop 피드백**: S3를 통해 사용자가 에이전트 계획 검토/개입
-
-## 핵심 교훈
-
-1. **에이전트 추론과 코드 실행을 분리하라** — 각각 독립적 인프라에서 개별 스케일링
-2. **S3를 외부 메모리로 활용하라** — Context 한계를 넘기 위해 에이전트 산출물을 S3에 외부화
-3. **하네스는 검증 가능성을 제공해야 한다** — Validator/Tracker로 에이전트 결과 검증
-4. **네트워크 격리는 기본이다** — VPC 모드 + AWS PrivateLink로 분석 데이터가 퍼블릭 인터넷을 경유하지 않도록
-
-## 관련 개념
-
-- [[harness-engineering-wikidocs]] — 위키독스 입문서
-- context-window — Context Engineering (Part 2)
-- multi-agent — Deep Insight의 Multi-Agent 설계
-- agentic-ai — Agentic AI 시스템 설계 패턴
-- [[오케스트레이션]] — 지휘자/현장책임자 분업으로 에이전트 행동을 통제하는 패턴
+- [[planner-role|Planner 역할]]
+- [[generator-role|Generator 역할]]
+- [[evaluator-role|Evaluator 역할]]
+- [[mediums-framework|매개체 체계]]
+- [[delegation-levels|위임 레벨]]
+- [[failure-modes|실패 모드와 회복]]
+- [[claude-code-harness-plugin|Claude Code 하네스 플러그인]]

@@ -114,3 +114,4 @@ tools/cc-sdd/src/
 - [[don-cheli-sdd]] — 같은 SDD 도메인의 경쟁 프레임워크. Docker 런타임 + TDD 강제
 - [[harness-engineering]] — AI 에이전트 행동 제어. cc-sdd의 경계/스펙은 harness 규칙의 한 형태
 - [[subagent-driven-development]] — `/kiro-impl`의 구현자/리뷰어 패턴과 연결
+- mihomo-rust-claude-code-porting ⚠️ 페이지 미생성 — 40개 spec 기반 Go→Rust 포팅 사례. cc-sdd와 유사한 spec 계층 구조

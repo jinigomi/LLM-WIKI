@@ -1,4 +1,5 @@
 ---
+title: OpenSpec vs Superpowers
 aliases: ["OpenSpec vs Superpowers 비교"]
 type: comparison
 tags: [openspec, superpowers, ai-workflow, comparison, spec-driven-development, subagent-development]
@@ -146,5 +147,5 @@ project/
 ---
 
 ## Related
-- [[entities/openspec|OpenSpec]] — OpenSpec 상세 분석
-- [[concepts/spec-driven-development|Spec-Driven Development]] — 개념 설명
+- [[openspec|OpenSpec]] — OpenSpec 상세 분석
+- [[spec-driven-development|Spec-Driven Development]] — 개념 설명

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>RSS dashboard feeds</title>
+    <dateCreated>Thu, 30 Apr 2026 04:29:12 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Uncategorized" title="Uncategorized">
+    </outline>
+    <outline text="Videos" title="Videos">
+      <outline text="배움의 달인 (AI·자동화)" title="배움의 달인 (AI·자동화)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiiUQuKEqhZ1g15EglqnHHg" category="Videos"/>
+      <outline text="준이츠 JOONITS" title="준이츠 JOONITS" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXHqMzeT6P3_pH2U2ftXNzA" category="Videos"/>
+      <outline text="허니잼의 테슬라와 일론" title="허니잼의 테슬라와 일론" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg6Xx_8V7dB0aNzf77DfbdA" category="Videos"/>
+      <outline text="아트라온 TV" title="아트라온 TV" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGQd6nRgbPenEigRfkYegsw" category="Videos"/>
+      <outline text="LA 정교수 TV" title="LA 정교수 TV" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA" category="Videos"/>
+      <outline text="인생은실전이다" title="인생은실전이다" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCN3f7GVo5wnMrek0uN_7EJQ" category="Videos"/>
+      <outline text="제이디드월드" title="제이디드월드" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnQm5yxDkKwAXt-bqedJ2bg" category="Videos"/>
+      <outline text="제이디드" title="제이디드" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRfiatN6y1ndP0rfR0M-c4g" category="Videos"/>
+      <outline text="양실장의 바이브코딩대학" title="양실장의 바이브코딩대학" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKdKdx5-eLZUmAgsdvxkKiA" category="Videos"/>
+    </outline>
+    <outline text="Podcasts" title="Podcasts">
+    </outline>
+    <outline text="RSS" title="RSS">
+      <outline text="Last Week in AI" title="Last Week in AI" type="rss" xmlUrl="https://lastweekin.ai/feed" category="RSS"/>
+      <outline text="GeekNews - 개발/기술/스타트업 뉴스 서비스" title="GeekNews - 개발/기술/스타트업 뉴스 서비스" type="rss" xmlUrl="https://feeds.feedburner.com/geeknews-feed" category="RSS"/>
+      <outline text="IT동아" title="IT동아" type="rss" xmlUrl="https://it.donga.com/feeds/rss/" category="RSS"/>
+      <outline text="요즘IT » 피드" title="요즘IT » 피드" type="rss" xmlUrl="https://yozm.wishket.com/magazine/feed/" category="RSS"/>
+      <outline text="전체기사 : 사설.칼럼 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레" title="전체기사 : 사설.칼럼 : 뉴스 : 한겨레 뉴스 - 인터넷한겨레" type="rss" xmlUrl="https://www.hani.co.kr/rss/opinion/" category="RSS"/>
+      <outline text="TeslaZoa / @TeslaZoa" title="TeslaZoa / @TeslaZoa" type="rss" xmlUrl="https://nitter.net/TeslaZoa/rss" category="RSS"/>
+      <outline text="송준 Jun Song / @songjunkr" title="송준 Jun Song / @songjunkr" type="rss" xmlUrl="https://nitter.net/songjunkr/rss" category="RSS"/>
+      <outline text="Cognac(꼬냑) / @supernovajunn" title="Cognac(꼬냑) / @supernovajunn" type="rss" xmlUrl="https://nitter.net/supernovajunn/rss" category="RSS"/>
+      <outline text="Tsla Chan / @Tslachan" title="Tsla Chan / @Tslachan" type="rss" xmlUrl="https://nitter.net/Tslachan/rss" category="RSS"/>
+      <outline text="SETI Park / @seti_park" title="SETI Park / @seti_park" type="rss" xmlUrl="https://nitter.net/seti_park/rss" category="RSS"/>
+      <outline text="arXiv AI (cs.AI) New Papers" title="arXiv AI (cs.AI) New Papers" type="rss" xmlUrl="https://export.arxiv.org/rss/cs.AI" category="RSS"/>
+      <outline text="Data Skeptic" title="Data Skeptic" type="rss" xmlUrl="https://anchor.fm/s/f06031a0/podcast/rss" category="RSS"/>
+      <outline text="DeepMind Blog" title="DeepMind Blog" type="rss" xmlUrl="https://deepmind.com/blog/feed/basic/" category="RSS"/>
+      <outline text="Lex Fridman Podcast" title="Lex Fridman Podcast" type="rss" xmlUrl="https://lexfridman.com/feed/podcast/" category="RSS"/>
+      <outline text="NVIDIA Technical Blog" title="NVIDIA Technical Blog" type="rss" xmlUrl="https://developer.nvidia.com/blog/feed/" category="RSS"/>
+      <outline text="OpenAI News" title="OpenAI News" type="rss" xmlUrl="https://openai.com/news/rss.xml" category="RSS"/>
+    </outline>
+  </body>
+</opml>

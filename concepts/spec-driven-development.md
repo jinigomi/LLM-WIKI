@@ -3,8 +3,14 @@ title: Spec-Driven Development
 created: 2026-04-30
 updated: 2026-04-30
 type: concept
-tags: [spec-driven, AI-collaboration, engineering-thinking, agent-workflow, methodology, software-development]
-sources: [https://github.com/Fission-AI/OpenSpec]
+tags:
+- AI-collaboration
+- engineering-thinking
+- agent-workflow
+- methodology
+- software-development
+- spec-driven-development
+sources: ['https://github.com/Fission-AI/OpenSpec']
 confidence: high
 ---
 
@@ -104,11 +110,13 @@ Human provides intent/cotext/constraints
 | 모델 제한 | 없음 | 없음 | Claude 전용 |
 | 브라운필드 | Delta specs | — | — |
 
-## [[Vibe Coding Blueprint Pattern]]과의 관계
+## [[vibe-coding-blueprint-pattern|Vibe Coding Blueprint Pattern]]과의 관계
 Blueprint 패턴은 "코드보다 설계를 먼저 AI에게 시키는" 접근법이다. Spec-Driven Development는 Blueprint 패턴의 정형화된 버전이라고 볼 수 있다. `proposal → specs → design → tasks` 는 Blueprint의 `설계 → 구현` 패턴과 공명한다.
 
 ## 관련 페이지
 - [[openspec]] — OpenSpec 도구 자체
 - [[subagent-driven-development]] — 멀티 에이전트 병렬 구현 패턴
 - [[vibe-coding-blueprint-pattern]] — 블루프린트 패턴
+- [[agentic-ai-engineering]] — Framework ≠ Architecture 원칙, schema-first 설계
+- mihomo-rust-claude-code-porting ⚠️ 페이지 미생성 — 40개 spec 기반 Go→Rust 포팅 사례
 - [[엔지니어링-사고-초보자]] — 초보자 엔지니어링 사고

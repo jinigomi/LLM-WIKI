@@ -81,7 +81,7 @@ Plan → [Task1 → Implementer → SpecReview → CodeQualityReview] → [Task2
 | 완료 판단 | "Probably works" | Fresh verification evidence |
 | PR 품질 | 가변적 | 94% PR rejection rate → 보호 |
 
-## [[Hermes]]에 적용 가능한 패턴
+## Hermes에 적용 가능한 패턴
 
 1. **Two-stage review** — 코드 리뷰를 spec compliance + code quality로 분리
 2. **Hard gate** — 구현 전 설계 승인 같은 게이트를 skill에 내장

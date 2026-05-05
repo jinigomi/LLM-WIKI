@@ -3,8 +3,16 @@ title: OpenSpec
 created: 2026-04-30
 updated: 2026-04-30
 type: entity
-tags: [AI, LLM, agent-workflow, spec-driven, open-source, CLI, tool, software-development]
-sources: [https://github.com/Fission-AI/OpenSpec]
+tags:
+- AI
+- LLM
+- agent-workflow
+- CLI
+- tool-use
+- software-development
+- spec-driven-development
+- open-source
+sources: ['https://github.com/Fission-AI/OpenSpec']
 confidence: high
 ---
 
