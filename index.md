@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-05 | Total pages: 68
+> Last updated: 2026-05-07 | Total pages: 72
 
 ## Concepts (23)
 - [[agentic-ai-engineering]] — Agentic AI 엔지니어링: 3계층 아키텍처(Foundation→Agent→Production), framework 선택, memory, 평가 원칙
@@ -29,6 +29,10 @@
 - [[vibe-coding-blueprint-pattern]] — Vibe Coding 블루프린트 패턴: 코드보다 설계를 먼저 생성하는 AI 협업 패턴
 - [[바이브코딩-책-개요]] — 바이브코딩 책 (박경태, wikidocs) 전체 개요 및 구조
 - [[에러-에스컬레이션]] — AI 코딩에서 에러가 발생했을 때 상위 지원으로 에스컬레이션하는 패턴
+## Comparisons (3)
+- [[don-cheli-vs-cc-sdd]] — Don Cheli vs cc-sdd: Docker 기반 6단계 SDD vs Boundary-first 8-에이전트 SDD 비교
+- [[hermes-vs-boop]] — Hermes vs Boop: 단일 Agent vs Dispatcher-Worker 분리, 개발자용 vs 비개발자용
+- [[openspec-vs-superpowers]] — OpenSpec vs Superpowers: Spec-first vs 프로세스 품질-first, 비개발자 포함 vs 개발자
 ## Entities (39)
 - [[agentic-ai-engineer-roadmap-2026-qa]] — 2026 Agentic AI Engineer 면접 Q&A (Lamhot Siagian): 11토픽 100문항, Python→Multi-Agent→Deploy
 - [[animejs]] — Anime.js: JavaScript 애니메이션 엔진 (Julian Garnier). ES 모듈, Clock 기반 상속, CSS/SVG/JS/WAAPI 통합 API, 165개 소스파일
@@ -59,6 +63,7 @@
 - [[superpowers]] — obra/superpowers: AI 코딩 에이전트 방법론 플러그인 (Jesse Vincent, Anthropic)
 - [[warp]] — Warp: Rust 기반 Agentic Development Environment. 자체 UI 프레임워크, 내장 AI 에이전트, MCP 지원
 - [[agent-rules-books]] — ciembor/agent-rules-books: 14개 클래식 SW 공학 서적 기반 AI 에이전트 규칙 (full/mini/nano 3 tier, Codex/Cursor/Claude Code agnostic)
+- [[deep-learning-with-python-3e]] — Deep Learning with Python 3rd Ed (Chollet, Manning): Keras 3 + PyTorch/JAX/TensorFlow 4백엔드, 20챕터, 생성형 AI + LLM 커버
 - [[기억하는-개발]] — 기억하는 개발: 세션·컨텍스트·지식을 축적하며 발전하는 AI 협업 개발 방식
 - [[엔지니어링-사고-초보자]] — 초보자를 위한 엔지니어링 사고: AI 협업에서 필요한 사고방식
 - [[오케스트레이션]] — 오케스트레이션: AI 에이전트 간 작업 조율과 협업 패턴
@@ -79,10 +84,7 @@
 - [[vibe-coding-beginner-checklist]] — 바이브 코딩 초보자 실행 체크리스트 (시작→환경→프롬프트→검증→보안→배포→개선)
 
 ## Raw Sources
-- `raw/articles/` — 원본 아티클 11편 (보관)
-- `raw/articles/harness-engineering/` — 하네스 엔지니어링 wikidocs 책 (10 Parts, JSON + 개별 마크다운)
-- `raw/articles/notebooklm-note-wiki-vibe-coding-beginner-methodology-report` — NotebookLM 바이브 코딩 연구 리포트
+- `raw/articles/` — 원본 아티클 12편 (보관)
 - `raw/papers/ai-novice-to-senior-research` — 초보자 AI 협업 논문 메타 분석
 - `raw/articles/so-ainsight-hermes-agent-top10-github-repos` — Hermes Agent 활용 GitHub 레포 10선 트윗 요약
-- `/Users/bricoleur/artifacts/7ebb8346-3fa1-4f7a-9809-baa38faca430/` — NotebookLM 원본 아티팩트
 
