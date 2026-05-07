@@ -138,7 +138,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1778127143978,
+      "lastUpdated": 1778130743835,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -365,7 +365,7 @@
           "videoId": "3rrJKUVFYLg"
         }
       ],
-      "lastUpdated": 1778127177992,
+      "lastUpdated": 1778130781796,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -2555,6 +2555,35 @@
           "videoId": "rPhtKwjgIl4"
         },
         {
+          "title": "머스크 AI 판도 바꾼다! Xai 와 클로드 역대급 동맹! 인공지능 세계를 누가 주도할까? 구글 엔비디아 누르고 시가총액 1위 찍을까? 자율주행 유럽에서 자동차 혁명을 만든다!",
+          "link": "https://www.youtube.com/watch?v=rPhtKwjgIl4",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-05-07 03:40:57",
+          "guid": "https://www.youtube.com/watch?v=rPhtKwjgIl4",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "LA 정교수 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA",
+          "coverImage": "https://img.youtube.com/vi/rPhtKwjgIl4/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "rPhtKwjgIl4"
+        },
+        {
           "title": "유럽 자율주행 최종 결정임박! 대박) 테슬라 세미트럭 줄을서시오! 없어서 못판다! 세미트럭의 인기는 테슬라 자동차 매출과 이익을 극대화 한다! 이란전쟁 종결 임박했다! 주가폭등?",
           "link": "https://www.youtube.com/watch?v=jL2QeYbWhlc",
           "description": "",
@@ -2581,6 +2610,35 @@
           "videoId": "jL2QeYbWhlc"
         },
         {
+          "title": "유럽 자율주행 최종 결정임박! 대박) 테슬라 세미트럭 줄을서시오! 없어서 못판다! 세미트럭의 인기는 테슬라 자동차 매출과 이익을 극대화 한다! 이란전쟁 종결 임박했다! 주가폭등?",
+          "link": "https://www.youtube.com/watch?v=jL2QeYbWhlc",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-05-06 11:46:03",
+          "guid": "https://www.youtube.com/watch?v=jL2QeYbWhlc",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "LA 정교수 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA",
+          "coverImage": "https://img.youtube.com/vi/jL2QeYbWhlc/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "jL2QeYbWhlc"
+        },
+        {
           "title": "대박) 벨기에 테슬라 자율주행 허가! 테슬라 세미트럭 주문 미쳤다! 공급을 맞추기 어려울 정도! 테슬라 주가 곧 폭발할수 밖에 없는 2가지 이유! 팔란티어 6%폭락 이유!",
           "link": "https://www.youtube.com/watch?v=Cj_o9UMeg3I",
           "description": "",
@@ -2604,6 +2662,35 @@
           "mediaType": "video",
           "explicit": false,
           "image": "",
+          "videoId": "Cj_o9UMeg3I"
+        },
+        {
+          "title": "대박) 벨기에 테슬라 자율주행 허가! 테슬라 세미트럭 주문 미쳤다! 공급을 맞추기 어려울 정도! 테슬라 주가 곧 폭발할수 밖에 없는 2가지 이유! 팔란티어 6%폭락 이유!",
+          "link": "https://www.youtube.com/watch?v=Cj_o9UMeg3I",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-05-06 00:30:20",
+          "guid": "https://www.youtube.com/watch?v=Cj_o9UMeg3I",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "LA 정교수 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA",
+          "coverImage": "https://img.youtube.com/vi/Cj_o9UMeg3I/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
           "videoId": "Cj_o9UMeg3I"
         },
         {
@@ -2659,6 +2746,64 @@
           "videoId": "kZgRPeuMMRI"
         },
         {
+          "title": "중국 워렌버핏 테슬라 선택! BYD 아닌 테슬라 찍은이유! 테슬라 주가 상승 에너지가 점점 쌓여간다! 팔란티어 실적발표 넘어 꼭 봐야할 데이타! 엔비디아 구글 결국엔",
+          "link": "https://www.youtube.com/watch?v=hTHSNhT-3oI",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-05-05 11:24:40",
+          "guid": "https://www.youtube.com/watch?v=hTHSNhT-3oI",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "LA 정교수 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA",
+          "coverImage": "https://img.youtube.com/vi/hTHSNhT-3oI/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "hTHSNhT-3oI"
+        },
+        {
+          "title": "네덜란드 테슬라 FSD 광풍! 세미트럭 주문 대폭발! 유럽에서 테슬라 인기가 다시 올라가는중! 왜 다시 테슬라를 찾고 있나? 팔란티어 실적 대박! 주가는 쪽박! 엔비디아 주가급락",
+          "link": "https://www.youtube.com/watch?v=kZgRPeuMMRI",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-05-05 03:35:36",
+          "guid": "https://www.youtube.com/watch?v=kZgRPeuMMRI",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "LA 정교수 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA",
+          "coverImage": "https://img.youtube.com/vi/kZgRPeuMMRI/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "kZgRPeuMMRI"
+        },
+        {
           "title": "세미트럭 판을 확 뒤집는다! 테슬라 주가폭등의 서막이 열리나? 세미트럭의 강점이 너무 강력해서 내연차 트럭들이 떨고 있다! 팔란티어 실적발표 정리! 구글 엔비디아 주도주 되나?",
           "link": "https://www.youtube.com/watch?v=2ubAF9jDFvA",
           "description": "",
@@ -2708,6 +2853,64 @@
           "mediaType": "video",
           "explicit": false,
           "image": "",
+          "videoId": "Mybg-sVUA4I"
+        },
+        {
+          "title": "세미트럭 판을 확 뒤집는다! 테슬라 주가폭등의 서막이 열리나? 세미트럭의 강점이 너무 강력해서 내연차 트럭들이 떨고 있다! 팔란티어 실적발표 정리! 구글 엔비디아 주도주 되나?",
+          "link": "https://www.youtube.com/watch?v=2ubAF9jDFvA",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-05-04 10:45:23",
+          "guid": "https://www.youtube.com/watch?v=2ubAF9jDFvA",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "LA 정교수 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA",
+          "coverImage": "https://img.youtube.com/vi/2ubAF9jDFvA/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "2ubAF9jDFvA"
+        },
+        {
+          "title": "테슬라 FSD 확장의 무서운 속도! 테슬라 주주들 소리질러~ 테슬라 로보택시 확장 속도도 더 빨라졌다! 이번주 유럽에 좋은결과 나오면 테슬라 주가 폭등할까? 구글 엔비디아 좋은주식",
+          "link": "https://www.youtube.com/watch?v=Mybg-sVUA4I",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-05-04 04:40:30",
+          "guid": "https://www.youtube.com/watch?v=Mybg-sVUA4I",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "LA 정교수 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA",
+          "coverImage": "https://img.youtube.com/vi/Mybg-sVUA4I/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
           "videoId": "Mybg-sVUA4I"
         },
         {
@@ -2763,6 +2966,64 @@
           "videoId": "6WVc48HZm-U"
         },
         {
+          "title": "테슬라 기관들은 바이엔홀드 개미들은 패닉 매도! 폭발적 상승을 기관들은 예상하고 투자하지만, 개미들은 작은 바람에도 너무 쉽게 흔들리는 이유! 구글 엔비디아 주도하는 미국시장!",
+          "link": "https://www.youtube.com/watch?v=1DMsMM-2vCg",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-05-03 10:43:36",
+          "guid": "https://www.youtube.com/watch?v=1DMsMM-2vCg",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "LA 정교수 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA",
+          "coverImage": "https://img.youtube.com/vi/1DMsMM-2vCg/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "1DMsMM-2vCg"
+        },
+        {
+          "title": "테슬라 전고점돌파 시간문제! 호재가 쏟아지는 테슬라! 주가 정말 날아 오를까? 언제쯤 날아 오르나? 젠슨황 투자철학의 핵심! 엔비디아 구글 계속 날아간다! 팔란티어 실적발표 그후는",
+          "link": "https://www.youtube.com/watch?v=6WVc48HZm-U",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-05-03 04:13:59",
+          "guid": "https://www.youtube.com/watch?v=6WVc48HZm-U",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "LA 정교수 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA",
+          "coverImage": "https://img.youtube.com/vi/6WVc48HZm-U/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "6WVc48HZm-U"
+        },
+        {
           "title": "테슬라 주가 폭풍전야! 큰 파도가 오고 있다! 한번 터지면 누구도 막을수 없다! 워렌버핏의 지금 같은 어려운 시기에 투자철학! 엔비디아 구글 2강구도 당분간 이어진다!",
           "link": "https://www.youtube.com/watch?v=La7Ijy6EKPk",
           "description": "",
@@ -2813,6 +3074,35 @@
           "explicit": false,
           "image": "",
           "videoId": "l4fIO6UuJGM"
+        },
+        {
+          "title": "테슬라 주가 폭풍전야! 큰 파도가 오고 있다! 한번 터지면 누구도 막을수 없다! 워렌버핏의 지금 같은 어려운 시기에 투자철학! 엔비디아 구글 2강구도 당분간 이어진다!",
+          "link": "https://www.youtube.com/watch?v=La7Ijy6EKPk",
+          "description": "",
+          "content": "",
+          "pubDate": "2026-05-02 11:44:15",
+          "guid": "https://www.youtube.com/watch?v=La7Ijy6EKPk",
+          "read": false,
+          "starred": false,
+          "tags": [
+            {
+              "name": "YouTube",
+              "color": "#ff0000"
+            }
+          ],
+          "feedTitle": "LA 정교수 TV",
+          "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwTpaRmErJXgJTrVixeSNA",
+          "coverImage": "https://img.youtube.com/vi/La7Ijy6EKPk/maxresdefault.jpg",
+          "summary": "",
+          "author": "",
+          "saved": false,
+          "mediaType": "video",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": "",
+          "videoId": "La7Ijy6EKPk"
         },
         {
           "title": "유럽도로에 플리는 FSD! 테슬라 퀀텀점프 온다! 테슬라 주가의 움직임은 마치 터지기 직전의 화산과도 같다! 엔비디아 구글이 미국시장을 주도한다! 트럼프 유가를 어떻게 할까?",
@@ -3413,7 +3703,7 @@
           "videoId": "WZr46UkwdP4"
         }
       ],
-      "lastUpdated": 1778127226373,
+      "lastUpdated": 1778130842163,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4972,7 +5262,7 @@
           "image": ""
         }
       ],
-      "lastUpdated": 1778127234988,
+      "lastUpdated": 1778130851121,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4990,6 +5280,34 @@
       "url": "https://it.donga.com/feeds/rss/",
       "folder": "RSS",
       "items": [
+        {
+          "title": "나이트로 서울 2026 게임데이 'AI가 공동 창업자, ‘어떻게’ 보다 ‘무엇을’이 더 중요’",
+          "link": "https://it.donga.com/108852/",
+          "description": "<p> [IT동아 한만혁 기자] ‘바이브 코딩(Vibe Coding)’이 창업 생태계를 바꾸고 있다. 개발 지식 없이 자연어만으로 소프트웨어를 만들 수 있는 바이브 코딩 덕에, 새로운 아이디어를 제품으로 구현해 시장에 내놓는 시간이 급격히 단축되고 있기 때문이다. 이에 수개월 치 개발을 단 며칠 만에 해내는 1인 창업자가 늘고 있으며, 이를 기반으로 실제 매출을 올리는 기업도 속속 등장한다. </p> <p> 글로벌 웹3 벤처캐피털(VC) 해시드는 이 같은 흐름을 반영해 지난 2월 인공지능(AI) 네이티브 창업팀 발굴 및 지원 프로그램 ‘나이트로 바이 해시드(구 해시드 바이브랩스)’를 론칭했다. 이어 지난 4월 30일에는 데모데이 ‘나이트로 서울 2026 게임데이(Nitro Seoul Game Day)’를 개최하고 나이트로 바이 해시드에 선정된 4개 팀의 서비스와 성과를 소개했다. </p> <p> <figure> <img alt=\"나이트로 서울 2026 게임데이 / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/5/7/5454586c9ae54543-thumbnail-1920x1080-70.jpg\"/> <figcaption> 나이트로 서울 2026 게임데이 / 출처=IT동아 </figcaption> </figure> </p> <h3> 바이브 코딩, 창업의 문법을 바꾸다 </h3> <p> 바이브 코딩은 프로그래밍 언어를 전혀 몰라도 만들고 싶은 것을 일상 언어로 설명하면 AI가 코드를 대신 작성해 주는 개발 방식으로, 안드레이 카르파티(Andrej Karpathy) 오픈AI(OpenAI) 공동 창업자가 지난 2025년 2월 처음 제안한 개념이다. 그는 소셜미디어 X(구 트위터)에 “바이브 코딩은 바이브에 완전히 순응하고, 기하급수적 변화를 포용하며, 코드가 있다는 사실조차 잊어버리는 새로운 코딩 방식”이라고 설명했다. </p> <p> 바이브 코딩은 등장 이후 빠르게 확산되고 있다. 개발자는 물론 개발에 대한 전문 지식이 없는 비(非) 개발자도 바이브 코딩을 적극 활용한다. 웹 개발 플랫폼 기업 버셀이 발표한 ‘2025 바이브 코딩 현황’ 보고서에 따르면 바이브 코딩 플랫폼 사용자의 63%가 비(非) 개발자다. </p> <p> 김서준 해시드 대표는 “초기 바이브 코딩은 개발자가 주도적으로 코딩하면서 AI가 보조하는 코파일럿 수준이었지만, 지난해 말 고성능 AI 모델이 잇따라 등장하면서 이제는 수 시간 만에 글로벌 시장에 배포 가능한 서비스를 만들 수 있는 수준이 됐다”라고 설명했다. </p> <p> 이어 이러한 변화는 스타트업 생태계에 적지 않은 영향을 미치고 있다고 진단했다. 그는 “과거 초기 스타트업은 최소 3~4명의 개발자가 필요했고, 개발 인건비가 전체 비용의 절반 이상을 차지했다. 하지만 바이브 코딩이 확산되면서 1인 창업자가 개발은 물론 마케팅, 영업, 재무, 회계까지 AI 에이전트로 처리한다. 투자 라운드를 건너뛰고 대형 스타트업을 키워내는 사례도 반복되고 있다”라고 말했다. </p> <p> <figure> <img alt=\"해시드는 바이브 코딩으로 인한 창업 생태계 변화에 대응하기 위해 지난 2월 나이트로 바이 해시드(구 해시드 바리브랩스)를 론칭했다 / 출처=해시드\" src=\"https://it.donga.com/media/__sized__/images/2026/5/7/046b04e211064cca-thumbnail-1920x1080-70.jpg\"/> <figcaption> 해시드는 바이브 코딩으로 인한 창업 생태계 변화에 대응하기 위해 지난 2월 나이트로 바이 해시드(구 해시드 바리브랩스)를 론칭했다 / 출처=해시드 </figcaption> </figure> </p> <h3> AI 네이티브 창업자 지원 프로그램, 나이트로 바이 해시드 </h3> <p> 이러한 변화에 대응하기 위해 해시드는 지난 2월 나이트로 바이 해시드(Nitro by Hashed)를 론칭했다. 김서준 대표는 나이트로 바이 해시드 론칭 배경에 대해 “바이브코딩을 연구하고 스타트업 생태계의 변화를 보면서 VC 역할에 대해 고민하게 됐고, AI를 공동 창업자로 활용하는 1인 창업자를 위한 새로운 형태의 투자 프로그램이 필요하다고 판단했다”라고 말했다. </p> <p> 나이트로 바이 해시드의 론칭 당시 프로그램명은 해시드 바이브랩스(Hashed VibeLabs)다. 해시드는 나이트로 서울 2026 게임데이를 기점으로 프로그램명을 나이트로 바이 해시드로 바꿨다. 김서준 대표는 “AI와 호흡하며 제품을 만들고 배포하는 환경이 F1 레이싱카의 질소(Nitro) 부스터가 터지는 느낌과 닮았다”라며 “소수가 빠르게 간다, 빠른 팀들이 서로의 속도를 끌어올리는 환경을 만든다는 의미에서 리브랜딩을 진행했다”라고 전했다. </p> <p> 나이트로 바이 해시드는 AI를 핵심 수단으로 활용하는 AI 네이티브 창업자를 대상으로 하는 극초기 투자 프로그램이다. 해시드는 “나이트로 바이 해시드를 소수 인원으로도 글로벌 시장성을 빠르게 검증하고 실제 매출과 지표로 성과를 증명하는 구조가 가능한지를 실험하는 프로그램으로, 기술 소개보다 실제 배포와 운영을 중심으로 창업팀을 검증하는 구조로 설계했다”라고 설명한다. </p> <p> 나이트로 바이 해시드는 사업계획서나 피치덱(투자 제안서) 대신 실제 배포한 서비스 URL과 데모를 기반으로 팀을 평가하고, 최종 선발과 동시에 투자를 집행하는 구조다. 해시드에 따르면 나이트로 바이 해시드에는 약 300개 팀이 지원했고, 최종 5개 팀이 선발돼 3월 3일부터 4월 24일까지 8주간 프로그램을 진행했다. </p> <p> <figure> <img alt=\"김서준 해시드 대표 / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/5/7/4f2054b2b24c4c4f-thumbnail-1920x1080-70.jpg\"/> <figcaption> 김서준 해시드 대표 / 출처=IT동아 </figcaption> </figure> </p> <p> 프로그램은 ‘주간 배포 스프린트(sprint)’를 기본 단위로 구성된다. 선발된 팀은 매주 서비스를 실제로 배포하고 그 결과를 바탕으로 진행 상황을 점검받는다. 별도 보고서나 중간발표 대신 해당 주에 배포한 결과물과 사용자 반응이 평가 기준이다. 또한 오픈소스 개발, 데이터 사이언스, 시장 적합성 검증 등 다양한 분야의 전문가 20여 명이 펠로우로 참여했다. 펠로우들은 팀별 주간 리뷰와 오피스아워를 통해 기술 설계, 데이터 전략, 보안 구조, 시장 진입 전략 등 구체적인 멘토링을 제공했다. </p> <p> 김서준 대표는 “나이트로 바이 해시드는 무엇을 만들지 판단하고 글로벌 시장에서 끝까지 실행할 수 있는 창업자를 발굴 및 지원하는 과정”이라며 “프로그램 운영 중 여러 시너지가 나는 것을 보면서 이제 완전히 새로운 유형의 창업 커뮤니티와 개발자 커뮤니티가 필요하다는 확신을 갖게 됐다”라고 전했다. </p> <h3> AI 네이티브 기업, GPTO·엘린·KYRO·GGUI </h3> <p> 나이트로 서울 2026 게임데이에서는 8주간의 나이트로 바이 해시드 프로그램을 마친 4개 기업이 자사 서비스와 그간의 성과를 발표했다. 무대에 오른 기업은 ▲AI 답변 최적화 솔루션 ‘GPTO’를 선보인 어크로스 ▲AI 롤플레잉 채팅 플랫폼 ‘엘린(Elyn)’ ▲게이미피케이션 러닝 앱 ‘키로(KYRO)’ ▲AI 에이전트용 생성형 UI 프로토콜 ‘GGUI’다. 이들 모두 바이브 코딩을 기반으로 1인 창업자가 직접 서비스를 개발 및 운영하고 있다. </p> <p> 이재홍 어크로스 대표가 선보인 GPTO는 AI 답변 최적화 B2B 솔루션이다. GPTO는 주요 AI 플랫폼에서 브랜드나 서비스가 더 자주 언급, 추천되도록 최적화하는 AI 엔진 최적화(AEO) 및 생성형 엔진 최적화(GEO) 솔루션이다. 쉽게 말해 검색엔진에서의 노출을 높이는 검색엔진 최적화(SEO)의 AI 버전이다. GPTO는 지난해 9월 론칭 이후 7개월 만에 100개 이상 기업과 성과 사례를 만들었으며, 월 매출은 매달 2배 이상 성장해 4월 기준 10억 원을 돌파했다. </p> <p> <figure> <img alt=\"(왼쪽 위부터 시계 방향으로) 이재홍 어크로스 대표, 박정환 엘린 대표, 안정우 키로 대표, 임완섭 GGUI 대표 / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/5/7/ef6fee1b2a4b4a42-thumbnail-1920x1080-70.jpg\"/> <figcaption> (왼쪽 위부터 시계 방향으로) 이재홍 어크로스 대표, 박정환 엘린 대표, 안정우 키로 대표, 임완섭 GGUI 대표 / 출처=IT동아 </figcaption> </figure> </p> <p> 엘린은 박정환 대표가 바이브 코딩으로 개발한 AI 롤플레잉 채팅 플랫폼이다. 사용자가 직접 AI 캐릭터와 세계관을 만들고 그 안에서 이야기를 써 내려가는 서비스로, AI가 내놓는 어색한 답변을 교정하고 이전 맥락을 유지하는 ‘기억’ 기능을 추가한 것이 특징이다. 현재 매일 장편 소설 2만 권 분량의 데이터를 처리하고 있으며, 3월 기준 월간 활성 이용자(MAU) 1만 명, 월매출 3억 원을 기록했다. </p> <p> 안정우 대표가 개발한 키로는 달리기를 '땅따먹기'로 재해석한 모바일 러닝 앱이다. 달린 경로가 지도 위 나만의 영토로 표시되고, 다른 사용자의 영토를 빼앗으며 경쟁하는 구조다. 바이브 코딩으로 개발하는 과정을 SNS에 공유하며 입소문을 탄 덕에 별도 광고 없이 출시 3개월 만에 가입자 8만 명을 달성했다. 이용자 누적 러닝 거리는 24만 6000km이며, 전 세계 58개국 2500개 이상 지역이 영토로 기록됐다. </p> <p> GGUI는 임완섭 대표가 개발한 AI 에이전트용 생성형 화면 구성(UI) 오픈소스 기술이다. 이를 이용하면 AI 에이전트는 이용자 연령, 성별, 서비스 사용 환경 등을 고려해 그에 맞는 UI를 실시간으로 자동 생성한다. MCP(AI 모델과 외부 도구를 연결하는 통신 표준)를 지원하는 에이전트나 앱은 별도 개발 없이 즉시 적용할 수 있으며, 오픈 프로토콜로 공개해 누구나 자유롭게 사용할 수 있다. </p> <p> <figure> <img alt=\"나이트로 서울 2026 게임데이 현장 / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/5/7/e633df76dd8742f0-thumbnail-1920x1080-70.jpg\"/> <figcaption> 나이트로 서울 2026 게임데이 현장 / 출처=IT동아 </figcaption> </figure> </p> <p> 나이트로 서울 2026 게임데이는 바이브 코딩이 단순한 기술 트렌드를 넘어 창업 생태계를 바꾸고 있음을 보여주는 자리였다. 참여한 4개 팀은 1인 창업가임에도 월 수억 원의 매출, 수만 명의 이용자, 글로벌 시장 진출이라는 성과를 단기간에 만들어냈다. 이들 창업가는 AI가 개발과 운영의 상당 부분을 대신할 수 있게 되면서 기술 구현 능력이 아니라 무엇을 만들지, 어떤 결과물이 나올지, 서비스 개선 방향은 무엇인지를 빠르고 정확하게 판단하는 안목과 실행력이 중요하다고 입을 모았다. 김서준 대표 역시 “AI 도구로 실행의 문턱이 낮아진 만큼, 방향 설정과 품질 통제에 대한 책임은 더 중요해졌다”라고 강조했다. </p> <p> IT동아 한만혁 기자 (mh@itdonga.com) </p>",
+          "content": "<p> [IT동아 한만혁 기자] ‘바이브 코딩(Vibe Coding)’이 창업 생태계를 바꾸고 있다. 개발 지식 없이 자연어만으로 소프트웨어를 만들 수 있는 바이브 코딩 덕에, 새로운 아이디어를 제품으로 구현해 시장에 내놓는 시간이 급격히 단축되고 있기 때문이다. 이에 수개월 치 개발을 단 며칠 만에 해내는 1인 창업자가 늘고 있으며, 이를 기반으로 실제 매출을 올리는 기업도 속속 등장한다. </p> <p> 글로벌 웹3 벤처캐피털(VC) 해시드는 이 같은 흐름을 반영해 지난 2월 인공지능(AI) 네이티브 창업팀 발굴 및 지원 프로그램 ‘나이트로 바이 해시드(구 해시드 바이브랩스)’를 론칭했다. 이어 지난 4월 30일에는 데모데이 ‘나이트로 서울 2026 게임데이(Nitro Seoul Game Day)’를 개최하고 나이트로 바이 해시드에 선정된 4개 팀의 서비스와 성과를 소개했다. </p> <p> <figure> <img alt=\"나이트로 서울 2026 게임데이 / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/5/7/5454586c9ae54543-thumbnail-1920x1080-70.jpg\"/> <figcaption> 나이트로 서울 2026 게임데이 / 출처=IT동아 </figcaption> </figure> </p> <h3> 바이브 코딩, 창업의 문법을 바꾸다 </h3> <p> 바이브 코딩은 프로그래밍 언어를 전혀 몰라도 만들고 싶은 것을 일상 언어로 설명하면 AI가 코드를 대신 작성해 주는 개발 방식으로, 안드레이 카르파티(Andrej Karpathy) 오픈AI(OpenAI) 공동 창업자가 지난 2025년 2월 처음 제안한 개념이다. 그는 소셜미디어 X(구 트위터)에 “바이브 코딩은 바이브에 완전히 순응하고, 기하급수적 변화를 포용하며, 코드가 있다는 사실조차 잊어버리는 새로운 코딩 방식”이라고 설명했다. </p> <p> 바이브 코딩은 등장 이후 빠르게 확산되고 있다. 개발자는 물론 개발에 대한 전문 지식이 없는 비(非) 개발자도 바이브 코딩을 적극 활용한다. 웹 개발 플랫폼 기업 버셀이 발표한 ‘2025 바이브 코딩 현황’ 보고서에 따르면 바이브 코딩 플랫폼 사용자의 63%가 비(非) 개발자다. </p> <p> 김서준 해시드 대표는 “초기 바이브 코딩은 개발자가 주도적으로 코딩하면서 AI가 보조하는 코파일럿 수준이었지만, 지난해 말 고성능 AI 모델이 잇따라 등장하면서 이제는 수 시간 만에 글로벌 시장에 배포 가능한 서비스를 만들 수 있는 수준이 됐다”라고 설명했다. </p> <p> 이어 이러한 변화는 스타트업 생태계에 적지 않은 영향을 미치고 있다고 진단했다. 그는 “과거 초기 스타트업은 최소 3~4명의 개발자가 필요했고, 개발 인건비가 전체 비용의 절반 이상을 차지했다. 하지만 바이브 코딩이 확산되면서 1인 창업자가 개발은 물론 마케팅, 영업, 재무, 회계까지 AI 에이전트로 처리한다. 투자 라운드를 건너뛰고 대형 스타트업을 키워내는 사례도 반복되고 있다”라고 말했다. </p> <p> <figure> <img alt=\"해시드는 바이브 코딩으로 인한 창업 생태계 변화에 대응하기 위해 지난 2월 나이트로 바이 해시드(구 해시드 바리브랩스)를 론칭했다 / 출처=해시드\" src=\"https://it.donga.com/media/__sized__/images/2026/5/7/046b04e211064cca-thumbnail-1920x1080-70.jpg\"/> <figcaption> 해시드는 바이브 코딩으로 인한 창업 생태계 변화에 대응하기 위해 지난 2월 나이트로 바이 해시드(구 해시드 바리브랩스)를 론칭했다 / 출처=해시드 </figcaption> </figure> </p> <h3> AI 네이티브 창업자 지원 프로그램, 나이트로 바이 해시드 </h3> <p> 이러한 변화에 대응하기 위해 해시드는 지난 2월 나이트로 바이 해시드(Nitro by Hashed)를 론칭했다. 김서준 대표는 나이트로 바이 해시드 론칭 배경에 대해 “바이브코딩을 연구하고 스타트업 생태계의 변화를 보면서 VC 역할에 대해 고민하게 됐고, AI를 공동 창업자로 활용하는 1인 창업자를 위한 새로운 형태의 투자 프로그램이 필요하다고 판단했다”라고 말했다. </p> <p> 나이트로 바이 해시드의 론칭 당시 프로그램명은 해시드 바이브랩스(Hashed VibeLabs)다. 해시드는 나이트로 서울 2026 게임데이를 기점으로 프로그램명을 나이트로 바이 해시드로 바꿨다. 김서준 대표는 “AI와 호흡하며 제품을 만들고 배포하는 환경이 F1 레이싱카의 질소(Nitro) 부스터가 터지는 느낌과 닮았다”라며 “소수가 빠르게 간다, 빠른 팀들이 서로의 속도를 끌어올리는 환경을 만든다는 의미에서 리브랜딩을 진행했다”라고 전했다. </p> <p> 나이트로 바이 해시드는 AI를 핵심 수단으로 활용하는 AI 네이티브 창업자를 대상으로 하는 극초기 투자 프로그램이다. 해시드는 “나이트로 바이 해시드를 소수 인원으로도 글로벌 시장성을 빠르게 검증하고 실제 매출과 지표로 성과를 증명하는 구조가 가능한지를 실험하는 프로그램으로, 기술 소개보다 실제 배포와 운영을 중심으로 창업팀을 검증하는 구조로 설계했다”라고 설명한다. </p> <p> 나이트로 바이 해시드는 사업계획서나 피치덱(투자 제안서) 대신 실제 배포한 서비스 URL과 데모를 기반으로 팀을 평가하고, 최종 선발과 동시에 투자를 집행하는 구조다. 해시드에 따르면 나이트로 바이 해시드에는 약 300개 팀이 지원했고, 최종 5개 팀이 선발돼 3월 3일부터 4월 24일까지 8주간 프로그램을 진행했다. </p> <p> <figure> <img alt=\"김서준 해시드 대표 / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/5/7/4f2054b2b24c4c4f-thumbnail-1920x1080-70.jpg\"/> <figcaption> 김서준 해시드 대표 / 출처=IT동아 </figcaption> </figure> </p> <p> 프로그램은 ‘주간 배포 스프린트(sprint)’를 기본 단위로 구성된다. 선발된 팀은 매주 서비스를 실제로 배포하고 그 결과를 바탕으로 진행 상황을 점검받는다. 별도 보고서나 중간발표 대신 해당 주에 배포한 결과물과 사용자 반응이 평가 기준이다. 또한 오픈소스 개발, 데이터 사이언스, 시장 적합성 검증 등 다양한 분야의 전문가 20여 명이 펠로우로 참여했다. 펠로우들은 팀별 주간 리뷰와 오피스아워를 통해 기술 설계, 데이터 전략, 보안 구조, 시장 진입 전략 등 구체적인 멘토링을 제공했다. </p> <p> 김서준 대표는 “나이트로 바이 해시드는 무엇을 만들지 판단하고 글로벌 시장에서 끝까지 실행할 수 있는 창업자를 발굴 및 지원하는 과정”이라며 “프로그램 운영 중 여러 시너지가 나는 것을 보면서 이제 완전히 새로운 유형의 창업 커뮤니티와 개발자 커뮤니티가 필요하다는 확신을 갖게 됐다”라고 전했다. </p> <h3> AI 네이티브 기업, GPTO·엘린·KYRO·GGUI </h3> <p> 나이트로 서울 2026 게임데이에서는 8주간의 나이트로 바이 해시드 프로그램을 마친 4개 기업이 자사 서비스와 그간의 성과를 발표했다. 무대에 오른 기업은 ▲AI 답변 최적화 솔루션 ‘GPTO’를 선보인 어크로스 ▲AI 롤플레잉 채팅 플랫폼 ‘엘린(Elyn)’ ▲게이미피케이션 러닝 앱 ‘키로(KYRO)’ ▲AI 에이전트용 생성형 UI 프로토콜 ‘GGUI’다. 이들 모두 바이브 코딩을 기반으로 1인 창업자가 직접 서비스를 개발 및 운영하고 있다. </p> <p> 이재홍 어크로스 대표가 선보인 GPTO는 AI 답변 최적화 B2B 솔루션이다. GPTO는 주요 AI 플랫폼에서 브랜드나 서비스가 더 자주 언급, 추천되도록 최적화하는 AI 엔진 최적화(AEO) 및 생성형 엔진 최적화(GEO) 솔루션이다. 쉽게 말해 검색엔진에서의 노출을 높이는 검색엔진 최적화(SEO)의 AI 버전이다. GPTO는 지난해 9월 론칭 이후 7개월 만에 100개 이상 기업과 성과 사례를 만들었으며, 월 매출은 매달 2배 이상 성장해 4월 기준 10억 원을 돌파했다. </p> <p> <figure> <img alt=\"(왼쪽 위부터 시계 방향으로) 이재홍 어크로스 대표, 박정환 엘린 대표, 안정우 키로 대표, 임완섭 GGUI 대표 / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/5/7/ef6fee1b2a4b4a42-thumbnail-1920x1080-70.jpg\"/> <figcaption> (왼쪽 위부터 시계 방향으로) 이재홍 어크로스 대표, 박정환 엘린 대표, 안정우 키로 대표, 임완섭 GGUI 대표 / 출처=IT동아 </figcaption> </figure> </p> <p> 엘린은 박정환 대표가 바이브 코딩으로 개발한 AI 롤플레잉 채팅 플랫폼이다. 사용자가 직접 AI 캐릭터와 세계관을 만들고 그 안에서 이야기를 써 내려가는 서비스로, AI가 내놓는 어색한 답변을 교정하고 이전 맥락을 유지하는 ‘기억’ 기능을 추가한 것이 특징이다. 현재 매일 장편 소설 2만 권 분량의 데이터를 처리하고 있으며, 3월 기준 월간 활성 이용자(MAU) 1만 명, 월매출 3억 원을 기록했다. </p> <p> 안정우 대표가 개발한 키로는 달리기를 '땅따먹기'로 재해석한 모바일 러닝 앱이다. 달린 경로가 지도 위 나만의 영토로 표시되고, 다른 사용자의 영토를 빼앗으며 경쟁하는 구조다. 바이브 코딩으로 개발하는 과정을 SNS에 공유하며 입소문을 탄 덕에 별도 광고 없이 출시 3개월 만에 가입자 8만 명을 달성했다. 이용자 누적 러닝 거리는 24만 6000km이며, 전 세계 58개국 2500개 이상 지역이 영토로 기록됐다. </p> <p> GGUI는 임완섭 대표가 개발한 AI 에이전트용 생성형 화면 구성(UI) 오픈소스 기술이다. 이를 이용하면 AI 에이전트는 이용자 연령, 성별, 서비스 사용 환경 등을 고려해 그에 맞는 UI를 실시간으로 자동 생성한다. MCP(AI 모델과 외부 도구를 연결하는 통신 표준)를 지원하는 에이전트나 앱은 별도 개발 없이 즉시 적용할 수 있으며, 오픈 프로토콜로 공개해 누구나 자유롭게 사용할 수 있다. </p> <p> <figure> <img alt=\"나이트로 서울 2026 게임데이 현장 / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/5/7/e633df76dd8742f0-thumbnail-1920x1080-70.jpg\"/> <figcaption> 나이트로 서울 2026 게임데이 현장 / 출처=IT동아 </figcaption> </figure> </p> <p> 나이트로 서울 2026 게임데이는 바이브 코딩이 단순한 기술 트렌드를 넘어 창업 생태계를 바꾸고 있음을 보여주는 자리였다. 참여한 4개 팀은 1인 창업가임에도 월 수억 원의 매출, 수만 명의 이용자, 글로벌 시장 진출이라는 성과를 단기간에 만들어냈다. 이들 창업가는 AI가 개발과 운영의 상당 부분을 대신할 수 있게 되면서 기술 구현 능력이 아니라 무엇을 만들지, 어떤 결과물이 나올지, 서비스 개선 방향은 무엇인지를 빠르고 정확하게 판단하는 안목과 실행력이 중요하다고 입을 모았다. 김서준 대표 역시 “AI 도구로 실행의 문턱이 낮아진 만큼, 방향 설정과 품질 통제에 대한 책임은 더 중요해졌다”라고 강조했다. </p> <p> IT동아 한만혁 기자 (mh@itdonga.com) </p>",
+          "pubDate": "Thu, 07 May 2026 13:18:31 +0900",
+          "guid": "https://it.donga.com/108852/",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "IT동아",
+          "feedUrl": "https://it.donga.com/feeds/rss/",
+          "coverImage": "https://it.donga.com/media/__sized__/images/2026/5/7/5454586c9ae54543-thumbnail-1920x1080-70.jpg",
+          "summary": "[IT동아 한만혁 기자] ‘바이브 코딩(Vibe Coding)’이 창업 생태계를 바꾸고 있다. 개발 지식 없이 자연어만으로 소프트웨어를 만들 수 있는 바이브 코딩 덕에, 새로운 아이디어를 제품으로 구현해 시장에 내놓는 시간이 급격히 단축되고 있기 때문이다. 이에 수개월 치 개발을 단 며칠 만에 해내는 1인 창업자가 늘고 있으며, 이를 기반으로 실제 매출을 올리는 기업도 속속 등장한다. 글로벌...",
+          "author": "mh@itdonga.com (한만혁)",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://it.donga.com/media/__sized__/images/2026/5/7/5454586c9ae54543-thumbnail-1920x1080-70.jpg",
+          "category": "",
+          "episodeType": "",
+          "enclosure": {
+            "url": "https://it.donga.com/media/__sized__/images/2026/5/7/5454586c9ae54543-thumbnail-960x540-70.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          }
+        },
         {
           "title": "기업공개 앞둔 마키나락스, 버티컬 AI 분야 글로벌 선도기업 도약 나선다",
           "link": "https://it.donga.com/108849/",
@@ -6361,37 +6679,9 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "title": "포필러스, 판테라·퍼더로부터 투자 유치 ‘금융·웹3 경계 허물 것’",
-          "link": "https://it.donga.com/108800/",
-          "description": "<p> [IT동아 한만혁 기자] 블록체인 리서치 및 기술 기업 포필러스(Four Pillars)가 4월 27일 기자간담회를 열고 글로벌 벤처캐피탈(VC)로부터의 시리즈A 투자 유치 소식과 종합 블록체인 솔루션 기업으로의 확장 전략을 발표했다. 포필러스는 리서치, 밸리데이터(블록체인 네트워크 검증자) 운영, 기관 컨설팅 등 세 축으로 사업 구조를 재편하고, 이를 통해 아시아 기관이 글로벌 웹3 시장에서 실질적인 성과를 내도록 지원하고자 한다. </p> <p> 포필러스는 지난 2023년 5월 설립 이후 한국어와 영어로 600편 이상의 블록체인 리서치를 발행하고, 온도파이낸스, 수이, 레이어 제로 등 100개 이상 프로토콜 및 기업과 협업하는 등 아시아와 글로벌 블록체인 생태계를 연결하고 있다. </p> <p> <figure> <img alt=\"포필러스 기자간담회에 참가한 포필러스, 판테라캐피탈 임직원 / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/4/27/c55e90fb50d14e09-thumbnail-1920x1080-70.jpg\"/> <figcaption> 포필러스 기자간담회에 참가한 포필러스, 판테라캐피탈 임직원 / 출처=IT동아 </figcaption> </figure> </p> <h3> 글로벌 VC 투자로 글로벌 시장 영향력 검증 </h3> <p> 이날 행사에서 김남웅 포필러스 대표는 글로벌 VC 판테라캐피탈(Pantera Capital)과 퍼더벤처스(Further Ventures)로부터 시리즈A 투자를 유치했다고 밝혔다. 기업 가치는 300억 원으로 인정받았다. </p> <p> 김남웅 대표는 이번 투자 유치의 의미를 ‘글로벌 시장에서의 영향력 검증’으로 규정했다. 그는 “리서치 회사는 투자받기 어렵고 확장성이 부족하다는 고정 관념이 있다”라며 “이번 투자 유치는 포필러스가 단순 리서치를 넘어 확장 가능한 사업 모델을 가진 기업임을 글로벌 투자자들에게 인정받고, 글로벌 시장에서의 영향력을 검증받은 것”이라고 말했다. </p> <p> 판테라캐피탈은 지난 2003년 설립된 블록체인 전문 투자사로, 미국에서 기관 투자자로 등록된 첫 블록체인 펀드다. 현재 5조 원 이상의 운용자산(AUM)을 보유하고 있으며, 블록체인 생태계 전반에 걸쳐 투자 포트폴리오를 운영하는 글로벌 웹3 시장 대표 VC다. </p> <p> 퍼더벤처스는 아부다비 국부펀드가 후원하는 글로벌 VC로, 핀테크와 웹3의 접점에 대한 전략적 투자를 통해 기관 수준의 디지털자산 인프라 구축에 주력하고 있다. 김남웅 대표는 “아부다비는 규제가 완화되어 국내외 많은 빌더가 새로운 시도를 하고 있지만, 중동 왕실이나 정부와 연결고리 없이는 사업하기 어렵다”라며 “중동 정부와 긴밀한 관계를 가진 퍼더벤처스의 투자를 통해 아시아 기관과 중동 시장을 연결하는 발판을 마련할 수 있게 됐다”라고 설명했다. </p> <p> <figure> <img alt=\"김남웅 포필러스 대표 / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/4/27/7eae96b58a644588-thumbnail-1920x1080-70.jpg\"/> <figcaption> 김남웅 포필러스 대표 / 출처=IT동아 </figcaption> </figure> </p> <h3> 리서치·밸리데이터·기관 세 축으로 사업 구조 재편 </h3> <p> 포필러스는 이번 투자 유치를 기반으로 사업 구조를 재편하고 기관 대상 리서치, 블록체인 인프라 기업으로 사업 영역을 확장할 계획이다. </p> <p> 포필러스가 이번 사업 구조 재편을 통해 해결하고자 하는 구조적 과제는 세 가지다. 첫 번째는 아시아와 글로벌 시장의 단절이다. 김남웅 대표는 “블록체인 기술은 특정 국가에 종속되지 않는 기술이지만, 기술 및 정책 논의는 대부분 미국 중심으로 이루어지고 아시아 시장은 소외되어 있었다”라고 진단하며 “포필러스는 판테라캐피탈, 퍼더벤처스, 해시드 등 주요 투자자들과 함께 아시아와 글로벌 시장을 연결하고자 한다”라고 말했다. </p> <p> 두 번째는 전통 금융과 웹3 시장의 단절이다. 김남웅 대표는 “현재 국내 금융권은 스테이블코인, 실물연계자산(RWA), 토큰증권(STO) 등의 도입을 적극 검토하고 있지만, 글로벌 상위 기업과의 실무적 연결은 부족한 상황”이라며 “글로벌 상위 기업과 아시아, 한국 기관들을 연결해 글로벌 트렌드에 부합하는 경쟁력 있는 상품을 개발하도록 정보와 네트워크를 제공할 방침”이라고 전했다. </p> <p> 세 번째는 리서치에서 종합 솔루션으로의 전환이다. 김남웅 대표는 “기관들이 자산 운용 상품을 선보이려면 스테이킹 인프라가 필요하다”라며 “포필러스는 다수 구성원이 밸리데이터 전문 기업 A41 출신으로, 보안성과 신뢰성을 갖춘 스테이킹 인프라를 제공할 수 있는 역량을 갖추고 있다”라고 설명했다. 단순한 자문을 넘어 실무 단계에서 최적의 파트너와 연결해 경쟁력 있는 상품을 개발하도록 지원하겠다는 설명이다. </p> <p> <figure> <img alt=\"패널 토론에 참가한 포필러스의 강희창 CSO, 복진솔 리서치총괄, 판테라캐피탈의 니할 마운더 파트너, 제이 유 주니어 파트너(왼쪽부터) / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/4/27/45e1874c7ff54166-thumbnail-1920x1080-70.jpg\"/> <figcaption> 패널 토론에 참가한 포필러스의 강희창 CSO, 복진솔 리서치총괄, 판테라캐피탈의 니할 마운더 파트너, 제이 유 주니어 파트너(왼쪽부터) / 출처=IT동아 </figcaption> </figure> </p> <p> 포필러스는 세 가지 구조적 과제를 해결하기 위해 ▲리서치 ▲밸리데이티드 ▲인스티튜션 등 세 개의 브랜드를 선보인다. 리서치는 크립토, 기관, 투자, 기술, 아시아 등 5개 카테고리를 중심으로 세분화된 콘텐츠를 발행한다. 밸리데이티드는 기관들이 믿고 맡길 수 있는 스테이킹 인프라 서비스다. 인스티튜션은 기관 대상 컨설팅 및 자문 서비스로, 국내외 기관들이 글로벌 수준에 부합하는 상품을 개발하도록 실무 단계에서 지원한다. </p> <p> 김남웅 대표는 지금이 사업 확장의 적기라고 강조했다. 그는 “현재 한국은 디지털자산 기본법 제정을 앞두고 있고, 이미 여러 기관이 기술실증(PoC)을 진행하고 있는 상황이다. 투기를 넘어 사업을 효율화하고 추가 수익을 창출할 수 있는 기회의 시장으로 거듭나고 있다”라며 “지금은 리서치와 관계 연결의 중요성이 더욱 커지고 있는 시기로, 우리나라뿐 아니라 아시아의 여러 기관이 글로벌 웹3 시장에 원활하게 진출하도록 돕기 위해 사업 구조를 재편했다”라고 설명했다. 이어 “포필러스의 역량과 네트워크 인프라를 통해 전통 금융권과 웹3, 아시아 시장과 서구 시장의 경계를 허물겠다”라고 강조했다. </p> <p> <figure> <img alt=\"프랭클린 비 판테라캐피탈 제너럴 파트너 / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/4/27/c924173178c9437f-thumbnail-1920x1080-70.jpg\"/> <figcaption> 프랭클린 비 판테라캐피탈 제너럴 파트너 / 출처=IT동아 </figcaption> </figure> </p> <p> 행사에 참가한 프랭클린 비(Franklin Bi) 판테라캐피탈 제너럴 파트너는 “포필러스는 블록체인 기술에 대한 교육, 밸리데이터 운영 등을 통해 기관의 블록체인 진입 관문 역할을 하면서 기관이 실제 영향력을 발휘하도록 돕는다”라며 “글로벌 시장에서 검증된 역량, 기관 및 웹3 생태계를 연결하는 네트워크, 실행 및 인프라를 갖춘 기업”이라고 설명했다. 또한 한국 시장에 대해서는 “한국은 세계에서 신기술 채택률이 가장 높은 시장 중 하나이며, 혁신을 위한 풍부한 시장”이라며 “신기술이 발전하려면 규제 명확성, 금융 및 기술 업계의 참여, 열린 소비자 집단, 글로벌 파트너와의 연결이 필요하다. 한국의 경우 블록체인 규제 명확성이 확보되면 금융 및 기술 산업의 참여를 통해 관련 산업 활성화와 블록체인 대중화가 가속화될 것”이라며 기대감을 표했다. </p> <p> IT동아 한만혁 기자 (mh@itdonga.com) </p>",
-          "content": "<p> [IT동아 한만혁 기자] 블록체인 리서치 및 기술 기업 포필러스(Four Pillars)가 4월 27일 기자간담회를 열고 글로벌 벤처캐피탈(VC)로부터의 시리즈A 투자 유치 소식과 종합 블록체인 솔루션 기업으로의 확장 전략을 발표했다. 포필러스는 리서치, 밸리데이터(블록체인 네트워크 검증자) 운영, 기관 컨설팅 등 세 축으로 사업 구조를 재편하고, 이를 통해 아시아 기관이 글로벌 웹3 시장에서 실질적인 성과를 내도록 지원하고자 한다. </p> <p> 포필러스는 지난 2023년 5월 설립 이후 한국어와 영어로 600편 이상의 블록체인 리서치를 발행하고, 온도파이낸스, 수이, 레이어 제로 등 100개 이상 프로토콜 및 기업과 협업하는 등 아시아와 글로벌 블록체인 생태계를 연결하고 있다. </p> <p> <figure> <img alt=\"포필러스 기자간담회에 참가한 포필러스, 판테라캐피탈 임직원 / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/4/27/c55e90fb50d14e09-thumbnail-1920x1080-70.jpg\"/> <figcaption> 포필러스 기자간담회에 참가한 포필러스, 판테라캐피탈 임직원 / 출처=IT동아 </figcaption> </figure> </p> <h3> 글로벌 VC 투자로 글로벌 시장 영향력 검증 </h3> <p> 이날 행사에서 김남웅 포필러스 대표는 글로벌 VC 판테라캐피탈(Pantera Capital)과 퍼더벤처스(Further Ventures)로부터 시리즈A 투자를 유치했다고 밝혔다. 기업 가치는 300억 원으로 인정받았다. </p> <p> 김남웅 대표는 이번 투자 유치의 의미를 ‘글로벌 시장에서의 영향력 검증’으로 규정했다. 그는 “리서치 회사는 투자받기 어렵고 확장성이 부족하다는 고정 관념이 있다”라며 “이번 투자 유치는 포필러스가 단순 리서치를 넘어 확장 가능한 사업 모델을 가진 기업임을 글로벌 투자자들에게 인정받고, 글로벌 시장에서의 영향력을 검증받은 것”이라고 말했다. </p> <p> 판테라캐피탈은 지난 2003년 설립된 블록체인 전문 투자사로, 미국에서 기관 투자자로 등록된 첫 블록체인 펀드다. 현재 5조 원 이상의 운용자산(AUM)을 보유하고 있으며, 블록체인 생태계 전반에 걸쳐 투자 포트폴리오를 운영하는 글로벌 웹3 시장 대표 VC다. </p> <p> 퍼더벤처스는 아부다비 국부펀드가 후원하는 글로벌 VC로, 핀테크와 웹3의 접점에 대한 전략적 투자를 통해 기관 수준의 디지털자산 인프라 구축에 주력하고 있다. 김남웅 대표는 “아부다비는 규제가 완화되어 국내외 많은 빌더가 새로운 시도를 하고 있지만, 중동 왕실이나 정부와 연결고리 없이는 사업하기 어렵다”라며 “중동 정부와 긴밀한 관계를 가진 퍼더벤처스의 투자를 통해 아시아 기관과 중동 시장을 연결하는 발판을 마련할 수 있게 됐다”라고 설명했다. </p> <p> <figure> <img alt=\"김남웅 포필러스 대표 / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/4/27/7eae96b58a644588-thumbnail-1920x1080-70.jpg\"/> <figcaption> 김남웅 포필러스 대표 / 출처=IT동아 </figcaption> </figure> </p> <h3> 리서치·밸리데이터·기관 세 축으로 사업 구조 재편 </h3> <p> 포필러스는 이번 투자 유치를 기반으로 사업 구조를 재편하고 기관 대상 리서치, 블록체인 인프라 기업으로 사업 영역을 확장할 계획이다. </p> <p> 포필러스가 이번 사업 구조 재편을 통해 해결하고자 하는 구조적 과제는 세 가지다. 첫 번째는 아시아와 글로벌 시장의 단절이다. 김남웅 대표는 “블록체인 기술은 특정 국가에 종속되지 않는 기술이지만, 기술 및 정책 논의는 대부분 미국 중심으로 이루어지고 아시아 시장은 소외되어 있었다”라고 진단하며 “포필러스는 판테라캐피탈, 퍼더벤처스, 해시드 등 주요 투자자들과 함께 아시아와 글로벌 시장을 연결하고자 한다”라고 말했다. </p> <p> 두 번째는 전통 금융과 웹3 시장의 단절이다. 김남웅 대표는 “현재 국내 금융권은 스테이블코인, 실물연계자산(RWA), 토큰증권(STO) 등의 도입을 적극 검토하고 있지만, 글로벌 상위 기업과의 실무적 연결은 부족한 상황”이라며 “글로벌 상위 기업과 아시아, 한국 기관들을 연결해 글로벌 트렌드에 부합하는 경쟁력 있는 상품을 개발하도록 정보와 네트워크를 제공할 방침”이라고 전했다. </p> <p> 세 번째는 리서치에서 종합 솔루션으로의 전환이다. 김남웅 대표는 “기관들이 자산 운용 상품을 선보이려면 스테이킹 인프라가 필요하다”라며 “포필러스는 다수 구성원이 밸리데이터 전문 기업 A41 출신으로, 보안성과 신뢰성을 갖춘 스테이킹 인프라를 제공할 수 있는 역량을 갖추고 있다”라고 설명했다. 단순한 자문을 넘어 실무 단계에서 최적의 파트너와 연결해 경쟁력 있는 상품을 개발하도록 지원하겠다는 설명이다. </p> <p> <figure> <img alt=\"패널 토론에 참가한 포필러스의 강희창 CSO, 복진솔 리서치총괄, 판테라캐피탈의 니할 마운더 파트너, 제이 유 주니어 파트너(왼쪽부터) / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/4/27/45e1874c7ff54166-thumbnail-1920x1080-70.jpg\"/> <figcaption> 패널 토론에 참가한 포필러스의 강희창 CSO, 복진솔 리서치총괄, 판테라캐피탈의 니할 마운더 파트너, 제이 유 주니어 파트너(왼쪽부터) / 출처=IT동아 </figcaption> </figure> </p> <p> 포필러스는 세 가지 구조적 과제를 해결하기 위해 ▲리서치 ▲밸리데이티드 ▲인스티튜션 등 세 개의 브랜드를 선보인다. 리서치는 크립토, 기관, 투자, 기술, 아시아 등 5개 카테고리를 중심으로 세분화된 콘텐츠를 발행한다. 밸리데이티드는 기관들이 믿고 맡길 수 있는 스테이킹 인프라 서비스다. 인스티튜션은 기관 대상 컨설팅 및 자문 서비스로, 국내외 기관들이 글로벌 수준에 부합하는 상품을 개발하도록 실무 단계에서 지원한다. </p> <p> 김남웅 대표는 지금이 사업 확장의 적기라고 강조했다. 그는 “현재 한국은 디지털자산 기본법 제정을 앞두고 있고, 이미 여러 기관이 기술실증(PoC)을 진행하고 있는 상황이다. 투기를 넘어 사업을 효율화하고 추가 수익을 창출할 수 있는 기회의 시장으로 거듭나고 있다”라며 “지금은 리서치와 관계 연결의 중요성이 더욱 커지고 있는 시기로, 우리나라뿐 아니라 아시아의 여러 기관이 글로벌 웹3 시장에 원활하게 진출하도록 돕기 위해 사업 구조를 재편했다”라고 설명했다. 이어 “포필러스의 역량과 네트워크 인프라를 통해 전통 금융권과 웹3, 아시아 시장과 서구 시장의 경계를 허물겠다”라고 강조했다. </p> <p> <figure> <img alt=\"프랭클린 비 판테라캐피탈 제너럴 파트너 / 출처=IT동아\" src=\"https://it.donga.com/media/__sized__/images/2026/4/27/c924173178c9437f-thumbnail-1920x1080-70.jpg\"/> <figcaption> 프랭클린 비 판테라캐피탈 제너럴 파트너 / 출처=IT동아 </figcaption> </figure> </p> <p> 행사에 참가한 프랭클린 비(Franklin Bi) 판테라캐피탈 제너럴 파트너는 “포필러스는 블록체인 기술에 대한 교육, 밸리데이터 운영 등을 통해 기관의 블록체인 진입 관문 역할을 하면서 기관이 실제 영향력을 발휘하도록 돕는다”라며 “글로벌 시장에서 검증된 역량, 기관 및 웹3 생태계를 연결하는 네트워크, 실행 및 인프라를 갖춘 기업”이라고 설명했다. 또한 한국 시장에 대해서는 “한국은 세계에서 신기술 채택률이 가장 높은 시장 중 하나이며, 혁신을 위한 풍부한 시장”이라며 “신기술이 발전하려면 규제 명확성, 금융 및 기술 업계의 참여, 열린 소비자 집단, 글로벌 파트너와의 연결이 필요하다. 한국의 경우 블록체인 규제 명확성이 확보되면 금융 및 기술 산업의 참여를 통해 관련 산업 활성화와 블록체인 대중화가 가속화될 것”이라며 기대감을 표했다. </p> <p> IT동아 한만혁 기자 (mh@itdonga.com) </p>",
-          "pubDate": "Mon, 27 Apr 2026 15:39:08 +0900",
-          "guid": "https://it.donga.com/108800/",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "IT동아",
-          "feedUrl": "https://it.donga.com/feeds/rss/",
-          "coverImage": "https://it.donga.com/media/__sized__/images/2026/4/27/c55e90fb50d14e09-thumbnail-1920x1080-70.jpg",
-          "summary": "[IT동아 한만혁 기자] 블록체인 리서치 및 기술 기업 포필러스(Four Pillars)가 4월 27일 기자간담회를 열고 글로벌 벤처캐피탈(VC)로부터의 시리즈A 투자 유치 소식과 종합 블록체인 솔루션 기업으로의 확장 전략을 발표했다. 포필러스는 리서치, 밸리데이터(블록체인 네트워크 검증자) 운영, 기관 컨설팅 등 세 축으로 사업 구조를 재편하고, 이를 통해 아시아 기관이 글로벌 웹3 시장에...",
-          "author": "mh@itdonga.com (한만혁)",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://it.donga.com/media/__sized__/images/2026/4/27/c55e90fb50d14e09-thumbnail-1920x1080-70.jpg",
-          "category": "",
-          "episodeType": "",
-          "enclosure": {
-            "url": "https://it.donga.com/media/__sized__/images/2026/4/27/c55e90fb50d14e09-thumbnail-960x540-70.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
         }
       ],
-      "lastUpdated": 1778127236201,
+      "lastUpdated": 1778130852202,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6409,7 +6699,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1778127236319,
+      "lastUpdated": 1778130852347,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6427,7 +6717,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1778127236559,
+      "lastUpdated": 1778130852575,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7596,7 +7886,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1778127237242,
+      "lastUpdated": 1778130853797,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9840,7 +10130,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1778127269691,
+      "lastUpdated": 1778130877537,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9850,7 +10140,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2024378974298943489%2FvoBO3RCH_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F2024378974298943489%2FvoBO3RCH_400x400.jpg"
     },
     {
       "title": "Tsla Chan / @Tslachan",
@@ -11008,7 +11298,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1778127269997,
+      "lastUpdated": 1778130878192,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -11025,6 +11315,29 @@
       "url": "https://nitter.net/seti_park/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "R to @seti_park: 앗, 게임 엔진 용이 아니라, Draco/glTF 관련 특허였군요. 🏃🏻 @spaceastrium @tokamakbot",
+          "link": "https://nitter.net/seti_park/status/2052250922781401108#m",
+          "description": "<p>앗, 게임 엔진 용이 아니라, Draco/glTF 관련 특허였군요. 🏃🏻<br> <br> <a href=\"https://nitter.net/spaceastrium\" title=\"𝑹𝒐𝑪𝒐𝑪𝒐🥷\">@spaceastrium</a> <br> <a href=\"https://nitter.net/tokamakbot\" title=\"𝐊𝐚𝐥𝐭𝐳\">@tokamakbot</a></p> <img src=\"https://nitter.net/pic/media%2FHHsPVctbsAAPg3C.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHHsPVcra0AED_mB.jpg\" style=\"max-width:250px;\" />",
+          "content": "<p>앗, 게임 엔진 용이 아니라, Draco/glTF 관련 특허였군요. 🏃🏻<br> <br> <a href=\"https://nitter.net/spaceastrium\" title=\"𝑹𝒐𝑪𝒐𝑪𝒐🥷\">@spaceastrium</a> <br> <a href=\"https://nitter.net/tokamakbot\" title=\"𝐊𝐚𝐥𝐭𝐳\">@tokamakbot</a></p> <img src=\"https://nitter.net/pic/media%2FHHsPVctbsAAPg3C.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHHsPVcra0AED_mB.jpg\" style=\"max-width:250px;\" />",
+          "pubDate": "Thu, 07 May 2026 04:55:23 GMT",
+          "guid": "https://nitter.net/seti_park/2052250922781401108",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "SETI Park / @seti_park",
+          "feedUrl": "https://nitter.net/seti_park/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHsPVctbsAAPg3C.jpg",
+          "summary": "앗, 게임 엔진 용이 아니라, Draco/glTF 관련 특허였군요. 🏃🏻 @spaceastrium @tokamakbot",
+          "author": "@seti_park",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHsPVctbsAAPg3C.jpg",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "AI 모델은 완벽하나 컴퓨팅 파워가 부족했던 Anthropic 🤝 컴퓨팅 파워는 넘쳐나나 AI 모델이 약했던 xAI",
           "link": "https://nitter.net/seti_park/status/2052230166903189577#m",
@@ -11212,8 +11525,8 @@
         {
           "title": "RT by @seti_park: Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora. https://x.com/i/broadcasts/1qGoNegbnRNKv",
           "link": "https://nitter.net/claudeai/status/2052105841864495282#m",
-          "description": "<p>Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora.<br> <br> <a href=\"https://nitter.net/i/broadcasts/1qGoNegbnRNKv\">nitter.net/i/broadcasts/1qGoNegbn…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2052240119759785985%2FuBfi0n_9%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
-          "content": "<p>Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora.<br> <br> <a href=\"https://nitter.net/i/broadcasts/1qGoNegbnRNKv\">nitter.net/i/broadcasts/1qGoNegbn…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2052240119759785985%2FuBfi0n_9%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
+          "description": "<p>Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora.<br> <br> <a href=\"https://nitter.net/i/broadcasts/1qGoNegbnRNKv\">nitter.net/i/broadcasts/1qGoNegbn…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2052254397066039296%2FYHtdFZWR%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
+          "content": "<p>Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora.<br> <br> <a href=\"https://nitter.net/i/broadcasts/1qGoNegbnRNKv\">nitter.net/i/broadcasts/1qGoNegbn…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2052254397066039296%2FYHtdFZWR%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
           "pubDate": "Wed, 06 May 2026 19:18:53 GMT",
           "guid": "https://nitter.net/seti_park/2052105841864495282",
           "read": false,
@@ -11221,14 +11534,14 @@
           "tags": [],
           "feedTitle": "SETI Park / @seti_park",
           "feedUrl": "https://nitter.net/seti_park/rss",
-          "coverImage": "https://nitter.net/pic/card_img%2F2052240119759785985%2FuBfi0n_9%3Fformat%3Djpg%26name%3D800x419",
+          "coverImage": "https://nitter.net/pic/card_img%2F2052254397066039296%2FYHtdFZWR%3Fformat%3Djpg%26name%3D800x419",
           "summary": "Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora. nitter.net/i/broadcasts/1qGoNegbn…",
           "author": "@claudeai",
           "saved": false,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
-          "image": "https://nitter.net/pic/card_img%2F2052240119759785985%2FuBfi0n_9%3Fformat%3Djpg%26name%3D800x419",
+          "image": "https://nitter.net/pic/card_img%2F2052254397066039296%2FYHtdFZWR%3Fformat%3Djpg%26name%3D800x419",
           "category": "",
           "episodeType": ""
         },
@@ -12151,32 +12464,9 @@
           "image": "https://nitter.net/pic/media%2FHHEOmzIbgAA-unt.jpg",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "Pinned: WHILE STARGATE BUILDS A 10-GIGAWATT MEGA-CAMPUS, GOOGLE JUST SAID IT CAN NOW TRAIN ACROSS MULTIPLE DATA CENTERS AT THE SAME TIME The five largest hyperscalers will spend between $660 and $690 billion on AI infrastructure this year. Stargate has committed another $500 billion over four years toward roughly 10 gigawatts of contiguous campus capacity. Project Rainier consolidates Anthropic’s Claude training onto a 1,200-acre Indiana campus with high-bandwidth networking that does not cross availability zones. The shared assumption underneath these bets is that frontier AI training requires colocation in a single mega-campus. At Cloud Next 2026 last week, Google said something that quietly contradicts the assumption. Sundar Pichai’s keynote framed it as performance. The actual sentence is in the Virgo Network blog: “We can now turn months of training into weeks with the power of 1 million+ TPU chips in a single cluster, orchestrated by Pathways and JAX.” Read it again. In a single cluster. Across multiple sites. This was not a routine infrastructure update. A traditional approach to scaling AI compute is a post-process operation. You build mega-campuses. You concentrate power. You install high-bandwidth fabrics within a region and you accept that a single training job lives on a single contiguous chip array. AWS’s UltraCluster architecture cannot cross availability zones, by AWS’s own documentation. Microsoft’s Azure does not publicize a multi-region equivalent. The buildout race that has consumed the last eighteen months of industry headlines is operating inside this constraint. Google has been outside it for nearly four years, and the patent record shows the timeline. US 2025/0245565 A1 was filed in April 2022. The inventor field lists two people: Aakanksha Chowdhery and Paul Ronald Barham. The same two names appear as the first two authors of the original Pathways system paper, published a month earlier at MLSys 2022. The patent describes how to coordinate gradient updates across two physically separated clusters, with the specification reporting near-perfect linear scaling — 1.95 times the throughput of a single cluster. This is Google admitting, in its own patent, that the cluster does not need to be one place. The algorithm record runs alongside the patent. DiLoCo, posted to arXiv in November 2023, demonstrated that 8 distributed workers could match the perplexity of synchronous training while communicating 500 times less. The paper stated the design intent in plain language: “Each replica can be trained in different locations of the world, with different accelerators.” Streaming DiLoCo followed in January 2025. Decoupled DiLoCo, the April 23 paper this year, removed the last lock-step synchronization barrier — one localized hardware failure no longer stalls the entire job. Three papers in three years, each one closing a remaining gap between the patent’s filing date and a working production system. Then look at who wrote them. DiLoCo in 2023 has nine authors from Google DeepMind. Arthur Douillard and team. No Pathways people on the paper. Streaming DiLoCo in 2025 has fifteen authors. The last name on the list is Paul Barham. The system architect who filed the cross-cluster patent has now joined the algorithm work. Decoupled DiLoCo in April 2026 has seventeen authors. The last name on the list is Jeff Dean. Google’s Chief Scientist, who was on the original 2022 Pathways system paper. Across four years, the named contributors converge from two separate teams — DeepMind’s algorithm group and Google Research’s systems group — onto the same papers. By the final paper in the sequence, the algorithm work and the system work share a roof. This is not how a buildout looks. This is how a strategic program looks when the same room owns the architecture, the patent, and the algorithm. Cloud Next 2026 was the surfacing of that program, not the announcement of it. The patent that protects the architecture expires in May 2042. Sixteen years of legal protection from now, and the algorithm record is already three years old. Stargate’s $500 billion buildout is still being poured. Project Rainier’s 500,000 Trainium2 chips are still being installed. Microsoft just took over a Crusoe-developed expansion site in Abilene that OpenAI declined to pursue, then took over a Nscale-built facility in Norway that OpenAI had branded as Stargate Norway. The buyers of mega-campus capacity are starting to walk away from previously stated plans. Sam Altman cut OpenAI’s eight-year infrastructure target from $1.4 trillion to $600 billion in February. The hyperscalers betting on consistency are visibly adjusting. The hyperscaler betting on availability has been quiet about it for four years. The room that decided multi-cluster training would be Google’s bet — in 2022, with Chowdhery and Barham filing the patent and the Pathways system paper in the same month — is the room whose output is now visible at Cloud Next. What that room produces is the architecture the others are still building toward.",
-          "link": "https://nitter.net/seti_park/status/2049429134775058533#m",
-          "description": "<p>WHILE STARGATE BUILDS A 10-GIGAWATT MEGA-CAMPUS, GOOGLE JUST SAID IT CAN NOW TRAIN ACROSS MULTIPLE DATA CENTERS AT THE SAME TIME<br> <br> The five largest hyperscalers will spend between $660 and $690 billion on AI infrastructure this year. Stargate has committed another $500 billion over four years toward roughly 10 gigawatts of contiguous campus capacity. Project Rainier consolidates Anthropic’s Claude training onto a 1,200-acre Indiana campus with high-bandwidth networking that does not cross availability zones. The shared assumption underneath these bets is that frontier AI training requires colocation in a single mega-campus.<br> <br> At Cloud Next 2026 last week, Google said something that quietly contradicts the assumption. Sundar Pichai’s keynote framed it as performance. The actual sentence is in the Virgo Network blog: “We can now turn months of training into weeks with the power of 1 million+ TPU chips in a single cluster, orchestrated by Pathways and JAX.” Read it again. In a single cluster. Across multiple sites.<br> <br> This was not a routine infrastructure update.<br> <br> A traditional approach to scaling AI compute is a post-process operation. You build mega-campuses. You concentrate power. You install high-bandwidth fabrics within a region and you accept that a single training job lives on a single contiguous chip array. AWS’s UltraCluster architecture cannot cross availability zones, by AWS’s own documentation. Microsoft’s Azure does not publicize a multi-region equivalent. The buildout race that has consumed the last eighteen months of industry headlines is operating inside this constraint.<br> <br> Google has been outside it for nearly four years, and the patent record shows the timeline.<br> <br> US 2025/0245565 A1 was filed in April 2022. The inventor field lists two people: Aakanksha Chowdhery and Paul Ronald Barham. The same two names appear as the first two authors of the original Pathways system paper, published a month earlier at MLSys 2022. The patent describes how to coordinate gradient updates across two physically separated clusters, with the specification reporting near-perfect linear scaling — 1.95 times the throughput of a single cluster. This is Google admitting, in its own patent, that the cluster does not need to be one place.<br> <br> The algorithm record runs alongside the patent. DiLoCo, posted to arXiv in November 2023, demonstrated that 8 distributed workers could match the perplexity of synchronous training while communicating 500 times less. The paper stated the design intent in plain language: “Each replica can be trained in different locations of the world, with different accelerators.” Streaming DiLoCo followed in January 2025. Decoupled DiLoCo, the April 23 paper this year, removed the last lock-step synchronization barrier — one localized hardware failure no longer stalls the entire job.<br> <br> Three papers in three years, each one closing a remaining gap between the patent’s filing date and a working production system.<br> <br> Then look at who wrote them.<br> <br> DiLoCo in 2023 has nine authors from Google DeepMind. Arthur Douillard and team. No Pathways people on the paper.<br> <br> Streaming DiLoCo in 2025 has fifteen authors. The last name on the list is Paul Barham. The system architect who filed the cross-cluster patent has now joined the algorithm work.<br> <br> Decoupled DiLoCo in April 2026 has seventeen authors. The last name on the list is Jeff Dean. Google’s Chief Scientist, who was on the original 2022 Pathways system paper.<br> <br> Across four years, the named contributors converge from two separate teams — DeepMind’s algorithm group and Google Research’s systems group — onto the same papers. By the final paper in the sequence, the algorithm work and the system work share a roof.<br> <br> This is not how a buildout looks. This is how a strategic program looks when the same room owns the architecture, the patent, and the algorithm.<br> <br> Cloud Next 2026 was the surfacing of that program, not the announcement of it. The patent that protects the architecture expires in May 2042. Sixteen years of legal protection from now, and the algorithm record is already three years old. Stargate’s $500 billion buildout is still being poured. Project Rainier’s 500,000 Trainium2 chips are still being installed. Microsoft just took over a Crusoe-developed expansion site in Abilene that OpenAI declined to pursue, then took over a Nscale-built facility in Norway that OpenAI had branded as Stargate Norway.<br> <br> The buyers of mega-campus capacity are starting to walk away from previously stated plans. Sam Altman cut OpenAI’s eight-year infrastructure target from $1.4 trillion to $600 billion in February.<br> <br> The hyperscalers betting on consistency are visibly adjusting. The hyperscaler betting on availability has been quiet about it for four years.<br> <br> The room that decided multi-cluster training would be Google’s bet — in 2022, with Chowdhery and Barham filing the patent and the Pathways system paper in the same month — is the room whose output is now visible at Cloud Next.<br> <br> What that room produces is the architecture the others are still building toward.</p> <img src=\"https://nitter.net/pic/media%2FHHEIPu-bQAAEv0e.png\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>SETI Park (@seti_park)</b> <p> <p><a href=\"http://x.com/i/article/2049141973043613696\">x.com/i/article/204914197304…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/seti_park/status/2049145396908474858#m\">https://nitter.net/seti_park/status/2049145396908474858#m</a> </footer> </blockquote>",
-          "content": "<p>WHILE STARGATE BUILDS A 10-GIGAWATT MEGA-CAMPUS, GOOGLE JUST SAID IT CAN NOW TRAIN ACROSS MULTIPLE DATA CENTERS AT THE SAME TIME<br> <br> The five largest hyperscalers will spend between $660 and $690 billion on AI infrastructure this year. Stargate has committed another $500 billion over four years toward roughly 10 gigawatts of contiguous campus capacity. Project Rainier consolidates Anthropic’s Claude training onto a 1,200-acre Indiana campus with high-bandwidth networking that does not cross availability zones. The shared assumption underneath these bets is that frontier AI training requires colocation in a single mega-campus.<br> <br> At Cloud Next 2026 last week, Google said something that quietly contradicts the assumption. Sundar Pichai’s keynote framed it as performance. The actual sentence is in the Virgo Network blog: “We can now turn months of training into weeks with the power of 1 million+ TPU chips in a single cluster, orchestrated by Pathways and JAX.” Read it again. In a single cluster. Across multiple sites.<br> <br> This was not a routine infrastructure update.<br> <br> A traditional approach to scaling AI compute is a post-process operation. You build mega-campuses. You concentrate power. You install high-bandwidth fabrics within a region and you accept that a single training job lives on a single contiguous chip array. AWS’s UltraCluster architecture cannot cross availability zones, by AWS’s own documentation. Microsoft’s Azure does not publicize a multi-region equivalent. The buildout race that has consumed the last eighteen months of industry headlines is operating inside this constraint.<br> <br> Google has been outside it for nearly four years, and the patent record shows the timeline.<br> <br> US 2025/0245565 A1 was filed in April 2022. The inventor field lists two people: Aakanksha Chowdhery and Paul Ronald Barham. The same two names appear as the first two authors of the original Pathways system paper, published a month earlier at MLSys 2022. The patent describes how to coordinate gradient updates across two physically separated clusters, with the specification reporting near-perfect linear scaling — 1.95 times the throughput of a single cluster. This is Google admitting, in its own patent, that the cluster does not need to be one place.<br> <br> The algorithm record runs alongside the patent. DiLoCo, posted to arXiv in November 2023, demonstrated that 8 distributed workers could match the perplexity of synchronous training while communicating 500 times less. The paper stated the design intent in plain language: “Each replica can be trained in different locations of the world, with different accelerators.” Streaming DiLoCo followed in January 2025. Decoupled DiLoCo, the April 23 paper this year, removed the last lock-step synchronization barrier — one localized hardware failure no longer stalls the entire job.<br> <br> Three papers in three years, each one closing a remaining gap between the patent’s filing date and a working production system.<br> <br> Then look at who wrote them.<br> <br> DiLoCo in 2023 has nine authors from Google DeepMind. Arthur Douillard and team. No Pathways people on the paper.<br> <br> Streaming DiLoCo in 2025 has fifteen authors. The last name on the list is Paul Barham. The system architect who filed the cross-cluster patent has now joined the algorithm work.<br> <br> Decoupled DiLoCo in April 2026 has seventeen authors. The last name on the list is Jeff Dean. Google’s Chief Scientist, who was on the original 2022 Pathways system paper.<br> <br> Across four years, the named contributors converge from two separate teams — DeepMind’s algorithm group and Google Research’s systems group — onto the same papers. By the final paper in the sequence, the algorithm work and the system work share a roof.<br> <br> This is not how a buildout looks. This is how a strategic program looks when the same room owns the architecture, the patent, and the algorithm.<br> <br> Cloud Next 2026 was the surfacing of that program, not the announcement of it. The patent that protects the architecture expires in May 2042. Sixteen years of legal protection from now, and the algorithm record is already three years old. Stargate’s $500 billion buildout is still being poured. Project Rainier’s 500,000 Trainium2 chips are still being installed. Microsoft just took over a Crusoe-developed expansion site in Abilene that OpenAI declined to pursue, then took over a Nscale-built facility in Norway that OpenAI had branded as Stargate Norway.<br> <br> The buyers of mega-campus capacity are starting to walk away from previously stated plans. Sam Altman cut OpenAI’s eight-year infrastructure target from $1.4 trillion to $600 billion in February.<br> <br> The hyperscalers betting on consistency are visibly adjusting. The hyperscaler betting on availability has been quiet about it for four years.<br> <br> The room that decided multi-cluster training would be Google’s bet — in 2022, with Chowdhery and Barham filing the patent and the Pathways system paper in the same month — is the room whose output is now visible at Cloud Next.<br> <br> What that room produces is the architecture the others are still building toward.</p> <img src=\"https://nitter.net/pic/media%2FHHEIPu-bQAAEv0e.png\" style=\"max-width:250px;\" /> <hr/> <blockquote> <b>SETI Park (@seti_park)</b> <p> <p><a href=\"http://x.com/i/article/2049141973043613696\">x.com/i/article/204914197304…</a></p> </p> <footer> — <cite><a href=\"https://nitter.net/seti_park/status/2049145396908474858#m\">https://nitter.net/seti_park/status/2049145396908474858#m</a> </footer> </blockquote>",
-          "pubDate": "Wed, 29 Apr 2026 10:02:36 GMT",
-          "guid": "https://nitter.net/seti_park/2049429134775058533",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "SETI Park / @seti_park",
-          "feedUrl": "https://nitter.net/seti_park/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHHEIPu-bQAAEv0e.png",
-          "summary": "WHILE STARGATE BUILDS A 10-GIGAWATT MEGA-CAMPUS, GOOGLE JUST SAID IT CAN NOW TRAIN ACROSS MULTIPLE DATA CENTERS AT THE SAME TIME The five largest hyperscalers will spend between $660 and $690 billion on AI infrastructure...",
-          "author": "@seti_park",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHHEIPu-bQAAEv0e.png",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1778127271439,
+      "lastUpdated": 1778130879032,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13344,7 +13634,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1778127271720,
+      "lastUpdated": 1778130879111,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14089,7 +14379,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1778127272495,
+      "lastUpdated": 1778130880005,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14268,7 +14558,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1778127273971,
+      "lastUpdated": 1778130881482,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14353,7 +14643,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1778127276146,
+      "lastUpdated": 1778130883504,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15191,7 +15481,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1778127276659,
+      "lastUpdated": 1778130884000,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -16360,7 +16650,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1778127277798,
+      "lastUpdated": 1778130884860,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -17624,7 +17914,7 @@
           "videoId": "7SZev66YFC0"
         }
       ],
-      "lastUpdated": 1778127342588,
+      "lastUpdated": 1778130950570,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -18494,7 +18784,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1778127368751,
+  "lastRefreshTimestamp": 1778130985952,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
