@@ -138,7 +138,7 @@
           "audioUrl": "https://api.substack.com/feed/podcast/192821923/211a5c398c927b4bfe673ab7f19bc451.mp3"
         }
       ],
-      "lastUpdated": 1778109143515,
+      "lastUpdated": 1778112744252,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -1298,7 +1298,7 @@
           "videoId": "h-9OxnUdI0Q"
         }
       ],
-      "lastUpdated": 1778109144400,
+      "lastUpdated": 1778112751204,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -3946,6 +3946,46 @@
       "folder": "RSS",
       "items": [
         {
+          "title": "IBM은 Microsoft가 대화 상자 필드 사이 이동에 Tab 키를 쓰는 것을 원하지 않았다",
+          "link": "https://news.hada.io/topic?id=29242",
+          "description": "",
+          "content": "<ul> <li>Microsoft와 IBM이 OS/2를 함께 개발하던 시기, 대화 상자에서 필드 간 이동에 어떤 키를 쓸지가 <strong>조직 구조</strong> 차이를 드러낸 쟁점이 됨</li> <li>Boca Raton의 IBM 사무실에 배정된 Microsoft 동료는 필드 이동 키로 <strong>TAB 키</strong>를 쓰기로 결정했고, IBM은 이를 Redmond의 매니저에...</p>",
+          "pubDate": "2026-05-07T08:35:45+09:00",
+          "guid": "https://news.hada.io/topic?id=29242",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
+          "coverImage": "",
+          "summary": "Microsoft와 IBM이 OS/2를 함께 개발하던 시기, 대화 상자에서 필드 간 이동에 어떤 키를 쓸지가 조직 구조 차이를 드러낸 쟁점이 됨 Boca Raton의 IBM 사무실에 배정된 Microsoft 동료는 필드 이동 키로 TAB 키를 쓰기로 결정했고, IBM은 이를 Redmond의 매니저에...",
+          "author": "neo",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": ""
+        },
+        {
+          "title": "GPT‑5.5 Instant",
+          "link": "https://news.hada.io/topic?id=29241",
+          "description": "",
+          "content": "<ul> <li>ChatGPT 기본 모델 <strong>Instant</strong>가 GPT‑5.3 Instant에서 <strong>GPT‑5.5 Instant</strong>로 업데이트되어 모든 사용자에게 순차 제공되며, 더 정확하고 간결하고 개인화된 답변을 목표로 함</li> <li>OpenAI 내부 평가에서 GPT‑5.5 Instant는 의학·법률·금융 같은 고위험 프롬프트의 <strong>...</p>",
+          "pubDate": "2026-05-07T07:06:38+09:00",
+          "guid": "https://news.hada.io/topic?id=29241",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
+          "coverImage": "",
+          "summary": "ChatGPT 기본 모델 Instant가 GPT‑5.3 Instant에서 GPT‑5.5 Instant로 업데이트되어 모든 사용자에게 순차 제공되며, 더 정확하고 간결하고 개인화된 답변을 목표로 함 OpenAI 내부 평가에서 GPT‑5.5 Instant는 의학·법률·금융 같은 고위험 프롬프트의 ...",
+          "author": "xguru",
+          "saved": false,
+          "mediaType": "article",
+          "explicit": false,
+          "image": ""
+        },
+        {
           "title": "1998년 Ultima Online 데모 서버 역공학",
           "link": "https://news.hada.io/topic?id=29240",
           "description": "",
@@ -4904,49 +4944,9 @@
           "mediaType": "article",
           "explicit": false,
           "image": ""
-        },
-        {
-          "title": "AI로 인한 고용 종말이 (아마도) 일어나지 않을 이유",
-          "link": "https://news.hada.io/topic?id=29185",
-          "description": "",
-          "content": "<p>AI와 일자리에 관한 에즈라 클라인의 뉴욕타임즈 사설</p> <h4>지표의 배신: 데이터는 호황을 말한다</h4> <ul> <li>통계적 실재: Anthropic이나 Microsoft AI의 CEO들이 \"5년 내 신입 일자리 소멸\"을 경고하고 있지만, 2026년 현재 미국의 실업률은 4.3%로 매우 안정적입니다.</li> <li>개발자 수요의 지속",
-          "pubDate": "2026-05-05T12:02:00+09:00",
-          "guid": "https://news.hada.io/topic?id=29185",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
-          "coverImage": "",
-          "summary": "AI와 일자리에 관한 에즈라 클라인의 뉴욕타임즈 사설 지표의 배신: 데이터는 호황을 말한다 통계적 실재: Anthropic이나 Microsoft AI의 CEO들이 \"5년 내 신입 일자리 소멸\"을 경고하고 있지만, 2026년 현재 미국의 실업률은 4.3%로 매우 안정적입니다. 개발자 수요의 지속",
-          "author": "laeyoung",
-          "saved": false,
-          "mediaType": "article",
-          "explicit": false,
-          "image": ""
-        },
-        {
-          "title": "Bun은 Zig에서 Rust로 포팅중입니다",
-          "link": "https://news.hada.io/topic?id=29184",
-          "description": "",
-          "content": "Bun은 Zig에서 Rust로 포팅중입니다",
-          "pubDate": "2026-05-05T12:01:12+09:00",
-          "guid": "https://news.hada.io/topic?id=29184",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-          "feedUrl": "https://feeds.feedburner.com/geeknews-feed",
-          "coverImage": "",
-          "summary": "Bun은 Zig에서 Rust로 포팅중입니다",
-          "author": "t7vonn",
-          "saved": false,
-          "mediaType": "article",
-          "explicit": false,
-          "image": ""
         }
       ],
-      "lastUpdated": 1778109146412,
+      "lastUpdated": 1778112768561,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -4956,7 +4956,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "siteUrl": "https://news.hada.io/topic?id=29240",
+      "siteUrl": "https://news.hada.io/topic?id=29242",
       "iconUrl": "https://social.news.hada.io/WideLogo500.png"
     },
     {
@@ -6365,7 +6365,7 @@
           }
         }
       ],
-      "lastUpdated": 1778109147532,
+      "lastUpdated": 1778112769645,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6383,7 +6383,7 @@
       "url": "https://yozm.wishket.com/magazine/feed/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1778109147664,
+      "lastUpdated": 1778112769760,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -6401,7 +6401,7 @@
       "url": "https://www.hani.co.kr/rss/opinion/",
       "folder": "RSS",
       "items": [],
-      "lastUpdated": 1778109147934,
+      "lastUpdated": 1778112770000,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -7570,7 +7570,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1778109149061,
+      "lastUpdated": 1778112771126,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9768,7 +9768,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1778109168120,
+      "lastUpdated": 1778112781708,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -9785,6 +9785,52 @@
       "url": "https://nitter.net/Tslachan/rss",
       "folder": "RSS",
       "items": [
+        {
+          "title": "R to @Tslachan: Source: https://cafe.naver.com/f-e/cafes/26681849/articles/1654807?boardtype=I&userDisplay=20&referrerAllArticles=true&page=1",
+          "link": "https://nitter.net/Tslachan/status/2052177388054946178#m",
+          "description": "<p>Source: <a href=\"https://cafe.naver.com/f-e/cafes/26681849/articles/1654807?boardtype=I&userDisplay=20&referrerAllArticles=true&page=1\">cafe.naver.com/f-e/cafes/266…</a></p>",
+          "content": "<p>Source: <a href=\"https://cafe.naver.com/f-e/cafes/26681849/articles/1654807?boardtype=I&userDisplay=20&referrerAllArticles=true&page=1\">cafe.naver.com/f-e/cafes/266…</a></p>",
+          "pubDate": "Thu, 07 May 2026 00:03:11 GMT",
+          "guid": "https://nitter.net/Tslachan/2052177388054946178",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Tsla Chan / @Tslachan",
+          "feedUrl": "https://nitter.net/Tslachan/rss",
+          "coverImage": "",
+          "summary": "Source: cafe.naver.com/f-e/cafes/266…",
+          "author": "@Tslachan",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "",
+          "category": "",
+          "episodeType": ""
+        },
+        {
+          "title": "$TSLA Countless Tesla cars continue to be imported into Korea. You would be very surprised to travel to Korea. You can see Tesla cars so easily on the road.",
+          "link": "https://nitter.net/Tslachan/status/2052177331180183909#m",
+          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> Countless Tesla cars continue to be imported into Korea. You would be very surprised to travel to Korea. You can see Tesla cars so easily on the road.</p> <img src=\"https://nitter.net/pic/media%2FHHrMNwTaAAA7E3N.png\" style=\"max-width:250px;\" />",
+          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a><br> Countless Tesla cars continue to be imported into Korea. You would be very surprised to travel to Korea. You can see Tesla cars so easily on the road.</p> <img src=\"https://nitter.net/pic/media%2FHHrMNwTaAAA7E3N.png\" style=\"max-width:250px;\" />",
+          "pubDate": "Thu, 07 May 2026 00:02:58 GMT",
+          "guid": "https://nitter.net/Tslachan/2052177331180183909",
+          "read": false,
+          "starred": false,
+          "tags": [],
+          "feedTitle": "Tsla Chan / @Tslachan",
+          "feedUrl": "https://nitter.net/Tslachan/rss",
+          "coverImage": "https://nitter.net/pic/media%2FHHrMNwTaAAA7E3N.png",
+          "summary": "$TSLA Countless Tesla cars continue to be imported into Korea. You would be very surprised to travel to Korea. You can see Tesla cars so easily on the road.",
+          "author": "@Tslachan",
+          "saved": false,
+          "mediaType": "article",
+          "duration": "",
+          "explicit": false,
+          "image": "https://nitter.net/pic/media%2FHHrMNwTaAAA7E3N.png",
+          "category": "",
+          "episodeType": ""
+        },
         {
           "title": "$TSLA [테슬라 유럽 FSD 종료 임박] https://youtu.be/M58WE9MJP64?si=ILxK4QHWztYbnD8K",
           "link": "https://nitter.net/Tslachan/status/2052162139876737206#m",
@@ -10888,55 +10934,9 @@
           "image": "https://nitter.net/pic/amplify_video_thumb%2F2049279933529350144%2Fimg%2FWOJJPiImdoqaudC7.jpg",
           "category": "",
           "episodeType": ""
-        },
-        {
-          "title": "$TSLA 🇨🇳 NEWS : Tesla China, as expected, has extended their ongoing promotion by one month and changed it to a period until the end of May.",
-          "link": "https://nitter.net/Tslachan/status/2049279224713003462#m",
-          "description": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> 🇨🇳<br> NEWS : Tesla China, as expected, has extended their ongoing promotion by one month and changed it to a period until the end of May.</p> <img src=\"https://nitter.net/pic/media%2FHHCAb0Ob0AAUbyh.png\" style=\"max-width:250px;\" />",
-          "content": "<p><a href=\"https://nitter.net/search?f=tweets&q=%23TSLA\">$TSLA</a> 🇨🇳<br> NEWS : Tesla China, as expected, has extended their ongoing promotion by one month and changed it to a period until the end of May.</p> <img src=\"https://nitter.net/pic/media%2FHHCAb0Ob0AAUbyh.png\" style=\"max-width:250px;\" />",
-          "pubDate": "Wed, 29 Apr 2026 00:06:55 GMT",
-          "guid": "https://nitter.net/Tslachan/2049279224713003462",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Tsla Chan / @Tslachan",
-          "feedUrl": "https://nitter.net/Tslachan/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHHCAb0Ob0AAUbyh.png",
-          "summary": "$TSLA 🇨🇳 NEWS : Tesla China, as expected, has extended their ongoing promotion by one month and changed it to a period until the end of May.",
-          "author": "@Tslachan",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHHCAb0Ob0AAUbyh.png",
-          "category": "",
-          "episodeType": ""
-        },
-        {
-          "title": "It is a humanoid robot called CyberOne that Xiaomi unveiled. Many companies in China have entered this future business.",
-          "link": "https://nitter.net/Tslachan/status/2049259143916368311#m",
-          "description": "<p>It is a humanoid robot called CyberOne that Xiaomi unveiled. <br> <br> Many companies in China have entered this future business.</p> <img src=\"https://nitter.net/pic/media%2FHHBuU5KbYAAIfNG.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHHBuU5DaUAAtkzB.jpg\" style=\"max-width:250px;\" />",
-          "content": "<p>It is a humanoid robot called CyberOne that Xiaomi unveiled. <br> <br> Many companies in China have entered this future business.</p> <img src=\"https://nitter.net/pic/media%2FHHBuU5KbYAAIfNG.jpg\" style=\"max-width:250px;\" /> <img src=\"https://nitter.net/pic/media%2FHHBuU5DaUAAtkzB.jpg\" style=\"max-width:250px;\" />",
-          "pubDate": "Tue, 28 Apr 2026 22:47:07 GMT",
-          "guid": "https://nitter.net/Tslachan/2049259143916368311",
-          "read": false,
-          "starred": false,
-          "tags": [],
-          "feedTitle": "Tsla Chan / @Tslachan",
-          "feedUrl": "https://nitter.net/Tslachan/rss",
-          "coverImage": "https://nitter.net/pic/media%2FHHBuU5KbYAAIfNG.jpg",
-          "summary": "It is a humanoid robot called CyberOne that Xiaomi unveiled. Many companies in China have entered this future business.",
-          "author": "@Tslachan",
-          "saved": false,
-          "mediaType": "article",
-          "duration": "",
-          "explicit": false,
-          "image": "https://nitter.net/pic/media%2FHHBuU5KbYAAIfNG.jpg",
-          "category": "",
-          "episodeType": ""
         }
       ],
-      "lastUpdated": 1778109168835,
+      "lastUpdated": 1778112782701,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -10946,7 +10946,7 @@
         "includeLogic": "AND",
         "rules": []
       },
-      "iconUrl": "https://nitter.net/pic/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
+      "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1609591810590150656%2F37D9t8ct_400x400.jpg"
     },
     {
       "title": "SETI Park / @seti_park",
@@ -10979,8 +10979,8 @@
         {
           "title": "RT by @seti_park: Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora. https://x.com/i/broadcasts/1qGoNegbnRNKv",
           "link": "https://nitter.net/claudeai/status/2052105841864495282#m",
-          "description": "<p>Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora.<br> <br> <a href=\"https://nitter.net/i/broadcasts/1qGoNegbnRNKv\">nitter.net/i/broadcasts/1qGoNegbn…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2052163783595008000%2FCqCYB-hO%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
-          "content": "<p>Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora.<br> <br> <a href=\"https://nitter.net/i/broadcasts/1qGoNegbnRNKv\">nitter.net/i/broadcasts/1qGoNegbn…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2052163783595008000%2FCqCYB-hO%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
+          "description": "<p>Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora.<br> <br> <a href=\"https://nitter.net/i/broadcasts/1qGoNegbnRNKv\">nitter.net/i/broadcasts/1qGoNegbn…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2052179015621021696%2FWbS9-EKY%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
+          "content": "<p>Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora.<br> <br> <a href=\"https://nitter.net/i/broadcasts/1qGoNegbnRNKv\">nitter.net/i/broadcasts/1qGoNegbn…</a></p> <img src=\"https://nitter.net/pic/card_img%2F2052179015621021696%2FWbS9-EKY%3Fformat%3Djpg%26name%3D800x419\" style=\"max-width:250px;\" />",
           "pubDate": "Wed, 06 May 2026 19:18:53 GMT",
           "guid": "https://nitter.net/seti_park/2052105841864495282",
           "read": false,
@@ -10988,14 +10988,14 @@
           "tags": [],
           "feedTitle": "SETI Park / @seti_park",
           "feedUrl": "https://nitter.net/seti_park/rss",
-          "coverImage": "https://nitter.net/pic/card_img%2F2052163783595008000%2FCqCYB-hO%3Fformat%3Djpg%26name%3D800x419",
+          "coverImage": "https://nitter.net/pic/card_img%2F2052179015621021696%2FWbS9-EKY%3Fformat%3Djpg%26name%3D800x419",
           "summary": "Join us at 1pm PT for a conversation with our co-founders Dario Amodei and Daniela Amodei, moderated by Chief Product Officer Ami Vora. nitter.net/i/broadcasts/1qGoNegbn…",
           "author": "@claudeai",
           "saved": false,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
-          "image": "https://nitter.net/pic/card_img%2F2052163783595008000%2FCqCYB-hO%3Fformat%3Djpg%26name%3D800x419",
+          "image": "https://nitter.net/pic/card_img%2F2052179015621021696%2FWbS9-EKY%3Fformat%3Djpg%26name%3D800x419",
           "category": "",
           "episodeType": ""
         },
@@ -12104,7 +12104,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1778109169838,
+      "lastUpdated": 1778112783692,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -13272,7 +13272,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1778109170239,
+      "lastUpdated": 1778112783790,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14017,7 +14017,7 @@
           "audioUrl": "https://rss.art19.com/episodes/a0b80913-ecca-4f1f-ba77-2e44a019d217.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c"
         }
       ],
-      "lastUpdated": 1778109171770,
+      "lastUpdated": 1778112784887,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14196,7 +14196,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1778109173405,
+      "lastUpdated": 1778112786643,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -14281,7 +14281,7 @@
           "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3"
         }
       ],
-      "lastUpdated": 1778109175459,
+      "lastUpdated": 1778112789167,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -15119,7 +15119,7 @@
           "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/robotic-assembly-line-1-768x432.png"
         }
       ],
-      "lastUpdated": 1778109176049,
+      "lastUpdated": 1778112789536,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -16288,7 +16288,7 @@
           "episodeType": ""
         }
       ],
-      "lastUpdated": 1778109176567,
+      "lastUpdated": 1778112790265,
       "autoDeleteDuration": 30,
       "maxItemsLimit": 50,
       "scanInterval": 0,
@@ -18106,7 +18106,7 @@
     }
   ],
   "refreshInterval": 60,
-  "lastRefreshTimestamp": 1778109176968,
+  "lastRefreshTimestamp": 1778112800487,
   "maxItems": 50,
   "defaultAutoDeleteDuration": 30,
   "viewStyle": "card",
